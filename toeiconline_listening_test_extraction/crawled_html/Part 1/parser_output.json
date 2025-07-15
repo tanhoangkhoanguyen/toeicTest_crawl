@@ -1,0 +1,39 @@
+{
+    "TOEIC Practice - Part 1: Photographs": "In Part 1 of the TOEIC you will look at ten photographs. For each photograph you will hear four statements. You will have to choose which statement has the best description of the picture.",
+    "Example 1:": {
+        "instruction_1": "First you will look at a photograph:",
+        "image": "crawled_html/Part 1/images/toeic_office.jpg",
+        "instruction_2": "First you will look at a photograph:",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-1.mp3",
+        "Explanation 1:": [
+            "Choice A is incorrect because the glasses are on the table. Placement of objects is a common distractor in Part I.",
+            "Choice B is incorrect because the note is on the monitor not the keyboard.",
+            "Choice D is incorrect because the lamp is beside the computer. Prepositions are very common distractors found in Part I. Make sure to review your prepositions of location for the TOEIC."
+        ],
+        "answer": "The correct answer is C."
+    },
+    "Example 2:": {
+        "instruction_1": "",
+        "image": "crawled_html/Part 1/images/toeic_boat.jpg",
+        "instruction_2": "",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-2.mp3",
+        "Explanation 2:": [
+            "Choice A is incorrect because the people are wearing life-jackets not coats. Types of clothing are often tested in Part I.",
+            "Choice B is incorrect because the boat is not yet in the water. The people are pulling the boat into the water. When you are analysing a photo make sure that you note the main action that is taking place.",
+            "Choice C is incorrect because the life-jackets are on the people, not in the boat. Be careful not to choose a statement just because you recognize a vocabulary word from the photo."
+        ],
+        "answer": "The correct answer is D."
+    },
+    "Example 3:": {
+        "instruction_1": "",
+        "image": "crawled_html/Part 1/images/toeic_mountain.jpg",
+        "instruction_2": "",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-3.mp3",
+        "Explanation 3:": [
+            "Choice B is incorrect because the mountains do not have any snow on them. It is summertime. You may be asked to distinguish between seasons in Part I.",
+            "Choice C is incorrect because the man is wearing a cap. Remember you will not be able to read the choices in this section. Wearing and carrying sound similar. Listen carefully.",
+            "Choice D is incorrect because the sandals are on the man's feet. Both vocabulary words are in the photo, but the context is incorrect."
+        ],
+        "answer": "The correct answer is A."
+    }
+}

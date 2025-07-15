@@ -1,0 +1,51 @@
+{
+    "TOEIC Practice - Part 2: Question-Response": "In Part 2 of the TOEIC you will be tested on your ability to respond to a question. It is very important that you can understand and identify wh-questions. You will listen to three possible responses. Only one of the responses is correct.",
+    "Example 1:": {
+        "instruction_1": "First you will hear a question. Then you will hear three answer choices.",
+        "image": "",
+        "instruction_2": "First you will hear a question. Then you will hear three answer choices.",
+        "audio": "crawled_html/Part 2/audio/toeic-listening-2-1.mp3",
+        "Explanation 1:": [
+            "Choice A has a distractor called a related word. When you hear the words, \"how many\" your brain automatically looks for a response with a number in it. This is an error that the test maker expects you to make. Also, the response is in the past tense, but the question asks about the future.",
+            "Choice B is a distractor called a repeated word. The word \"coming\" is in the question but the answer B does not make sense.This is another common error that the test maker expects you to make.",
+            "Choice A contains related words. The test taker wants you to associate \"lunch\" with \"hamburger and fries\". Try not to get tricked this way!"
+        ],
+        "answer": "The correct answer is B."
+    },
+    "Example 2:": {
+        "instruction_1": "Explanation 2:",
+        "image": "",
+        "instruction_2": "Explanation 2:",
+        "audio": "crawled_html/Part 2/audio/toeic-listening-2-2.mp3",
+        "Explanation 2:": [
+            "Choice A contains related words. The test taker wants you to associate \"lunch\" with \"hamburger and fries\". Try not to get tricked this way!",
+            "Choice C is a distractor called similar sounds. The word \"boss\" sounds similar to the word \"bus\". This is another common error that you need to watch out for.",
+            "Choice A contains a related word. You might have associated the word \"letter\" with \"type\"."
+        ],
+        "answer": "The correct answer is B."
+    },
+    "Example 3:": {
+        "instruction_1": "Explanation 3:",
+        "image": "",
+        "instruction_2": "Explanation 3:",
+        "audio": "crawled_html/Part 2/audio/toeic-listening-2-3.mp3",
+        "Explanation 3:": [
+            "Choice A contains a related word. You might have associated the word \"letter\" with \"type\".",
+            "Choice C contains another distractor called a homonym. A homonym is a word that sounds the same but is spelled differently. On the real test you will not be able to read the answer choices. You have to be able to understand which word is which by the context. In this case the homonyms are \"fax\" and \"facts\". In the question, \"fax\" is a verb. In the answer choice it is a noun. You should make a list of all of the homonyms you come across. \nHere are some more examples:\nweek / weak\nadd / ad\nhear / here\nknot / not\nright / write\nweight / wait",
+            "Choice B is another common distractor that uses the same word with a different meaning. In the question, the word \"long\" refers to amount of time. In the answer choice, the word \"long\" refers to distance."
+        ],
+        "answer": "The correct answer is A."
+    },
+    "Example 4:": {
+        "instruction_1": "Explanation 4:",
+        "image": "",
+        "instruction_2": "Explanation 4:",
+        "audio": "crawled_html/Part 2/audio/toeic-listening-2-4.mp3",
+        "Explanation 4:": [
+            "Choice B is another common distractor that uses the same word with a different meaning. In the question, the word \"long\" refers to amount of time. In the answer choice, the word \"long\" refers to distance.",
+            "Choice C associates the word \"wait\" (which could be confused for \"weight\") with \"pounds\". The test maker wants to trick you twice!",
+            "Part 1: Photographs"
+        ],
+        "answer": "TOEIC  Section II: Reading"
+    }
+}

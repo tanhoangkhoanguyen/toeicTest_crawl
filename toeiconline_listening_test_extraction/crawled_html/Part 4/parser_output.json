@@ -1,0 +1,39 @@
+{
+    "TOEIC Practice - Part 4: Short Talks": "In Part 4 you will listen to a short talk. It might be an announcement, a radio advertisement, or a telephone recording. You will listen to the talk and read a few questions about it.",
+    "Example 1:": {
+        "instruction_1": "First you will hear a short talk:",
+        "image": "",
+        "instruction_2": "First you will hear a short talk:",
+        "audio": "",
+        "Explanation 1:": [
+            "Choice A has the word \"welcome\". This is a repeated word. This choice does not make sense because the visitors and passengers are the same people.",
+            "Choice B distracts you because of the association you automatically make between time and \"five minutes\".",
+            "Choice D is the wrong choice for two reasons. Firstly, because they are going to have a picture taken (passive). Secondly, because this will happen after they get off the ship."
+        ],
+        "answer": "The correct answer is C."
+    },
+    "Example 2:": {
+        "instruction_1": "4. How often does this event take place?\n\nA) Monthly\nB) Four times a year\nC) Once a year\nD) Every four years",
+        "image": "",
+        "instruction_2": "4. How often does this event take place?\n\nA) Monthly\nB) Four times a year\nC) Once a year\nD) Every four years",
+        "audio": "",
+        "Explanation 4:": [
+            "Choice A is how often the youth writers meet.",
+            "Choices B and D confuse \"fourth annual\" or \"every four years\" with four times a year. This is very tricky and something you must watch out for.",
+            "Choice A is what will happen in a few minutes."
+        ],
+        "answer": "The correct answer is D."
+    },
+    "Example 3:": {
+        "instruction_1": "7. Where would you hear this type of talk?\n\nA) In an airport\nB) At a bus station\nC) On a telephone\nD) On television",
+        "image": "",
+        "instruction_2": "7. Where would you hear this type of talk?\n\nA) In an airport\nB) At a bus station\nC) On a telephone\nD) On television",
+        "audio": "",
+        "Explanation 7:": [
+            "Choice A associates flights with airports.",
+            "Choice B confuses the similar sounds busy and bus.",
+            "Choice D does not make sense in context because the caller is instructed to press buttons or hold."
+        ],
+        "answer": "The correct answer is C."
+    }
+}

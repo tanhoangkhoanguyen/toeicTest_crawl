@@ -1,0 +1,27 @@
+{
+    "TOEIC Practice - Part 3: Short Conversations": "In this part of the test you will listen to a short conversation between a man and a woman. After the conversation, you will answer three questions about the dialogue. There will be four possible answers for each question. Typical questions include, who, what, where, when, why, and how. You may also be asked to make an inference.",
+    "Example 1:": {
+        "instruction_1": "First you will hear a short conversation:",
+        "image": "",
+        "instruction_2": "First you will hear a short conversation:",
+        "audio": "",
+        "Explanation 1:": [
+            "Choice A is mentioned, but the man is asking if she needs to take a \"vacation day\". In Part III there is often one or two choices that are mentioned but are not correct.",
+            "Choice B is related to saving money for the company, but this is not the main topic of the conversation. Be careful with main subject questions, because incorrect choices may be small details from the conversation.",
+            "Choice C repeats the word \"company,\" but no policy is mentioned. In Part III there is often one choice that includes a word from the conversation. You may have heard the word, but it is not the correct choice."
+        ],
+        "answer": "The correct answer is D."
+    },
+    "Example 2:": {
+        "instruction_1": "4. What does the man have to do today?\n\nA) Visit his lawyer\nB) Get a massage\nC) Go to the doctor\nD) Make an appointment",
+        "image": "",
+        "instruction_2": "4. What does the man have to do today?\n\nA) Visit his lawyer\nB) Get a massage\nC) Go to the doctor\nD) Make an appointment",
+        "audio": "",
+        "Explanation 4:": [
+            "Choice A is who the man is expecting a call from. He needs to go there next week.",
+            "Choice B confuses the sound \"message\" with \"massage\". Similar sound is a common distractor in Part III.",
+            "Choice D is not correct because the man has already made the appointment. If the question was in the past, then it could be correct. Tense is a common distractor used in Part III."
+        ],
+        "answer": "The correct answer is C."
+    }
+}
