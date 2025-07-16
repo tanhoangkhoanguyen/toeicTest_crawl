@@ -30,13 +30,16 @@ def extract_topic(json_info, soup):
 
 def extract_example(json_info, soup, id):
     h2s = soup.find_all("h2")
-    for h2 in h2s:
+    for i, h2 in enumerate(h2s):
         # example id
         title = str(h2.text.strip())
 
         # instruction_1
+        instruction_1 = ""
         p_instruction_1 = h2.find_next("p")
-        instruction_1 = str(p_instruction_1.text.strip()) if p_instruction_1 else ""
+        if "First" in str(p_instruction_1):
+            h2 = p_instruction_1
+            instruction_1 = str(h2.text.strip())
         
         # image
         img_tag = h2.find_next("img")
@@ -56,10 +59,6 @@ def extract_example(json_info, soup, id):
                 print(f"Failed to download {img_url}: {e}")
         else:
             print(f"Skipped image {title} - no <img> or missing src.")
-
-        # instruction_2
-        p_instruction_2 = h2.find_next("p")
-        instruction_2 = str(p_instruction_2.text.strip()) if p_instruction_2 else ""
         
         # audio
         audio_tag = h2.find_next("audio")
@@ -80,21 +79,38 @@ def extract_example(json_info, soup, id):
                 print(f"Failed to download {audio_url}: {e}")
         else:
             print(f"Skipped image {title} - no <audio> or missing src.")
+
+        # instruction_2
+        instruction_2 = ""
+        p_instruction_2 = h2.find_next("p")
+        if "Next" in str(p_instruction_2):
+            h2 = p_instruction_2
+            instruction_2 = str(h2.text.strip())
         
         # explanation
-        p_explanation = h2.find_next("strong")
+        p_explanation = h2.find_next("p")
         explanation = p_explanation.text.strip()
-        list_explanation = []
 
-        for _ in range (3):
-            h2 = h2.find_next("li")
-            choice = h2.text.strip()
-            list_explanation.append(str(choice))
+        h2 = h2.find_next("ul")
+        list_explanation = []
+        for li in h2:
+            text = ' '.join(li.stripped_strings)
+            if text:
+                list_explanation.append(text)
         
         # answer
-        p_answer = h2.find_next("p")
-        answer = p_answer.text.strip()
+        h2 = h2.find_next("p")
+        answer = h2.text.strip()
 
+        # transcript
+        h2 = h2.find_next("p")
+        text = h2.text.strip()
+        if text == "Transcript:":
+            h2 = h2.find_next("p")
+            
+        clean_text = h2.get_text(separator = '\n')
+        lines = [line.strip() for line in clean_text.split('\n')]
+        transcript = [line for line in lines if line and line.lower() != "transcript:"]
         
         # JSON store
         json_info[title] = {
@@ -103,35 +119,27 @@ def extract_example(json_info, soup, id):
             "instruction_2": instruction_2,
             "audio": save_audio_path,
             f"{explanation}": list_explanation,
-            "answer": answer
+            "answer": answer,
+            "transcript": transcript
         }
+            
     return json_info
 
 
 def func ():
     # ==========  CREATE FOLDER  ==========
-    os.makedirs("crawled_html/Part 1/images", exist_ok = True)
-    os.makedirs("crawled_html/Part 1/audio", exist_ok = True)
-
-    os.makedirs("crawled_html/Part 2/images", exist_ok = True)
-    os.makedirs("crawled_html/Part 2/audio", exist_ok = True)
-
-    os.makedirs("crawled_html/Part 3/images", exist_ok = True)
-    os.makedirs("crawled_html/Part 3/audio", exist_ok = True)
-
-    os.makedirs("crawled_html/Part 4/images", exist_ok = True)
-    os.makedirs("crawled_html/Part 4/audio", exist_ok = True)
+    for i in range (1, 5):
+        os.makedirs(f"crawled_html/Part {i}/images", exist_ok = True)
+        os.makedirs(f"crawled_html/Part {i}/audio", exist_ok = True)
 
     print ('=' * 10, f" FINISH CREATING FOLDER ", '=' * 10)
 
 
     # ==========  HTML CRAWLING  ==========
-    url_list = [
-        "https://www.englishclub.com/esl-exams/ets-toeic-practice-1.php",
-        "https://www.englishclub.com/esl-exams/ets-toeic-practice-2.php",
-        "https://www.englishclub.com/esl-exams/ets-toeic-practice-3.php",
-        "https://www.englishclub.com/esl-exams/ets-toeic-practice-4.php"    
-    ]
+    url_list = []
+    for i in range(1, 5):
+        url_list.append(f"https://www.englishclub.com/esl-exams/ets-toeic-practice-{i}.php")
+
     for i, url_path in enumerate(url_list):
         resp = scraper.get(url_path)
         soup = BeautifulSoup(resp.text, "html.parser")
