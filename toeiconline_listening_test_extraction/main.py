@@ -6,13 +6,14 @@
 # pip install cloudscraper                                                                                                |
 # ________________________________________________________________________________________________________________________|
 
+from tools import *
+from setup import *
+
 import os, cloudscraper, json
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
 
 scraper = cloudscraper.create_scraper()
-BASE_URL = "https://www.englishclub.com/"
 
 
 def extract_topic(json_info, soup):
@@ -24,7 +25,6 @@ def extract_topic(json_info, soup):
 
     # JSON store
     json_info[title] = description
-    print (json_info)
     return json_info
 
 
@@ -35,91 +35,45 @@ def extract_example(json_info, soup, id):
         title = str(h2.text.strip())
 
         # instruction_1
-        instruction_1 = ""
-        p_instruction_1 = h2.find_next("p")
-        if "First" in str(p_instruction_1):
-            h2 = p_instruction_1
-            instruction_1 = str(h2.text.strip())
+        h2, instruction_1 = crawl_instruction(h2, "First")
         
-        # image
-        img_tag = h2.find_next("img")
-        save_img_path = ""
-
-        if img_tag and 'src' in img_tag.attrs:
-            img_url = urljoin(BASE_URL, img_tag['src'])
-            img_filename = os.path.basename(img_url)
-            save_img_path = f"crawled_html/Part {id}/images/{img_filename}"
-
-            try:
-                img_data = scraper.get(img_url).content
-                with open(save_img_path, "wb") as f:
-                    f.write(img_data)
-                print(f"Downloaded {img_url} -> {save_img_path}")
-            except Exception as e:
-                print(f"Failed to download {img_url}: {e}")
-        else:
-            print(f"Skipped image {title} - no <img> or missing src.")
-        
-        # audio
-        audio_tag = h2.find_next("audio")
-        save_audio_path = ""
-
-        if audio_tag and 'src' in audio_tag.attrs:
-            audio_url = urljoin(BASE_URL, audio_tag['src'])
-            audio_filename = os.path.basename(audio_url)
-            print (audio_url, '  ', audio_filename)
-            save_audio_path = f"crawled_html/Part {id}/audio/{audio_filename}"
-
-            try:
-                audio_data = scraper.get(audio_url).content
-                with open(save_audio_path, "wb") as f:
-                    f.write(audio_data)
-                print(f"Downloaded {audio_url} -> {save_audio_path}")
-            except Exception as e:
-                print(f"Failed to download {audio_url}: {e}")
-        else:
-            print(f"Skipped image {title} - no <audio> or missing src.")
+        # image, audio
+        save_image_path = crawl_file(h2, "img", "img", id)
+        save_audio_path = crawl_file(h2, "audio", "audio", id)
 
         # instruction_2
-        instruction_2 = ""
-        p_instruction_2 = h2.find_next("p")
-        if "Next" in str(p_instruction_2):
-            h2 = p_instruction_2
-            instruction_2 = str(h2.text.strip())
+        h2, instruction_2 = crawl_instruction(h2, "Next")
+
+        # qa
+        h2, qa = crawl_qa(h2, "clr-blue")
         
         # explanation
-        p_explanation = h2.find_next("p")
-        explanation = p_explanation.text.strip()
+        looping_times = max(1, len(qa))
+        explanation = {}
+        for i in range (looping_times):
+            explanation[f"{i + 1}"] = []
 
-        h2 = h2.find_next("ul")
-        list_explanation = []
-        for li in h2:
-            text = ' '.join(li.stripped_strings)
-            if text:
-                list_explanation.append(text)
-        
-        # answer
-        h2 = h2.find_next("p")
-        answer = h2.text.strip()
+            h2 = h2.find_next("ul")
+            for li in h2:
+                text = ' '.join(li.stripped_strings)
+                if text:
+                    explanation[f"{i + 1}"].append(text)
+            
+            h2 = h2.find_next("p")
+            answer = h2.text.strip()
+            explanation[f"{i + 1}"].append(answer)
 
         # transcript
-        h2 = h2.find_next("p")
-        text = h2.text.strip()
-        if text == "Transcript:":
-            h2 = h2.find_next("p")
-            
-        clean_text = h2.get_text(separator = '\n')
-        lines = [line.strip() for line in clean_text.split('\n')]
-        transcript = [line for line in lines if line and line.lower() != "transcript:"]
+        transcript = crawl_transcript(h2, "clr-red", "transcript:")
         
         # JSON store
         json_info[title] = {
             "instruction_1": instruction_1,
-            "image": save_img_path,
+            "image": save_image_path,
             "instruction_2": instruction_2,
             "audio": save_audio_path,
-            f"{explanation}": list_explanation,
-            "answer": answer,
+            "questions": qa,
+            "explanation": explanation,
             "transcript": transcript
         }
             
@@ -127,19 +81,7 @@ def extract_example(json_info, soup, id):
 
 
 def func ():
-    # ==========  CREATE FOLDER  ==========
-    for i in range (1, 5):
-        os.makedirs(f"crawled_html/Part {i}/images", exist_ok = True)
-        os.makedirs(f"crawled_html/Part {i}/audio", exist_ok = True)
-
-    print ('=' * 10, f" FINISH CREATING FOLDER ", '=' * 10)
-
-
     # ==========  HTML CRAWLING  ==========
-    url_list = []
-    for i in range(1, 5):
-        url_list.append(f"https://www.englishclub.com/esl-exams/ets-toeic-practice-{i}.php")
-
     for i, url_path in enumerate(url_list):
         resp = scraper.get(url_path)
         soup = BeautifulSoup(resp.text, "html.parser")
