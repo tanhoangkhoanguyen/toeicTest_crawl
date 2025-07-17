@@ -9,7 +9,7 @@ BASE_URL = "https://www.englishclub.com/"
 def crawl_instruction(h2, key):
     instruction = ""
     p_instruction = h2.find_next("p")
-    if key in str(p_instruction):
+    if p_instruction and key in str(p_instruction):
         h2 = p_instruction
         instruction = str(h2.text.strip())
     return h2, instruction
@@ -26,7 +26,7 @@ def crawl_file(h2, key, file, id):
     if file_tag and file_src:
         file_url = urljoin(BASE_URL, file_src)
         file_filename = os.path.basename(file_url)
-        save_file_path = f"crawled_html/Part {id}/{file}/{file_filename}"
+        save_file_path = f"EnglishClub/crawled_html/Part {id}/{file}/{file_filename}"
 
         try:
             file_data = scraper.get(file_url).content
@@ -37,43 +37,40 @@ def crawl_file(h2, key, file, id):
             print(f"Failed to download {file_url}: {e}")
     else:
         if file == "audio":
-            next_tag = h2.find_next("source")
-            if next_tag:
-                return crawl_file(h2, "source", file, id)
-        print(f"Skipped {file} - no <{key}> tag or missing src/data-cfsrc.")
-        print(file_tag)
-
+            return crawl_file(h2, "source", file, id)
+    
     return save_file_path
     
 
-def crawl_qa(h2, className):
-    qa = {}
-    i = 0
+def crawl_body(h2, className):
+    body = {}
+    j = 0
 
     while True:
-        p = h2.find_next("p")
-        if not p or className not in p.get("class", []):
+        next_p = h2.find_next("p")
+        if not next_p or className not in next_p.get("class", []):
             break
 
-        h2 = p
-        lines = [line.strip() for line in p.get_text(separator="\n").split("\n")]
+        h2 = next_p
+        lines = [line.strip() for line in next_p.get_text(separator = "\n").split("\n")]
         lines = [line for line in lines if line]
 
         for line in lines:
             q_match = re.match(r'^(\d+)\.\s*(.+)', line)
             if q_match:
-                i += 1
-                q_num = f"{i}"
-                question_text = q_match.group(2).strip()
-                qa[q_num] = {
-                    "question": question_text,
+                j += 1
+                q_num = f"{j}"
+                question = q_match.group(2).strip()
+                body[q_num] = {
+                    "question": question,
                     "choices": {}
                 }
             elif q_num and re.match(r'^[A-D]\)', line):
                 choice_letter, choice_text = line.split(")", 1)
-                qa[q_num]["choices"][choice_letter.strip()] = choice_text.strip()
+                body[q_num]["choices"][choice_letter.strip()] = choice_text.strip()
 
-    return h2, qa
+    return h2, body
+
 
 def crawl_transcript(h2, className, unwantedText):
     next = h2.find_next("p", class_ = className)

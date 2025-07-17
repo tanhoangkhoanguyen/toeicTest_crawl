@@ -1,10 +1,11 @@
 {
-    "TOEIC Practice - Part 2: Question-Response": "In Part 2 of the TOEIC you will be tested on your ability to respond to a question. It is very important that you can understand and identify wh-questions. You will listen to three possible responses. Only one of the responses is correct.",
-    "Example 1:": {
+    "title": "TOEIC Practice - Part 2: Question-Response",
+    "description": "In Part 2 of the TOEIC you will be tested on your ability to respond to a question. It is very important that you can understand and identify wh-questions. You will listen to three possible responses. Only one of the responses is correct.",
+    "example_1:": {
         "instruction_1": "First you will hear a question. Then you will hear three answer choices.",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 2/audio/toeic-listening-2-1.mp3",
+        "audio": "EnglishClub/crawled_html/Part 2/audio/toeic-listening-2-1.mp3",
         "questions": {},
         "explanation": {
             "1": [
@@ -20,11 +21,11 @@
             "C) At least 150 people."
         ]
     },
-    "Example 2:": {
+    "example_2:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 2/audio/toeic-listening-2-2.mp3",
+        "audio": "EnglishClub/crawled_html/Part 2/audio/toeic-listening-2-2.mp3",
         "questions": {},
         "explanation": {
             "1": [
@@ -40,11 +41,11 @@
             "C) I didn't take the bus."
         ]
     },
-    "Example 3:": {
+    "example_3:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 2/audio/toeic-listening-2-3.mp3",
+        "audio": "EnglishClub/crawled_html/Part 2/audio/toeic-listening-2-3.mp3",
         "questions": {},
         "explanation": {
             "1": [
@@ -60,11 +61,11 @@
             "C) I collected some important facts."
         ]
     },
-    "Example 4:": {
+    "example_4:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 2/audio/toeic-listening-2-4.mp3",
+        "audio": "EnglishClub/crawled_html/Part 2/audio/toeic-listening-2-4.mp3",
         "questions": {},
         "explanation": {
             "1": [

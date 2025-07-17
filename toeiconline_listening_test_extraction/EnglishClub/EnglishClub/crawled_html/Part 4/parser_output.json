@@ -1,10 +1,11 @@
 {
-    "TOEIC Practice - Part 4: Short Talks": "In Part 4 you will listen to a short talk. It might be an announcement, a radio advertisement, or a telephone recording. You will listen to the talk and read a few questions about it.",
-    "Example 1:": {
+    "title": "TOEIC Practice - Part 4: Short Talks",
+    "description": "In Part 4 you will listen to a short talk. It might be an announcement, a radio advertisement, or a telephone recording. You will listen to the talk and read a few questions about it.",
+    "example_1:": {
         "instruction_1": "First you will hear a short talk:",
         "image": "",
         "instruction_2": "Next you will read a few questions with four answer choices:",
-        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-1.mp3",
+        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-1.mp3",
         "questions": {
             "1": {
                 "question": "What should the passengers do before exiting the ship?",
@@ -58,11 +59,11 @@
             "Good morning ladies and gentleman. This is your tour guide speaking. I hope you have enjoyed the cruise of the inner harbour today. We certainly had a nice day for it, especially compared to yesterday. The ship will be docking in approximately five minutes. Once we are docked, please collect all of your belongings and exit the ship. As a reminder, our group will be exiting to the right. Follow the north ramp all the way to the far end of the platform. Before heading to the farmer's market we will gather under the ferry terminal Welcome Sign for a group photo."
         ]
     },
-    "Example 2:": {
+    "example_2:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-2.mp3",
+        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-2.mp3",
         "questions": {
             "1": {
                 "question": "How often does this event take place?",
@@ -115,11 +116,11 @@
             "I'd like to welcome you all to the fourth annual poet's brunch. In just a few minutes a server will be around to offer you coffee or tea. Please take a moment to fill out your name tag and introduce yourself to the other artists at your table. Lunch will be served at 11:00 am sharp, followed by a reading from last year's prize winner. If any of you did not receive your free gift at the door, please make sure to pick it up on your way out. This year's gift is a poetry anthology from local youth writers. You will be amazed at the emerging talent in our town. In fact, a group of young writers meet once a month around this very table."
         ]
     },
-    "Example 3:": {
+    "example_3:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-3.mp3",
+        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-3.mp3",
         "questions": {
             "1": {
                 "question": "Where would you hear this type of talk?",

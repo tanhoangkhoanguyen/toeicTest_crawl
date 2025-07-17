@@ -1,10 +1,11 @@
 {
-    "TOEIC Practice - Part 3: Short Conversations": "In this part of the test you will listen to a short conversation between a man and a woman. After the conversation, you will answer three questions about the dialogue. There will be four possible answers for each question. Typical questions include, who, what, where, when, why, and how. You may also be asked to make an inference.",
-    "Example 1:": {
+    "title": "TOEIC Practice - Part 3: Short Conversations",
+    "description": "In this part of the test you will listen to a short conversation between a man and a woman. After the conversation, you will answer three questions about the dialogue. There will be four possible answers for each question. Typical questions include, who, what, where, when, why, and how. You may also be asked to make an inference.",
+    "example_1:": {
         "instruction_1": "First you will hear a short conversation:",
         "image": "",
         "instruction_2": "Next you will read three questions with four possible answers:",
-        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-1.mp3",
+        "audio": "EnglishClub/crawled_html/Part 3/audio/englishclub-toeic-short-convos-1.mp3",
         "questions": {
             "1": {
                 "question": "What are the man and woman mainly discussing?",
@@ -61,11 +62,11 @@
             "Woman: Well, I worked some overtime last week, so I just banked it instead of wasting a holiday day."
         ]
     },
-    "Example 2:": {
+    "example_2:": {
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-2.mp3",
+        "audio": "EnglishClub/crawled_html/Part 3/audio/englishclub-toeic-short-convos-2.mp3",
         "questions": {
             "1": {
                 "question": "What does the man have to do today?",
