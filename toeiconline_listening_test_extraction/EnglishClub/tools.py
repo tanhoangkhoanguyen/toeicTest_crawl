@@ -26,7 +26,7 @@ def crawl_file(h2, key, file, id):
     if file_tag and file_src:
         file_url = urljoin(BASE_URL, file_src)
         file_filename = os.path.basename(file_url)
-        save_file_path = f"EnglishClub/crawled_html/Part {id}/{file}/{file_filename}"
+        save_file_path = f"crawled_html/Part {id}/{file}/{file_filename}"
 
         try:
             file_data = scraper.get(file_url).content

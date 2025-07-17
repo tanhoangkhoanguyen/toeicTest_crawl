@@ -83,7 +83,7 @@ def func ():
         soup = BeautifulSoup(resp.text, "html.parser")
     
         i += 1
-        with open(f"EnglishClub/crawled_html/Part {i}/raw.html", "w", encoding = "utf-8") as f:
+        with open(f"crawled_html/Part {i}/raw.html", "w", encoding = "utf-8") as f:
             f.write(soup.prettify())
         print ('=' * 10, f" FINISH CRAWLING HTML Part {i} ", '=' * 10)
         
@@ -93,7 +93,7 @@ def func ():
         json_info = extract_topic(json_info, soup)
         json_info = extract_example(json_info, soup, i)
 
-        json_store_path = f"EnglishClub/crawled_html/Part {i}/parser_output.json"
+        json_store_path = f"crawled_html/Part {i}/parser_output.json"
         with open(json_store_path, "w", encoding = "utf-8") as f:
             print (json.dumps(json_info, indent = 4), file = f)
 

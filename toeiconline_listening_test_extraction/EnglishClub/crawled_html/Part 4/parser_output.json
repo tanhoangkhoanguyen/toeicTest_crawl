@@ -5,7 +5,7 @@
         "instruction_1": "First you will hear a short talk:",
         "image": "",
         "instruction_2": "Next you will read a few questions with four answer choices:",
-        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-1.mp3",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-1.mp3",
         "questions": {
             "1": {
                 "question": "What should the passengers do before exiting the ship?",
@@ -63,7 +63,7 @@
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-2.mp3",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-2.mp3",
         "questions": {
             "1": {
                 "question": "How often does this event take place?",
@@ -120,7 +120,7 @@
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "EnglishClub/crawled_html/Part 4/audio/englishclub-toeic-short-talks-3.mp3",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-3.mp3",
         "questions": {
             "1": {
                 "question": "Where would you hear this type of talk?",

@@ -3,9 +3,9 @@
     "description": "In Part 1 of the TOEIC you will look at ten photographs. For each photograph you will hear four statements. You will have to choose which statement has the best description of the picture.",
     "example_1:": {
         "instruction_1": "First you will look at a photograph:",
-        "image": "EnglishClub/crawled_html/Part 1/img/toeic_office.jpg",
+        "image": "crawled_html/Part 1/img/toeic_office.jpg",
         "instruction_2": "Next you will listen to four statements. Choose the one that best describes what you see in the picture.",
-        "audio": "EnglishClub/crawled_html/Part 1/audio/toeic-listening-1-1.mp3",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-1.mp3",
         "questions": {},
         "explanation": {
             "1": [
@@ -24,9 +24,9 @@
     },
     "example_2:": {
         "instruction_1": "",
-        "image": "EnglishClub/crawled_html/Part 1/img/toeic_boat.jpg",
+        "image": "crawled_html/Part 1/img/toeic_boat.jpg",
         "instruction_2": "",
-        "audio": "EnglishClub/crawled_html/Part 1/audio/toeic-listening-1-2.mp3",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-2.mp3",
         "questions": {},
         "explanation": {
             "1": [
@@ -45,9 +45,9 @@
     },
     "example_3:": {
         "instruction_1": "",
-        "image": "EnglishClub/crawled_html/Part 1/img/toeic_mountain.jpg",
+        "image": "crawled_html/Part 1/img/toeic_mountain.jpg",
         "instruction_2": "",
-        "audio": "EnglishClub/crawled_html/Part 1/audio/toeic-listening-1-3.mp3",
+        "audio": "crawled_html/Part 1/audio/toeic-listening-1-3.mp3",
         "questions": {},
         "explanation": {
             "1": [

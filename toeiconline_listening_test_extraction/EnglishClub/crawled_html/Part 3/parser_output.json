@@ -5,7 +5,7 @@
         "instruction_1": "First you will hear a short conversation:",
         "image": "",
         "instruction_2": "Next you will read three questions with four possible answers:",
-        "audio": "EnglishClub/crawled_html/Part 3/audio/englishclub-toeic-short-convos-1.mp3",
+        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-1.mp3",
         "questions": {
             "1": {
                 "question": "What are the man and woman mainly discussing?",
@@ -66,7 +66,7 @@
         "instruction_1": "",
         "image": "",
         "instruction_2": "",
-        "audio": "EnglishClub/crawled_html/Part 3/audio/englishclub-toeic-short-convos-2.mp3",
+        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-2.mp3",
         "questions": {
             "1": {
                 "question": "What does the man have to do today?",
