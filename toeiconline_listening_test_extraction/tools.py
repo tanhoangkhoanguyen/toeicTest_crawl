@@ -19,8 +19,12 @@ def crawl_file(h2, key, file, id):
     file_tag = h2.find_next(f"{key}")
     save_file_path = ""
 
-    if file_tag and 'src' in file_tag.attrs:
-        file_url = urljoin(BASE_URL, file_tag['src'])
+    file_src = file_tag.get('src') if file_tag else None
+    if not file_src:
+        file_src = file_tag.get('data-cfsrc') if file_tag else None
+
+    if file_tag and file_src:
+        file_url = urljoin(BASE_URL, file_src)
         file_filename = os.path.basename(file_url)
         save_file_path = f"crawled_html/Part {id}/{file}/{file_filename}"
 
@@ -32,10 +36,13 @@ def crawl_file(h2, key, file, id):
         except Exception as e:
             print(f"Failed to download {file_url}: {e}")
     else:
-        next = h2.find_next("source")
-        if next and file == "audio":
-            return crawl_file(h2, "source", file, id)
-        print(f"Skipped {file} - no <file> or missing src.")
+        if file == "audio":
+            next_tag = h2.find_next("source")
+            if next_tag:
+                return crawl_file(h2, "source", file, id)
+        print(f"Skipped {file} - no <{key}> tag or missing src/data-cfsrc.")
+        print(file_tag)
+
     return save_file_path
     
 
