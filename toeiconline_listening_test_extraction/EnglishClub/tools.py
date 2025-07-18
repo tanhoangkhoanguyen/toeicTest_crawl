@@ -16,7 +16,7 @@ def crawl_instruction(h2, key):
 
 
 def crawl_file(h2, key, file, id):
-    file_tag = h2.find_next(f"{key}")
+    file_tag = h2.find_next(key)
     save_file_path = ""
 
     file_src = file_tag.get('src') if file_tag else None
