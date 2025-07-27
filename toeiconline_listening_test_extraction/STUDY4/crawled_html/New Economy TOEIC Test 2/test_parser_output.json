@@ -1,4 +1,6 @@
 {
+    "title": "New Economy TOEIC Test 2",
+    "audio": "crawled_html/New Economy TOEIC Test 2/audio/eco_toeic_1000_test_2_eco_toeic_1000_test_2.mp3",
     "part_1": {
         "1": {
             "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_1.png",
@@ -1201,6 +1203,7 @@
     "part_6": {
         "131": {
             "passage": "Employee Spring TrainingLawrence Paper is dedicated to helping all of its employees fulfill their potential. That is why we have once again organized 2 days of spring training. Human Resources has put together a wide range of topics for this year's workshops, _____(131) sales techniques, computer skills, communication strategies, and goal setting. We still have two workshop time slots available, so if there is something you've been dying to learn about, please let us know. It's quite possible we _____(132) it into this year's spring training. _____(133). Feel free to _____(134) any ideas you might have to Nancy Kensington in the human resources department.NLKensington@lawrencepaper.com",
+            "img": "",
             "options": [
                 "A. distributing",
                 "B. locating",
@@ -1210,6 +1213,7 @@
         },
         "132": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. were incorporating",
                 "B. should incorporate",
@@ -1219,6 +1223,7 @@
         },
         "133": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. If we get many suggestions, we could also hold a workshop on the following weekend, December 4th.",
                 "B. We'll be finalizing our choices by the end of the week.",
@@ -1228,6 +1233,7 @@
         },
         "134": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. create",
                 "B. request",
@@ -1237,6 +1243,7 @@
         },
         "135": {
             "passage": "Vander PropertiesVander Properties has been serving Houston for over 29 years. It is through our commitment to providing the highest degree of expertise market knowledge and _____(135) service that we are recognized as an industry leader.We specialize in _____(136) and corporate real estate here in the Denver area. _____(137) you are looking to buy a new home or start a new business, we are the people you should be talking with. With our office centrally located downtown, we have our eyes on the whole city. Browse our site for listing, or give us a call today. _____(138).www.vanderproperties.comPhone: (313) 782-9919Address: 834 Walton St.",
+            "img": "",
             "options": [
                 "A. personalize",
                 "B. personalizes",
@@ -1246,6 +1253,7 @@
         },
         "136": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. productive",
                 "B. promoted",
@@ -1255,6 +1263,7 @@
         },
         "137": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. Whether",
                 "B. Even if",
@@ -1264,6 +1273,7 @@
         },
         "138": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. Take a drive out of town and come see us today.",
                 "B. We appreciate your assistance.",
@@ -1273,6 +1283,7 @@
         },
         "139": {
             "passage": "Pizza Chef WantedPapa Gino's is hiring, and all _____(139) applicants will be considered. _____(140). Even if you have no experience, training will be provided if you meet our requirements. To meet our requirements, you must have a _____(141) health card, reliable transportation, and be able to work evenings and weekends. Please apply in person at Papa Gino's on State and Pine. _____(142) look forward to meeting you.",
+            "img": "",
             "options": [
                 "A. qualify",
                 "B. qualification",
@@ -1282,6 +1293,7 @@
         },
         "140": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. We are looking for candidates that have some experience in Italian food.",
                 "B. We are looking for candidates that have experience fishing.",
@@ -1291,6 +1303,7 @@
         },
         "141": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. valid",
                 "B. working",
@@ -1300,6 +1313,7 @@
         },
         "142": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. She",
                 "B. They",
@@ -1309,6 +1323,7 @@
         },
         "143": {
             "passage": "November 11\nJohn Adams\nTri-State, Apt 408\nNew York, NY\n10873Dear Mr. Adams,I am pleased to inform you that you _____(143) as one of the finalists for the position of sales director at Goldie Saks. Over 100 applicants applied for the _____(144) but we have narrowed down our list to 8 candidates. You will be called in for an interview on November 15 from 1:00 P.M. to 6:00 P.M. _____(145). The location will be the company headquarters. Our assistant, Miss Lane, will meet you at the main lobby and take you to the interview room.For the candidates that do well in these interviews, there will be a second interview. We will let you know as soon as possible whether you _____(146).Please call us at 555-1234 if you have any further questions. We hope to see you soon.Sincerely,Jennifer LawExecutive Manager",
+            "img": "",
             "options": [
                 "A. were choosing",
                 "B. had chosen",
@@ -1318,6 +1333,7 @@
         },
         "144": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. position",
                 "B. location",
@@ -1327,6 +1343,7 @@
         },
         "145": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. The building is easy to locate.",
                 "B. We would like you to come in at 1:00 P.M.",
@@ -1336,6 +1353,7 @@
         },
         "146": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. enable",
                 "B. approve",
@@ -1346,9 +1364,10 @@
     },
     "part_7": {
         "147": {
+            "img": {},
             "passage": "This Amazing World Photography Competition\nThe monthly travel magazine \nThis Amazing World\n is offering a discounted subscription rate for those who sign up during the month of November. \nThis Amazing World\n has been in print for over 30 years and offers readers insider tips and expert know-how to help you plan the vacation of your dreams. The magazine includes vacation package advertisements, reviews from travelers, and insightful essays to introduce you to various cultures, cuisines, and travel destinations.\nSubmit your travel photos to our This Amazing World Photography Competition for a chance to win a fantastic vacation to Scotland! The winner of the top prize will receive round-trip tickets and a $2,000 travel voucher for a hotel stay for two people.",
             "table": {},
-            "question": "What is mentioned about the magazine?",
+            "question": "question",
             "option": [
                 "A. It is a literary journal.",
                 "B. It includes a recipe book as a supplement.",
@@ -1357,9 +1376,10 @@
             ]
         },
         "148": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is suggested about the competition?",
+            "question": "question",
             "option": [
                 "A. It is sponsored by professional photographers.",
                 "B. It awards a complimentary vacation to the winner.",
@@ -1368,9 +1388,10 @@
             ]
         },
         "149": {
+            "img": {},
             "passage": "Liz Bradley\n 8:14\nSir, the arrangements have been made for your meeting with Mr. Johnson tomorrow afternoon. I've reserved a table for two at Sheraton Restaurant at 1:00 P.M.\nBernie Gibbs \n8:17\nThank you. And have you compiled the reports that I'll need at the meeting?\nLiz Bradley\n 8:18\nMost of them, yes. I'm still waiting for Michael Steel's report. He told me that he would have them ready for me sometime this morning.\nBernie Gibbs\n 8:20\nWell, they should have been completed last night. Can you contact him and see what's going on?\n(Michael Steel has been added to the conversation 8:26)\nLiz Bradley\n 8:27\nMichael, Mr. Gibbs wants to know where the reports are. Are you finished with them?\nMichael Steel\n 8:28\nI apologize for the delay. Our intern accidentally deleted some files. I had to scour the database to locate the backup material. It was a bit of a headache sorting through the files that I needed but I think I have everything organized and I'm printing them out now.\nLiz Bradley\n 8:29\nCan you bring them to me as soon as you're done?\nMichael Steel \n8:30\nOf course. I'll be there in 10 minutes.",
             "table": {},
-            "question": "Who most likely is Liz Bradley?",
+            "question": "question",
             "option": [
                 "A. An intern",
                 "B. A receptionist",
@@ -1379,9 +1400,10 @@
             ]
         },
         "150": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Why was Michael Steel added to the conversation?",
+            "question": "question",
             "option": [
                 "A. To have him give an update about the missing reports",
                 "B. To inform him about the upcoming meeting",
@@ -1390,9 +1412,10 @@
             ]
         },
         "151": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What does Michael imply when he says he \"had to scour the database to locate the backup material\"?",
+            "question": "question",
             "option": [
                 "A. He took his time writing the report.",
                 "B. He had to back up all the information first.",
@@ -1401,9 +1424,10 @@
             ]
         },
         "152": {
+            "img": {},
             "passage": "www.turnerandco.com\nTurner & Co.\n158 Baskin Road, Redwood Bay, UK\nPhone: 243-555-1541\nHOME | ABOUT US | PRODUCTS | REPLACEMENT | CONTACT US\nTurner & Co. has produced beautiful, energy-efficient windows that meet the taste and expectations of our customers since its founding in 1949. When you choose Turner & Co., you are buying more than just a window. You will be receiving the excellent services of our professionals who have been performing superb work for decades. We are passionate about helping you choose a quality window that exactly fits the specifications of your home. Additionally, we are fully committed to environmental protection and have recently been recognized for our sustainable business practices by the Environmental Protection Agency (EPA).",
             "table": {},
-            "question": "What is being advertised?",
+            "question": "question",
             "option": [
                 "A. An insurance company",
                 "B. A window manufacturer",
@@ -1412,9 +1436,10 @@
             ]
         },
         "153": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is indicated about Turner & Co.?",
+            "question": "question",
             "option": [
                 "A. It is a family-run business.",
                 "B. Its branches are located nationwide.",
@@ -1423,9 +1448,10 @@
             ]
         },
         "154": {
+            "img": {},
             "passage": "From: \nSam Bell\nTo: \nJane Brooks\nJane, please let me know Mr. Fraser's phone number. He has some data I need right now. I am a little behind schedule on the monthly financial report, and I need to dedicate all my time to it today.",
             "table": {},
-            "question": "Why was the message sent?",
+            "question": "question",
             "option": [
                 "A. To ask for a favor",
                 "B. To postpone a deadline",
@@ -1434,9 +1460,10 @@
             ]
         },
         "155": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is indicated about Mr. Bell?",
+            "question": "question",
             "option": [
                 "A. He is unable to attend a meeting.",
                 "B. He expects profits to increase.",
@@ -1445,9 +1472,10 @@
             ]
         },
         "156": {
+            "img": {},
             "passage": "SEOUL (July 19) - Breamin's Group opened the doors to its first B&G clothing shop on the famed Abgujeong Rodeo street in South Korea to long lines of frantic shoppers. -[1]- The frenzy was over the limited edition line designed by Marichio Bucci in partnership with B&G. Within just a couple of hours of opening the doors, most of the Bucci design items were sold out. Similar reports of chaos and empty shelves which once held items from the Bucci line were echoed in major cities around the world including New York, London, Tokyo, and Milan. -[2]- Although B&G has released limited edition collaborations with other famous designers, this is the first time that B&G shops have reported a complete depletion of items within hours of its release. The Bucci and B&G collaboration is the most successful to date and, already, talks are in progress over future collaborations for more clothing lines. -[3]- Meanwhile in Seoul, shoppers who were unable to purchase from the Bucci line were disappointed but excited to have the popular retailer open in Korea. -[4]-",
             "table": {},
-            "question": "What is indicated about B&G?",
+            "question": "question",
             "option": [
                 "A. They have stores around the world.",
                 "B. They only sell items designed by Bucci.",
@@ -1456,9 +1484,10 @@
             ]
         },
         "157": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is reported about the Bucci and B&G collaboration?",
+            "question": "question",
             "option": [
                 "A. It took years to put together.",
                 "B. It was only sold in select stores.",
@@ -1467,9 +1496,10 @@
             ]
         },
         "158": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"This is a first for the company since all previous limited designer edition lines were simply a one-time partnership.\"",
+            "question": "question",
             "option": [
                 "A. [1]",
                 "B. [2]",
@@ -1478,9 +1508,10 @@
             ]
         },
         "159": {
+            "img": {},
             "passage": "MEMO\nTo: \nAll Staff\nFrom: \nElizabeth Paine\nDate: \nJanuary 24\nSubject: \nSick Leave\nAttention employees,\nWe are going to make adjustments to our policies concerning sick leave here at Zimnet Corporation. We are considering reducing the number of paid vacation days and instead increasing the number of paid sick days available to employees. Before we make any changes, we would like to gather the opinions of employees on this matter. Please e-mail Tony Nugent at tonynugent@zimnet.com. He will be collecting and analyzing your responses. Afterward, Management will produce a corresponding policy proposal by February 24. Once the proposal has been made, a meeting will be called to discuss its implementation among all of our employees. I hope this process can be helpful to all of our employees, and please be active in your participation.\nSincerely,\nElizabeth Paine",
             "table": {},
-            "question": "What is the purpose of the memo?",
+            "question": "question",
             "option": [
                 "A. To suggest a budget proposal",
                 "B. To solicit feedback",
@@ -1489,9 +1520,10 @@
             ]
         },
         "160": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Who most likely is Mr. Nugent?",
+            "question": "question",
             "option": [
                 "A. A medical doctor",
                 "B. A product developer",
@@ -1500,9 +1532,10 @@
             ]
         },
         "161": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the memo, what will Ms. Paine probably do soon after February 24?",
+            "question": "question",
             "option": [
                 "A. Announce a merger",
                 "B. Hire a medical specialist",
@@ -1511,9 +1544,10 @@
             ]
         },
         "162": {
+            "img": {},
             "passage": "Penny Jones\n 3:27\nI just got a call from Martin that his client Mr. Patrick would like to have his order two weeks earlier than originally planned. So, by next week Monday essentially. Do you think this is possible? I'd like your input.\nKaren Norman\n 3:28\nThere's no problem on our end. Most of the leather has already been cut. We've already sent many of the pieces to be sewn. The rest of the work should take a couple of hours.\nNeil Park \n3:29\nThe handles are complete and about half the bags are near completion. I'll get them to Lauren soon. I think we should be able to finish sewing the bags by tomorrow evening.\nPenny Jones\n 3:30\nI'm glad to hear that most of the handbags are almost finished. Lauren, how long will it take to get the hardware attached or sewn in?\nLauren Nichols\n 3:31\nWe're currently working on the Jenk and Cenk twin's orders...\nPenny Jones \n3:32\nWe have more than enough time to complete the twin's orders so I can authorize your workers to put aside that project for now. How long will Mr. Patrick's order take?\nLauren Nichols\n 3:33\nThe zippers need to be sewn in but the studs will be glued, which makes the work easier. I think we need about a day.\nKevin Harding\n 3:34\nIt'll take us only a couple of hours to have the order packaged safely to be shipped.\nPenny Jones\n 3:35\nThank you so much. I'll let our client know.",
             "table": {},
-            "question": "What kind of business does the client most likely own?",
+            "question": "question",
             "option": [
                 "A. A clothing shop",
                 "B. A furniture company",
@@ -1522,9 +1556,10 @@
             ]
         },
         "163": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the conversation, whose department must complete the work first?",
+            "question": "question",
             "option": [
                 "A. Karen Norman's",
                 "B. Neil Park's",
@@ -1533,9 +1568,10 @@
             ]
         },
         "164": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "At 3:31, why does Lauren Nichols say \"We're currently working on the Jenk and Cenk twin's orders\"?",
+            "question": "question",
             "option": [
                 "A. To inform everyone that they have their own clients",
                 "B. To explain why they refuse to help",
@@ -1544,9 +1580,10 @@
             ]
         },
         "165": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What will Penny Jones most likely tell Mr. Patrick?",
+            "question": "question",
             "option": [
                 "A. That his order will be finished two weeks later",
                 "B. That his request can be fulfilled",
@@ -1555,6 +1592,7 @@
             ]
         },
         "166": {
+            "img": {},
             "passage": "Business Hours in Early March\nDue to the current construction on Shilling Street, we have been forced to revise our business hours for the first week in March (see the chart above.) During the morning hours, the construction makes it difficult for customers to reach our location by car. We will be extending our evening hours to accommodate this change. Additionally, due to the construction, our parking lot is also currently inaccessible. Therefore, during this period, customers are asked to utilize public parking spaces available on Patch Street. We apologize for this inconvenience and strive to be back to normal soon.",
             "table": {
                 "1": {
@@ -1576,7 +1614,7 @@
                     "2_7": "9:00AM - 6:00PM"
                 }
             },
-            "question": "What is being announced?",
+            "question": "question",
             "option": [
                 "A. A renovation project",
                 "B. A store expansion",
@@ -1585,9 +1623,10 @@
             ]
         },
         "167": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "When most likely is the construction NOT being performed?",
+            "question": "question",
             "option": [
                 "A. On Monday",
                 "B. On Wednesday",
@@ -1596,9 +1635,10 @@
             ]
         },
         "168": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Why are customers asked to go to Patch Street?",
+            "question": "question",
             "option": [
                 "A. To find a place to park",
                 "B. To visit a new store location",
@@ -1607,9 +1647,10 @@
             ]
         },
         "169": {
+            "img": {},
             "passage": "For Sale by Owner\nPalmer Standard Cabin Yacht\nAsking price: $45,000 or best offer\nBasic Specifications:\nThis boat was built four years ago. It is 12 feet wide by 36 feet long. The hull is made of fiberglass, making it light yet strong. The boat includes 2 double bedrooms as well as a sleeper sofa, kitchen, and bathroom.\nFeatures:\nThis boat is very stable and offers a spacious deck. It is perfect for large families and social gatherings. It includes an eight-speaker sound system with USB connectivity. It also has a lockable storage compartment where personal belongings can be kept.\nAdditional Information:\nI have owned and operated this boat for three and a half years. The boat comes with a five-year warranty that still has one and a half years remaining. The warranty is transferable to the buyer upon purchase.\nIf you would like to see or test-ride the boat, contact Gary Thompson at 654-555-8715.",
             "table": {},
-            "question": "What is indicated about the Palmer Standard Cabin Yacht?",
+            "question": "question",
             "option": [
                 "A. It is a fishing boat.",
                 "B. Its original paint color has been changed.",
@@ -1618,9 +1659,10 @@
             ]
         },
         "170": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is NOT mentioned as a feature of the Palmer Standard Cabin Yacht?",
+            "question": "question",
             "option": [
                 "A. Capability to play music",
                 "B. A lightweight construction material",
@@ -1629,9 +1671,10 @@
             ]
         },
         "171": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What most likely is true about Mr. Thompson?",
+            "question": "question",
             "option": [
                 "A. He will give a boat tour to a potential buyer.",
                 "B. He has young children.",
@@ -1640,9 +1683,10 @@
             ]
         },
         "172": {
+            "img": {},
             "passage": "Travel & Recreation\n123 Gilmore Street\nOrange County, CA 48857\nNovember 15\nMr. Peter Kang\n3820 Rivervalley Heights\nSeattle, WA 19387\nDear Mr. Kang,\nWe at Travel & Recreation thank you for your subscription to our magazine. As you have been a long time subscriber, I am excited to inform you about our new subscription plan for our VIP members. -[1]- As a member, you will continue to receive monthly editions of our magazine and access to our new online e-magazine services. You can simply download a digital version of the print magazine to any mobile device \nat no extra cost.\n -[2]- Furthermore, you can access background information about our authors, journalists, and guest writers, as well as detailed information about the locations and places that are covered in the magazine. In addition, you can access the recipes to the most popular restaurants around the world and, most exciting of all, we will hold an exclusive competition for our VIP members with a chance to win a trip for two to Hawaii. -[3]- Our regular subscribers, as well as VIP members, will have a chance to win a dining experience at 5-star restaurant Bellisimo.\nAgain we thank you for your continued support and we hope you enjoy the many changes we have made to our services as we strive to entertain and educate our loyal subscribers. -[4]- Please fill out the application form that is attached to this letter. Please check which subscription plan you wish to join. If you send in a $100 fee, you will receive the regular subscription plan. If you send in a $200 fee, you will become a VIP member.\nWe appreciate your support and hope to hear from you soon.\nSincerely,\nVictoria Adams",
             "table": {},
-            "question": "Why was a letter sent to Mr. Kang?",
+            "question": "question",
             "option": [
                 "A. To remind him to send in his travel journals",
                 "B. To explain about a new subscription plan",
@@ -1651,9 +1695,10 @@
             ]
         },
         "173": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What did Ms. Adams send with the letter?",
+            "question": "question",
             "option": [
                 "A. A travel itinerary",
                 "B. A new contract",
@@ -1662,9 +1707,10 @@
             ]
         },
         "174": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "The term \"at no extra cost\" is closest in meaning to:",
+            "question": "question",
             "option": [
                 "A. For a small fee",
                 "B. With a donation",
@@ -1673,9 +1719,10 @@
             ]
         },
         "175": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"Your subscription expires next month, but we invite you to consider joining our VIP membership.\"",
+            "question": "question",
             "option": [
                 "A. [1]",
                 "B. [2]",
@@ -1684,6 +1731,7 @@
             ]
         },
         "176": {
+            "img": {},
             "passage": "Taylor Fabrics\nInvoice\nOrdered by\n: Tammy Fleck Order taken by: Craig Dell\nOrder date\n: August 11 Estimated delivery date: August 14-16\nDelivery address\n: 628 Green Circle Drive, Austin, TX 78701\nE-mail\n: tfleck@capnet.com Mobile phone: (512) 555-9782\nTo: \ncustomerservice@taylorfabrics.com\nFrom: \nTammy Fleck (tfleck@capnet.com)\nDate:\n August 25\nSubject: \nDelivery Delay\nDear Customer Service,\nI received my order from Taylor Fabrics yesterday that I placed two weeks ago. Not only was the package delivered later than promised, but one of my orders was incorrectly shipped. The invoice correctly reflects my wish to receive 5 yards of the floral pattern fabric, but only 2 yards of it were delivered. Because of this error, I won't be able to complete the dress I was making for my friend's birthday. I am very disappointed.\nOnce this issue has been resolved and the additional fabric has been sent, please send a text message to my mobile phone.\nThank you,\nTammy Fleck",
             "table": {
                 "1": {
@@ -1712,7 +1760,7 @@
                     "7_3": ""
                 }
             },
-            "question": "Who most likely is Mr. Dell?",
+            "question": "question",
             "option": [
                 "A. A designer",
                 "B. A salesperson",
@@ -1721,9 +1769,10 @@
             ]
         },
         "177": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is implied about Ms. Fleck?",
+            "question": "question",
             "option": [
                 "A. She is a long-term customer of Taylor Fabrics.",
                 "B. She is a professional fashion designer.",
@@ -1732,9 +1781,10 @@
             ]
         },
         "178": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Why did Ms. Fleck send the e-mail?",
+            "question": "question",
             "option": [
                 "A. Her credit card was incorrectly charged.",
                 "B. She wants to return an item.",
@@ -1743,9 +1793,10 @@
             ]
         },
         "179": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Which fabric will Ms. Fleck need more of to make a dress?",
+            "question": "question",
             "option": [
                 "A. Fabric 10",
                 "B. Fabric 38",
@@ -1754,9 +1805,10 @@
             ]
         },
         "180": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "How should Taylor Fabrics customer service contact Ms. Fleck?",
+            "question": "question",
             "option": [
                 "A. By text message",
                 "B. By voice mail",
@@ -1765,9 +1817,10 @@
             ]
         },
         "181": {
+            "img": {},
             "passage": "Next Month at the Belmont Historical Society\nDocumentary Film Night: \"Exploring the Arctic\"\nMay 5, Spruce Theater\nPhoto Exhibition: \"America in the 20th Century\"\nOpening Night, May 9, Linda Cameron Art Gallery\nAuthor Talk: Glen Campbell, \"The Culture of Early America\"\nMay 14, Chris Charlton Auditorium\nMusical Performance: \"American Folk Masters\"\nMay 22, Spruce Theater\nChildren and seniors are allowed free entry to all events. Additionally, if you pay the registration fee and become a member of the Belmont Historical Society on our website, you can attend any event free of charge.\nFor questions about booking group visits, contact David Smith at dsmith@belmonthistoricalsociety.com. For more details regarding upcoming events and venue locations, or to rent one of our venues, visit us at www.belmonthistoricalsociety.com.\nTo: \nDavid Smith (dsmith@belmonthistoricalsociety.com)\nFrom: \nJared Tate (jtate@clarkuniversity.com)\nDate: \nApril 22\nSubject: \nGroup Visit\nDear Mr. Smith,\nHello, my name is Jared Tate and I am a professor in the History Department at Clark University in downtown Maryville.\nI am teaching an\n introductory\n history course for freshmen this semester, and I thought it would be helpful to attend the event featuring Mr. Campbell. His talk is very pertinent to the subjects we are currently covering in class.\nI was also wondering if it would be possible to arrange a question-and-answer session between Mr. Campbell and my group of about 50 students. Please tell him that we are looking forward to seeing him.\nI appreciate your reading my e-mail and I hope to hear back from you soon.\nJared Tate\nHistory Department, Clark University",
             "table": {},
-            "question": "What is indicated about the Belmont Historical Society?",
+            "question": "question",
             "option": [
                 "A. It does not allow children into some events.",
                 "B. It is run by the city of Belmont.",
@@ -1776,9 +1829,10 @@
             ]
         },
         "182": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What most likely is Mr. Tate currently teaching?",
+            "question": "question",
             "option": [
                 "A. Environmental conditions of the Arctic",
                 "B. Early American history",
@@ -1787,9 +1841,10 @@
             ]
         },
         "183": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is NOT mentioned as being available on the Belmont Historical Society website?",
+            "question": "question",
             "option": [
                 "A. Information about scheduled events",
                 "B. Member registration",
@@ -1798,9 +1853,10 @@
             ]
         },
         "184": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In the e-mail, the word \"introductory\" is closest in meaning to",
+            "question": "question",
             "option": [
                 "A. basic",
                 "B. required",
@@ -1809,9 +1865,10 @@
             ]
         },
         "185": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What does Mr. Tate request?",
+            "question": "question",
             "option": [
                 "A. A signed copy of a book",
                 "B. A detailed survey",
@@ -1820,6 +1877,7 @@
             ]
         },
         "186": {
+            "img": {},
             "passage": "Newton Library\nApril Program and Events Schedule\nWe would like to thank all of you who made financial donations that allowed for the purchase of new laptops and the construction of the Media Lab.\n-------------------------\nTo: \nRichard White (rwhite@newtonlibrary.edu)\nFrom: \nLinda Carter (lcarter121@seprus.com)\nDate: \nApril 1\nSubject: \nBeginner English Conversation Club\nHi Mr. White,\nMy name is Linda Carter and I am the instructor for the Beginner English Conversation Club to be \nheld\n on April 10. I noticed that the library recently built the Media Lab with funds raised by library patrons. I was hoping to change classrooms in order to use my new educational resources by integrating computers into my English conversation class. Could you please reschedule my class to be provided in the same classroom as Never Too Late to Learn instead of the Education Center? I think my students will appreciate the practical English skills they can learn on computers. Also, could you please send an e-mail to all of the students who have signed up for the class? They will need to be informed about the room change.\nThank you in advance for your assistance,\nLinda Carter\n-------------------------\nTo:\n Richard White (rwhite@newtonlibrary.edu)\nFrom: \nLinda Carter (lcarter121@seprus.com)\nDate: \nApril 2\nSubject:\n Room Change\nDear Ms. Carter,\nI would be happy to move your Beginners English Conversation course to the classroom with the updated media lab; for your reference, this is room 3A. Unfortunately, I do not have the emails for all of the students who signed up for your course. Many students only provided their names. I could post a sign at the entrance to the library advertising your course and make a note of the room change, if that would be acceptable for you. Please let me know if you would like me to do this.\nThank you and all the best,\nRichard White\nLibrary Projects Coordinator",
             "table": {
                 "1": {
@@ -1851,7 +1909,7 @@
                     "6_4": "Play with toys and hear a story. (For ages 0-5)"
                 }
             },
-            "question": "What is suggested about Newton Library?",
+            "question": "question",
             "option": [
                 "A. It recently renovated its facilities.",
                 "B. It will hold a fundraising event soon.",
@@ -1860,9 +1918,10 @@
             ]
         },
         "187": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What event is most suited for film students?",
+            "question": "question",
             "option": [
                 "A. Story Play",
                 "B. Youth Creative Writing Workshop",
@@ -1871,9 +1930,10 @@
             ]
         },
         "188": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In the first e-mail, the word \"held\" is closest in meaning to",
+            "question": "question",
             "option": [
                 "A. carried",
                 "B. attended",
@@ -1882,9 +1942,10 @@
             ]
         },
         "189": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Why can't Richard White send students an e-mail?",
+            "question": "question",
             "option": [
                 "A. He doesn't have their e-mails.",
                 "B. It is not his job.",
@@ -1893,9 +1954,10 @@
             ]
         },
         "190": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is Richard White's solution to the problem of informing Linda's students about the room change?",
+            "question": "question",
             "option": [
                 "A. He can e-mail them.",
                 "B. He can direct them to the right room when they enter.",
@@ -1904,6 +1966,7 @@
             ]
         },
         "191": {
+            "img": {},
             "passage": "To: \nTony Walker\nFrom: \nSuzie Mason (smason@icmcorp.com)\nDate:\n May 4\nSubject: \nSummer Calendar\nAttachment:\n budget.doc\nDear Mr. Walker,\nI am finalizing the calendar of summer events for our company. Because we went over budget last year on employee appreciation events, I think it would be wise to find more affordable recreational activities. Attached is a breakdown of projected expenses for summer events that I have planned.\nJuly 6: Anchorage Flower Festival\nJuly 22: Art in the Park at Lawrence Park\nAugust 6: Bicycle Tours of the Anchorage Countryside\nAugust 19: Horseback Riding at Sweet Meadow Ranch\nI have scheduled fewer outdoor activities this year compared to last year. This year I would like to take advantage of a new outdoor recreational opportunity that I read about on the Anchorage Reporter website. You can read the article by clicking on this link: www.anchoragereporter.com/new_trails.\nPlease let me know your opinion,\nSuzie Mason\nHuman Resources Manager\n-------------------------\nAnchorage Reporter\nBike Tours of the Anchorage Countryside to Start August 6\nMay 2\u2014The Anchorage Bike Club will be hosting an annual bike riding event this summer, beginning on August 6 and running through August 7. The event will start at 10:00 A.M. on both days at the Anchorage Community Center. If you are driving vehicle to the starting point, it would be better to use the parking lot behind the community center.\nAnchorage Bike Club President Jean Frost stated, \"The rides will range from 5 to 20 miles and will take bikers through scenic areas in Anchorage. Overall, the bike tours will go ahead at a leisurely pace so that bikers of all skill levels can participate. However, local bikers with ample experience might lead a faster-paced group.\"\nBikers in the tours will learn about riding techniques, bicycle maintenance, and proper nutrition half an hour before the event starts. All participants must have biking helmets on. They are also encouraged to bring their own water to prevent dehydration while biking.\n-------------------------\nBICYCLE TOUR SIGN-UP SHEET\nIf you intend to participate in the August 6 bicycle tour, please write down your name, department, and level of experience or fitness. If we have enough people sign up as advanced, we can coordinate two separate tours. If there are not enough for two tours, we would like to encourage all riders to stay together so that everyone can join in the team building exercises we have planned. Thank you for your participation and we look forward to seeing everyone at the event!",
             "table": {
                 "1": {
@@ -1929,7 +1992,7 @@
                     "6_3": "Beginner"
                 }
             },
-            "question": "What does Ms. Mason suggest doing?",
+            "question": "question",
             "option": [
                 "A. Keeping within a budget for recreational activities",
                 "B. Appointing a new manager of human resources",
@@ -1938,9 +2001,10 @@
             ]
         },
         "192": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What date does Ms. Mason suggest for this year's new activity?",
+            "question": "question",
             "option": [
                 "A. July 6",
                 "B. July 22",
@@ -1949,9 +2013,10 @@
             ]
         },
         "193": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In what section of the website would the article most likely appear?",
+            "question": "question",
             "option": [
                 "A. Economy",
                 "B. Leisure",
@@ -1960,9 +2025,10 @@
             ]
         },
         "194": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Based upon the Bicycle Tour Sign-up Sheet, what can we infer about the upcoming bicycle tour?",
+            "question": "question",
             "option": [
                 "A. It will be cancelled.",
                 "B. There will be two groups, one for beginners, one for advanced.",
@@ -1971,9 +2037,10 @@
             ]
         },
         "195": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What will Barbara Blaster most likely do on the bicycle tour?",
+            "question": "question",
             "option": [
                 "A. She will become bored and quit the tour.",
                 "B. She will complain that more people should sign up as advanced.",
@@ -1982,9 +2049,10 @@
             ]
         },
         "196": {
+            "img": {},
             "passage": "Four Seasons Apparel Outlet\nAll returns must be sent back to Four Seasons Apparel Outlet within 7 days of delivery. They can be exchanged for a different item or returned for a refund. If you choose a refund, we will credit the card used for purchase.\nIndividuals with official memberships can utilize our delivery tracking service and receive frequent shopper discounts.\nReturn shipment(s) to:\nFour Seasons Apparel Outlet, 144 Fenton Rd., Denver, CO 80725 (303-555-4387)\nCheck the option that best describes your problem:\n\u2610 Product contained a defect or damage\n\u2610Product did not match expectations\n\u2611 Wrong item was delivered\n\u2610 Other ____________________\nPersonal Information:\nName\n: Sally Nelson\nOrder Number\n: 2245\nPhone\n: 432-555-6729\nAddress\n: 2154 Oak St, Denver, CO 80725 E-mail: snelson@clandon.net\n\u2611 Exchange \u2610 Refund\nI ordered a medium-sized Snowy Christmas Sweater from your online store on April 22, but I mistakenly receive a small-sized one. I would like to exchange it for the correct one.\n-------------------------\nFrom: \nDebra Clarke (debraclarke@fourseasons.com)\nTo: \nSally Nelson (snelson@clandon.net)\nDate: \nApril 30\nSubject:\n Exchange\nDear Ms. Nelson,\nWe have received your request to exchange the sweater you purchased. We sincerely apologize for this mistake. We shipped the correct item immediately \nas per\n your request. Your shipment can be tracked on our website using the following tracking number: 447H57J.\nBecause this was our mistake, we have returned $7 to your credit card in order to reimburse you for the return shipping costs. Please check your balance to confirm this.\nIf you experience any future problems with this order, you may call me at 303-555-4387. I will help you solve any problem that may arise.\nDebra Clarke\n-------------------------\nTo:\n Sally Nelson (snelson@clandon.net)\nFrom: \nDebra Clarke (debraclarke@fourseasons.com)\nDate: \nMay 4\nSubject: \nReturn Error\nDear Ms. Clarke,\nI was glad to receive your email regarding my return and am thankful that Four Seasons was thoughtful enough to refund my shipping cost.\nThat being said, I checked my account and have received the promised refund. Additionally, the new sweater that was sent to me was the right size, but I had ordered the Snowy Christmas design. What I received was Winter Festival. They are both nice sweaters, but my husband really liked Snowy Christmas better. Could you please send the design that I originally ordered? I will send the Winter Festival sweater back after I receive the correct order and my shipping refund.\nThank you!\nSally Nelson",
             "table": {},
-            "question": "What problem with the original shipment does Ms. Nelson report?",
+            "question": "question",
             "option": [
                 "A. It was damaged.",
                 "B. It does not fit.",
@@ -1993,9 +2061,10 @@
             ]
         },
         "197": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In the e-mail from Debra Clarke, the phrase \"as per\" is closest in meaning to",
+            "question": "question",
             "option": [
                 "A. regardless of",
                 "B. except for",
@@ -2004,9 +2073,10 @@
             ]
         },
         "198": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is indicated about Ms. Nelson?",
+            "question": "question",
             "option": [
                 "A. She recently moved to Denver.",
                 "B. She ordered a gift for a friend.",
@@ -2015,9 +2085,10 @@
             ]
         },
         "199": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What problem with the replacement shipment does Ms. Nelson report?",
+            "question": "question",
             "option": [
                 "A. The size was incorrect.",
                 "B. The design was incorrect.",
@@ -2026,9 +2097,10 @@
             ]
         },
         "200": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "When will Ms. Nelson return her Winter Festival sweater?",
+            "question": "question",
             "option": [
                 "A. When she receives her correct order and the shipping refund.",
                 "B. When she has time.",

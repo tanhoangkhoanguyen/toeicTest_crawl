@@ -1,4 +1,6 @@
 {
+    "title": "New Economy TOEIC Test 4",
+    "audio": "crawled_html/New Economy TOEIC Test 4/audio/eco_toeic_1000_test_4_eco_toeic_1000_test_4.mp3",
     "part_1": {
         "1": {
             "image": "crawled_html/New Economy TOEIC Test 4/img/eco_toeic_1000_test_4_eco_toeic_1000_test_4_1.png",
@@ -1201,6 +1203,7 @@
     "part_6": {
         "131": {
             "passage": "Employee WorkshopT&R Group strives to help employees reach their potential by offering leadership retreats, employee training, and various workshops. This month, we _____(131) workshops for those interested in _____(132) their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app. We have a couple of other slots that are currently _____(133) and will accept suggestions from employees. _____(134). Please email Jonas at jsmith@TRgroup.com if you are interested in attending any of the workshops. We hope you take advantage of the programs offered.",
+            "img": "",
             "options": [
                 "A. offers",
                 "B. were offering",
@@ -1210,6 +1213,7 @@
         },
         "132": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. correcting",
                 "B. diminishing",
@@ -1219,6 +1223,7 @@
         },
         "133": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. dependent",
                 "B. independent",
@@ -1228,6 +1233,7 @@
         },
         "134": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. Suggestions related to gaming and entertainment will not be accepted.",
                 "B. The most popular requests will be considered for the workshops.",
@@ -1237,6 +1243,7 @@
         },
         "135": {
             "passage": "Citrusine: Total Flu for Night-timeGet ready for cold and flu season with Citrusine. Citrusine is a _____(135) medicated night-time tea that can treat symptoms of the flu including fever, aches and pains, nasal congestion, cough, and sore throat. Wake up feeling _____(136) and ready to conquer another day. Citrusine should not be taken if you're planning to operate machinery or drive a vehicle. Keep out of the reach of children. _____(137).Citrusine is the number-one-selling medication _____(138) the flu and is guaranteed to provide results if taken as directed. Visit our website for more information.www.citrusine.com",
+            "img": "",
             "options": [
                 "A. easing",
                 "B. stimulating",
@@ -1246,6 +1253,7 @@
         },
         "136": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. refreshing",
                 "B. refreshed",
@@ -1255,6 +1263,7 @@
         },
         "137": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. The medication may cause serious side effects if not taken properly.",
                 "B. Children should take Citrusine for Kids instead.",
@@ -1264,6 +1273,7 @@
         },
         "138": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. for",
                 "B. during",
@@ -1273,6 +1283,7 @@
         },
         "139": {
             "passage": "To: Janet Doe\nFrom: Greenscape\nDate: June 28\nSubject: InquiryMs. Doe,We thank you for your inquiry. Greenscape has been the leading landscaper for businesses in the greater downtown area for over 10 years. _____(139) we specialize in gardens and Japanese-style landscape art, we also maintain lawns and fields. But to answer your question, yes, we even clear away thick shrubbery and trees. We can send a person to _____(140) the amount of time it will take and the approximate costs. Furthermore, if you _____(141) to replace the dense shrubs with a lawn or garden, you can work with one of our designers to come up with a landscape you can be happy with._____(142). We are more than happy to serve you.",
+            "img": "",
             "options": [
                 "A. Although",
                 "B. Because",
@@ -1282,6 +1293,7 @@
         },
         "140": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. conclude",
                 "B. calculate",
@@ -1291,6 +1303,7 @@
         },
         "141": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. wishing",
                 "B. wish",
@@ -1300,6 +1313,7 @@
         },
         "142": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. We welcome any business opportunity with you.",
                 "B. Please don't hesitate to email any questions you have.",
@@ -1309,6 +1323,7 @@
         },
         "143": {
             "passage": "Black Hill BeansBlack Hill Beans is a Louisianan coffee company and the pioneer of the Louisiana coffee fruit. We oversee a vertically _____(143) supply chain that starts with the highest quality coffee and coffee fruit from Black Hill, Louisiana. We _____(144) three award-winning beans, Summer Harvest, Dark Southern, and Black Earth. All can be shipped to you _____(145) 24 hours anywhere in the continental U.S. Black Hill Beans' coffee is also sold at every Launders Superstore in the U.S.Whether you're looking for excellent coffee or a bit of southern comfort, Black Hill Beans is the right choice for your coffee. _____(146). It's nice to feel patriotic while you drink. Visit us online today to hear more about our story.www.blackhillbeans.com",
+            "img": "",
             "options": [
                 "A. integrates",
                 "B. to integrate",
@@ -1318,6 +1333,7 @@
         },
         "144": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. locate",
                 "B. select",
@@ -1327,6 +1343,7 @@
         },
         "145": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. within",
                 "B. by",
@@ -1336,6 +1353,7 @@
         },
         "146": {
             "passage": "",
+            "img": "",
             "options": [
                 "A. Try the best-selling frozen beverage around.",
                 "B. It's American-made and organic.",
@@ -1346,9 +1364,10 @@
     },
     "part_7": {
         "147": {
+            "img": {},
             "passage": "Notice\nCrawford Apparel has refurbished dressing rooms where you can try on clothes before you make a purchase.\n- Please take only an item or two into a dressing room at a time.\n- You may leave your personal belongings such as a wallet or a purse with one of our clerks for safekeeping.\n- Any personal items left behind in a dressing room will be kept in the lost-and-found room near the entrance.",
             "table": {},
-            "question": "For whom is the notice most likely intended?",
+            "question": "question",
             "option": [
                 "A. Storekeepers",
                 "B. Customers",
@@ -1357,9 +1376,10 @@
             ]
         },
         "148": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the notice, where can missing items be found?",
+            "question": "question",
             "option": [
                 "A. In a police station",
                 "B. In an information center",
@@ -1368,9 +1388,10 @@
             ]
         },
         "149": {
+            "img": {},
             "passage": "Linda Bates\n (6:55): I'm late. I woke up late.\nMelinda Cruz\n (6:56): can I expect you?\nLinda Bates\n (6:57): I'll be there in an hour.\nMelinda Cruz (\n6:58): Should I leave without you?\nLinda Bates\n (7:02): No, just make sure the van is loaded when I get there.\nMelinda Cruz\n (7:02): Will do.\nLinda Bates (\n7:03): Thanks.\nMelinda Cruz\n (7:08): I'll see you soon. Drive carefully.\nLinda Bates\n (7:10): Yep. I am.",
             "table": {},
-            "question": "What is suggested about Ms. Bates?",
+            "question": "question",
             "option": [
                 "A. She works for Ms. Cruz.",
                 "B. She is being held up by traffic.",
@@ -1379,9 +1400,10 @@
             ]
         },
         "150": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "At 7:02, what does Ms. Cruz mean when she writes, \"Will do\"?",
+            "question": "question",
             "option": [
                 "A. She will be waiting for Ms. Cruz.",
                 "B. She plans to load the vehicle.",
@@ -1390,9 +1412,10 @@
             ]
         },
         "151": {
+            "img": {},
             "passage": "To:\n Patricia Mueller (patmueller@fine-mail.net)\nFrom: \nMark Hutchings (mhutchings@grosvenoronline.com)\nDate: \nJune 4\nSubject:\n Re: Hotline\nDear Ms. Mueller,\nThank you for your feedback on our technical service hotline. We had not realized that calls were taking so long to connect to an operator, and we have managed to resolve the problem, which was caused by a glitch in the telephone switchboard software. As a gesture of goodwill, I would like to issue you a coupon for our online store for the value of $25. To redeem it, simply sign in to your store account at www.grosvenoronline.com and enter the coupon code H58K55 into the box on the main page.\nYours sincerely,\nMark Hutchings\nCustomer Service Representative, \nGrosvenor Online",
             "table": {},
-            "question": "Why did Mr. Hutchings send the e-mail?",
+            "question": "question",
             "option": [
                 "A. To promote a special seasonal offer",
                 "B. To confirm an address for an order",
@@ -1401,9 +1424,10 @@
             ]
         },
         "152": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What will Ms. Mueller most likely do on her next visit to Grosvenor Online?",
+            "question": "question",
             "option": [
                 "A. Sign up for a membership program",
                 "B. Claim the value of a coupon",
@@ -1412,6 +1436,7 @@
             ]
         },
         "153": {
+            "img": {},
             "passage": "http://www.jannisar.com\nHome | Products | Contact | About Us | Account\nCongratulations! Because of your high level of regular activity on our site, you have been selected to become a Premium Gold Member. Please fill out the following form to complete the process:\nCheck the boxes for the merchandise categories that are of interest to you.\n(You may check more than one.)\nElectronics \u2610 Music \u2610 Books \u2610 Furniture \u2610 Computer Games \u2610\nPlease note that as a Premium Gold Member, you will receive e-mail notifications four times a year on special offers for the categories selected. Your account details will be verified by e-mail within the next 24 hours. An e-mail confirmation will be sent. Follow the instructions in that e-mail to confirm your membership.",
             "table": {
                 "1": {
@@ -1431,7 +1456,7 @@
                     "6_2": ""
                 }
             },
-            "question": "Who most likely is the web page aimed at?",
+            "question": "question",
             "option": [
                 "A. A new customer for an auction website",
                 "B. An online marketing agency representative",
@@ -1440,9 +1465,10 @@
             ]
         },
         "154": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is the reader asked to do?",
+            "question": "question",
             "option": [
                 "A. Indicate product preferences",
                 "B. Supply payment details",
@@ -1451,9 +1477,10 @@
             ]
         },
         "155": {
+            "img": {},
             "passage": "It's Raining Cats and Dogs\nBrentwood (May 2) - -[1]- Brentwood City finally has its very own cat caf\u00e9 called Catastrophe and dog caf\u00e9 called Hotdogs, both opened by owners Kevin and Ginger Blake. Both cafes opened last month to fanfare and a great deal of press coverage. -[2]- \"Business has been booming,\" says Kevin Blake. \"We knew we'd be successful; we just didn't think we'd be this successful.\" Not only are customers enthusiastically flocking to both cafes to hang out with the animals while drinking coffee and tea, many of them are adopting the animals and giving them forever homes. -[3]- \"We thought it would be a good idea to take in some of the animals because of the overcrowding in many of the shelters,\" explained Ginger Blake. \"And customers have a chance to interact with the animals, which is the best form of advertisement for the shelters.\" Since the cafes' opening, more than 10 dogs and 15 cats have been adopted. \"I don't yet own a dog, but I've always wanted one,\" says Laurie Jordan, a regular customer. \"I come here to play with them. Maybe one day I'll find a dog that I really want.\" -[4]-\nBecause of the success, the Blakes are considering expanding by purchasing the adjacent shops. \"We need more space to fit all our customers and the animals,\" explained Kevin. \"It can get very crowded at times.\" The Blakes are looking to renovate the dog caf\u00e9 next month and the cat caf\u00e9 during the fall.",
             "table": {},
-            "question": "What is indicated about the cafes?",
+            "question": "question",
             "option": [
                 "A. They serve an assortment of snacks.",
                 "B. They sell puppies and kittens.",
@@ -1462,9 +1489,10 @@
             ]
         },
         "156": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is reported about the cats and dogs?",
+            "question": "question",
             "option": [
                 "A. Several have been adopted.",
                 "B. They are permanent residents of the cafes.",
@@ -1473,9 +1501,10 @@
             ]
         },
         "157": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"But the hype hasn't slowed down.\"",
+            "question": "question",
             "option": [
                 "A. [1]",
                 "B. [2]",
@@ -1484,9 +1513,10 @@
             ]
         },
         "158": {
+            "img": {},
             "passage": "Relax and unwind at New Wave Spa!\nTake a break from your hectic day with professional spa treatments from New Wave Spa, located at 458 Worley Avenue. Whether you stay for an hour or a full day, you'll leave feeling refreshed and energized. Check out our regular packages below:\nClassic Getaway ($120)\n-Try this basic package that's perfect for those on the go.\n30-minute back and neck massage / cucumber facial treatment / lilac body wrap\nRose Garden ($155)\n-Let the scent of roses revive your senses.\n45-minute full-body massage / rose water skin treatment / manicure\nOcean Experience ($180)\n-Take advantage of the ocean's healing powers in our most popular package.\n60-minute full-body massage / head-to-toe sea salt scrub / hot stone treatment / seaweed facial treatment\nComplete Rejuvenation ($210)\n-Indulge yourself in the luxury of a full day of treatments.\n90-minute full-body massage / relaxation scalp massage / mud mask facial treatment / rosemary purifying scrub / manicure / pedicure\nBook in advance to secure your spot by calling 555-2940. Groups of four or more people will receive a free lunch of sandwiches, steamed vegetables, and freshly-squeezed juices. All patrons will be given a free New Wave lounging robe on their third visit to our facility.",
             "table": {},
-            "question": "What is the advertisement mainly about?",
+            "question": "question",
             "option": [
                 "A. The expansion of a health facility",
                 "B. A discount on luxury services",
@@ -1495,9 +1525,10 @@
             ]
         },
         "159": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Which package includes a heat treatment?",
+            "question": "question",
             "option": [
                 "A. Classic Getaway",
                 "B. Rose Garden",
@@ -1506,9 +1537,10 @@
             ]
         },
         "160": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What will groups of four or more people be given?",
+            "question": "question",
             "option": [
                 "A. A free robe",
                 "B. A reduced rate",
@@ -1517,9 +1549,10 @@
             ]
         },
         "161": {
+            "img": {},
             "passage": "Bill Flake\n (9:41)\nHello, I'd like to get an update on the progress of the drapes that the Manillo Family ordered.\nLucy Mitt \n(9:41)\nWe're still waiting for the lace silks from Hand-Made Lace but we received most of the other fabrics yesterday. Our seamstresses will get to work on those today.\nBill Flake \n(9:42)\nThen do you think the project will be completed by this Friday as the Manillo's wanted?\nLucy Mitt\n (9:43)\nI'm not sure. It'll depend on when the lace arrives. Our group can start sewing some of the pieces together, but we need the lace to complete the intricate designs.\nBill Flake\n (9:44)\nCan you contact Hand-Made Lace and find out when the shipment arrives?\nLucy Mitt \n(9:45)\nActually, Richard is taking care of that. Any word from them, Richard?\nRichard Choi \n(9:45)\nYes, I just got off the phone with them. There was a bit of a delay because the lace artisans used the wrong silks. They had to re-work the lace. We'll receive them this afternoon. They sent a rush delivery to us.\nBill Flake\n (9:46)\nExcellent. Then can the drapes be finished at the end of this week?\nLucy Mitt\n (9:47)\nNo problem. We'll work around the clock to get them finished on time.\nBill Flake\n (9:48)\nI'm glad to hear that. They are long-time customers and they needed the drapes for their new condo this weekend.",
             "table": {},
-            "question": "What kind of business do the participants in the online chat probably work at?",
+            "question": "question",
             "option": [
                 "A. A clothing company",
                 "B. A bridal shop",
@@ -1528,9 +1561,10 @@
             ]
         },
         "162": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "When will the shipment of lace arrive?",
+            "question": "question",
             "option": [
                 "A. In the morning",
                 "B. In the afternoon",
@@ -1539,9 +1573,10 @@
             ]
         },
         "163": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "At 9:47, what does Lucy Mitt mean when she says, \"We'll work around the clock\"?",
+            "question": "question",
             "option": [
                 "A. Her team will watch the time carefully.",
                 "B. Her team will work as quickly as possible.",
@@ -1550,9 +1585,10 @@
             ]
         },
         "164": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What will Bill Flake probably do next?",
+            "question": "question",
             "option": [
                 "A. Call the client",
                 "B. Cancel the order",
@@ -1561,9 +1597,10 @@
             ]
         },
         "165": {
+            "img": {},
             "passage": "Duluth City\n5th Annual Summer Fun Festival\nSunday, July 23\n10:00 A.M. to 6:00 P.M.\n \nLocal Nature Art Competition\nDuluth artists will be displaying their paintings of local nature and wildlife in the Duluth Community Center. Visitors are asked to cast their vote for their favorite painting. The winner will be announced at the start of the singing competition.\n11:00 A.M. to 12:00 P.M. \nMagic Show\nPlease join us for an astonishing magic show. Magician Mick Turner is famous for his creative and entertaining magic tricks.\n12:00 P.M. to 2:00 P.M.\n \nLive Jazz Concert\nEnjoy live jazz in the park performed by New-York-based jazz band The Holloway Band. They will be playing a variety of jazz standards. They will also have their most recent record for sale.\n10:00 A.M. to 7:00 P.M.\n \nRenewable Energy Expo\nLocal company Sunshine Energy will be displaying some of its newest renewable energy projects, including solar panels and portable cell phone chargers.\n7:00 P.M. to 9:00 P.M.\n \nSinging Competition\nLocal residents are encouraged to take part in this year's singing competition. Those who would like to participate can register by visiting our website at www.duluthcitysff.com and filling out the necessary form.\nFor more information, please call us at 555-0157.",
             "table": {},
-            "question": "When will the winner of the art competition be announced?",
+            "question": "question",
             "option": [
                 "A. 2:00 P.M.",
                 "B. 6:00 P.M.",
@@ -1572,9 +1609,10 @@
             ]
         },
         "166": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the schedule, what will be available for purchase?",
+            "question": "question",
             "option": [
                 "A. A work of art",
                 "B. A musical album",
@@ -1583,9 +1621,10 @@
             ]
         },
         "167": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "How can participants sign up for the singing competition?",
+            "question": "question",
             "option": [
                 "A. By visiting an information booth",
                 "B. By contacting the community center",
@@ -1594,9 +1633,10 @@
             ]
         },
         "168": {
+            "img": {},
             "passage": "Movies in the Park\nThis fall Glenwood Springs Park will host a weekly Movies in the Park night for residents of Glenwood Springs. In cooperation with various local business sponsors including Paxton Inc. and GS Mall, family-friendly movies will be shown every Friday night at the center of the park. Tickets are not necessary for these events because they are free to the public.\nRunning from September through November, Movies in the Park promises a wonderful line-up of fun and touching movies for the whole family. You are encouraged to bring blankets and chairs as well as picnic snacks. Movie starting times depend on sunset times, so it is advised to come early to secure your spot beforehand. Please visit our website at www.glenwoodsprings.org/movies to see a schedule of upcoming films and a list of our local sponsors.\nIn the event of heavy rain, low temperatures, or strong winds, the film screening may be canceled. If this occurs, the announcement for the film cancelation will be made both on our website and on the local radio. You can also ask about event cancellations by calling the Glenwood Springs Department of Parks and Recreation at 715-555-5358.",
             "table": {},
-            "question": "What is the purpose of the flyer?",
+            "question": "question",
             "option": [
                 "A. To announce park renovation plans",
                 "B. To publicize a community event",
@@ -1605,9 +1645,10 @@
             ]
         },
         "169": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Who will provide funding for Movies in the Park?",
+            "question": "question",
             "option": [
                 "A. A local radio station",
                 "B. The residents in Glenwood Springs",
@@ -1616,9 +1657,10 @@
             ]
         },
         "170": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is NOT mentioned as a recommendation for participants?",
+            "question": "question",
             "option": [
                 "A. Bringing food",
                 "B. Purchasing tickets in advance",
@@ -1627,9 +1669,10 @@
             ]
         },
         "171": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the flyer, why would the phone number be used?",
+            "question": "question",
             "option": [
                 "A. To make a reservation",
                 "B. To inquire about a schedule change",
@@ -1638,9 +1681,10 @@
             ]
         },
         "172": {
+            "img": {},
             "passage": "Wrightman Towers\n1234 Broadway Street\nNew York, NY 49858\n-[1]- Located in the financial district of the city, Wrightman Towers offers spectacular views of the city landscape and offers office spaces that are ideal for any company that wishes to operate within the heart of New York. Just one block from the subway station and located within walking distance of public buses and taxis, Wrightman Towers is conveniently located. -[2]- The first-floor lobby offers security as employees and residents must scan their way through the security gates to the elevators behind. At the same time the spacious lobby is welcoming with its luxurious interior designs and friendly staff of attendants. -[3]-\nThe third and fourth floors are available for rent to businesses and corporations. High ceilings and tall glass windows offer open space and beautiful natural lighting. Hurry and send in your requests today. -[4]- Only serious inquiries will be taken and interviews must be conducted in person. Please visit our website at www.wrightmantowers.com/rent for more information. You can take a virtual tour of the premises. Or you can call our offices at 555-1234.",
             "table": {},
-            "question": "What is indicated about the rental space?",
+            "question": "question",
             "option": [
                 "A. It is only for private residents.",
                 "B. It is only for businesses.",
@@ -1649,9 +1693,10 @@
             ]
         },
         "173": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is indicated about the location of Wrightman Towers?",
+            "question": "question",
             "option": [
                 "A. It is near public transportation.",
                 "B. It has heavy traffic around the building.",
@@ -1660,9 +1705,10 @@
             ]
         },
         "174": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is featured on the website?",
+            "question": "question",
             "option": [
                 "A. A listing of all occupied spaces",
                 "B. An exclusive discount promo code",
@@ -1671,9 +1717,10 @@
             ]
         },
         "175": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"These spaces are in high demand.\"",
+            "question": "question",
             "option": [
                 "A. [1]",
                 "B. [2]",
@@ -1682,9 +1729,10 @@
             ]
         },
         "176": {
+            "img": {},
             "passage": "Kenneth Global Journalism Internship\nThe Kenneth Global Journalism Internship will provide you with great opportunities to train with the world's most renowned international multimedia news agency, work with professional reporters and editors, and gain valuable experiences in fast-paced newsrooms in big cities such as London, Berlin, and Paris. It will offer talented college graduates an opportunity to learn and develop their journalistic skills and first-hand knowledge.\nThis is a paid internship that offers free lodging as well as lunch and dinner. Interns will receive several weeks of formal training focused on writing skills, journalism ethics, and basic workplace knowledge. They are also able to take advantage of other regularly scheduled training opportunities during the internship free of charge. The internship will last 4 months, beginning on August 1.\nApplications for the internship can be found on our website at www.kennethglobal.com and must be submitted by June 20. Applicants who advance past this stage will be asked to interview at our headquarters on June 27. Any questions can be directed toward Ruby Hart at rubyhart@kennethglobal.com or asked in person at our headquarters in Austin.\n---------------------------\nFrom:\n Kyle Lane (kylelane12@mpnet.com)\nTo: \nRuby Hart (rubyhart@kennethglobal.com)\nSubject:\n Internship\nDate: \nJune 28\nDear Ms. Hart,\nI am extremely grateful to have advanced past the first round of the Kenneth Global Journalism Internship's selection process. Applicants are supposed to interview in person on the specified date, but unfortunately I am scheduled to attend an important conference in Dallas with my professor. However, because I live in the same city as your headquarters, it would not be difficult to arrange an alternative time for me to interview.\nThanks again for considering me for this position. I look forward to hearing back from you concerning a possible interview date. In the meantime, I will do my best to prepare myself.\nRegards,\nKyle Lane",
             "table": {},
-            "question": "What is indicated about internship applicants?",
+            "question": "question",
             "option": [
                 "A. They must have prior work experience.",
                 "B. They must attend an upcoming conference.",
@@ -1693,9 +1741,10 @@
             ]
         },
         "177": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is true about the internship?",
+            "question": "question",
             "option": [
                 "A. It includes meals and accommodations.",
                 "B. It is for professional journalists only.",
@@ -1704,9 +1753,10 @@
             ]
         },
         "178": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What other benefit is offered to interns?",
+            "question": "question",
             "option": [
                 "A. Health insurance",
                 "B. Additional training",
@@ -1715,9 +1765,10 @@
             ]
         },
         "179": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "When is Mr. Lane supposed to attend an interview?",
+            "question": "question",
             "option": [
                 "A. On June 20",
                 "B. On June 27",
@@ -1726,9 +1777,10 @@
             ]
         },
         "180": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Where does Mr. Lane live?",
+            "question": "question",
             "option": [
                 "A. In Dallas",
                 "B. In Austin",
@@ -1737,9 +1789,10 @@
             ]
         },
         "181": {
+            "img": {},
             "passage": "To:\n Sam Berry (sberry@princetheater.com)\nFrom: \nBessie Wagner (bessiewagner@linsuniversity.edu)\nDate: \nJuly 4\nSubject: \nOpenings\nDear Mr. Berry,\nMy name is Bessie Wagner and I am currently a student in the theater department at Lins University. I have almost finished my degree, and I am starting to look into possible career opportunities for my future. A professor of mine recommended that I contact you at the Prince Theater to ask about possible positions at your company.\nAt Lins University, I specialized in the production elements of theater. Through both academic and practical experiences, I learned the useful skills necessary for stage management. As of September, I will be available to work either part-time or full-time and apply myself fully to whatever task is assigned to me.\nI would really appreciate it if you let me know if there are any available positions starting this fall.\nBessie Wagner \nPrince Theater\nJob Openings\n\u2022 Artistic Intern\nUnpaid internship in the artistic department in all aspects of administration and production. This person will perform assistant duties for the artistic director.\n\u2022 Assistant Technical Director\nPart-time position responsible for production management and stage machinery. Applicants should have related experience in stage management.\n\u2022 Director of Ticket Operations\nFull-time position responsible for overall management of ticket operations for all events taking place at the theater. Responsibilities include box office operations as well as planning and implementing all ticket sales processes, and supervision of the ticketing staff.\n\u2022 Marketing Director\nFull-time position responsible for marketing concerning all of the productions put on by the theater. Oversee the preparation of high-quality promotional materials to attract theatergoers to our plays, musicals, and concerts.\n- All full-time employees of Prince Theater are eligible for complimentary access to all productions.\n- All of the positions will be open starting this October.\n- For more information or to apply, contact Sam Berry by e-mail at sberry@princetheater.com.",
             "table": {},
-            "question": "What is indicated about Ms. Wagner?",
+            "question": "question",
             "option": [
                 "A. She is a stage actress.",
                 "B. She teaches classes on stage design.",
@@ -1748,9 +1801,10 @@
             ]
         },
         "182": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Why did Ms. Wagner write to Mr. Berry?",
+            "question": "question",
             "option": [
                 "A. To seek a job opportunity",
                 "B. To schedule an interview",
@@ -1759,9 +1813,10 @@
             ]
         },
         "183": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is NOT suggested about the Director of Ticket Operations?",
+            "question": "question",
             "option": [
                 "A. He or she has to manage various types of events.",
                 "B. He or she must direct the work of other employees.",
@@ -1770,9 +1825,10 @@
             ]
         },
         "184": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What do all of the advertised jobs have in common?",
+            "question": "question",
             "option": [
                 "A. They need musical talent.",
                 "B. They will be available in the fourth quarter.",
@@ -1781,9 +1837,10 @@
             ]
         },
         "185": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What job is most suitable for Ms. Wagner?",
+            "question": "question",
             "option": [
                 "A. Artistic Intern",
                 "B. Assistant Technical Director",
@@ -1792,9 +1849,10 @@
             ]
         },
         "186": {
+            "img": {},
             "passage": "April 5\u2014Clearwater Hospital in downtown Scranton has launched a new pen pal letter-writing program between terminally ill hospital patients and adult volunteers. Hospital Director Zack Chambers, who was recently presented with an Outstanding Leader Award from the National Health Care Alliance, started the program to create stronger connections between the hospital and the community. Mr. Chambers encourages adults of all types and occupations to apply even if they don't feel completely qualified. Simply visit the Clearwater Hospital website and become a member of the hospital free of charge.\n\"I hope through this program, volunteers can form close relationships with patients to help them get through these difficult times in their lives,\" said Mr. Chambers. He also hopes that the program will lead to more people visiting terminally ill patients in person.\nClearwater Hospital\n-------------------------\nMay 4\nMonica Greene\n4100 Washington Road\nScranton, Wisconsin 54481\nDear Ms. Greene,\nI was delighted to receive your letter. I am very excited to have been paired with you as pen pals. I hope we can learn a lot from each other and build a lasting friendship.\nAs you know, I live in California, which is a long way from Wisconsin. I hope that in the coming months I can find some time off work and visit you. Please let me know when the most convenient time would be for me to meet you.\nI look forward to hearing from you,\nJessica Wright\n-------------------------\nDear Jessica,\nYou don't know how much I appreciate your kind words. Although the staff at Clearwater are very kind, I feel the need to connect with people who are not part of the staff. My surviving family also live a great distance away, in Florida, and so most of the time I am just communicating with the paid staff or the other patients. I would welcome a visit, if you truly wanted to come, and the best time would be for our meeting is the Thanksgiving holiday party here at the center I suppose. My own family might be here as well. If it is too much for you, or if you can't get the time off of work, don't worry about it too much. I do hope that we can continue to communicate through our letters.\nAll the best,\nMonica Greene",
             "table": {},
-            "question": "What is the article about?",
+            "question": "question",
             "option": [
                 "A. A volunteer program",
                 "B. A doctor's retirement",
@@ -1803,9 +1861,10 @@
             ]
         },
         "187": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is mentioned about Mr. Chambers?",
+            "question": "question",
             "option": [
                 "A. He is a patient at Clearwater Hospital.",
                 "B. He teaches writing skills to adults.",
@@ -1814,9 +1873,10 @@
             ]
         },
         "188": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What does Mr. Chambers invite people to do?",
+            "question": "question",
             "option": [
                 "A. Sign up for a newsletter",
                 "B. Schedule regular health check-ups",
@@ -1825,9 +1885,10 @@
             ]
         },
         "189": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Who does Monica Greene spend most of her time with?",
+            "question": "question",
             "option": [
                 "A. Clearwater's staff",
                 "B. Her family",
@@ -1836,9 +1897,10 @@
             ]
         },
         "190": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "When does Monica Greene want Jessica to visit?",
+            "question": "question",
             "option": [
                 "A. Christmas",
                 "B. New Year's Eve",
@@ -1847,9 +1909,10 @@
             ]
         },
         "191": {
+            "img": {},
             "passage": "Mr. John Morris\n1423 Bernard Avenue\nMillville, CA 90117\nDear Mr. Morris,\n24/7 Fitness is the most successful workout facility in the United States. With over 3 million members nationwide, our franchise has become known as a reputable and trustworthy brand. Our success is a result of great relationships between us the franchiser and our franchisees.\nYou are receiving this mailing because you expressed interest in partnering with 24/7 Fitness in order to open a new location in your town. According to our preliminary research, your town has a large population of young, single people working in the professional field. This is our target demographic, and it means the business outlook for your 24/7 Fitness location is positive in your town. If you would like more information about the specific terms and regulations when partnering with 24/7 Fitness, please don't hesitate to call me at 347-555-3363. Additionally, if you would like to talk to another franchise owner, that information can be supplied by one of our associates.\nSincerely,\nLori Swanson\nChief Operating Officer\n-------------------------\nTo: \nZack Carter (zcarter@zenmail.com)\nFrom: \nJohn Morris (jmorris@cbnet.com)\nSubject: \n24/7 Fitness\nDate:\n March 6\nDear Mr. Carter,\nMy name is John Morris and I am a small business owner living in the Millville area. I am currently in negotiations with 24/7 Fitness to open my own location here in Millville. As someone who works with 24/7 Fitness, you would help me a lot by sharing your opinions.\nI am interested in how you assess 24/7 Fitness as a franchiser. I operated several franchises in the past, and I always found that trust and honesty are the most important factors in a successful relationship. More importantly, I was also wondering what kind of support is provided by the parent company. Before opening your location, did you receive adequate training to allow you to smoothly begin operating your business? Any advice you can give me would be much appreciated.\nSincerely,\nJohn Morris\n-------------------------\nTo:\n John Morris (jmorris@cbnet.com)\nFrom: \nZack Carter (zcarter@zenmail.com)\nSubject:\n 24/7 Fitness\nDate: \nMarch 7\nDear Mr. Morris,\nI am happy to provide some insight into the operation of a 24/7 Fitness franchise. I have been working with 24/7 Fitness as a franchise owner for 10 years now. I actually run three different branches now. I completely agree with you that trust and honesty are the two most important aspects of any business relationship. On that count, I believe the fact that I own three franchises is testament to my faith in the franchiser.\nLet me put your mind at ease. First off, 24/7 Fitness has a very specific way that they want their brand to develop no matter who owns the branch. The parent company will not only provide training, but they insist on controlling the actual layout of the facilities from the locker rooms to the free weights. They want any of their 3 million members to be able to walk into any one of their gyms and feel at home. Until you have been operating for one full year, you must make monthly reports to corporate headquarters detailing all aspects of sales, membership, and a flow chart describing the usage of the facilities. It really is hands on until they have confidence you can represent the brand. I hope this helps you decide to join the 24/7 Fitness team!\nAll the best,\nZack Carter",
             "table": {},
-            "question": "According to the letter, what is the key to 24/7 Fitness' success?",
+            "question": "question",
             "option": [
                 "A. Effective communication with regional owners",
                 "B. Rapid nationwide expansion",
@@ -1858,9 +1921,10 @@
             ]
         },
         "192": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Where did Mr. Morris most likely get Mr. Carter's contact information?",
+            "question": "question",
             "option": [
                 "A. From a 24/7 Fitness representative",
                 "B. From 24/7 Fitness's website",
@@ -1869,9 +1933,10 @@
             ]
         },
         "193": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What concerns Mr. Morris most about 24/7 Fitness?",
+            "question": "question",
             "option": [
                 "A. The reputation of its band",
                 "B. The financial status",
@@ -1880,9 +1945,10 @@
             ]
         },
         "194": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "What is the purpose of Zack Carter's e-mail?",
+            "question": "question",
             "option": [
                 "A. To ask for information about a franchise",
                 "B. To tell John Morris about 24/7 Fitness and the training they provide",
@@ -1891,9 +1957,10 @@
             ]
         },
         "195": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In Zack Carter's e-mail, what is indicated about 24/7 Fitness?",
+            "question": "question",
             "option": [
                 "A. They want all of their fitness centers to be nearly identical.",
                 "B. They would like their franchisees to personalize their locations.",
@@ -1902,9 +1969,10 @@
             ]
         },
         "196": {
+            "img": {},
             "passage": "To:\n Kevin Scott (kevinscott@startrealty.com)\nFrom:\n Steven Mason (smason@turnerelectronics.com)\nDate: \nFebruary 2\nSubject: \nA warehouse\nDear Mr. Scott,\nMy name is Steven Mason and I work for the consumer electronics company Turner Electronics. I am currently scouting for a warehouse in the Pittsburg area. As you know, having an effective distribution strategy is critical for every company in today's fast-paced business world.\nTherefore, I am looking for a warehouse located in the outskirts of Pittsburg. The warehouse needs to be located close to the highway. We are shipping a high volume of products, so we would prefer a dedicated warehouse to be used exclusively for Turner Electronics operations. A warehouse with a spacious loading bay for large trucks is necessary. Additionally, a warehouse that also has office space would be ideal. Because of the valuable nature of our products, we would like a warehouse that provides precautions against theft and damage.\nI look forward to hearing your response soon.\nSteven Mason\nTurner Electronics\n-------------------------\nTo: \nSteven Mason (smason@turnerelectronics.com)\nFrom:\n Kevin Scott (kevinscott@startrealty.com)\nDate:\n February 3\nSubject:\n Re: A warehouse\nDear Mr. Mason,\nIt seems that as your company expands, you would like to improve the operations of your distribution network and deliver products to sellers more quickly. We have a variety of warehouse options, and I trust one of them will fit your company's needs. All locations have a state-of-the-art security system as well as experienced staff.\nLocation 1-$3,499 per month for a 10,000-square-foot warehouse space shared by multiple businesses. Because this location is a shared operations site, we offer it at a discounted price.\nLocation 2-$5,500 per month for an older warehouse located in downtown Pittsburg. This warehouse is currently empty, and therefore can be used by your company exclusively. It also features a walk-in freezer.\nLocation 3-$6,500 per month for a very spacious warehouse located a few miles outside of Pittsburg. Although currently used by two other businesses as a storage space, it can be converted into a warehouse only for your company.\nLocation 4-$2,600 per month for a medium-size warehouse. This warehouse is provided at a discounted price because it has no area for trucks to unload cargo conveniently. It is best for smaller-sized operations.\nThese are the locations currently available for use. If you have any questions or would like to visit a location in person, please contact me.\nKevin Scott\n-------------------------\nTo: \nKevin Scott (kevinscott@startrealty.com)\nFrom: \nSteven Mason (smason@turnerelectronics.com)\nDate: \nFebruary 3\nSubject:\n Location 3\nDear Mr. Scott,\nThank you so much for responding to my inquiry so quickly. Although none of the warehouses is exactly what I was looking for, I think the best option for our business will be Location 3. This, of course, is contingent on the other two businesses moving their storage into another warehouse. Our operations, as I noted in my first e-mail, are expanding, and I want to make sure that we have ample room to grow. I am delighted that there is security at your warehouses as well.\nI have some time early next week if it would be possible to take a walk through Location 3. I think once I get a feel for the space, I will be able to make a firm decision. Please contact me by phone at your convenience so we can set up a time.\nYou can reach me at (351) 546-9899.\nAll the best,\nSteve Mason\nTurner Electronics",
             "table": {},
-            "question": "What is the purpose of the first e-mail?",
+            "question": "question",
             "option": [
                 "A. To look for a rental space",
                 "B. To finalize a business proposal",
@@ -1913,9 +1981,10 @@
             ]
         },
         "197": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "Who most likely is Mr. Mason?",
+            "question": "question",
             "option": [
                 "A. A warehouse manager",
                 "B. A truck driver",
@@ -1924,9 +1993,10 @@
             ]
         },
         "198": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to Mr. Scott, what does Turner Electronics intend to do?",
+            "question": "question",
             "option": [
                 "A. Hire more experienced truck drivers",
                 "B. Enhance supply chain efficiency",
@@ -1935,9 +2005,10 @@
             ]
         },
         "199": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "According to the third e-mail, what has to happen for Turner Electronics to move into Location 3?",
+            "question": "question",
             "option": [
                 "A. The rent must be reduced.",
                 "B. Two businesses must find other places to store their belongings.",
@@ -1946,9 +2017,10 @@
             ]
         },
         "200": {
+            "img": "",
             "passage": "",
             "table": {},
-            "question": "In the third e-mail, what is the most likely day that Mr. Mason will be available for a walkthrough of Location 3?",
+            "question": "question",
             "option": [
                 "A. Monday",
                 "B. Thursday",

@@ -26,9 +26,10 @@ def extract_audio(soup, key, folder):
 
 def extract_img(soup, key, folder):
     save_file_path = ""
+    img_tag = soup if soup.name == "img" else soup.find("img")
 
-    if soup.find("img"):
-        file_url = soup.find('img').get(key)
+    if img_tag:
+        file_url = img_tag.get(key)
         if file_url == None:
             if key != "data-src":
                 return extract_img(soup, "data-src", folder)
@@ -119,28 +120,34 @@ def extract_test_part6(soup, json_info, folder, id):
     return json_info
 
 
-def extract_test_part7(soup, json_info):
+def extract_test_part7(soup, json_info, folder):
     table = {}
+    img = {}
     nums = 0
 
-    passage_tag = soup.find("div", class_ = "context-wrapper")
-    for table_tag in passage_tag.find_all("table"):
+    context_tag = soup.find("div", class_ = "context-wrapper")
+    for i, img_tag in enumerate(context_tag.find_all("img")):
+        # print ("Meow meow", end = "    ")
+        # print (img_tag)
+        img[str(i + 1)] = extract_img(img_tag, 'src', folder)
+
+    for table_tag in context_tag.find_all("table"):
         nums += 1
-        table[f"{nums}"] = {}
+        table[str(nums)] = {}
 
         rows = len(table_tag.find_all('tr'))
         cols = len(table_tag.find_all('td')) // rows
         
-        table[f"{nums}"]["rows"] = rows
-        table[f"{nums}"]["cols"] = cols
+        table[str(nums)]["rows"] = rows
+        table[str(nums)]["cols"] = cols
         data = table_tag.find_all('td')
         for i in range (1, rows + 1):
             for j in range (1, cols + 1):
-                table[f"{nums}"][f"{i}_{j}"] = clean_text(data[cols * (i - 1) + j - 1])
+                table[str(nums)][f"{i}_{j}"] = clean_text(data[cols * (i - 1) + j - 1])
 
         table_tag.extract()
     
-    passage = clean_text(passage_tag)
+    passage = clean_text(context_tag)
 
     num = 0
     for question_tab in soup.find_all("div", class_ = "question-item-wrapper"):
@@ -155,6 +162,7 @@ def extract_test_part7(soup, json_info):
             options.append(soup.text.strip())
 
         json_info[str(i)] = {
+            "img": img if num == 1 else "",
             "passage": passage if num == 1 else "",
             "table": table if num == 1 else {},
             "question": "question",
@@ -206,21 +214,21 @@ def extract_test(key):
         else:
             break
 
-    # question_tabs = soup.find_all("div", class_ = "question-group-wrapper")
-    # json_part7 = {}
-    # for r in range(len(question_tabs) - 1, 0, -1):
-    #     question_tab = question_tabs[r]
-    #     x, json_part7 = extract_test_part7(question_tab, json_part7)
-    #     i += x
-    #     if i == 201:
-    #         break
+    question_tabs = soup.find_all("div", class_ = "question-group-wrapper")
+    json_part7 = {}
+    for r in range(len(question_tabs) - 1, 0, -1):
+        question_tab = question_tabs[r]
+        x, json_part7 = extract_test_part7(question_tab, json_part7, key)
+        i += x
+        if i == 201:
+            break
     
-    # i = 147
-    # while True:
-    #     if i == 201:
-    #         break
-    #     json_info["part_7"][str(i)] = json_part7[str(i)]
-    #     i += 1
+    i = 147
+    while True:
+        if i == 201:
+            break
+        json_info["part_7"][str(i)] = json_part7[str(i)]
+        i += 1
 
 
     json_store_path = f"crawled_html/{key}/test_parser_output.json"
