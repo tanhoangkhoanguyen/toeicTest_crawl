@@ -1,0 +1,127 @@
+{
+    "title": "TOEIC Practice - Part 3: Short Conversations",
+    "description": "In this part of the test you will listen to a short conversation between a man and a woman. After the conversation, you will answer three questions about the dialogue. There will be four possible answers for each question. Typical questions include, who, what, where, when, why, and how. You may also be asked to make an inference.",
+    "example_1:": {
+        "instruction_1": "First you will hear a short conversation:",
+        "image": "",
+        "instruction_2": "Next you will read three questions with four possible answers:",
+        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-1.mp3",
+        "questions": {
+            "1": {
+                "question": "What are the man and woman mainly discussing?",
+                "choices": {
+                    "A": "A vacation",
+                    "B": "A budget",
+                    "C": "A company policy",
+                    "D": "A conference"
+                }
+            },
+            "2": {
+                "question": "How is the woman traveling?",
+                "choices": {
+                    "A": "By plane",
+                    "B": "By bus",
+                    "C": "By taxi",
+                    "D": "By car"
+                }
+            },
+            "3": {
+                "question": "Why aren't the man and woman going together?",
+                "choices": {
+                    "A": "The woman needs to arrive earlier.",
+                    "B": "The man has to work overtime.",
+                    "C": "The woman dislikes air travel.",
+                    "D": "The man has to go to the bank first."
+                }
+            }
+        },
+        "explanation": {
+            "1": [
+                "Choice A is mentioned, but the man is asking if she needs to take a \"vacation day\". In Part III there is often one or two choices that are mentioned but are not correct.",
+                "Choice B is related to saving money for the company, but this is not the main topic of the conversation. Be careful with main subject questions, because incorrect choices may be small details from the conversation.",
+                "Choice C repeats the word \"company,\" but no policy is mentioned. In Part III there is often one choice that includes a word from the conversation. You may have heard the word, but it is not the correct choice.",
+                "The correct answer is D."
+            ],
+            "2": [
+                "Choice A is how the man is getting to the conference. In Part III there is often one or two choices that are mentioned but are not correct.",
+                "Choice C is how the man is getting to the airport. \"Taxi\" is mentioned but is not correct.",
+                "Choice D is not mentioned. In Part III there is often one choice that is not mentioned at all.",
+                "The correct answer is B."
+            ],
+            "3": [
+                "Choice A confuses the idea of \"leaving earlier\" and \"arriving earlier\".",
+                "Choice B repeats the word \"overtime\", but it was the woman who did overtime last week.",
+                "Choice D uses the homonym bank , but in this conversation the term \"bank\" means to store up for later use , not a financial institution . In Part III there are often homonyms as distractors.",
+                "The correct answer is C."
+            ]
+        },
+        "transcript": [
+            "Man: Do you want to share a taxi to the airport? We can save on expenses that way, and as you know the company is trying to cut costs.",
+            "Woman: Actually I'm not flying. I'm going to the conference by bus. I have to leave tomorrow because it's going to take two days to get there.",
+            "Man: That's right. I forgot that you are afraid of flying. Are you taking a vacation day tomorrow?",
+            "Woman: Well, I worked some overtime last week, so I just banked it instead of wasting a holiday day."
+        ]
+    },
+    "example_2:": {
+        "instruction_1": "",
+        "image": "",
+        "instruction_2": "",
+        "audio": "crawled_html/Part 3/audio/englishclub-toeic-short-convos-2.mp3",
+        "questions": {
+            "1": {
+                "question": "What does the man have to do today?",
+                "choices": {
+                    "A": "Visit his lawyer",
+                    "B": "Get a massage",
+                    "C": "Go to the doctor",
+                    "D": "Make an appointment"
+                }
+            },
+            "2": {
+                "question": "What can be inferred from the conversation?",
+                "choices": {
+                    "A": "The woman is the man's receptionist.",
+                    "B": "The lawyer works in the same building.",
+                    "C": "The woman has no deadlines today.",
+                    "D": "The man and woman have a meeting this afternoon."
+                }
+            },
+            "3": {
+                "question": "What does the woman offer to do for the man?",
+                "choices": {
+                    "A": "Answer his phone",
+                    "B": "Call his lawyer",
+                    "C": "Pick up the newspaper",
+                    "D": "Take notes at the meeting"
+                }
+            }
+        },
+        "explanation": {
+            "1": [
+                "Choice A is who the man is expecting a call from. He needs to go there next week.",
+                "Choice B confuses the sound \"message\" with \"massage\". Similar sound is a common distractor in Part III.",
+                "Choice D is not correct because the man has already made the appointment. If the question was in the past, then it could be correct. Tense is a common distractor used in Part III.",
+                "The correct answer is C."
+            ],
+            "2": [
+                "Choice A is incorrect because the woman doesn't normally answer the man's calls.",
+                "Choice B is incorrect because the man mentions that he will have to go to a different location (downtown) to sign papers in front of his lawyer.",
+                "Choice D is not correct because there is no mention of this. The man will be at the doctor's office.",
+                "The correct answer is C."
+            ],
+            "3": [
+                "Choice B is the opposite of what the woman offers to do. She offers to take the man's calls, not make them.",
+                "Choice C repeats the word \"paper,\" but the conversation does not mention newspaper . Similar sound is a common distractor in Part III.",
+                "Choice D confuses the idea of taking notes at a meeting and taking a message from a phone call.",
+                "The correct answer is A."
+            ]
+        },
+        "transcript": [
+            "Man: I have a doctor's appointment this afternoon. Are you going to be in the office, or do you have a meeting?",
+            "Woman: I'll be here. And, don't worry. I don't have much on for today, so I'll handle all of your calls.",
+            "Man: Thanks. I'm expecting a call from my lawyer. He's supposed to be sending me some changes to the contracts.",
+            "Woman: I'll make sure to take a detailed message if he calls. Is there anything you want to tell him?",
+            "Man: Well, you could remind him that I'm going to need to come downtown and sign a few papers in front of him. I'll have to set something up for next week."
+        ]
+    }
+}

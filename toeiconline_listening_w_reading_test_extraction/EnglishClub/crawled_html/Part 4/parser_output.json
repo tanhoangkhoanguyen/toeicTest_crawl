@@ -1,0 +1,176 @@
+{
+    "title": "TOEIC Practice - Part 4: Short Talks",
+    "description": "In Part 4 you will listen to a short talk. It might be an announcement, a radio advertisement, or a telephone recording. You will listen to the talk and read a few questions about it.",
+    "example_1:": {
+        "instruction_1": "First you will hear a short talk:",
+        "image": "",
+        "instruction_2": "Next you will read a few questions with four answer choices:",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-1.mp3",
+        "questions": {
+            "1": {
+                "question": "What should the passengers do before exiting the ship?",
+                "choices": {
+                    "A": "Welcome the visitors",
+                    "B": "Check the time",
+                    "C": "Collect their personal items",
+                    "D": "Take a picture"
+                }
+            },
+            "2": {
+                "question": "What does the speaker imply?",
+                "choices": {
+                    "A": "The water was rough.",
+                    "B": "The weather was poor yesterday.",
+                    "C": "The tour went faster than usual.",
+                    "D": "There is only one way to exit."
+                }
+            },
+            "3": {
+                "question": "What will happen in five minutes?",
+                "choices": {
+                    "A": "The ship will arrive at the dock.",
+                    "B": "The passengers will go shopping.",
+                    "C": "The passengers will take photos of the ship.",
+                    "D": "The market will open."
+                }
+            }
+        },
+        "explanation": {
+            "1": [
+                "Choice A has the word \"welcome\". This is a repeated word . This choice does not make sense because the visitors and passengers are the same people.",
+                "Choice B distracts you because of the association you automatically make between time and \"five minutes\".",
+                "Choice D is the wrong choice for two reasons. Firstly, because they are going to have a picture taken (passive). Secondly, because this will happen after they get off the ship.",
+                "The correct answer is C."
+            ],
+            "2": [
+                "Choice A is related to cruising on a ship, but is not mentioned .",
+                "Choice C is related to time. The recording mentions that there is \"five minutes\" until docking, but there is no indication that the ship is docking early.",
+                "Choice D is incorrect because the speaker suggests exiting to the right, implying that there is also an exit at the left.",
+                "The correct answer is B."
+            ],
+            "3": [
+                "Choice B will happen, but not in five minutes. The time is confused.",
+                "Choice C confuses the passengers getting off the ship and taking photos of the ship.",
+                "Choice D repeats the word \"market\" but does not answer the question.",
+                "The correct answer is A."
+            ]
+        },
+        "transcript": [
+            "Good morning ladies and gentleman. This is your tour guide speaking. I hope you have enjoyed the cruise of the inner harbour today. We certainly had a nice day for it, especially compared to yesterday. The ship will be docking in approximately five minutes. Once we are docked, please collect all of your belongings and exit the ship. As a reminder, our group will be exiting to the right. Follow the north ramp all the way to the far end of the platform. Before heading to the farmer's market we will gather under the ferry terminal Welcome Sign for a group photo."
+        ]
+    },
+    "example_2:": {
+        "instruction_1": "",
+        "image": "",
+        "instruction_2": "",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-2.mp3",
+        "questions": {
+            "1": {
+                "question": "How often does this event take place?",
+                "choices": {
+                    "A": "Monthly",
+                    "B": "Four times a year",
+                    "C": "Once a year",
+                    "D": "Every four years"
+                }
+            },
+            "2": {
+                "question": "What will happen after the brunch?",
+                "choices": {
+                    "A": "The people will be served drinks.",
+                    "B": "An artist will show his drawings.",
+                    "C": "The guests will introduce themselves.",
+                    "D": "A poet will read a poem."
+                }
+            },
+            "3": {
+                "question": "What do guests get to take home?",
+                "choices": {
+                    "A": "Lunch",
+                    "B": "A book of mythology",
+                    "C": "A collection of poems",
+                    "D": "A painting"
+                }
+            }
+        },
+        "explanation": {
+            "1": [
+                "Choice A is how often the youth writers meet.",
+                "Choices B and D confuse \"fourth annual\" or \"every four years\" with four times a year. This is very tricky and something you must watch out for.",
+                "The correct answer is C."
+            ],
+            "2": [
+                "Choice A is what will happen in a few minutes.",
+                "Choice B confuses the idea of what an artist is. An artist can be many things; a poet, a painter, or a writer. This is a poet's brunch, so the artist is a poet.",
+                "Choice C is what is going to happen now.",
+                "The correct answer is D."
+            ],
+            "3": [
+                "Choice A is confused with the similar sound \"brunch\" which is what the guests will eat at the function.",
+                "Choice B confuses the similar sounds \"anthology\" and \"mythology\".",
+                "Choice D is related to \"artists\", but is not the gift.",
+                "The correct answer is C."
+            ]
+        },
+        "transcript": [
+            "I'd like to welcome you all to the fourth annual poet's brunch. In just a few minutes a server will be around to offer you coffee or tea. Please take a moment to fill out your name tag and introduce yourself to the other artists at your table. Lunch will be served at 11:00 am sharp, followed by a reading from last year's prize winner. If any of you did not receive your free gift at the door, please make sure to pick it up on your way out. This year's gift is a poetry anthology from local youth writers. You will be amazed at the emerging talent in our town. In fact, a group of young writers meet once a month around this very table."
+        ]
+    },
+    "example_3:": {
+        "instruction_1": "",
+        "image": "",
+        "instruction_2": "",
+        "audio": "crawled_html/Part 4/audio/englishclub-toeic-short-talks-3.mp3",
+        "questions": {
+            "1": {
+                "question": "Where would you hear this type of talk?",
+                "choices": {
+                    "A": "In an airport",
+                    "B": "At a bus station",
+                    "C": "On a telephone",
+                    "D": "On television"
+                }
+            },
+            "2": {
+                "question": "Who should visit the website?",
+                "choices": {
+                    "A": "Staff members of Speedy Reservations",
+                    "B": "Callers looking for special schedules",
+                    "C": "Callers looking for staff members",
+                    "D": "People looking for fight times"
+                }
+            },
+            "3": {
+                "question": "What is the quickest way to get connected to a representative?",
+                "choices": {
+                    "A": "Hang up and call again",
+                    "B": "Call back later",
+                    "C": "Wait patiently",
+                    "D": "Call a different number"
+                }
+            }
+        },
+        "explanation": {
+            "1": [
+                "Choice A associates flights with airports.",
+                "Choice B confuses the similar sounds busy and bus.",
+                "Choice D does not make sense in context because the caller is instructed to press buttons or hold.",
+                "The correct answer is C."
+            ],
+            "2": [
+                "Choice A is who callers can find by pressing the correct extension number.",
+                "Choice C is who should press the extension number.",
+                "Choice D confuses the similar sounds flight and fight.",
+                "The correct answer is B."
+            ],
+            "3": [
+                "Choice A and B are incorrect because the calls are answered \"in sequence,\" which means in order .",
+                "Choice D is not mentioned.",
+                "The correct answer is C."
+            ]
+        },
+        "transcript": [
+            "Thank you for calling Speedy Reservations. All of our operators are busy at this time. If you are looking for flight schedules, please visit our online booking service at www.speedyresos.com. If this is a personal call and you know the extension of the staff member you would like to speak to at this time, press the number now. All other inquiries please hold for the next available representative. Calls will be answered in sequence, so please do not hang up and try again."
+        ]
+    }
+}

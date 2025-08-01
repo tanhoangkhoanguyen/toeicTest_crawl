@@ -2,5 +2,5 @@
 playground
 
 **/.env
-/toeiconline_listening_test_extraction/STUDY4/cookies.pkl
+**/cookies.pkl
 /venv

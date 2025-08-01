@@ -1,0 +1,2112 @@
+{
+    "title": "New Economy TOEIC Test 2",
+    "audio": "crawled_html/New Economy TOEIC Test 2/audio/eco_toeic_1000_test_2_eco_toeic_1000_test_2.mp3",
+    "part_1": {
+        "1": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_1.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "2": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_2.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "3": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_3.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "4": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_4.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "5": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_5.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "6": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_6.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        }
+    },
+    "part_2": {
+        "7": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "8": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "9": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "10": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "11": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "12": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "13": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "14": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "15": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "16": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "17": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "18": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "19": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "20": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "21": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "22": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "23": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "24": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "25": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "26": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "27": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "28": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "29": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "30": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "31": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        }
+    },
+    "part_3": {
+        "32": {
+            "image": "",
+            "question": "What are the speakers discussing?",
+            "options": [
+                "A. A business trip.",
+                "B. A budget proposal.",
+                "C. An upcoming conference.",
+                "D. A package delivery."
+            ]
+        },
+        "33": {
+            "image": "",
+            "question": "What problem does the woman mention?",
+            "options": [
+                "A. The address is no longer relevant.",
+                "B. A company has gone bankrupt.",
+                "C. A budget must be revised.",
+                "D. A flight has been canceled."
+            ]
+        },
+        "34": {
+            "image": "",
+            "question": "What does the woman say she will do?",
+            "options": [
+                "A. Review a contract.",
+                "B. Go to Tokyo.",
+                "C. Visit the post office.",
+                "D. Ask for compensation."
+            ]
+        },
+        "35": {
+            "image": "",
+            "question": "Who most likely is the woman?",
+            "options": [
+                "A. A radio host.",
+                "B. A professor.",
+                "C. A business owner.",
+                "D. An athlete."
+            ]
+        },
+        "36": {
+            "image": "",
+            "question": "What did the woman want to do?",
+            "options": [
+                "A. Make use of her education.",
+                "B. Open a fitness center.",
+                "C. Appear on radio.",
+                "D. Teach food and nutrition."
+            ]
+        },
+        "37": {
+            "image": "",
+            "question": "According to the woman, what is the main reason for her success?",
+            "options": [
+                "A. Effective advertisements.",
+                "B. Considerable interest in nutrition.",
+                "C. Long-term investments.",
+                "D. Government policies."
+            ]
+        },
+        "38": {
+            "image": "",
+            "question": "Where most likely are the speakers?",
+            "options": [
+                "A. At a children's hospital.",
+                "B. At a university.",
+                "C. At a music store.",
+                "D. At a concert hall."
+            ]
+        },
+        "39": {
+            "image": "",
+            "question": "What does the woman suggest doing?",
+            "options": [
+                "A. Purchasing a piano.",
+                "B. Writing a birthday card.",
+                "C. Playing string instruments.",
+                "D. Attending advanced classes."
+            ]
+        },
+        "40": {
+            "image": "",
+            "question": "What does the woman give the man?",
+            "options": [
+                "A. A receipt.",
+                "B. A business card.",
+                "C. A map.",
+                "D. A pamphlet."
+            ]
+        },
+        "41": {
+            "image": "",
+            "question": "Who most likely are the speakers?",
+            "options": [
+                "A. Show hosts.",
+                "B. Advertisers.",
+                "C. Television producers.",
+                "D. Viewers."
+            ]
+        },
+        "42": {
+            "image": "",
+            "question": "According to the woman, what is the reason for the problem?",
+            "options": [
+                "A. A new product was recalled.",
+                "B. An actor was injured.",
+                "C. A television show was canceled.",
+                "D. A new host is not well-liked."
+            ]
+        },
+        "43": {
+            "image": "",
+            "question": "What solution does the man suggest?",
+            "options": [
+                "A. Rewriting the script.",
+                "B. Replacing the host.",
+                "C. Conducting a survey.",
+                "D. Placing an advertisement."
+            ]
+        },
+        "44": {
+            "image": "",
+            "question": "What does the man ask about?",
+            "options": [
+                "A. The reason the woman arrived early.",
+                "B. The date of the woman's wedding.",
+                "C. The name of a client.",
+                "D. Directions to the office."
+            ]
+        },
+        "45": {
+            "image": "",
+            "question": "What will the woman do after work?",
+            "options": [
+                "A. Organize a party.",
+                "B. Try on a dress.",
+                "C. Attend a wedding.",
+                "D. Purchase office supplies."
+            ]
+        },
+        "46": {
+            "image": "",
+            "question": "What will the man probably do next?",
+            "options": [
+                "A. Reply to an invitation.",
+                "B. Write an e-mail.",
+                "C. Order a supply closet.",
+                "D. Go to the second floor."
+            ]
+        },
+        "47": {
+            "image": "",
+            "question": "Where do the speakers work?",
+            "options": [
+                "A. At an electronics store.",
+                "B. At a software company.",
+                "C. At a clothing store.",
+                "D. At a photography studio."
+            ]
+        },
+        "48": {
+            "image": "",
+            "question": "What does the man want to do with the website?",
+            "options": [
+                "A. Make the interface easier.",
+                "B. Enlarge the font.",
+                "C. Change the colors.",
+                "D. Reduce the number of menus."
+            ]
+        },
+        "49": {
+            "image": "",
+            "question": "What does the woman suggest doing?",
+            "options": [
+                "A. Hiring a professional.",
+                "B. Lowering the prices.",
+                "C. Changing the color scheme.",
+                "D. Including more images."
+            ]
+        },
+        "50": {
+            "image": "",
+            "question": "What does the man talk about?",
+            "options": [
+                "A. His upcoming business trip.",
+                "B. His co-worker's wedding.",
+                "C. Where the conference should be.",
+                "D. His unfinished reports."
+            ]
+        },
+        "51": {
+            "image": "",
+            "question": "What does the woman mention about the venue?",
+            "options": [
+                "A. They provide excellent services.",
+                "B. She had her wedding at the venue.",
+                "C. The venue may be booked quickly.",
+                "D. They don't have enough rooms."
+            ]
+        },
+        "52": {
+            "image": "",
+            "question": "What does the woman offer to do?",
+            "options": [
+                "A. Send out emails.",
+                "B. Work on newsletters.",
+                "C. Contact co-workers.",
+                "D. Help a co-worker."
+            ]
+        },
+        "53": {
+            "image": "",
+            "question": "What are the speakers mainly discussing?",
+            "options": [
+                "A. An issue with the new contract.",
+                "B. The new contract has longer vacation.",
+                "C. A vacation in America.",
+                "D. Flights and accommodation."
+            ]
+        },
+        "54": {
+            "image": "",
+            "question": "What does the woman mean when she says \"I'm on my way to appointment\"?",
+            "options": [
+                "A. She has a lunch meeting.",
+                "B. She doesn't have much time to talk.",
+                "C. She wants the man to sign the contract.",
+                "D. She has a lot of time to talk."
+            ]
+        },
+        "55": {
+            "image": "",
+            "question": "What does the woman want to know?",
+            "options": [
+                "A. If he will sign the new contract.",
+                "B. If he can come to her office at 3:00 P.M.",
+                "C. If he is going to Europe for vacation.",
+                "D. If he has paid for his trip already."
+            ]
+        },
+        "56": {
+            "image": "",
+            "question": "What does the man imply when he says \"Some of us from the accounting department are going to Dreamworld on Saturday for a team bonding day\"?",
+            "options": [
+                "A. He is recommending the theme park.",
+                "B. He needs some documents signed.",
+                "C. He wants the sales figures for this month.",
+                "D. He is inviting her to join them."
+            ]
+        },
+        "57": {
+            "image": "",
+            "question": "What does the woman say about her plans?",
+            "options": [
+                "A. She can't change them.",
+                "B. She can change them.",
+                "C. She doesn't have any plans.",
+                "D. She doesn't want to go."
+            ]
+        },
+        "58": {
+            "image": "",
+            "question": "What does the woman offer to do?",
+            "options": [
+                "A. Pick everyone up in her car.",
+                "B. Meet them at the amusement park.",
+                "C. Book the tickets online.",
+                "D. Pay for the tickets with cash."
+            ]
+        },
+        "59": {
+            "image": "",
+            "question": "Where are the speakers planning to go?",
+            "options": [
+                "A. To the cinemas.",
+                "B. To a restaurant.",
+                "C. To a friend's house.",
+                "D. To a Broadway show."
+            ]
+        },
+        "60": {
+            "image": "",
+            "question": "What does the woman offer to do?",
+            "options": [
+                "A. Buy the tickets.",
+                "B. Call John and tell him something.",
+                "C. Pick John up in the car.",
+                "D. Send John a text message."
+            ]
+        },
+        "61": {
+            "image": "",
+            "question": "What does the man offer to give to the woman?",
+            "options": [
+                "A. Money for parking.",
+                "B. A text message.",
+                "C. A bottle of champagne.",
+                "D. A ride to the show."
+            ]
+        },
+        "62": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_62_64.png",
+            "question": "What does the woman ask?",
+            "options": [
+                "A. If the body wash is on sale.",
+                "B. If he has a loyalty card.",
+                "C. If he wants to use a credit card.",
+                "D. If the body wash is good."
+            ]
+        },
+        "63": {
+            "image": "",
+            "question": "Look at the graphic. Why is the gift card rejected?",
+            "options": [
+                "A. Because he is in the wrong store.",
+                "B. It has already been used too many times.",
+                "C. The purchase is below $100.",
+                "D. It is for another item."
+            ]
+        },
+        "64": {
+            "image": "",
+            "question": "What does the woman offer to do?",
+            "options": [
+                "A. Find some other products.",
+                "B. Give him a new card.",
+                "C. Get her manager.",
+                "D. Hold his products at the counter."
+            ]
+        },
+        "65": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_65_67.png",
+            "question": "What is happening next month?",
+            "options": [
+                "A. An annual software convention.",
+                "B. Their software is being upgraded.",
+                "C. The software will be sold early.",
+                "D. The monthly hardware update."
+            ]
+        },
+        "66": {
+            "image": "",
+            "question": "Look at the graphic. Which department is on the 2nd floor?",
+            "options": [
+                "A. Accounting.",
+                "B. Human Resources Department.",
+                "C. Research and Development.",
+                "D. Customer Service Call Center."
+            ]
+        },
+        "67": {
+            "image": "",
+            "question": "What does the man suggest the woman do?",
+            "options": [
+                "A. Call Human Resources.",
+                "B. Call her manager.",
+                "C. Call the sales department.",
+                "D. Call the software company."
+            ]
+        },
+        "68": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_68_70.png",
+            "question": "Why does the women call?",
+            "options": [
+                "A. To cancel a flight.",
+                "B. To register a membership.",
+                "C. To use her mileage points.",
+                "D. To confirm an appointment."
+            ]
+        },
+        "69": {
+            "image": "",
+            "question": "Look at the graphic. How many points does the woman currently have?",
+            "options": [
+                "A. 20,000 points.",
+                "B. 40,000 points.",
+                "C. 50,000 points.",
+                "D. 70,000 points."
+            ]
+        },
+        "70": {
+            "image": "",
+            "question": "What does the man ask the woman to tell him?",
+            "options": [
+                "A. Her plane ticket.",
+                "B. Her membership number.",
+                "C. Her cell phone number.",
+                "D. Her flight itinerary."
+            ]
+        }
+    },
+    "part_4": {
+        "71": {
+            "image": "",
+            "question": "Who is the message probably for?",
+            "options": [
+                "A. A carpenter.",
+                "B. A store manager.",
+                "C. A furniture designer.",
+                "D. A bank teller."
+            ]
+        },
+        "72": {
+            "image": "",
+            "question": "According to the speaker, when does he think he lost his wallet?",
+            "options": [
+                "A. When he used a dressing room.",
+                "B. When he visited a bookstore.",
+                "C. When he presented his ID card.",
+                "D. When he tried some furniture."
+            ]
+        },
+        "73": {
+            "image": "",
+            "question": "What does the speaker plan to do?",
+            "options": [
+                "A. Replace an item.",
+                "B. Call the police.",
+                "C. Go to a store again.",
+                "D. Stop by the listener's home."
+            ]
+        },
+        "74": {
+            "image": "",
+            "question": "Who most likely is the speaker?",
+            "options": [
+                "A. A historian.",
+                "B. An artist.",
+                "C. An antique dealer.",
+                "D. A museum guide."
+            ]
+        },
+        "75": {
+            "image": "",
+            "question": "What is mentioned about the exhibit?",
+            "options": [
+                "A. It is sponsored by the Egyptian government.",
+                "B. Most of its artifacts had not been seen by the public.",
+                "C. It will run until the end of the month.",
+                "D. It includes works from modern Egyptian artists."
+            ]
+        },
+        "76": {
+            "image": "",
+            "question": "According to the speaker, how can listeners receive more information?",
+            "options": [
+                "A. By reading a sign.",
+                "B. By searching online.",
+                "C. By purchasing a publication.",
+                "D. By listening to a presentation."
+            ]
+        },
+        "77": {
+            "image": "",
+            "question": "What has caused the problem?",
+            "options": [
+                "A. A traffic accident.",
+                "B. A heavy workload.",
+                "C. Inclement weather.",
+                "D. A vehicle malfunction."
+            ]
+        },
+        "78": {
+            "image": "",
+            "question": "According to the speaker, when is the bus scheduled to arrive at the destination?",
+            "options": [
+                "A. 4:00 P.M.",
+                "B. 5:00 P.M.",
+                "C. 6:00 P.M.",
+                "D. 7:00 P.M."
+            ]
+        },
+        "79": {
+            "image": "",
+            "question": "What does the bus provide to passengers?",
+            "options": [
+                "A. Free Internet access.",
+                "B. A discounted ticket.",
+                "C. A complimentary meal.",
+                "D. A comfortable connecting bus service."
+            ]
+        },
+        "80": {
+            "image": "",
+            "question": "Who is being introduced?",
+            "options": [
+                "A. A chef.",
+                "B. A backpacker.",
+                "C. A critic.",
+                "D. A producer."
+            ]
+        },
+        "81": {
+            "image": "",
+            "question": "What is the documentary about?",
+            "options": [
+                "A. World-famous restaurants.",
+                "B. Traditional Chinese cuisine.",
+                "C. A celebrity's life.",
+                "D. Popular recipe books."
+            ]
+        },
+        "82": {
+            "image": "",
+            "question": "According to the speaker, what can listeners find on the website?",
+            "options": [
+                "A. A review.",
+                "B. A menu.",
+                "C. A preview.",
+                "D. An interview."
+            ]
+        },
+        "83": {
+            "image": "",
+            "question": "What type of products are being discussed?",
+            "options": [
+                "A. Computer parts.",
+                "B. Hair products.",
+                "C. Beauty products.",
+                "D. Cell phones."
+            ]
+        },
+        "84": {
+            "image": "",
+            "question": "According to the speaker, what happened last month?",
+            "options": [
+                "A. Sales went down.",
+                "B. A product launch went better than expected.",
+                "C. Their products were featured in a magazine.",
+                "D. Another company took over their contract."
+            ]
+        },
+        "85": {
+            "image": "",
+            "question": "What does the woman mean when she says \"How about that?\".",
+            "options": [
+                "A. She doesn't understand the situation.",
+                "B. She expected a customer return policy.",
+                "C. She wants to purchase some products.",
+                "D. She is happy with the company's progress."
+            ]
+        },
+        "86": {
+            "image": "",
+            "question": "According to the speaker, why are changes being made?",
+            "options": [
+                "A. Because of poor working condition.",
+                "B. To save the company money.",
+                "C. So that they can afford a Christmas party.",
+                "D. He expected a better contract."
+            ]
+        },
+        "87": {
+            "image": "",
+            "question": "What does the speaker imply when he says, \"when the software is installed I don't think you will need any training\"?",
+            "options": [
+                "A. The new system is easy to learn.",
+                "B. He doesn't want to train people.",
+                "C. There is no budget for training.",
+                "D. Everyone must attend a meeting."
+            ]
+        },
+        "88": {
+            "image": "",
+            "question": "What does the speaker tell the listeners they will have to start bringing to work?",
+            "options": [
+                "A. Extra uniforms.",
+                "B. Other people's lunch.",
+                "C. Their own lunch.",
+                "D. A new contract."
+            ]
+        },
+        "89": {
+            "image": "",
+            "question": "What position is being advertised?",
+            "options": [
+                "A. Legal assistant.",
+                "B. Dental assistant.",
+                "C. Foreign coordinator.",
+                "D. Bank manager."
+            ]
+        },
+        "90": {
+            "image": "",
+            "question": "What does the man imply when he asks, \"Have you seen the criteria for the dental assistant position?\".",
+            "options": [
+                "A. He is looking at some forms.",
+                "B. He is asking if Julia is familiar with the requirements.",
+                "C. He needs some extra work done.",
+                "D. He wants to learn more about them."
+            ]
+        },
+        "91": {
+            "image": "",
+            "question": "Why does the man want to meet the woman?",
+            "options": [
+                "A. To teach him the criteria.",
+                "B. To make some changes to his office.",
+                "C. To sign the contract.",
+                "D. To change the criteria."
+            ]
+        },
+        "92": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_92_94.png",
+            "question": "Who most likely is the speaker?",
+            "options": [
+                "A. A content developer.",
+                "B. A secretary.",
+                "C. A store manager.",
+                "D. A police officer."
+            ]
+        },
+        "93": {
+            "image": "",
+            "question": "Why most likely is the speaker calling?",
+            "options": [
+                "A. To confirm the size on an order.",
+                "B. To request some delivery information.",
+                "C. To send an extra gift.",
+                "D. To purchase a new set of cards."
+            ]
+        },
+        "94": {
+            "image": "",
+            "question": "Look at the graphic. Who can give the listener planning advice?",
+            "options": [
+                "A. John Trizz.",
+                "B. Don Trenton.",
+                "C. Shubert Mendez.",
+                "D. Sally Howle."
+            ]
+        },
+        "95": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_95_97.png",
+            "question": "Look at the graphic. What is the name of the guest's new album?",
+            "options": [
+                "A. Valleys of Fire.",
+                "B. Step It Up.",
+                "C. Tunnel Vision.",
+                "D. Talk Down."
+            ]
+        },
+        "96": {
+            "image": "",
+            "question": "What does the speaker say influences the guest's music?",
+            "options": [
+                "A. Getting married.",
+                "B. Moving to America.",
+                "C. Moving to London.",
+                "D. Meeting Joey Denton."
+            ]
+        },
+        "97": {
+            "image": "",
+            "question": "What will the guest most likely do next?",
+            "options": [
+                "A. Move back to his hometown.",
+                "B. Get engaged to his girlfriend.",
+                "C. Release a new album.",
+                "D. Get married to his girlfriend."
+            ]
+        },
+        "98": {
+            "image": "crawled_html/New Economy TOEIC Test 2/img/eco_toeic_1000_test_2_eco_toeic_1000_test_2_98_100.png",
+            "question": "Look at the graphic. What floor are they on?",
+            "options": [
+                "A. 3rd.",
+                "B. 4th.",
+                "C. 5th.",
+                "D. 6th."
+            ]
+        },
+        "99": {
+            "image": "",
+            "question": "What is the reason for the celebration?",
+            "options": [
+                "A. Introducing a new employee.",
+                "B. Mr. Jang's birthday.",
+                "C. The retirement of Mr. Jang.",
+                "D. A wedding anniversary."
+            ]
+        },
+        "100": {
+            "image": "",
+            "question": "Who is Mr. Hopkins?",
+            "options": [
+                "A. Mr. Jang's nephew.",
+                "B. A colleague of Mr. Jang.",
+                "C. The owner of the company.",
+                "D. A waiter."
+            ]
+        }
+    },
+    "part_5": {
+        "101": {
+            "question": "With the help of one of the IT technicians, the missing accounting files have been _____.",
+            "options": [
+                "A. recover",
+                "B. recovers",
+                "C. recovering",
+                "D. recovered"
+            ]
+        },
+        "102": {
+            "question": "A private reception for gallery donors will be _____ on March 5, prior to the grand opening of the exhibit.",
+            "options": [
+                "A. held",
+                "B. faced",
+                "C. claimed",
+                "D. made"
+            ]
+        },
+        "103": {
+            "question": "Aurora Furnishings is finding it difficult to make a profit in its _____ competitive market.",
+            "options": [
+                "A. increases",
+                "B. increased",
+                "C. increasingly",
+                "D. increase"
+            ]
+        },
+        "104": {
+            "question": "A minor electrical malfunction was discovered by the pilot _____ before the plane took off.",
+            "options": [
+                "A. barely",
+                "B. shortly",
+                "C. absolutely",
+                "D. exclusively"
+            ]
+        },
+        "105": {
+            "question": "We will make a final decision about changing the landscaping of the property after reviewing the _____ costs.",
+            "options": [
+                "A. estimation",
+                "B. estimate",
+                "C. estimated",
+                "D. estimating"
+            ]
+        },
+        "106": {
+            "question": "My Health Co. has produced a wide range of vitamin supplements for _____ two decades.",
+            "options": [
+                "A. along",
+                "B. during",
+                "C. over",
+                "D. when"
+            ]
+        },
+        "107": {
+            "question": "The April edition of Fishing and More magazine looks _____ different from previous issues because of the new art editor.",
+            "options": [
+                "A. completed",
+                "B. complete",
+                "C. completely",
+                "D. completing"
+            ]
+        },
+        "108": {
+            "question": "The customer's order _____ will be sent by e-mail within twenty-four hours.",
+            "options": [
+                "A. confirmation",
+                "B. confirms",
+                "C. confirmed",
+                "D. confirm"
+            ]
+        },
+        "109": {
+            "question": "The maintenance team's repair requests should be _____ in groups according to the urgency.",
+            "options": [
+                "A. organizing",
+                "B. organize",
+                "C. organized",
+                "D. organizes"
+            ]
+        },
+        "110": {
+            "question": "Following Ms. Rivera's _____ statement, the official awards ceremony for Plex Industries will commence.",
+            "options": [
+                "A. brief",
+                "B. straight",
+                "C. former",
+                "D. steep"
+            ]
+        },
+        "111": {
+            "question": "Due to the high volume of foot traffic, the shop must polish its floors more _____ than usual during the peak season.",
+            "options": [
+                "A. frequent",
+                "B. frequented",
+                "C. frequency",
+                "D. frequently"
+            ]
+        },
+        "112": {
+            "question": "The Master Gardeners Club had to _____ its monthly meeting because the community center's conference room was double-booked.",
+            "options": [
+                "A. prepare",
+                "B. oppose",
+                "C. postpone",
+                "D. extend"
+            ]
+        },
+        "113": {
+            "question": "Financial advisors report that older investors tend to be _____ than their younger counterparts.",
+            "options": [
+                "A. cautious",
+                "B. cautioned",
+                "C. more cautious",
+                "D. caution"
+            ]
+        },
+        "114": {
+            "question": "Mr. Albrecht's _____ in replying to the HR director's e-mail demonstrated that he was highly interested in the position.",
+            "options": [
+                "A. promptness",
+                "B. prompted",
+                "C. prompt",
+                "D. promptly"
+            ]
+        },
+        "115": {
+            "question": "The soccer players usually practice on the main field at Waterbury Park, but they sometimes practice _____.",
+            "options": [
+                "A. everybody",
+                "B. twice",
+                "C. yet",
+                "D. elsewhere"
+            ]
+        },
+        "116": {
+            "question": "The accountants were unable to produce a full report by the deadline but promised that _____ would give a summary of the important points.",
+            "options": [
+                "A. their",
+                "B. themselves",
+                "C. they",
+                "D. theirs"
+            ]
+        },
+        "117": {
+            "question": "Despite having some problems with the sound system during the performance, the concert was an _____ experience for everyone.",
+            "options": [
+                "A. enjoyable",
+                "B. enjoyment",
+                "C. enjoys",
+                "D. enjoyably"
+            ]
+        },
+        "118": {
+            "question": "_____ the building has an excellent location and a modern interior, it is popular among visitors.",
+            "options": [
+                "A. In view of",
+                "B. Provided that",
+                "C. Other than",
+                "D. Seeing that"
+            ]
+        },
+        "119": {
+            "question": "The Parks and Recreation Department offers _____ opportunities for volunteers to improve the community.",
+            "options": [
+                "A. reward",
+                "B. rewards",
+                "C. rewarded",
+                "D. rewarding"
+            ]
+        },
+        "120": {
+            "question": "The vacant rooms on the inn's second floor have _____ been cleaned.",
+            "options": [
+                "A. most",
+                "B. every",
+                "C. some",
+                "D. all"
+            ]
+        },
+        "121": {
+            "question": "The short story cannot be reprinted _____ explicit permission from the writer.",
+            "options": [
+                "A. without",
+                "B. regarding",
+                "C. among",
+                "D. unlike"
+            ]
+        },
+        "122": {
+            "question": "The restaurant has a _____ decorated room that is perfect for hosting children's parties.",
+            "options": [
+                "A. cheerful",
+                "B. cheerfully",
+                "C. cheerfulness",
+                "D. cheer"
+            ]
+        },
+        "123": {
+            "question": "A wildlife expert is scheduled to give a talk on the _____ that the factory has had on the surrounding forest.",
+            "options": [
+                "A. components",
+                "B. degree",
+                "C. requirements",
+                "D. impact"
+            ]
+        },
+        "124": {
+            "question": "The landlord raised the monthly rent for the first time in several years, and _____ so.",
+            "options": [
+                "A. reasonable",
+                "B. reasonably",
+                "C. reason",
+                "D. reasons"
+            ]
+        },
+        "125": {
+            "question": "As long as there are no further delays, the factory will be fully _____ by June",
+            "options": [
+                "A. operational",
+                "B. operate",
+                "C. operates",
+                "D. operation"
+            ]
+        },
+        "126": {
+            "question": "Thanks to his experience, Mr. Warren is _____ capable of completing the job on his own.",
+            "options": [
+                "A. certainly",
+                "B. certain",
+                "C. certainty",
+                "D. certify"
+            ]
+        },
+        "127": {
+            "question": "Because of _____ fuel costs, some people are choosing to stay home for the summer vacation rather than drive to tourist sites.",
+            "options": [
+                "A. rising",
+                "B. above",
+                "C. dependable",
+                "D. lengthy"
+            ]
+        },
+        "128": {
+            "question": "The green light on the side of the water purifier lights up _____ the filter needs to be replaced.",
+            "options": [
+                "A. likewise",
+                "B. whenever",
+                "C. therefore",
+                "D. whereas"
+            ]
+        },
+        "129": {
+            "question": "Two items in Ms. Burke's order were out of stock, so her invoice was adjusted _____.",
+            "options": [
+                "A. continuously",
+                "B. accordingly",
+                "C. immeasurably",
+                "D. recognizably"
+            ]
+        },
+        "130": {
+            "question": "The notice indicated that a first-aid training course will be provided free of charge to _____ next month.",
+            "options": [
+                "A. residents",
+                "B. residence",
+                "C. residential",
+                "D. resides"
+            ]
+        }
+    },
+    "part_6": {
+        "131": {
+            "passage": "Employee Spring TrainingLawrence Paper is dedicated to helping all of its employees fulfill their potential. That is why we have once again organized 2 days of spring training. Human Resources has put together a wide range of topics for this year's workshops, _____(131) sales techniques, computer skills, communication strategies, and goal setting. We still have two workshop time slots available, so if there is something you've been dying to learn about, please let us know. It's quite possible we _____(132) it into this year's spring training. _____(133). Feel free to _____(134) any ideas you might have to Nancy Kensington in the human resources department.NLKensington@lawrencepaper.com",
+            "img": "",
+            "options": [
+                "A. distributing",
+                "B. locating",
+                "C. including",
+                "D. advancing"
+            ]
+        },
+        "132": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. were incorporating",
+                "B. should incorporate",
+                "C. are incorporating",
+                "D. could incorporate"
+            ]
+        },
+        "133": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. If we get many suggestions, we could also hold a workshop on the following weekend, December 4th.",
+                "B. We'll be finalizing our choices by the end of the week.",
+                "C. A large amount of time and energy has gone into organizing this conference.",
+                "D. Inviting friends and family to these events is always encouraged."
+            ]
+        },
+        "134": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. create",
+                "B. request",
+                "C. submit",
+                "D. transfer"
+            ]
+        },
+        "135": {
+            "passage": "Vander PropertiesVander Properties has been serving Houston for over 29 years. It is through our commitment to providing the highest degree of expertise market knowledge and _____(135) service that we are recognized as an industry leader.We specialize in _____(136) and corporate real estate here in the Denver area. _____(137) you are looking to buy a new home or start a new business, we are the people you should be talking with. With our office centrally located downtown, we have our eyes on the whole city. Browse our site for listing, or give us a call today. _____(138).www.vanderproperties.comPhone: (313) 782-9919Address: 834 Walton St.",
+            "img": "",
+            "options": [
+                "A. personalize",
+                "B. personalizes",
+                "C. personalizing",
+                "D. personalized"
+            ]
+        },
+        "136": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. productive",
+                "B. promoted",
+                "C. relevant",
+                "D. residential"
+            ]
+        },
+        "137": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. Whether",
+                "B. Even if",
+                "C. Even though",
+                "D. Whenever"
+            ]
+        },
+        "138": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. Take a drive out of town and come see us today.",
+                "B. We appreciate your assistance.",
+                "C. Of course, drop-ins are always welcome.",
+                "D. Our kitchen is open from eight to five daily."
+            ]
+        },
+        "139": {
+            "passage": "Pizza Chef WantedPapa Gino's is hiring, and all _____(139) applicants will be considered. _____(140). Even if you have no experience, training will be provided if you meet our requirements. To meet our requirements, you must have a _____(141) health card, reliable transportation, and be able to work evenings and weekends. Please apply in person at Papa Gino's on State and Pine. _____(142) look forward to meeting you.",
+            "img": "",
+            "options": [
+                "A. qualify",
+                "B. qualification",
+                "C. qualified",
+                "D. to qualify"
+            ]
+        },
+        "140": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. We are looking for candidates that have some experience in Italian food.",
+                "B. We are looking for candidates that have experience fishing.",
+                "C. We are looking for people who can fish.",
+                "D. We are looking for people who want to practice."
+            ]
+        },
+        "141": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. valid",
+                "B. working",
+                "C. effective",
+                "D. strong"
+            ]
+        },
+        "142": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. She",
+                "B. They",
+                "C. We",
+                "D. He"
+            ]
+        },
+        "143": {
+            "passage": "November 11\nJohn Adams\nTri-State, Apt 408\nNew York, NY\n10873Dear Mr. Adams,I am pleased to inform you that you _____(143) as one of the finalists for the position of sales director at Goldie Saks. Over 100 applicants applied for the _____(144) but we have narrowed down our list to 8 candidates. You will be called in for an interview on November 15 from 1:00 P.M. to 6:00 P.M. _____(145). The location will be the company headquarters. Our assistant, Miss Lane, will meet you at the main lobby and take you to the interview room.For the candidates that do well in these interviews, there will be a second interview. We will let you know as soon as possible whether you _____(146).Please call us at 555-1234 if you have any further questions. We hope to see you soon.Sincerely,Jennifer LawExecutive Manager",
+            "img": "",
+            "options": [
+                "A. were choosing",
+                "B. had chosen",
+                "C. have been chosen",
+                "D. chose"
+            ]
+        },
+        "144": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. position",
+                "B. location",
+                "C. career",
+                "D. appointment"
+            ]
+        },
+        "145": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. The building is easy to locate.",
+                "B. We would like you to come in at 1:00 P.M.",
+                "C. Our interviewers will ask you several questions.",
+                "D. You will be given a specific schedule."
+            ]
+        },
+        "146": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. enable",
+                "B. approve",
+                "C. refuse",
+                "D. qualify"
+            ]
+        }
+    },
+    "part_7": {
+        "147": {
+            "img": {},
+            "passage": "This Amazing World Photography Competition\nThe monthly travel magazine \nThis Amazing World\n is offering a discounted subscription rate for those who sign up during the month of November. \nThis Amazing World\n has been in print for over 30 years and offers readers insider tips and expert know-how to help you plan the vacation of your dreams. The magazine includes vacation package advertisements, reviews from travelers, and insightful essays to introduce you to various cultures, cuisines, and travel destinations.\nSubmit your travel photos to our This Amazing World Photography Competition for a chance to win a fantastic vacation to Scotland! The winner of the top prize will receive round-trip tickets and a $2,000 travel voucher for a hotel stay for two people.",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is a literary journal.",
+                "B. It includes a recipe book as a supplement.",
+                "C. It provides travel advice.",
+                "D. It has an online version."
+            ]
+        },
+        "148": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is sponsored by professional photographers.",
+                "B. It awards a complimentary vacation to the winner.",
+                "C. It accepts digital photos only.",
+                "D. It features photos of Scotland."
+            ]
+        },
+        "149": {
+            "img": {},
+            "passage": "Liz Bradley\n 8:14\nSir, the arrangements have been made for your meeting with Mr. Johnson tomorrow afternoon. I've reserved a table for two at Sheraton Restaurant at 1:00 P.M.\nBernie Gibbs \n8:17\nThank you. And have you compiled the reports that I'll need at the meeting?\nLiz Bradley\n 8:18\nMost of them, yes. I'm still waiting for Michael Steel's report. He told me that he would have them ready for me sometime this morning.\nBernie Gibbs\n 8:20\nWell, they should have been completed last night. Can you contact him and see what's going on?\n(Michael Steel has been added to the conversation 8:26)\nLiz Bradley\n 8:27\nMichael, Mr. Gibbs wants to know where the reports are. Are you finished with them?\nMichael Steel\n 8:28\nI apologize for the delay. Our intern accidentally deleted some files. I had to scour the database to locate the backup material. It was a bit of a headache sorting through the files that I needed but I think I have everything organized and I'm printing them out now.\nLiz Bradley\n 8:29\nCan you bring them to me as soon as you're done?\nMichael Steel \n8:30\nOf course. I'll be there in 10 minutes.",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. An intern",
+                "B. A receptionist",
+                "C. A business partner",
+                "D. An executive"
+            ]
+        },
+        "150": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To have him give an update about the missing reports",
+                "B. To inform him about the upcoming meeting",
+                "C. To let him know about the deadline",
+                "D. To scold him for his lack of punctuality"
+            ]
+        },
+        "151": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He took his time writing the report.",
+                "B. He had to back up all the information first.",
+                "C. He needed time to find the missing data.",
+                "D. The computer was out of order."
+            ]
+        },
+        "152": {
+            "img": {},
+            "passage": "www.turnerandco.com\nTurner & Co.\n158 Baskin Road, Redwood Bay, UK\nPhone: 243-555-1541\nHOME | ABOUT US | PRODUCTS | REPLACEMENT | CONTACT US\nTurner & Co. has produced beautiful, energy-efficient windows that meet the taste and expectations of our customers since its founding in 1949. When you choose Turner & Co., you are buying more than just a window. You will be receiving the excellent services of our professionals who have been performing superb work for decades. We are passionate about helping you choose a quality window that exactly fits the specifications of your home. Additionally, we are fully committed to environmental protection and have recently been recognized for our sustainable business practices by the Environmental Protection Agency (EPA).",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. An insurance company",
+                "B. A window manufacturer",
+                "C. A landscaping company",
+                "D. A window cleaning service provider"
+            ]
+        },
+        "153": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is a family-run business.",
+                "B. Its branches are located nationwide.",
+                "C. It is an eco-friendly company.",
+                "D. It has recently hired experienced employees."
+            ]
+        },
+        "154": {
+            "img": {},
+            "passage": "From: \nSam Bell\nTo: \nJane Brooks\nJane, please let me know Mr. Fraser's phone number. He has some data I need right now. I am a little behind schedule on the monthly financial report, and I need to dedicate all my time to it today.",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To ask for a favor",
+                "B. To postpone a deadline",
+                "C. To cancel a meeting",
+                "D. To request a document"
+            ]
+        },
+        "155": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He is unable to attend a meeting.",
+                "B. He expects profits to increase.",
+                "C. He is trying to meet a deadline.",
+                "D. He was recently hired."
+            ]
+        },
+        "156": {
+            "img": {},
+            "passage": "SEOUL (July 19) - Breamin's Group opened the doors to its first B&G clothing shop on the famed Abgujeong Rodeo street in South Korea to long lines of frantic shoppers. -[1]- The frenzy was over the limited edition line designed by Marichio Bucci in partnership with B&G. Within just a couple of hours of opening the doors, most of the Bucci design items were sold out. Similar reports of chaos and empty shelves which once held items from the Bucci line were echoed in major cities around the world including New York, London, Tokyo, and Milan. -[2]- Although B&G has released limited edition collaborations with other famous designers, this is the first time that B&G shops have reported a complete depletion of items within hours of its release. The Bucci and B&G collaboration is the most successful to date and, already, talks are in progress over future collaborations for more clothing lines. -[3]- Meanwhile in Seoul, shoppers who were unable to purchase from the Bucci line were disappointed but excited to have the popular retailer open in Korea. -[4]-",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. They have stores around the world.",
+                "B. They only sell items designed by Bucci.",
+                "C. The company has a few branches in Korea.",
+                "D. Their products usually sell out within hours."
+            ]
+        },
+        "157": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It took years to put together.",
+                "B. It was only sold in select stores.",
+                "C. It's one of the most profitable collaborations for the company.",
+                "D. It will only be a one-time event."
+            ]
+        },
+        "158": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. [1]",
+                "B. [2]",
+                "C. [3]",
+                "D. [4]"
+            ]
+        },
+        "159": {
+            "img": {},
+            "passage": "MEMO\nTo: \nAll Staff\nFrom: \nElizabeth Paine\nDate: \nJanuary 24\nSubject: \nSick Leave\nAttention employees,\nWe are going to make adjustments to our policies concerning sick leave here at Zimnet Corporation. We are considering reducing the number of paid vacation days and instead increasing the number of paid sick days available to employees. Before we make any changes, we would like to gather the opinions of employees on this matter. Please e-mail Tony Nugent at tonynugent@zimnet.com. He will be collecting and analyzing your responses. Afterward, Management will produce a corresponding policy proposal by February 24. Once the proposal has been made, a meeting will be called to discuss its implementation among all of our employees. I hope this process can be helpful to all of our employees, and please be active in your participation.\nSincerely,\nElizabeth Paine",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To suggest a budget proposal",
+                "B. To solicit feedback",
+                "C. To revise incorrect information",
+                "D. To announce survey results"
+            ]
+        },
+        "160": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A medical doctor",
+                "B. A product developer",
+                "C. An investment analyst",
+                "D. A personnel employee"
+            ]
+        },
+        "161": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Announce a merger",
+                "B. Hire a medical specialist",
+                "C. Participate in a tour",
+                "D. Schedule a meeting"
+            ]
+        },
+        "162": {
+            "img": {},
+            "passage": "Penny Jones\n 3:27\nI just got a call from Martin that his client Mr. Patrick would like to have his order two weeks earlier than originally planned. So, by next week Monday essentially. Do you think this is possible? I'd like your input.\nKaren Norman\n 3:28\nThere's no problem on our end. Most of the leather has already been cut. We've already sent many of the pieces to be sewn. The rest of the work should take a couple of hours.\nNeil Park \n3:29\nThe handles are complete and about half the bags are near completion. I'll get them to Lauren soon. I think we should be able to finish sewing the bags by tomorrow evening.\nPenny Jones\n 3:30\nI'm glad to hear that most of the handbags are almost finished. Lauren, how long will it take to get the hardware attached or sewn in?\nLauren Nichols\n 3:31\nWe're currently working on the Jenk and Cenk twin's orders...\nPenny Jones \n3:32\nWe have more than enough time to complete the twin's orders so I can authorize your workers to put aside that project for now. How long will Mr. Patrick's order take?\nLauren Nichols\n 3:33\nThe zippers need to be sewn in but the studs will be glued, which makes the work easier. I think we need about a day.\nKevin Harding\n 3:34\nIt'll take us only a couple of hours to have the order packaged safely to be shipped.\nPenny Jones\n 3:35\nThank you so much. I'll let our client know.",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A clothing shop",
+                "B. A furniture company",
+                "C. A shoe store",
+                "D. A handbag business"
+            ]
+        },
+        "163": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Karen Norman's",
+                "B. Neil Park's",
+                "C. Lauren Nichols'",
+                "D. Kevin Harding's"
+            ]
+        },
+        "164": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To inform everyone that they have their own clients",
+                "B. To explain why they refuse to help",
+                "C. To imply that they are busy with another project",
+                "D. To make everyone speed up their work"
+            ]
+        },
+        "165": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. That his order will be finished two weeks later",
+                "B. That his request can be fulfilled",
+                "C. That his order will cost him extra money",
+                "D. That there may be a delay to his order"
+            ]
+        },
+        "166": {
+            "img": {},
+            "passage": "Business Hours in Early March\nDue to the current construction on Shilling Street, we have been forced to revise our business hours for the first week in March (see the chart above.) During the morning hours, the construction makes it difficult for customers to reach our location by car. We will be extending our evening hours to accommodate this change. Additionally, due to the construction, our parking lot is also currently inaccessible. Therefore, during this period, customers are asked to utilize public parking spaces available on Patch Street. We apologize for this inconvenience and strive to be back to normal soon.",
+            "table": {
+                "1": {
+                    "rows": 2,
+                    "cols": 7,
+                    "1_1": "Monday",
+                    "1_2": "Tuesday",
+                    "1_3": "Wednesday",
+                    "1_4": "Thursday",
+                    "1_5": "Friday",
+                    "1_6": "Saturday",
+                    "1_7": "Sunday",
+                    "2_1": "2:00PM - 9:00PM",
+                    "2_2": "2:00PM - 8:00PM",
+                    "2_3": "3:00PM - 9:00PM",
+                    "2_4": "4:00PM - 9:00PM",
+                    "2_5": "2:00PM - 9:00PM",
+                    "2_6": "2:00PM - 10:00PM",
+                    "2_7": "9:00AM - 6:00PM"
+                }
+            },
+            "question": "question",
+            "option": [
+                "A. A renovation project",
+                "B. A store expansion",
+                "C. A change in operating hours",
+                "D. A work schedule"
+            ]
+        },
+        "167": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. On Monday",
+                "B. On Wednesday",
+                "C. On Saturday",
+                "D. On Sunday"
+            ]
+        },
+        "168": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To find a place to park",
+                "B. To visit a new store location",
+                "C. To take part in a promotional event",
+                "D. To receive a sample"
+            ]
+        },
+        "169": {
+            "img": {},
+            "passage": "For Sale by Owner\nPalmer Standard Cabin Yacht\nAsking price: $45,000 or best offer\nBasic Specifications:\nThis boat was built four years ago. It is 12 feet wide by 36 feet long. The hull is made of fiberglass, making it light yet strong. The boat includes 2 double bedrooms as well as a sleeper sofa, kitchen, and bathroom.\nFeatures:\nThis boat is very stable and offers a spacious deck. It is perfect for large families and social gatherings. It includes an eight-speaker sound system with USB connectivity. It also has a lockable storage compartment where personal belongings can be kept.\nAdditional Information:\nI have owned and operated this boat for three and a half years. The boat comes with a five-year warranty that still has one and a half years remaining. The warranty is transferable to the buyer upon purchase.\nIf you would like to see or test-ride the boat, contact Gary Thompson at 654-555-8715.",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is a fishing boat.",
+                "B. Its original paint color has been changed.",
+                "C. It can accommodate a group of people.",
+                "D. It is currently being repaired."
+            ]
+        },
+        "170": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Capability to play music",
+                "B. A lightweight construction material",
+                "C. Ample sleeping accommodations",
+                "D. A fuel-efficient engine"
+            ]
+        },
+        "171": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He will give a boat tour to a potential buyer.",
+                "B. He has young children.",
+                "C. He works at a shipyard.",
+                "D. He wants to sell the warranty separately."
+            ]
+        },
+        "172": {
+            "img": {},
+            "passage": "Travel & Recreation\n123 Gilmore Street\nOrange County, CA 48857\nNovember 15\nMr. Peter Kang\n3820 Rivervalley Heights\nSeattle, WA 19387\nDear Mr. Kang,\nWe at Travel & Recreation thank you for your subscription to our magazine. As you have been a long time subscriber, I am excited to inform you about our new subscription plan for our VIP members. -[1]- As a member, you will continue to receive monthly editions of our magazine and access to our new online e-magazine services. You can simply download a digital version of the print magazine to any mobile device \nat no extra cost.\n -[2]- Furthermore, you can access background information about our authors, journalists, and guest writers, as well as detailed information about the locations and places that are covered in the magazine. In addition, you can access the recipes to the most popular restaurants around the world and, most exciting of all, we will hold an exclusive competition for our VIP members with a chance to win a trip for two to Hawaii. -[3]- Our regular subscribers, as well as VIP members, will have a chance to win a dining experience at 5-star restaurant Bellisimo.\nAgain we thank you for your continued support and we hope you enjoy the many changes we have made to our services as we strive to entertain and educate our loyal subscribers. -[4]- Please fill out the application form that is attached to this letter. Please check which subscription plan you wish to join. If you send in a $100 fee, you will receive the regular subscription plan. If you send in a $200 fee, you will become a VIP member.\nWe appreciate your support and hope to hear from you soon.\nSincerely,\nVictoria Adams",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To remind him to send in his travel journals",
+                "B. To explain about a new subscription plan",
+                "C. To inquire about his travel plans",
+                "D. To determine his qualifications for a position"
+            ]
+        },
+        "173": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A travel itinerary",
+                "B. A new contract",
+                "C. An application form",
+                "D. A revised schedule"
+            ]
+        },
+        "174": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. For a small fee",
+                "B. With a donation",
+                "C. Quite easily",
+                "D. For free"
+            ]
+        },
+        "175": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. [1]",
+                "B. [2]",
+                "C. [3]",
+                "D. [4]"
+            ]
+        },
+        "176": {
+            "img": {},
+            "passage": "Taylor Fabrics\nInvoice\nOrdered by\n: Tammy Fleck Order taken by: Craig Dell\nOrder date\n: August 11 Estimated delivery date: August 14-16\nDelivery address\n: 628 Green Circle Drive, Austin, TX 78701\nE-mail\n: tfleck@capnet.com Mobile phone: (512) 555-9782\nTo: \ncustomerservice@taylorfabrics.com\nFrom: \nTammy Fleck (tfleck@capnet.com)\nDate:\n August 25\nSubject: \nDelivery Delay\nDear Customer Service,\nI received my order from Taylor Fabrics yesterday that I placed two weeks ago. Not only was the package delivered later than promised, but one of my orders was incorrectly shipped. The invoice correctly reflects my wish to receive 5 yards of the floral pattern fabric, but only 2 yards of it were delivered. Because of this error, I won't be able to complete the dress I was making for my friend's birthday. I am very disappointed.\nOnce this issue has been resolved and the additional fabric has been sent, please send a text message to my mobile phone.\nThank you,\nTammy Fleck",
+            "table": {
+                "1": {
+                    "rows": 7,
+                    "cols": 3,
+                    "1_1": "Quantity",
+                    "1_2": "Item",
+                    "1_3": "Description",
+                    "2_1": "Price",
+                    "2_2": "4 yards",
+                    "2_3": "Fabric 10",
+                    "3_1": "Solid white",
+                    "3_2": "$28.00",
+                    "3_3": "5 yards",
+                    "4_1": "Fabric 38",
+                    "4_2": "Floral pattern",
+                    "4_3": "$50.00",
+                    "5_1": "6 yards",
+                    "5_2": "Fabric 41",
+                    "5_3": "Checkered pattern",
+                    "6_1": "$48.00",
+                    "6_2": "2 yards",
+                    "6_3": "Fabric 48",
+                    "7_1": "Leopard pattern",
+                    "7_2": "$30.00",
+                    "7_3": ""
+                }
+            },
+            "question": "question",
+            "option": [
+                "A. A designer",
+                "B. A salesperson",
+                "C. A customer",
+                "D. A manufacturer"
+            ]
+        },
+        "177": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. She is a long-term customer of Taylor Fabrics.",
+                "B. She is a professional fashion designer.",
+                "C. She is a former employee of Taylor Fabrics.",
+                "D. She will be partially paid back for her purchase."
+            ]
+        },
+        "178": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Her credit card was incorrectly charged.",
+                "B. She wants to return an item.",
+                "C. She received the incorrect quantity of an item.",
+                "D. One of her orders had the wrong pattern."
+            ]
+        },
+        "179": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Fabric 10",
+                "B. Fabric 38",
+                "C. Fabric 41",
+                "D. Fabric 48"
+            ]
+        },
+        "180": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. By text message",
+                "B. By voice mail",
+                "C. By e-mail",
+                "D. By letter"
+            ]
+        },
+        "181": {
+            "img": {},
+            "passage": "Next Month at the Belmont Historical Society\nDocumentary Film Night: \"Exploring the Arctic\"\nMay 5, Spruce Theater\nPhoto Exhibition: \"America in the 20th Century\"\nOpening Night, May 9, Linda Cameron Art Gallery\nAuthor Talk: Glen Campbell, \"The Culture of Early America\"\nMay 14, Chris Charlton Auditorium\nMusical Performance: \"American Folk Masters\"\nMay 22, Spruce Theater\nChildren and seniors are allowed free entry to all events. Additionally, if you pay the registration fee and become a member of the Belmont Historical Society on our website, you can attend any event free of charge.\nFor questions about booking group visits, contact David Smith at dsmith@belmonthistoricalsociety.com. For more details regarding upcoming events and venue locations, or to rent one of our venues, visit us at www.belmonthistoricalsociety.com.\nTo: \nDavid Smith (dsmith@belmonthistoricalsociety.com)\nFrom: \nJared Tate (jtate@clarkuniversity.com)\nDate: \nApril 22\nSubject: \nGroup Visit\nDear Mr. Smith,\nHello, my name is Jared Tate and I am a professor in the History Department at Clark University in downtown Maryville.\nI am teaching an\n introductory\n history course for freshmen this semester, and I thought it would be helpful to attend the event featuring Mr. Campbell. His talk is very pertinent to the subjects we are currently covering in class.\nI was also wondering if it would be possible to arrange a question-and-answer session between Mr. Campbell and my group of about 50 students. Please tell him that we are looking forward to seeing him.\nI appreciate your reading my e-mail and I hope to hear back from you soon.\nJared Tate\nHistory Department, Clark University",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It does not allow children into some events.",
+                "B. It is run by the city of Belmont.",
+                "C. It was founded by Linda Cameron.",
+                "D. It will hold its events at several places."
+            ]
+        },
+        "182": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Environmental conditions of the Arctic",
+                "B. Early American history",
+                "C. American folk music",
+                "D. Modern photography"
+            ]
+        },
+        "183": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Information about scheduled events",
+                "B. Member registration",
+                "C. Rental details",
+                "D. Descriptions of previous events"
+            ]
+        },
+        "184": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. basic",
+                "B. required",
+                "C. profound",
+                "D. optional"
+            ]
+        },
+        "185": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A signed copy of a book",
+                "B. A detailed survey",
+                "C. A chance to meet a speaker",
+                "D. A group discount"
+            ]
+        },
+        "186": {
+            "img": {},
+            "passage": "Newton Library\nApril Program and Events Schedule\nWe would like to thank all of you who made financial donations that allowed for the purchase of new laptops and the construction of the Media Lab.\n-------------------------\nTo: \nRichard White (rwhite@newtonlibrary.edu)\nFrom: \nLinda Carter (lcarter121@seprus.com)\nDate: \nApril 1\nSubject: \nBeginner English Conversation Club\nHi Mr. White,\nMy name is Linda Carter and I am the instructor for the Beginner English Conversation Club to be \nheld\n on April 10. I noticed that the library recently built the Media Lab with funds raised by library patrons. I was hoping to change classrooms in order to use my new educational resources by integrating computers into my English conversation class. Could you please reschedule my class to be provided in the same classroom as Never Too Late to Learn instead of the Education Center? I think my students will appreciate the practical English skills they can learn on computers. Also, could you please send an e-mail to all of the students who have signed up for the class? They will need to be informed about the room change.\nThank you in advance for your assistance,\nLinda Carter\n-------------------------\nTo:\n Richard White (rwhite@newtonlibrary.edu)\nFrom: \nLinda Carter (lcarter121@seprus.com)\nDate: \nApril 2\nSubject:\n Room Change\nDear Ms. Carter,\nI would be happy to move your Beginners English Conversation course to the classroom with the updated media lab; for your reference, this is room 3A. Unfortunately, I do not have the emails for all of the students who signed up for your course. Many students only provided their names. I could post a sign at the entrance to the library advertising your course and make a note of the room change, if that would be acceptable for you. Please let me know if you would like me to do this.\nThank you and all the best,\nRichard White\nLibrary Projects Coordinator",
+            "table": {
+                "1": {
+                    "rows": 6,
+                    "cols": 4,
+                    "1_1": "Date and Time",
+                    "1_2": "Event",
+                    "1_3": "Location",
+                    "1_4": "Additional Notes",
+                    "2_1": "April 2\n \n7:00 P.M.",
+                    "2_2": "A trip to the Past: Silent Film Series",
+                    "2_3": "Decker Hall",
+                    "2_4": "Join us for a viewing of several films showcasing early American film history.",
+                    "3_1": "April 5\n \n3:00 P.M.",
+                    "3_2": "Youth Creative Writing Workshop",
+                    "3_3": "Youth Wing, Room 304",
+                    "3_4": "Open to all students in high school who want to improve their writing skills.",
+                    "4_1": "April 10\n \n11:00 A.M.",
+                    "4_2": "Beginner English Conversation Club",
+                    "4_3": "Education Center, Room 102",
+                    "4_4": "Join other adults who are learning to speaking English. This class is free.",
+                    "5_1": "April 16\n \n5:00 P.M.",
+                    "5_2": "Never Too Late to Learn",
+                    "5_3": "Media Lab, Room 202",
+                    "5_4": "Learning to use a computer is not just for young people. Join us are we explore the sea of information, using computers. (For senior citizens)",
+                    "6_1": "April 29\n \n10:00 A.M.",
+                    "6_2": "Story Play",
+                    "6_3": "Youth Wing, Room 301",
+                    "6_4": "Play with toys and hear a story. (For ages 0-5)"
+                }
+            },
+            "question": "question",
+            "option": [
+                "A. It recently renovated its facilities.",
+                "B. It will hold a fundraising event soon.",
+                "C. It offers educational activities for various ages.",
+                "D. It is closed on Mondays."
+            ]
+        },
+        "187": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Story Play",
+                "B. Youth Creative Writing Workshop",
+                "C. A Trip to the Past",
+                "D. Never Too Late to Learn"
+            ]
+        },
+        "188": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. carried",
+                "B. attended",
+                "C. delayed",
+                "D. conducted"
+            ]
+        },
+        "189": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He doesn't have their e-mails.",
+                "B. It is not his job.",
+                "C. He does not have the time.",
+                "D. The library is not equipped with that kind of technology."
+            ]
+        },
+        "190": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He can e-mail them.",
+                "B. He can direct them to the right room when they enter.",
+                "C. He will post a sign.",
+                "D. He will draw them a map with directions."
+            ]
+        },
+        "191": {
+            "img": {},
+            "passage": "To: \nTony Walker\nFrom: \nSuzie Mason (smason@icmcorp.com)\nDate:\n May 4\nSubject: \nSummer Calendar\nAttachment:\n budget.doc\nDear Mr. Walker,\nI am finalizing the calendar of summer events for our company. Because we went over budget last year on employee appreciation events, I think it would be wise to find more affordable recreational activities. Attached is a breakdown of projected expenses for summer events that I have planned.\nJuly 6: Anchorage Flower Festival\nJuly 22: Art in the Park at Lawrence Park\nAugust 6: Bicycle Tours of the Anchorage Countryside\nAugust 19: Horseback Riding at Sweet Meadow Ranch\nI have scheduled fewer outdoor activities this year compared to last year. This year I would like to take advantage of a new outdoor recreational opportunity that I read about on the Anchorage Reporter website. You can read the article by clicking on this link: www.anchoragereporter.com/new_trails.\nPlease let me know your opinion,\nSuzie Mason\nHuman Resources Manager\n-------------------------\nAnchorage Reporter\nBike Tours of the Anchorage Countryside to Start August 6\nMay 2\u2014The Anchorage Bike Club will be hosting an annual bike riding event this summer, beginning on August 6 and running through August 7. The event will start at 10:00 A.M. on both days at the Anchorage Community Center. If you are driving vehicle to the starting point, it would be better to use the parking lot behind the community center.\nAnchorage Bike Club President Jean Frost stated, \"The rides will range from 5 to 20 miles and will take bikers through scenic areas in Anchorage. Overall, the bike tours will go ahead at a leisurely pace so that bikers of all skill levels can participate. However, local bikers with ample experience might lead a faster-paced group.\"\nBikers in the tours will learn about riding techniques, bicycle maintenance, and proper nutrition half an hour before the event starts. All participants must have biking helmets on. They are also encouraged to bring their own water to prevent dehydration while biking.\n-------------------------\nBICYCLE TOUR SIGN-UP SHEET\nIf you intend to participate in the August 6 bicycle tour, please write down your name, department, and level of experience or fitness. If we have enough people sign up as advanced, we can coordinate two separate tours. If there are not enough for two tours, we would like to encourage all riders to stay together so that everyone can join in the team building exercises we have planned. Thank you for your participation and we look forward to seeing everyone at the event!",
+            "table": {
+                "1": {
+                    "rows": 6,
+                    "cols": 3,
+                    "1_1": "Name",
+                    "1_2": "Department",
+                    "1_3": "Fitness/experience",
+                    "2_1": "Tom Cruz",
+                    "2_2": "Sales",
+                    "2_3": "Beginner",
+                    "3_1": "Vin Jones",
+                    "3_2": "Inventory",
+                    "3_3": "Beginner",
+                    "4_1": "Sally Jenkins",
+                    "4_2": "Inventory",
+                    "4_3": "Beginner",
+                    "5_1": "Barbara Blaster",
+                    "5_2": "Reception",
+                    "5_3": "Advanced",
+                    "6_1": "Hope Kinski",
+                    "6_2": "Sales",
+                    "6_3": "Beginner"
+                }
+            },
+            "question": "question",
+            "option": [
+                "A. Keeping within a budget for recreational activities",
+                "B. Appointing a new manager of human resources",
+                "C. Increasing the number of temporary employees",
+                "D. Scheduling more outdoor activities compared to last year"
+            ]
+        },
+        "192": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. July 6",
+                "B. July 22",
+                "C. August 6",
+                "D. August 19"
+            ]
+        },
+        "193": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Economy",
+                "B. Leisure",
+                "C. Entertainment",
+                "D. Politics"
+            ]
+        },
+        "194": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It will be cancelled.",
+                "B. There will be two groups, one for beginners, one for advanced.",
+                "C. There will be only one group.",
+                "D. They will stop along the way for a group meal and photo."
+            ]
+        },
+        "195": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. She will become bored and quit the tour.",
+                "B. She will complain that more people should sign up as advanced.",
+                "C. She will join a faster-paced group of more experienced bikers.",
+                "D. She will stay with the group to participate in group activities."
+            ]
+        },
+        "196": {
+            "img": {},
+            "passage": "Four Seasons Apparel Outlet\nAll returns must be sent back to Four Seasons Apparel Outlet within 7 days of delivery. They can be exchanged for a different item or returned for a refund. If you choose a refund, we will credit the card used for purchase.\nIndividuals with official memberships can utilize our delivery tracking service and receive frequent shopper discounts.\nReturn shipment(s) to:\nFour Seasons Apparel Outlet, 144 Fenton Rd., Denver, CO 80725 (303-555-4387)\nCheck the option that best describes your problem:\n\u2610 Product contained a defect or damage\n\u2610Product did not match expectations\n\u2611 Wrong item was delivered\n\u2610 Other ____________________\nPersonal Information:\nName\n: Sally Nelson\nOrder Number\n: 2245\nPhone\n: 432-555-6729\nAddress\n: 2154 Oak St, Denver, CO 80725 E-mail: snelson@clandon.net\n\u2611 Exchange \u2610 Refund\nI ordered a medium-sized Snowy Christmas Sweater from your online store on April 22, but I mistakenly receive a small-sized one. I would like to exchange it for the correct one.\n-------------------------\nFrom: \nDebra Clarke (debraclarke@fourseasons.com)\nTo: \nSally Nelson (snelson@clandon.net)\nDate: \nApril 30\nSubject:\n Exchange\nDear Ms. Nelson,\nWe have received your request to exchange the sweater you purchased. We sincerely apologize for this mistake. We shipped the correct item immediately \nas per\n your request. Your shipment can be tracked on our website using the following tracking number: 447H57J.\nBecause this was our mistake, we have returned $7 to your credit card in order to reimburse you for the return shipping costs. Please check your balance to confirm this.\nIf you experience any future problems with this order, you may call me at 303-555-4387. I will help you solve any problem that may arise.\nDebra Clarke\n-------------------------\nTo:\n Sally Nelson (snelson@clandon.net)\nFrom: \nDebra Clarke (debraclarke@fourseasons.com)\nDate: \nMay 4\nSubject: \nReturn Error\nDear Ms. Clarke,\nI was glad to receive your email regarding my return and am thankful that Four Seasons was thoughtful enough to refund my shipping cost.\nThat being said, I checked my account and have received the promised refund. Additionally, the new sweater that was sent to me was the right size, but I had ordered the Snowy Christmas design. What I received was Winter Festival. They are both nice sweaters, but my husband really liked Snowy Christmas better. Could you please send the design that I originally ordered? I will send the Winter Festival sweater back after I receive the correct order and my shipping refund.\nThank you!\nSally Nelson",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It was damaged.",
+                "B. It does not fit.",
+                "C. It arrived late.",
+                "D. It has not reached its destination."
+            ]
+        },
+        "197": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. regardless of",
+                "B. except for",
+                "C. rather than",
+                "D. according to"
+            ]
+        },
+        "198": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. She recently moved to Denver.",
+                "B. She ordered a gift for a friend.",
+                "C. She has a Four Seasons Apparel Outlet membership.",
+                "D. She waited too long to request a refund."
+            ]
+        },
+        "199": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. The size was incorrect.",
+                "B. The design was incorrect.",
+                "C. The size and design were incorrect.",
+                "D. Too much money was refunded to her from her original purchase."
+            ]
+        },
+        "200": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. When she receives her correct order and the shipping refund.",
+                "B. When she has time.",
+                "C. When her husband is happy with his sweater.",
+                "D. When Four Seasons apologizes for her inconvenience."
+            ]
+        }
+    }
+}
