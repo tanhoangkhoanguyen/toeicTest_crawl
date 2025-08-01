@@ -1,9 +1,9 @@
 {
     "title": "New Economy TOEIC Test 8",
-    "audio": "crawled_html/New Economy TOEIC Test 8/audio/Test8.mp3",
+    "audio": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/audio/Test8.mp3",
     "part_1": {
         "1": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/db53a8ecd4c544c7df0503cd26663c67eeb6d141.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/db53a8ecd4c544c7df0503cd26663c67eeb6d141.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -12,7 +12,7 @@
             ]
         },
         "2": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/860e10cc27754e70466674e9294d7b205481a978.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/860e10cc27754e70466674e9294d7b205481a978.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -21,7 +21,7 @@
             ]
         },
         "3": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/cefabdbd570ade54f235fbab8cc1eae92939bce0.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/cefabdbd570ade54f235fbab8cc1eae92939bce0.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -30,7 +30,7 @@
             ]
         },
         "4": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/e328c2bf092f3e8918de056442a6efbdbd7cff65.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/e328c2bf092f3e8918de056442a6efbdbd7cff65.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -39,7 +39,7 @@
             ]
         },
         "5": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/dba9ef785eee4f6c2bb6b27719836af3f11cc7fe.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/dba9ef785eee4f6c2bb6b27719836af3f11cc7fe.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -48,7 +48,7 @@
             ]
         },
         "6": {
-            "image": "crawled_html/New Economy TOEIC Test 8/img/a2c41beff97972bc67fd04247be59dd784240943.jpg",
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/a2c41beff97972bc67fd04247be59dd784240943.jpg",
             "options": [
                 "A.",
                 "B.",
@@ -1203,7 +1203,7 @@
     "part_6": {
         "131": {
             "passage": "",
-            "img": "crawled_html/New Economy TOEIC Test 8/img/02d3133b29b9d48c79c191b0059f247ae2bb4e3e.jpg",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/02d3133b29b9d48c79c191b0059f247ae2bb4e3e.jpg",
             "options": [
                 "A. promotion",
                 "B. promoting",
@@ -1243,7 +1243,7 @@
         },
         "135": {
             "passage": "",
-            "img": "crawled_html/New Economy TOEIC Test 8/img/d0163c2ab5dc26aa47d8aaf9d428931ff70f0839.jpg",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/d0163c2ab5dc26aa47d8aaf9d428931ff70f0839.jpg",
             "options": [
                 "A. has began",
                 "B. will begin",
@@ -1283,7 +1283,7 @@
         },
         "139": {
             "passage": "",
-            "img": "crawled_html/New Economy TOEIC Test 8/img/2b3cabd1587075d22ba0dd32933dcbeb03ae3662.jpg",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/2b3cabd1587075d22ba0dd32933dcbeb03ae3662.jpg",
             "options": [
                 "A. working",
                 "B. work",
@@ -1323,7 +1323,7 @@
         },
         "143": {
             "passage": "",
-            "img": "crawled_html/New Economy TOEIC Test 8/img/5be10970d0ac979307cc076580f20e11e2189655.jpg",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/5be10970d0ac979307cc076580f20e11e2189655.jpg",
             "options": [
                 "A. message",
                 "B. to write",
@@ -1365,7 +1365,7 @@
     "part_7": {
         "147": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/08e443e4cffc1735e752bc13fe0b99b97c78adda.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/08e443e4cffc1735e752bc13fe0b99b97c78adda.jpg"
             },
             "passage": "",
             "table": {},
@@ -1391,7 +1391,7 @@
         },
         "149": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/c0ba3eb614ecd342a58d21cbde93141440330ace.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/c0ba3eb614ecd342a58d21cbde93141440330ace.jpg"
             },
             "passage": "",
             "table": {},
@@ -1417,7 +1417,7 @@
         },
         "151": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/2dd6d311548015d3aaebd810a8990280c0232c7e.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/2dd6d311548015d3aaebd810a8990280c0232c7e.jpg"
             },
             "passage": "",
             "table": {},
@@ -1443,7 +1443,7 @@
         },
         "153": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/6e22ea1b461e6e01e20292380c502dab68474ac2.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/6e22ea1b461e6e01e20292380c502dab68474ac2.jpg"
             },
             "passage": "",
             "table": {},
@@ -1469,7 +1469,7 @@
         },
         "155": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/7d27a5da493ece85a1bdbea02702f5f167c16d3b.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/7d27a5da493ece85a1bdbea02702f5f167c16d3b.jpg"
             },
             "passage": "",
             "table": {},
@@ -1519,7 +1519,7 @@
         },
         "159": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/336e68a95ee91b3c7d6c69f76e85eea639aade82.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/336e68a95ee91b3c7d6c69f76e85eea639aade82.jpg"
             },
             "passage": "",
             "table": {},
@@ -1557,7 +1557,7 @@
         },
         "162": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/85b4d68da9db65d665cee561b6a979b8a8e9c1ca.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/85b4d68da9db65d665cee561b6a979b8a8e9c1ca.jpg"
             },
             "passage": "",
             "table": {},
@@ -1607,7 +1607,7 @@
         },
         "166": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/47b7920ecfd7e16aa16194cd4ee2d52005652c16.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/47b7920ecfd7e16aa16194cd4ee2d52005652c16.jpg"
             },
             "passage": "",
             "table": {},
@@ -1645,7 +1645,7 @@
         },
         "169": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/dabecb01400c7a1112bbe81286876e71149c3e32.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/dabecb01400c7a1112bbe81286876e71149c3e32.jpg"
             },
             "passage": "",
             "table": {},
@@ -1683,7 +1683,7 @@
         },
         "172": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/2174e8af02a6d295893c3f802f7203c943018aa6.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/2174e8af02a6d295893c3f802f7203c943018aa6.jpg"
             },
             "passage": "",
             "table": {},
@@ -1733,8 +1733,8 @@
         },
         "176": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/06b52904e52de88a077b8beb769069959a5ef87e.jpg",
-                "2": "crawled_html/New Economy TOEIC Test 8/img/be8c371e7966c01afdffd3711337e82821026582.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/06b52904e52de88a077b8beb769069959a5ef87e.jpg",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/be8c371e7966c01afdffd3711337e82821026582.jpg"
             },
             "passage": "",
             "table": {},
@@ -1796,8 +1796,8 @@
         },
         "181": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/2203ca918c9a296bb0b80e5b59e98febe3d3173e.jpg",
-                "2": "crawled_html/New Economy TOEIC Test 8/img/5ab997cbe4ee1247e04b9f8da9e37aab04edbf36.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/2203ca918c9a296bb0b80e5b59e98febe3d3173e.jpg",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/5ab997cbe4ee1247e04b9f8da9e37aab04edbf36.jpg"
             },
             "passage": "",
             "table": {},
@@ -1859,9 +1859,9 @@
         },
         "186": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/79e407ec4141246c36656710d63858f98c9d9d2f.jpg",
-                "2": "crawled_html/New Economy TOEIC Test 8/img/f1d3280a7aa7e84d219135586ad2a47682fa7023.jpg",
-                "3": "crawled_html/New Economy TOEIC Test 8/img/69d15e955fd12d5c44aa378af267c2fe1a4f5d19.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/79e407ec4141246c36656710d63858f98c9d9d2f.jpg",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/f1d3280a7aa7e84d219135586ad2a47682fa7023.jpg",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/69d15e955fd12d5c44aa378af267c2fe1a4f5d19.jpg"
             },
             "passage": "",
             "table": {},
@@ -1923,9 +1923,9 @@
         },
         "191": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/5a510dc2676d421bbfc91624490b767c56d88717.jpg",
-                "2": "crawled_html/New Economy TOEIC Test 8/img/eddf83413ea91259e53f5e9585c7f91722c04ee7.jpg",
-                "3": "crawled_html/New Economy TOEIC Test 8/img/023af8925fa28dad4492233aaa159b563b130977.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/5a510dc2676d421bbfc91624490b767c56d88717.jpg",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/eddf83413ea91259e53f5e9585c7f91722c04ee7.jpg",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/023af8925fa28dad4492233aaa159b563b130977.jpg"
             },
             "passage": "",
             "table": {},
@@ -1987,9 +1987,9 @@
         },
         "196": {
             "img": {
-                "1": "crawled_html/New Economy TOEIC Test 8/img/b23734d3b6e1364149502d4e14ae93a068aef313.jpg",
-                "2": "crawled_html/New Economy TOEIC Test 8/img/d52e27fa77bc7963d87460783d81572165f4628f.jpg",
-                "3": "crawled_html/New Economy TOEIC Test 8/img/3811f8cde6f98a080fe28eb6858da410f43b47d1.jpg"
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/b23734d3b6e1364149502d4e14ae93a068aef313.jpg",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/d52e27fa77bc7963d87460783d81572165f4628f.jpg",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/New Economy TOEIC Test 8/img/3811f8cde6f98a080fe28eb6858da410f43b47d1.jpg"
             },
             "passage": "",
             "table": {},

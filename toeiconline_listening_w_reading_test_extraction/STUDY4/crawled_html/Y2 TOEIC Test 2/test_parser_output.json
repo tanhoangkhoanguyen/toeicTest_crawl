@@ -1,0 +1,2053 @@
+{
+    "title": "Y2",
+    "audio": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/audio/Test2_fixed.mp3",
+    "part_1": {
+        "1": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image311.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "2": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image34.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "3": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image269.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "4": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image327.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "5": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image12.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "6": {
+            "image": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image54.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        }
+    },
+    "part_2": {
+        "7": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "8": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "9": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "10": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "11": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "12": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "13": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "14": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "15": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "16": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "17": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "18": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "19": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "20": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "21": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "22": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "23": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "24": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "25": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "26": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "27": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "28": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "29": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "30": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "31": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        }
+    },
+    "part_3": {
+        "32": {
+            "image": "",
+            "question": "Where do the speakers work?",
+            "options": [
+                "A. At an event planning agency",
+                "B. At a marketing firm",
+                "C. Ata magazine publisher",
+                "D. At a cooking equipment store"
+            ]
+        },
+        "33": {
+            "image": "",
+            "question": "Who most likely is Ms. Yoon?",
+            "options": [
+                "A. A potential supplier",
+                "B. Areal estate agent",
+                "C. A celebrity chef",
+                "D. A Web site designer"
+            ]
+        },
+        "34": {
+            "image": "",
+            "question": "What does the man say he will do in the afternoon?",
+            "options": [
+                "A. Edit a digital video",
+                "B. Assemble a list",
+                "C. Install a computer",
+                "D. Lead a facility tour"
+            ]
+        },
+        "35": {
+            "image": "",
+            "question": "What does the woman hope to do?",
+            "options": [
+                "A. Modify an online order",
+                "B. Return a defective product",
+                "C. Obtain a store credit card",
+                "D. Cancel a loyalty club membership"
+            ]
+        },
+        "36": {
+            "image": "",
+            "question": "What information does the man ask for?",
+            "options": [
+                "A. An address",
+                "B. An error code",
+                "C. The spelling of a name",
+                "D. The date of a transaction"
+            ]
+        },
+        "37": {
+            "image": "",
+            "question": "What does the man say the woman must do?",
+            "options": [
+                "A. Visit a store branch",
+                "B. Pack an item for shipping",
+                "C. Open a Web page",
+                "D. Keep an invoice"
+            ]
+        },
+        "38": {
+            "image": "",
+            "question": "Why does the man talk to the woman?",
+            "options": [
+                "A. To offer help with a development process",
+                "B. To inform her of a financial difficulty",
+                "C. To arrange an educational opportunity",
+                "D. To remind her about an upcoming merger"
+            ]
+        },
+        "39": {
+            "image": "",
+            "question": "What does the woman recommend doing?",
+            "options": [
+                "A. Hiring additional part-time staff",
+                "B. Raising some quality standards",
+                "C. Signing up for evening classes",
+                "D. Showing product-testing methods"
+            ]
+        },
+        "40": {
+            "image": "",
+            "question": "What does the man ask the woman to do?",
+            "options": [
+                "A. Clean a work area",
+                "B. Speak with a team manager",
+                "C. Update a software program",
+                "D. Photocopy a report"
+            ]
+        },
+        "41": {
+            "image": "",
+            "question": "What does the man want to have painted?",
+            "options": [
+                "A. A delivery vehicle",
+                "B. Some store windows",
+                "C. Awarehouse floor",
+                "D. Some furniture"
+            ]
+        },
+        "42": {
+            "image": "",
+            "question": "What kind of company does the man operate?",
+            "options": [
+                "A. A clothing shop",
+                "B. A catering service",
+                "C. A laundry-cleaning business",
+                "D. A plumbing company"
+            ]
+        },
+        "43": {
+            "image": "",
+            "question": "What does the woman suggest the man do?",
+            "options": [
+                "A. Delay a promotional sale",
+                "B. View some sample designs",
+                "C. Load some packages into a van",
+                "D. Choose a type of paint"
+            ]
+        },
+        "44": {
+            "image": "",
+            "question": "Where does the conversation most likely take place?",
+            "options": [
+                "A. At a nature park",
+                "B. At an art gallery",
+                "C. At a plant nursery",
+                "D. At a toy store"
+            ]
+        },
+        "45": {
+            "image": "",
+            "question": "What does the man say he will do tomorrow?",
+            "options": [
+                "A. Give a gift",
+                "B. Decorate an office",
+                "C. Move to a new house",
+                "D. Go on a picnic"
+            ]
+        },
+        "46": {
+            "image": "",
+            "question": "According to the man, what is most important about a product?",
+            "options": [
+                "A. How beautiful it is",
+                "B. How inexpensive it is",
+                "C. How easy it will be to maintain",
+                "D. How soon it will be available"
+            ]
+        },
+        "47": {
+            "image": "",
+            "question": "What is the purpose of the man\u2019s visit?",
+            "options": [
+                "A. To meet a client for lunch",
+                "B. To deliver some documents",
+                "C. To conduct a site inspection",
+                "D. To install some equipment"
+            ]
+        },
+        "48": {
+            "image": "",
+            "question": "What does the man express frustration with?",
+            "options": [
+                "A. A mobile app",
+                "B. A carrying case",
+                "C. A machine part",
+                "D. A supervisor\u2019s instructions"
+            ]
+        },
+        "49": {
+            "image": "",
+            "question": "What does the woman imply when she says, \u201cit's really noticeable\u201d?",
+            "options": [
+                "A. She is proud of a project's results.",
+                "B. The man cannot leave an item in the lobby.",
+                "C. A problem must be addressed quickly.",
+                "D. A location is not difficult to find."
+            ]
+        },
+        "50": {
+            "image": "",
+            "question": "What is the conversation mainly about?",
+            "options": [
+                "A. Improving laboratory conditions",
+                "B. Repeating an experiment",
+                "C. Selecting student interns",
+                "D. Publishing a scientific paper"
+            ]
+        },
+        "51": {
+            "image": "",
+            "question": "What does the woman want to change?",
+            "options": [
+                "A. A time frame",
+                "B. The focus of a text",
+                "C. A method of analysis",
+                "D. The size of a budget"
+            ]
+        },
+        "52": {
+            "image": "",
+            "question": "What does the man say he will do?",
+            "options": [
+                "A. Buy a measuring device",
+                "B. Register for a conference",
+                "C. Edit some passages",
+                "D. Schedule a meeting"
+            ]
+        },
+        "53": {
+            "image": "",
+            "question": "What will happen in June?",
+            "options": [
+                "A. A Recycling program will be introduced.",
+                "B. A parking area will be upgraded.",
+                "C. Ajob recruitment campaign will begin.",
+                "D. A series of staff workshops will be held."
+            ]
+        },
+        "54": {
+            "image": "",
+            "question": "What does the woman suggest doing?",
+            "options": [
+                "A. Spending more money on office electronics",
+                "B. Providing staff discounts on goods",
+                "C. Using a new transportation link",
+                "D. Allowing staff to work from home"
+            ]
+        },
+        "55": {
+            "image": "",
+            "question": "Where will the woman share some information with others?",
+            "options": [
+                "A. On a bulletin board near a door",
+                "B. At an all-staff meeting",
+                "C. In a text message",
+                "D. On a company Web site"
+            ]
+        },
+        "56": {
+            "image": "",
+            "question": "Why does the man want to speak to the woman?",
+            "options": [
+                "A. To order a refill of a medication",
+                "B. To reschedule an appointment",
+                "C. To complain about a treatment",
+                "D. To find out the results of a test"
+            ]
+        },
+        "57": {
+            "image": "",
+            "question": "What will the man do next week?",
+            "options": [
+                "A. Take a vacation",
+                "B. Appear in a performance",
+                "C. Increase his insurance coverage",
+                "D. Undergo a surgical procedure"
+            ]
+        },
+        "58": {
+            "image": "",
+            "question": "What does the woman recommend?",
+            "options": [
+                "A. Going to sleep earlier",
+                "B. Avoiding excessive sunlight",
+                "C. Seeing another doctor",
+                "D. Reducing the amount of medication used"
+            ]
+        },
+        "59": {
+            "image": "",
+            "question": "What possibility is being discussed?",
+            "options": [
+                "A. The expansion of a company",
+                "B. The renovation of a store",
+                "C. The creation of an association",
+                "D. The purchase of an appliance"
+            ]
+        },
+        "60": {
+            "image": "",
+            "question": "What does the woman imply when she says, \u201cIt\u2019s just that business has been really good recently\u201d?",
+            "options": [
+                "A. She needs help with some work.",
+                "B. She is surprised by a criticism.",
+                "C. She is dissatisfied with a decision.",
+                "D. She thinks a change is unnecessary."
+            ]
+        },
+        "61": {
+            "image": "",
+            "question": "Why will the woman go to Rissville?",
+            "options": [
+                "A. To conduct market research",
+                "B. To look into an application process",
+                "C. To talk to a construction contractor",
+                "D. To hand out promotional flyers"
+            ]
+        },
+        "62": {
+            "image": "",
+            "question": "What does the woman say about Reilly beads?",
+            "options": [
+                "A. They are durable.",
+                "B. They are attractive.",
+                "C. They are cheap.",
+                "D. They are small."
+            ]
+        },
+        "63": {
+            "image": "",
+            "question": "Look at the graphic. Which discount does the woman qualify for?",
+            "options": [
+                "A. 5%",
+                "B. 10%",
+                "C. 15%",
+                "D. 20%"
+            ]
+        },
+        "64": {
+            "image": "",
+            "question": "What does the woman plan to do?",
+            "options": [
+                "A. Take a crafting class",
+                "B. Make a birthday present",
+                "C. Compete in a costume contest",
+                "D. Sell handmade jewelry"
+            ]
+        },
+        "65": {
+            "image": "",
+            "question": "Who most likely is the man?",
+            "options": [
+                "A. A government researcher",
+                "B. A science professor",
+                "C. An educational administrator",
+                "D. A university student"
+            ]
+        },
+        "66": {
+            "image": "",
+            "question": "Look at the graphic. Which number will the woman dial?",
+            "options": [
+                "A. 101",
+                "B. 102",
+                "C. 103",
+                "D. 104"
+            ]
+        },
+        "67": {
+            "image": "",
+            "question": "According to the woman, what makes some staff able to help?",
+            "options": [
+                "A. Their artistic skills",
+                "B. Their convenient schedule",
+                "C. Their relevant training",
+                "D. Their access to an online database"
+            ]
+        },
+        "68": {
+            "image": "",
+            "question": "What most likely does the man like to watch?",
+            "options": [
+                "A. Music programs",
+                "B. Travel documentaries",
+                "C. Sports games",
+                "D. Classic films"
+            ]
+        },
+        "69": {
+            "image": "",
+            "question": "Look at the graphic. How much will the man most likely pay per month?",
+            "options": [
+                "A. $60",
+                "B. $45",
+                "C. $40",
+                "D. $35"
+            ]
+        },
+        "70": {
+            "image": "",
+            "question": "What will the woman do next?",
+            "options": [
+                "A. Look at a calendar",
+                "B. Call a technician",
+                "C. Provide a paper contract",
+                "D. Turn on a model television"
+            ]
+        }
+    },
+    "part_4": {
+        "71": {
+            "image": "",
+            "question": "Where does the speaker work?",
+            "options": [
+                "A. At a manufacturing plant",
+                "B. At an appliance store",
+                "C. At a shipping center",
+                "D. At an industry association"
+            ]
+        },
+        "72": {
+            "image": "",
+            "question": "What does the company plan to use the video for?",
+            "options": [
+                "A. Organizing a celebration",
+                "B. Publicizing its strengths",
+                "C. Educating its employees",
+                "D. Discovering potential problems"
+            ]
+        },
+        "73": {
+            "image": "",
+            "question": "What does the speaker instruct listeners to do?",
+            "options": [
+                "A. Write down any questions",
+                "B. Leave at a certain time",
+                "C. Read a notice",
+                "D. Tidy up a space"
+            ]
+        },
+        "74": {
+            "image": "",
+            "question": "Who most likely are the listeners?",
+            "options": [
+                "A. Dental clinic workers",
+                "B. Tax accountants",
+                "C. Hair salon staff",
+                "D. Travel agents"
+            ]
+        },
+        "75": {
+            "image": "",
+            "question": "What problem is the speaker discussing?",
+            "options": [
+                "A. Mislabeled computer files",
+                "B. Undersized equipment",
+                "C. Unsatisfactory customer service",
+                "D. Misleading advertisements"
+            ]
+        },
+        "76": {
+            "image": "",
+            "question": "What will happen by the end of the day?",
+            "options": [
+                "A. A workshop will be announced.",
+                "B. A form of compensation will be determined.",
+                "C. Part of the workplace will be cleared out.",
+                "D. Some coupons will be distributed."
+            ]
+        },
+        "77": {
+            "image": "",
+            "question": "What most likely did the speaker do last Thursday?",
+            "options": [
+                "A. He attended a seminar.",
+                "B. He trained a sales associate.",
+                "C. He gave a building tour.",
+                "D. He helped renovate an office."
+            ]
+        },
+        "78": {
+            "image": "",
+            "question": "Why does the speaker say, \"you'd be among the first residents to move in\"?",
+            "options": [
+                "A. To highlight possible inconveniences",
+                "B. To express frustration with a timeline",
+                "C. To emphasize that an area is quiet",
+                "D. To recommend seizing an opportunity"
+            ]
+        },
+        "79": {
+            "image": "",
+            "question": "What is the listener asked to do?",
+            "options": [
+                "A. Fill out a form",
+                "B. Return a phone call",
+                "C. Look for a contact list",
+                "D. Check an e-mail"
+            ]
+        },
+        "80": {
+            "image": "",
+            "question": "What is the speaker preparing to do?",
+            "options": [
+                "A. Rehearse a performance",
+                "B. Photograph a concert hall",
+                "C. Hold auditions for a position",
+                "D. Make supplies for a play"
+            ]
+        },
+        "81": {
+            "image": "",
+            "question": "What are the listeners asked to take from a box?",
+            "options": [
+                "A. A piece of sheet music",
+                "B. A numbered ticket",
+                "C. A cleaning tool",
+                "D. A pencil sketch"
+            ]
+        },
+        "82": {
+            "image": "",
+            "question": "What will happen after the session?",
+            "options": [
+                "A. Finalists will be chosen.",
+                "B. Permits will be issued.",
+                "C. A song will be recorded.",
+                "D. A stage will be redecorated."
+            ]
+        },
+        "83": {
+            "image": "",
+            "question": "What does the speaker say is opening this week?",
+            "options": [
+                "A. A bicycle trail",
+                "B. A concert venue",
+                "C. A roller coaster",
+                "D. A water fountain"
+            ]
+        },
+        "84": {
+            "image": "",
+            "question": "What did a citizens\u2019 group do to support the project?",
+            "options": [
+                "A. Removed trash from the park",
+                "B. Spoke to government officials",
+                "C. Donated necessary funds",
+                "D. Assisted with construction"
+            ]
+        },
+        "85": {
+            "image": "",
+            "question": "What will park visitors get for free on Friday?",
+            "options": [
+                "A. Parking",
+                "B. Fitness instruction",
+                "C. Beverages",
+                "D. T-shirts"
+            ]
+        },
+        "86": {
+            "image": "",
+            "question": "What is the telephone message mainly about?",
+            "options": [
+                "A. A written proposal",
+                "B. A team\u2019s decision",
+                "C. A colleague\u2019s retirement",
+                "D. A malfunctioning machine"
+            ]
+        },
+        "87": {
+            "image": "",
+            "question": "What does the speaker offer to do?",
+            "options": [
+                "A. Circulate a technical memo",
+                "B. Revise a detail of a financial plan",
+                "C. Assign a certain type of task to the listener",
+                "D. Obtain an outside specialist's input on an idea"
+            ]
+        },
+        "88": {
+            "image": "",
+            "question": "Why does the speaker say, \u201cNot everyone can do that\u2019?",
+            "options": [
+                "A. To give a compliment",
+                "B. To oppose a recommendation",
+                "C. To clarify his job duties",
+                "D. To offer an apology"
+            ]
+        },
+        "89": {
+            "image": "",
+            "question": "What is the speaker mainly discussing?",
+            "options": [
+                "A. Product demonstration procedures",
+                "B. Strategies for negotiating contracts",
+                "C. Nominations for staff awards",
+                "D. Travel reimbursement policies"
+            ]
+        },
+        "90": {
+            "image": "",
+            "question": "What recently happened at the speaker's company?",
+            "options": [
+                "A. A new client was acquired.",
+                "B. An executive was transferred.",
+                "C. Some departments were restructured.",
+                "D. Some rules were changed."
+            ]
+        },
+        "91": {
+            "image": "",
+            "question": "What will the speaker give to the listeners?",
+            "options": [
+                "A. Corporate credit cards",
+                "B. Hotel vouchers",
+                "C. Reference guides",
+                "D. Photo ID badges"
+            ]
+        },
+        "92": {
+            "image": "",
+            "question": "What does the speaker suggest doing?",
+            "options": [
+                "A. Finding cheaper sources of office supplies",
+                "B. Rehearsing for future sales presentations",
+                "C. Updating a company\u2019s customer list",
+                "D. Moving up a production deadline"
+            ]
+        },
+        "93": {
+            "image": "",
+            "question": "What does the speaker say he will do in the afternoon?",
+            "options": [
+                "A. Drive to a research center",
+                "B. Schedule client visits",
+                "C. Use a messaging service",
+                "D. Design a consumer survey"
+            ]
+        },
+        "94": {
+            "image": "",
+            "question": "What does the speaker mean when he says, \u201cuse your best judgment\u201d?",
+            "options": [
+                "A. There is no fixed dress code for an event.",
+                "B. Listeners may prioritize other assignments.",
+                "C. Listeners can decide when to go home.",
+                "D. He will not be available all day today."
+            ]
+        },
+        "95": {
+            "image": "",
+            "question": "What is the speaker concerned about?",
+            "options": [
+                "A. Inaccurate reporting",
+                "B. Damage to plants",
+                "C. Bad weather conditions",
+                "D. Inconvenience to visitors"
+            ]
+        },
+        "96": {
+            "image": "",
+            "question": "What will the speaker post a notice about?",
+            "options": [
+                "A. The opening hours of a business",
+                "B. The requirements for obtaining a refund",
+                "C. The presence of photographers on site",
+                "D. The remodeling of an indoor space"
+            ]
+        },
+        "97": {
+            "image": "",
+            "question": "Look at the graphic. Which day does the speaker suggest scheduling the photo shoot for?",
+            "options": [
+                "A. Tuesday",
+                "B. Wednesday",
+                "C. Thursday",
+                "D. Friday"
+            ]
+        },
+        "98": {
+            "image": "",
+            "question": "What department does the speaker most likely work for?",
+            "options": [
+                "A. Customer Service",
+                "B. Public Relations",
+                "C. Human Resources",
+                "D. Information Technology"
+            ]
+        },
+        "99": {
+            "image": "",
+            "question": "Look at the graphic. Which step does the speaker say was added recently?",
+            "options": [
+                "A. Document screening",
+                "B. Online exam",
+                "C. Phone interview",
+                "D. in-person interview with executives"
+            ]
+        },
+        "100": {
+            "image": "",
+            "question": "What does the speaker say about the position?",
+            "options": [
+                "A. It comes with excellent benefits.",
+                "B. It is attracting many applicants.",
+                "C. It is currently held by Yumiko.",
+                "D. It will be temporary."
+            ]
+        }
+    },
+    "part_5": {
+        "101": {
+            "question": "The head office holds workshops that can prepare_______to lead a team.",
+            "options": [
+                "A. you",
+                "B. your",
+                "C. yourself",
+                "D. yourselves"
+            ]
+        },
+        "102": {
+            "question": "Ms. Kingston decided to reserve transportation to the meeting venue_______the clients.",
+            "options": [
+                "A. but",
+                "B. off",
+                "C. for",
+                "D. down"
+            ]
+        },
+        "103": {
+            "question": "_______attempted to answer questions about local and national history.",
+            "options": [
+                "A. Contests",
+                "B. Contestant",
+                "C. Contesting",
+                "D. Contestants"
+            ]
+        },
+        "104": {
+            "question": "The \"Business Plus\" lecture will outline things you should do_______ after launching a new product.",
+            "options": [
+                "A. immediately",
+                "B. nearly",
+                "C. previously",
+                "D. popularly"
+            ]
+        },
+        "105": {
+            "question": "In its_______ scene, the contemporary musical Picnic at the River depicts a joyful familycelebration.",
+            "options": [
+                "A. final",
+                "B. finally",
+                "C. finality",
+                "D. finalize"
+            ]
+        },
+        "106": {
+            "question": "Customers must write their initials on the dotted lines to indicate their_______ to the terms of the contract.",
+            "options": [
+                "A. consent",
+                "B. receipt",
+                "C. ability",
+                "D. deal"
+            ]
+        },
+        "107": {
+            "question": "The much-anticipated next episode of Cat and Mouse will be_______ tonight at nine on ZLTV.",
+            "options": [
+                "A. transformed",
+                "B. entertained",
+                "C. overcome",
+                "D. broadcast"
+            ]
+        },
+        "108": {
+            "question": "Noted chef Pierre Massasoit has_______ been awarded top prizes in famous cookingcompetitions.",
+            "options": [
+                "A. regular",
+                "B. regularly",
+                "C. regularity",
+                "D. regularize"
+            ]
+        },
+        "109": {
+            "question": "The employees were able to choose among a list of industrial machinery_______ theheadquarters.",
+            "options": [
+                "A. from",
+                "B. after",
+                "C. into",
+                "D. up"
+            ]
+        },
+        "110": {
+            "question": "Because of the poor condition of its furniture, the small conference room is not considered_______for formal meetings.",
+            "options": [
+                "A. appropriate",
+                "B. timely",
+                "C. competent",
+                "D. responsible"
+            ]
+        },
+        "111": {
+            "question": "We were surprised to learn that one of the boxes showed_______ damage after being shipped from the warehouse.",
+            "options": [
+                "A. noticeable",
+                "B. noticeably",
+                "C. notices",
+                "D. noticing"
+            ]
+        },
+        "112": {
+            "question": "Marlexia Shipping Co. will not_______ freight between trucks and trains any longer.",
+            "options": [
+                "A. transferred",
+                "B. transfer",
+                "C. transferring",
+                "D. transfers"
+            ]
+        },
+        "113": {
+            "question": "Onderik Garage carried out a_______ while the vehicle\u2019s owner was out of town.",
+            "options": [
+                "A. modification",
+                "B. modify",
+                "C. modified",
+                "D. modifies"
+            ]
+        },
+        "114": {
+            "question": "The chief technician had_______ to operate the laboratory\u2019s most sensitive instruments at his discretion.",
+            "options": [
+                "A. design",
+                "B. request",
+                "C. permission",
+                "D. benefit"
+            ]
+        },
+        "115": {
+            "question": "The vendor warned that the data conversion project would_______ fall behind schedule due to software issues.",
+            "options": [
+                "A. probably",
+                "B. probable",
+                "C. probabilities",
+                "D. probability"
+            ]
+        },
+        "116": {
+            "question": "Dalamet Publishing asks interviewees to send in salary requirements_______theiravailability.",
+            "options": [
+                "A. also",
+                "B. as well",
+                "C. along with",
+                "D. furthermore"
+            ]
+        },
+        "117": {
+            "question": "The council requests that citizens limit themselves to remarks that are_______ to thetopic under discussion.",
+            "options": [
+                "A. steady",
+                "B. accustomed",
+                "C. obvious",
+                "D. relevant"
+            ]
+        },
+        "118": {
+            "question": "With such a large_______ of tourists visiting the country every month, Narpan Tours Ltd.decided to open a new branch",
+            "options": [
+                "A. role",
+                "B. ground",
+                "C. extent",
+                "D. volume"
+            ]
+        },
+        "119": {
+            "question": "Client support teams should always strive_______ customer satisfaction by offering excellent service.",
+            "options": [
+                "A. increased",
+                "B. to increase",
+                "C. increases",
+                "D. is increasing"
+            ]
+        },
+        "120": {
+            "question": "The building\u2019s roof was weakened during yesterday's storm and_______ must be repaired as soon as possible.",
+            "options": [
+                "A. occasionally",
+                "B. consequently",
+                "C. seldom",
+                "D. easily"
+            ]
+        },
+        "121": {
+            "question": "The Airline Rewards Card is predicted to attract many new customers and lead to _______profits for the bank.",
+            "options": [
+                "A. elevated",
+                "B. practiced",
+                "C. supervised",
+                "D. illustrated"
+            ]
+        },
+        "122": {
+            "question": "Agricultural drones can survey vast areas of farmland _______ a limited time frame.",
+            "options": [
+                "A. within",
+                "B. toward",
+                "C. about",
+                "D. onto"
+            ]
+        },
+        "123": {
+            "question": "The league\u2019s decision that some plays are not_______during a game restricts coaches\u2019opportunities to challenge referees.",
+            "options": [
+                "A. reviewable",
+                "B. review",
+                "C. reviews",
+                "D. reviewing"
+            ]
+        },
+        "124": {
+            "question": "During the factory tour, visitors must not _______with any of the operations inside theproduction plant.",
+            "options": [
+                "A. attain",
+                "B. interfere",
+                "C. comply",
+                "D. prevent"
+            ]
+        },
+        "125": {
+            "question": "The red buses now in operation, _______carry passengers to and from the city, are free for airline employees.",
+            "options": [
+                "A. which",
+                "B. whose",
+                "C. they",
+                "D. their"
+            ]
+        },
+        "126": {
+            "question": "According to the coordinator, several rooms remain _______at our new branch office.",
+            "options": [
+                "A. experienced",
+                "B. momentary",
+                "C. yielding",
+                "D. vacant"
+            ]
+        },
+        "127": {
+            "question": "All throughout last month, Abla-Marc Ltd.\u2019s operating profits_______ analysts\u2019 expectations.",
+            "options": [
+                "A. will be surpassing",
+                "B. are being surpassed",
+                "C. would have been surpassed",
+                "D. have been surpassing"
+            ]
+        },
+        "128": {
+            "question": "The first day of the Pinesville community festival is_______the antiques flea market is held each year.",
+            "options": [
+                "A. any",
+                "B. to",
+                "C. since",
+                "D. when"
+            ]
+        },
+        "129": {
+            "question": "After detailed _______ , scientists have determined the social systems of several species of wildlife.",
+            "options": [
+                "A. observation",
+                "B. observed",
+                "C. observe",
+                "D. observant"
+            ]
+        },
+        "130": {
+            "question": "Make sure to keep the loading area clear _______forklift drivers can maneuver without difficulty.",
+            "options": [
+                "A. whether",
+                "B. in view of",
+                "C. due to",
+                "D. so that"
+            ]
+        }
+    },
+    "part_6": {
+        "131": {
+            "passage": "",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image72.png",
+            "options": [
+                "A. digital",
+                "B. revised",
+                "C. older",
+                "D. estimated"
+            ]
+        },
+        "132": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. how",
+                "B. what",
+                "C. where",
+                "D. there"
+            ]
+        },
+        "133": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. owing to",
+                "B. rather",
+                "C. provided that",
+                "D. instead of"
+            ]
+        },
+        "134": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. For example, the first chapter will be shortened.",
+                "B. The department has promised to consider my proposal.",
+                "C. I think instructors are going to find them very useful.",
+                "D. I am proud of the work those students have done."
+            ]
+        },
+        "135": {
+            "passage": "",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image155.png",
+            "options": [
+                "A. being helped",
+                "B. having helped",
+                "C. to help",
+                "D. helps"
+            ]
+        },
+        "136": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. sewn",
+                "B. dried",
+                "C. filled",
+                "D. opened"
+            ]
+        },
+        "137": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. In response",
+                "B. Namely",
+                "C. Despite that",
+                "D. Therefore"
+            ]
+        },
+        "138": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. Try asking friends and family members for donations.",
+                "B. We thank volunteers in advance for their participation.",
+                "C. Bags have now been made in several more colors.",
+                "D. Eiden Food Bank is located at 905 Pecos Street."
+            ]
+        },
+        "139": {
+            "passage": "",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image78.png",
+            "options": [
+                "A. Residents may be asked to move vehicles away from the curb.",
+                "B. A new treatment plant was expected to improve the situation.",
+                "C. They were attempting to find the source of a nearby leak.",
+                "D. Restructuring efforts are leading to larger work crew sizes."
+            ]
+        },
+        "140": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. exceeding",
+                "B. committing",
+                "C. violating",
+                "D. merging"
+            ]
+        },
+        "141": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. majorly",
+                "B. majored",
+                "C. majors",
+                "D. major"
+            ]
+        },
+        "142": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. confusion",
+                "B. shortage",
+                "C. postponement",
+                "D. corruption"
+            ]
+        },
+        "143": {
+            "passage": "",
+            "img": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image21.png",
+            "options": [
+                "A. freshness",
+                "B. portions",
+                "C. names",
+                "D. diversity"
+            ]
+        },
+        "144": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. A lot of the dishes were too spicy for me.",
+                "B. They had to mail me another copy of the form.",
+                "C. The sign-up promotion was not offered in my city.",
+                "D. Luckily, I had other meal options on those days."
+            ]
+        },
+        "145": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. manufacture",
+                "B. deliver",
+                "C. buy",
+                "D. discard"
+            ]
+        },
+        "146": {
+            "passage": "",
+            "img": "",
+            "options": [
+                "A. user",
+                "B. usage",
+                "C. using",
+                "D. use"
+            ]
+        }
+    },
+    "part_7": {
+        "147": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image178.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Walking paths",
+                "B. Historic houses",
+                "C. A history museum",
+                "D. Various restaurants"
+            ]
+        },
+        "148": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Obtaining Internet access",
+                "B. Parking in a neighboring area",
+                "C. Using a facility on weekends",
+                "D. Taking an indoor tour"
+            ]
+        },
+        "149": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image18.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To outline buyers' preferences",
+                "B. To advertise a product on offer",
+                "C. To supply customizing instructions",
+                "D. To announce a committee's decision"
+            ]
+        },
+        "150": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Cooling down the vehicle",
+                "B. Allowing a passenger to sleep comfortably",
+                "C. Moving the vehicle backwards safely",
+                "D. Saving money on fuel"
+            ]
+        },
+        "151": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image13.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To introduce an industry expert to staff",
+                "B. To seek volunteers to lead workshops",
+                "C. To discuss requirements for a job opening",
+                "D. To announce the winner of an award"
+            ]
+        },
+        "152": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A conference will begin.",
+                "B. An exam will be held.",
+                "C. A certification will expire.",
+                "D. A development team will be formed."
+            ]
+        },
+        "153": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Blandec Resources",
+                "B. Ellis-Iversatt Ltd.",
+                "C. Recall Force Ltd.",
+                "D. Mahlmar Industries"
+            ]
+        },
+        "154": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image158.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A price should be divided evenly.",
+                "B. A car does not have sufficient capacity.",
+                "C. There are larger groups waiting in line.",
+                "D. Another person can take on a responsibility."
+            ]
+        },
+        "155": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Descriptions of some luggage",
+                "B. Directions to a counter",
+                "C. A list of materials",
+                "D. A reservation code"
+            ]
+        },
+        "156": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image123.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. She chose the least expensive type of membership.",
+                "B. She is not a first-time member of the museum.",
+                "C. She prefers not to be contacted by phone.",
+                "D. She will receive a free gift in the mail."
+            ]
+        },
+        "157": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A weekly film series",
+                "B. A collection of sculptures",
+                "C. An informative mobile app",
+                "D. A line of branded stationery"
+            ]
+        },
+        "158": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. [1]",
+                "B. [2]",
+                "C. [3]",
+                "D. [4]"
+            ]
+        },
+        "159": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image91.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To provide an update",
+                "B. To prepare a survey",
+                "C. To issue an invitation",
+                "D. To postpone an event"
+            ]
+        },
+        "160": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. At a celebration",
+                "B. On a social media site",
+                "C. On a television show",
+                "D. At a store's founding location"
+            ]
+        },
+        "161": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image80.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. She wants to promote lesser-known musicians.",
+                "B. She is concerned about falling album sales.",
+                "C. She plans to retire from the music industry.",
+                "D. She supports a technologically superior option."
+            ]
+        },
+        "162": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Feature Ms. Pate on its main page",
+                "B. Offer Ms. Pate's entire past catalog",
+                "C. Sell Ms. Pate's new music immediately",
+                "D. Allow Ms. Pate's works to be streamed for free"
+            ]
+        },
+        "163": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. justify",
+                "B. calculate",
+                "C. represent",
+                "D. perceive"
+            ]
+        },
+        "164": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. [1]",
+                "B. [2]",
+                "C. [3]",
+                "D. [4]"
+            ]
+        },
+        "165": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image60.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. The budget has been decreased.",
+                "B. A supervisor is absent.",
+                "C. A delivery has not arrived yet.",
+                "D. The wrong type of materials was shipped."
+            ]
+        },
+        "166": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. A commercial architect",
+                "B. A journalist for a newspaper",
+                "C. An owner of a restaurant",
+                "D. A local safety inspector"
+            ]
+        },
+        "167": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Ms. Ito will not be able to enter the building.",
+                "B. He is not sure about another crew's plans.",
+                "C. A proposal can be discussed later.",
+                "D. The renovations are almost finished."
+            ]
+        },
+        "168": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Lower the price of a service",
+                "B. Refer customers to a business",
+                "C. Contact an equipment supplier",
+                "D. Lead an upcoming facility tour"
+            ]
+        },
+        "169": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image186.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To edit promotional videos",
+                "B. To manage inventory",
+                "C. To improve data security",
+                "D. To assist in a hiring process"
+            ]
+        },
+        "170": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is available at all times.",
+                "B. It may be administered on site.",
+                "C. It is complimentary for the first year.",
+                "D. It receives excellent reviews from users."
+            ]
+        },
+        "171": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. The ability to display images",
+                "B. Comprehensive guidelines for users",
+                "C. Access to customer contact information",
+                "D. The automatic calculation of total sales"
+            ]
+        },
+        "172": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image304.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To apologize for a delay in park upgrades",
+                "B. To give details about an amendment to a rule",
+                "C. To explain a procedure for making donations",
+                "D. To recruit volunteers for upcoming projects"
+            ]
+        },
+        "173": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Growing additional trees",
+                "B. Increasing the stability of hillsides",
+                "C. Reducing the population of certain insects",
+                "D. Preventing farm animals from damaging plants"
+            ]
+        },
+        "174": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Give an interview on a radio broadcast",
+                "B. Speak about a project at a conference",
+                "C. Join the board of an international organization",
+                "D. Accept an honorary degree from a local university"
+            ]
+        },
+        "175": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Part of it is normally closed to the public.",
+                "B. It currently has two hiking trails.",
+                "C. It will soon offer several picnic areas.",
+                "D. Part of it borders a large lake."
+            ]
+        },
+        "176": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image293.png",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image362.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Shipment tracking",
+                "B. Design templates",
+                "C. Industry news alerts",
+                "D. Analyses of customer data"
+            ]
+        },
+        "177": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. They cannot be copied.",
+                "B. They are very popular.",
+                "C. They are sold in a paper format.",
+                "D. They require considerable extra production time."
+            ]
+        },
+        "178": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It will distribute new coupons to its investors.",
+                "B. It provides wireless Internet access to visitors.",
+                "C. It recently created a page on a social media Web site.",
+                "D. It specializes in books on technology."
+            ]
+        },
+        "179": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is no longer available.",
+                "B. It is not user-friendly.",
+                "C. It does not have many features.",
+                "D. It does not come with customer support."
+            ]
+        },
+        "180": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Establish discussion forums",
+                "B. Remove her from a mailing list",
+                "C. Fix a flaw in its software",
+                "D. Clarify the terms of a contract"
+            ]
+        },
+        "181": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image352.png",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image115.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It offers individualized fitness coaching.",
+                "B. It allows non-members to buy one-day passes.",
+                "C. It permits advance registration for some classes.",
+                "D. It conducts more classes than are named in the flyer."
+            ]
+        },
+        "182": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is accompanied by a video.",
+                "B. It includes a warm-up period.",
+                "C. It divides participants by skill level.",
+                "D. It has a limited number of participants."
+            ]
+        },
+        "183": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. program",
+                "B. habit",
+                "C. trail",
+                "D. load"
+            ]
+        },
+        "184": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Started a new job",
+                "B. Registered for an e-mail account",
+                "C. Taken classes at Mechling Fitness",
+                "D. Joined a social activities club"
+            ]
+        },
+        "185": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Velocity",
+                "B. Pure Exertion",
+                "C. Movement",
+                "D. Spark & Dazzle"
+            ]
+        },
+        "186": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image46.png",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image149.png",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image252.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It includes a link to a calendar.",
+                "B. It is updated at least once a month.",
+                "C. Its \"CATEGORIES\" menu lists 25 types of products.",
+                "D. Its visitors can print special coupons."
+            ]
+        },
+        "187": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. DK21984",
+                "B. SR88953B",
+                "C. FS25371",
+                "D. TC10004B"
+            ]
+        },
+        "188": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Confirm his e-mail address",
+                "B. Clear paths for the movers",
+                "C. Indicate a packaging option",
+                "D. Inspect items upon delivery"
+            ]
+        },
+        "189": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He gave special instructions to Granger Furnishings.",
+                "B. He is expecting a phone call from Mr. Gray.",
+                "C. He added some items to his initial order.",
+                "D. He will arrive at work by 1 P.M."
+            ]
+        },
+        "190": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Mr. Quinn",
+                "B. Ms. Klavansky",
+                "C. Ms. Naquin",
+                "D. Mr. Gray"
+            ]
+        },
+        "191": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image112.png",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image5.png",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image61.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It is streamed live on the Internet.",
+                "B. It is supported by a government agency.",
+                "C. It takes place every two years.",
+                "D. It is divided into age categories."
+            ]
+        },
+        "192": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It was delivered in Johannesburg.",
+                "B. It did not impress judges.",
+                "C. It was one of five performances that day.",
+                "D. It was recorded by a videographer."
+            ]
+        },
+        "193": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. The lighting",
+                "B. The dancers' apparel",
+                "C. The tempo of the music",
+                "D. The stage decorations"
+            ]
+        },
+        "194": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. inflexible",
+                "B. intense",
+                "C. essential",
+                "D. unsociable"
+            ]
+        },
+        "195": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. R1,000",
+                "B. R6,000",
+                "C. R9,000",
+                "D. R12,000"
+            ]
+        },
+        "196": {
+            "img": {
+                "1": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image221.png",
+                "2": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image42.png",
+                "3": "toeiconline_listening_w_reading_test_extraction/STUDY4/crawled_html/Y2 TOEIC Test 2/img/image30.png"
+            },
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. To ask for permission to distribute some content",
+                "B. To remind Mr. Benoit of an approaching deadline",
+                "C. To suggest collaborating on a project",
+                "D. To alert Mr. Benoit to a potential problem"
+            ]
+        },
+        "197": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. He watched a video about Ms. Paxton's firm.",
+                "B. He hired Ms. Paxton to design his Web site.",
+                "C. He is a personal friend of Ms. Paxton.",
+                "D. He is Ms. Paxton's legal representative."
+            ]
+        },
+        "198": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. Released it on compact disc",
+                "B. Played it at a concert",
+                "C. Posted it on the Internet",
+                "D. Agreed to its use in an advertisement"
+            ]
+        },
+        "199": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. \"Bouncing Variations\"",
+                "B. \"To an Android\"",
+                "C. \"Time Scattered Around\"",
+                "D. \"Carriero\""
+            ]
+        },
+        "200": {
+            "img": "",
+            "passage": "",
+            "table": {},
+            "question": "question",
+            "option": [
+                "A. It will discipline an employee.",
+                "B. It was misinformed by Ms. Stefanski.",
+                "C. It has requested the closure of an account.",
+                "D. It will give a public apology to Mr. Benoit."
+            ]
+        }
+    }
+}
