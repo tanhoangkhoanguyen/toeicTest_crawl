@@ -1,0 +1,911 @@
+{
+    "audio": "toeic_data/study4/listening/economy-old-format232_study4/audio/economy_toeic_5_test_6_economy_toeic_5_test_6.mp3",
+    "part_1": {
+        "1": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_1.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "2": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_2.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "3": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_3.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "4": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_4.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "5": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_5.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "6": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_6.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "7": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_7.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "8": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_8.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "9": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_9.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "10": {
+            "image": "toeic_data/study4/listening/economy-old-format232_study4/img/economy_toeic_5_test_6_economy_toeic_5_test_6_10.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        }
+    },
+    "part_2": {
+        "11": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "12": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "13": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "14": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "15": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "16": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "17": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "18": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "19": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "20": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "21": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "22": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "23": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "24": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "25": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "26": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "27": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "28": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "29": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "30": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "31": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "32": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "33": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "34": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "35": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "36": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "37": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "38": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "39": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "40": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        }
+    },
+    "part_3": {
+        "41": {
+            "image": "",
+            "question": "Why does the woman mention New York?",
+            "options": [
+                "A. The man works there",
+                "B. The woman went to school there",
+                "C. The man was born there",
+                "D. The woman was raised there"
+            ]
+        },
+        "42": {
+            "image": "",
+            "question": "How does the man describe his colleagues?",
+            "options": [
+                "A. He is annoyed by them",
+                "B. He likes them",
+                "C. He is having a tough time with them",
+                "D. He has no opinion"
+            ]
+        },
+        "43": {
+            "image": "",
+            "question": "What does the man offer to do?",
+            "options": [
+                "A. Write a reference letter",
+                "B. Call a job agency",
+                "C. Talk with a vice president",
+                "D. Inquire about vacancies"
+            ]
+        },
+        "44": {
+            "image": "",
+            "question": "What is the purpose of the man's call?",
+            "options": [
+                "A. To reserve a hotel room",
+                "B. To give a ride to the woman",
+                "C. To check on reservation",
+                "D. To deposit $10"
+            ]
+        },
+        "45": {
+            "image": "",
+            "question": "What time is the man expected to arrive in Sydney?",
+            "options": [
+                "A. At 12 am",
+                "B. At 9 am",
+                "C. At 3 pm",
+                "D. At 6 pm"
+            ]
+        },
+        "46": {
+            "image": "",
+            "question": "What should the man do in order to use the shuttle service?",
+            "options": [
+                "A. Stay in the suite room for more than three nights",
+                "B. Arrive at the airport no later than midnight",
+                "C. Pay an additional fee",
+                "D. Present the hotel receipt to the driver"
+            ]
+        },
+        "47": {
+            "image": "",
+            "question": "How do the speakers feel?",
+            "options": [
+                "A. Stuffy",
+                "B. Cold",
+                "C. Relaxed",
+                "D. Sad"
+            ]
+        },
+        "48": {
+            "image": "",
+            "question": "What will take place in an hour?",
+            "options": [
+                "A. A repair",
+                "B. An inspection",
+                "C. A meeting",
+                "D. A check-up"
+            ]
+        },
+        "49": {
+            "image": "",
+            "question": "What does the man suggest?",
+            "options": [
+                "A. Meeting with the general manager",
+                "B. Replacing the air conditioner",
+                "C. Disassembling the machine",
+                "D. Changing the venue"
+            ]
+        },
+        "50": {
+            "image": "",
+            "question": "What does the man plan to do next week?",
+            "options": [
+                "A. Go on vacation",
+                "B. Purchase a new device",
+                "C. Move to Tucson",
+                "D. Visit a repair center"
+            ]
+        },
+        "51": {
+            "image": "",
+            "question": "What does the man want?",
+            "options": [
+                "A. A new MP3 player",
+                "B. A faster service",
+                "C. A new house",
+                "D. An extended warranty"
+            ]
+        },
+        "52": {
+            "image": "",
+            "question": "What will the man charged for?",
+            "options": [
+                "A. a quick repair job",
+                "B. a manual",
+                "C. an extra battery",
+                "D. a direct delivery"
+            ]
+        },
+        "53": {
+            "image": "",
+            "question": "What is the conversation about?",
+            "options": [
+                "A. Prospective employees",
+                "B. A new software program",
+                "C. An educational session",
+                "D. Important clients"
+            ]
+        },
+        "54": {
+            "image": "",
+            "question": "What is the woman concerned about?",
+            "options": [
+                "A. Being late for session",
+                "B. Closing a deal",
+                "C. Installing a program",
+                "D. Missing a deadline"
+            ]
+        },
+        "55": {
+            "image": "",
+            "question": "What does the man offer to do?",
+            "options": [
+                "A. Entertain the guests",
+                "B. Buy notebook",
+                "C. Delay the meeting",
+                "D. Provide some details"
+            ]
+        },
+        "56": {
+            "image": "",
+            "question": "What did the director ask the woman to do?",
+            "options": [
+                "A. Finish the sales proposal",
+                "B. Work on some sales data",
+                "C. Meet with customers",
+                "D. Fix a computer"
+            ]
+        },
+        "57": {
+            "image": "",
+            "question": "Why is the man unable to assist her?",
+            "options": [
+                "A. He is busy with work",
+                "B. He is out of the office",
+                "C. He is unfamiliar with the program",
+                "D. He is computer illiterate"
+            ]
+        },
+        "58": {
+            "image": "",
+            "question": "What will the woman probably do next?",
+            "options": [
+                "A. Reschedule an appointment",
+                "B. Contact the contractor",
+                "C. Extend the deadline",
+                "D. Call another office"
+            ]
+        },
+        "59": {
+            "image": "",
+            "question": "Who is the man talking to ?",
+            "options": [
+                "A. An automobile salesperson",
+                "B. A car repair man",
+                "C. A market analyst",
+                "D. A reporter"
+            ]
+        },
+        "60": {
+            "image": "",
+            "question": "According to the woman, what has affected the automobile market?",
+            "options": [
+                "A. High fuel costs",
+                "B. Fierce competition",
+                "C. A long recession",
+                "D. New inventions"
+            ]
+        },
+        "61": {
+            "image": "",
+            "question": "What is the woman's company trying to do?",
+            "options": [
+                "A. Import compact vehicles",
+                "B. Export large cars",
+                "C. Create new vehicles",
+                "D. Merge with another manufacturer"
+            ]
+        },
+        "62": {
+            "image": "",
+            "question": "What are the speakers mainly talking about?",
+            "options": [
+                "A. Developing a prototype",
+                "B. Conducting a consumer survey",
+                "C. Starting a promotional campaign",
+                "D. Naming a new product"
+            ]
+        },
+        "63": {
+            "image": "",
+            "question": "According to the man, what will occur in October?",
+            "options": [
+                "A. The president will retire",
+                "B. The advertisement will start",
+                "C. The new product will be launched",
+                "D. The company name will be changed"
+            ]
+        },
+        "64": {
+            "image": "",
+            "question": "What does the woman suggest?",
+            "options": [
+                "A. Hiring a professional agency",
+                "B. Getting feedback from employees",
+                "C. Delaying the release",
+                "D. Persuading the president"
+            ]
+        },
+        "65": {
+            "image": "",
+            "question": "What are the speakers talking about?",
+            "options": [
+                "A. A lunch menu",
+                "B. Stocks investments",
+                "C. A facility for sale",
+                "D. A job agency"
+            ]
+        },
+        "66": {
+            "image": "",
+            "question": "What did the man do last night?",
+            "options": [
+                "A. Contacted the realtor by email",
+                "B. Visited the construction site",
+                "C. Dropped by the warehouse",
+                "D. Sent a letter to an agency"
+            ]
+        },
+        "67": {
+            "image": "",
+            "question": "What does the woman suggest about the agency?",
+            "options": [
+                "A. It is spacious",
+                "B. It is competent",
+                "C. It is close",
+                "D. It is profitable"
+            ]
+        },
+        "68": {
+            "image": "",
+            "question": "Why is the Calgary branch being closed?",
+            "options": [
+                "A. It is too far away from the headquarters",
+                "B. It has become less profitable",
+                "C. It will be acquired by another company",
+                "D. It will be renovated for a grand reopening"
+            ]
+        },
+        "69": {
+            "image": "",
+            "question": "When did the woman attend the meeting?",
+            "options": [
+                "A. On Monday",
+                "B. On Tuesday",
+                "C. On Thursday",
+                "D. On Friday"
+            ]
+        },
+        "70": {
+            "image": "",
+            "question": "What is the expected result of the upcoming closure?",
+            "options": [
+                "A. The headquarters will be relocated",
+                "B. The branch will gain more market share",
+                "C. The company will go out of business",
+                "D. Some employees will lose their jobs"
+            ]
+        }
+    },
+    "part_4": {
+        "71": {
+            "image": "",
+            "question": "When did Sara place her order?",
+            "options": [
+                "A. Today",
+                "B. On Monday",
+                "C. On Tuesday",
+                "D. On Saturday"
+            ]
+        },
+        "72": {
+            "image": "",
+            "question": "What seems to be the problem?",
+            "options": [
+                "A. The interior design hasn't been finished",
+                "B. The original order was cancelled",
+                "C. Additional shipping fees were changed",
+                "D. The wrong item was sent"
+            ]
+        },
+        "73": {
+            "image": "",
+            "question": "What does the speaker say she will do?",
+            "options": [
+                "A. Return the item",
+                "B. Send the invoice",
+                "C. Issue the proof of purchase",
+                "D. Contact the clients"
+            ]
+        },
+        "74": {
+            "image": "",
+            "question": "What will happen on September 11?",
+            "options": [
+                "A. A new system will come into effect",
+                "B. The building will be temporarily closed",
+                "C. Employees will be issued new uniforms",
+                "D. Guests won't have access to the main office"
+            ]
+        },
+        "75": {
+            "image": "",
+            "question": "What is the talk mainly about?",
+            "options": [
+                "A. A renovated building",
+                "B. The new security personnel",
+                "C. A change in policy",
+                "D. The upgraded computer system"
+            ]
+        },
+        "76": {
+            "image": "",
+            "question": "What should one do to get a new badge?",
+            "options": [
+                "A. Escort visitors at all times",
+                "B. Consult a janitor",
+                "C. Submit an application by email",
+                "D. Get in touch with someone"
+            ]
+        },
+        "77": {
+            "image": "",
+            "question": "What business does the speaker work for?",
+            "options": [
+                "A. A clothing store",
+                "B. A restaurant chain",
+                "C. A catering company",
+                "D. A consulting agency"
+            ]
+        },
+        "78": {
+            "image": "",
+            "question": "What will be offered as part of the promotion?",
+            "options": [
+                "A. A newspaper",
+                "B. An appetizer",
+                "C. A beverage",
+                "D. A catalogue"
+            ]
+        },
+        "79": {
+            "image": "",
+            "question": "What will the listeners probably do next?",
+            "options": [
+                "A. Attend the grand opening",
+                "B. Analyze the competitors",
+                "C. Read some local newspapers",
+                "D. Think of some ideas"
+            ]
+        },
+        "80": {
+            "image": "",
+            "question": "What is the purpose of the call?",
+            "options": [
+                "A. To reschedule an appointment",
+                "B. To book a restaurant",
+                "C. To ask for estimate",
+                "D. To respond to a request"
+            ]
+        },
+        "81": {
+            "image": "",
+            "question": "Why can't Ms. Perez's request be met?",
+            "options": [
+                "A. It's peak season",
+                "B. There are no suites rooms available",
+                "C. The beach is temporarily closed",
+                "D. The weather is terrible"
+            ]
+        },
+        "82": {
+            "image": "",
+            "question": "What does the speaker suggest Ms. Perez do?",
+            "options": [
+                "A. Reserve a different type of room",
+                "B. Reschedule her vacation",
+                "C. Book a single room",
+                "D. Wait until next month"
+            ]
+        },
+        "83": {
+            "image": "",
+            "question": "Why is the merger planned?",
+            "options": [
+                "A. To raise funds for the new branch",
+                "B. To increase domestic sales",
+                "C. To succeed in Asia",
+                "D. To carry out restructuring"
+            ]
+        },
+        "84": {
+            "image": "",
+            "question": "Who is Ms. Grant?",
+            "options": [
+                "A. A reporter",
+                "B. A president",
+                "C. A spokesperson",
+                "D. A general manager"
+            ]
+        },
+        "85": {
+            "image": "",
+            "question": "What will happen at the end of the year?",
+            "options": [
+                "A. Another branch will be added to the hotel chain",
+                "B. A new harbor will be constructed",
+                "C. Ms. Grant will personally open the Hong Kong branch",
+                "D. A state-of-the-art pool will be built"
+            ]
+        },
+        "86": {
+            "image": "",
+            "question": "What is not available at the moment?",
+            "options": [
+                "A. The main elevator",
+                "B. An elevator for employees",
+                "C. An office table",
+                "D. A copy machine"
+            ]
+        },
+        "87": {
+            "image": "",
+            "question": "According to the speaker, what happened a decade ago?",
+            "options": [
+                "A. The company was founded",
+                "B. The service elevator was installed",
+                "C. An escalator was added to the main building",
+                "D. An annex building was constructed"
+            ]
+        },
+        "88": {
+            "image": "",
+            "question": "What did the speaker do this morning?",
+            "options": [
+                "A. He called the maintenance department",
+                "B. He had the elevator repaired",
+                "C. He sent an email to all employees",
+                "D. He asked for a quote"
+            ]
+        },
+        "89": {
+            "image": "",
+            "question": "Where does the caller probably work?",
+            "options": [
+                "A. At a bank",
+                "B. At a fitness club",
+                "C. At a pharmacy",
+                "D. At a dentist's office"
+            ]
+        },
+        "90": {
+            "image": "",
+            "question": "Why is Ms. Park encouraged to arrive early?",
+            "options": [
+                "A. To have an X-ray taken",
+                "B. To withdraw some money from a bank",
+                "C. To fill out some paperwork",
+                "D. To avoid the rush hour traffic"
+            ]
+        },
+        "91": {
+            "image": "",
+            "question": "According to the speaker, what recently happened to the business?",
+            "options": [
+                "A. It was renovated",
+                "B. It was relocated",
+                "C. It was opened",
+                "D. It was damaged"
+            ]
+        },
+        "92": {
+            "image": "",
+            "question": "When is the report being made?",
+            "options": [
+                "A. In the morning",
+                "B. At noon",
+                "C. In the evening",
+                "D. Late at night"
+            ]
+        },
+        "93": {
+            "image": "",
+            "question": "Why is traffic on the Golden Bridge backed up?",
+            "options": [
+                "A. Construction is going on",
+                "B. There was a traffic accident",
+                "C. It is being repaved",
+                "D. It is being inspected"
+            ]
+        },
+        "94": {
+            "image": "",
+            "question": "When will the next traffic report be broadcast?",
+            "options": [
+                "A. In 20 minutes",
+                "B. In 30 minutes",
+                "C. In 40 minutes",
+                "D. In 60 minutes"
+            ]
+        },
+        "95": {
+            "image": "",
+            "question": "What happened to the speaker 20 years ago?",
+            "options": [
+                "A. He made his film debut",
+                "B. He founded Max Cinema",
+                "C. He worked with John Wang",
+                "D. He won his first award"
+            ]
+        },
+        "96": {
+            "image": "",
+            "question": "Why does the speaker say New York is so special to him?",
+            "options": [
+                "A. He was born there",
+                "B. His first movie was made there",
+                "C. He went to the university there",
+                "D. He directed his first film there"
+            ]
+        },
+        "97": {
+            "image": "",
+            "question": "What is John Wang's occupation?",
+            "options": [
+                "A. Lawyer",
+                "B. Director",
+                "C. Actor",
+                "D. Coordinator"
+            ]
+        },
+        "98": {
+            "image": "",
+            "question": "Where does the speaker probably work?",
+            "options": [
+                "A. A drug company",
+                "B. A hospital",
+                "C. An advertising company",
+                "D. A research company"
+            ]
+        },
+        "99": {
+            "image": "",
+            "question": "According to the speaker, what occurred last month?",
+            "options": [
+                "A. July Brooks developed a new medicine",
+                "B. The company released a new product",
+                "C. A survey was administered",
+                "D. Ms. Torres joined the focus group discussion"
+            ]
+        },
+        "100": {
+            "image": "",
+            "question": "Why is Ms. Torres invited to visit the website?",
+            "options": [
+                "A. To get the further information",
+                "B. To check out some new medicine",
+                "C. To schedule a meeting",
+                "D. To fill out an online survey"
+            ]
+        }
+    }
+}

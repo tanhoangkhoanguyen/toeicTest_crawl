@@ -1,0 +1,930 @@
+{
+    "audio": "toeic_data/study4/listening/Y24579_study4/audio/Test10_fixed.mp3",
+    "part_1": {
+        "1": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image248.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "2": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image281.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "3": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image333.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "4": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image232.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "5": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image151.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        },
+        "6": {
+            "image": "toeic_data/study4/listening/Y24579_study4/img/image87.png",
+            "options": [
+                "A.",
+                "B.",
+                "C.",
+                "D."
+            ]
+        }
+    },
+    "part_2": {
+        "7": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "8": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "9": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "10": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "11": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "12": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "13": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "14": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "15": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "16": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "17": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "18": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "19": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "20": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "21": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "22": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "23": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "24": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "25": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "26": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "27": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "28": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "29": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "30": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        },
+        "31": {
+            "options": [
+                "A.",
+                "B.",
+                "C."
+            ]
+        }
+    },
+    "part_3": {
+        "32": {
+            "image": "",
+            "question": "Why is the woman calling?",
+            "options": [
+                "A. To inquire about a procedure",
+                "B. To pay a late fee",
+                "C. To book some plane tickets",
+                "D. To report a lost passport"
+            ]
+        },
+        "33": {
+            "image": "",
+            "question": "Why will the woman travel to Singapore?",
+            "options": [
+                "A. To inspect a facility",
+                "B. To receive an award",
+                "C. To sign a contract",
+                "D. To take a vacation"
+            ]
+        },
+        "34": {
+            "image": "",
+            "question": "What does the woman plan to do?",
+            "options": [
+                "A. Call back later",
+                "B. Use an express service",
+                "C. Postpone her trip.",
+                "D. Search for information online"
+            ]
+        },
+        "35": {
+            "image": "",
+            "question": "Who most likely is the man?",
+            "options": [
+                "A. A technician",
+                "B. A security guard",
+                "C. A salesperson",
+                "D. A new client"
+            ]
+        },
+        "36": {
+            "image": "",
+            "question": "What problem does the woman mention?",
+            "options": [
+                "A. A door is locked shut.",
+                "B. A business has closed.",
+                "C. An area is off limits.",
+                "D. An employee is absent."
+            ]
+        },
+        "37": {
+            "image": "",
+            "question": "What does the man ask about?",
+            "options": [
+                "A. Where to submit an invoice",
+                "B. When some equipment will arrive",
+                "C. Where to park his truck",
+                "D. When the work will be completed"
+            ]
+        },
+        "38": {
+            "image": "",
+            "question": "What is the conversation mainly about?",
+            "options": [
+                "A. A real estate contract",
+                "B. An apartment renovation",
+                "C. A government regulation",
+                "D. A moving service"
+            ]
+        },
+        "39": {
+            "image": "",
+            "question": "What does the woman suggest doing?",
+            "options": [
+                "A. Taking a citywide tour",
+                "B. Booking a weekday appointment",
+                "C. Reading a company brochure",
+                "D. Making a payment in advance"
+            ]
+        },
+        "40": {
+            "image": "",
+            "question": "What will the man most likely do next?",
+            "options": [
+                "A. Confirm a deposit",
+                "B. Make another phone call",
+                "C. Give the woman his address",
+                "D. E-mail his landlord"
+            ]
+        },
+        "41": {
+            "image": "",
+            "question": "What happened this morning?",
+            "options": [
+                "A. A new branch was opened.",
+                "B. A report was released.",
+                "C. A delivery was made.",
+                "D. A meeting was held."
+            ]
+        },
+        "42": {
+            "image": "",
+            "question": "What is the man concerned about?",
+            "options": [
+                "A. Losing a document",
+                "B. Damaging some equipment",
+                "C. Upsetting senior employees",
+                "D. Exceeding a budget"
+            ]
+        },
+        "43": {
+            "image": "",
+            "question": "What will the man receive from one of the women?",
+            "options": [
+                "A. Some discount coupons",
+                "B. An updated contract",
+                "C. Some contact details",
+                "D. An overtime payment"
+            ]
+        },
+        "44": {
+            "image": "",
+            "question": "What does the man ask the woman to do?",
+            "options": [
+                "A. Pick up an important client",
+                "B. Reserve a meeting space",
+                "C. Give him driving directions",
+                "D. Book some train tickets"
+            ]
+        },
+        "45": {
+            "image": "",
+            "question": "What does the woman recommend doing?",
+            "options": [
+                "A. Postponing an activity",
+                "B. Borrowing a company car",
+                "C. Checking a report online",
+                "D. Using public transportation"
+            ]
+        },
+        "46": {
+            "image": "",
+            "question": "What does the woman offer to do?",
+            "options": [
+                "A. Answer the man's phone",
+                "B. Send a reminder",
+                "C. Copy some documents",
+                "D. Accompany the man"
+            ]
+        },
+        "47": {
+            "image": "",
+            "question": "What most likely is the man's occupation?",
+            "options": [
+                "A. Real estate agent",
+                "B. Construction worker",
+                "C. Bank teller",
+                "D. Interior designer"
+            ]
+        },
+        "48": {
+            "image": "",
+            "question": "What does the woman mean when she says, \"that point is nonnegotiable\"?",
+            "options": [
+                "A. She refuses to delete some contract terms.",
+                "B. She will not agree to pay a higher price.",
+                "C. She wants a certain number of rooms.",
+                "D. She needs to live close to her office."
+            ]
+        },
+        "49": {
+            "image": "",
+            "question": "What does the man say he will do?",
+            "options": [
+                "A. Perform some research",
+                "B. Refund a payment",
+                "C. E-mail some information",
+                "D. Visit the woman in person"
+            ]
+        },
+        "50": {
+            "image": "",
+            "question": "What task have the speakers been assigned?",
+            "options": [
+                "A. Collecting some purchase orders",
+                "B. Stocking the checkout aisle shelves",
+                "C. Organizing a storage area",
+                "D. Finding a new supplier"
+            ]
+        },
+        "51": {
+            "image": "",
+            "question": "What does the man ask the woman to do?",
+            "options": [
+                "A. Get detailed instructions",
+                "B. Print a contract",
+                "C. Change the opening hours",
+                "D. Prepare some labels"
+            ]
+        },
+        "52": {
+            "image": "",
+            "question": "Where will the man go next?",
+            "options": [
+                "A. To the front entrance",
+                "B. To the maintenance department",
+                "C. To the break room",
+                "D. To the IT department"
+            ]
+        },
+        "53": {
+            "image": "",
+            "question": "What are the speakers planning?",
+            "options": [
+                "A. A musical performance",
+                "B. A park tour",
+                "C. A sports competition",
+                "D. A volunteer recruitment drive"
+            ]
+        },
+        "54": {
+            "image": "",
+            "question": "What problem does the woman mention?",
+            "options": [
+                "A. Prices have gone up sharply.",
+                "B. Ticket sales have been slow.",
+                "C. Bad weather is expected.",
+                "D. A site has been double-booked."
+            ]
+        },
+        "55": {
+            "image": "",
+            "question": "What do the speakers decide to do?",
+            "options": [
+                "A. Schedule a newspaper interview",
+                "B. Change an advertising method",
+                "C. Ask for additional funding",
+                "D. Postpone the event"
+            ]
+        },
+        "56": {
+            "image": "",
+            "question": "What is the conversation mainly about?",
+            "options": [
+                "A. A company restructuring",
+                "B. A neighborhood festival",
+                "C. A new restaurant",
+                "D. A cooking class"
+            ]
+        },
+        "57": {
+            "image": "",
+            "question": "Where did the man get some information?",
+            "options": [
+                "A. From a magazine advertisement",
+                "B. From an online review",
+                "C. From a friend's recommendation",
+                "D. From a promotional poster"
+            ]
+        },
+        "58": {
+            "image": "",
+            "question": "Why is the woman unavailable tomorrow?",
+            "options": [
+                "A. She is attending an industry trade show.",
+                "B. She needs to prepare for a presentation.",
+                "C. She is holding a meeting with a client.",
+                "D. She has plans to go out of town."
+            ]
+        },
+        "59": {
+            "image": "",
+            "question": "What is the purpose of the man's call?",
+            "options": [
+                "A. To set up an interview",
+                "B. To make a medical appointment",
+                "C. To promote a newspaper",
+                "D. To respond to a request"
+            ]
+        },
+        "60": {
+            "image": "",
+            "question": "According to the woman, what will happen next month?",
+            "options": [
+                "A. Workers will start a building expansion.",
+                "B. The ownership of a hospital will change.",
+                "C. An advertising campaign will begin.",
+                "D. The hospital will raise money for a project."
+            ]
+        },
+        "61": {
+            "image": "",
+            "question": "Why does the woman say, \"How about now\"?",
+            "options": [
+                "A. To get the man's opinion about a change",
+                "B. To suggest completing a task by phone",
+                "C. To find out if an improvement was made",
+                "D. To check that the phone volume is loud enough"
+            ]
+        },
+        "62": {
+            "image": "",
+            "question": "What does the man mention about the Callaghan brand of curtains?",
+            "options": [
+                "A. They are good at blocking light.",
+                "B. They are available in a variety of fabrics.",
+                "C. They come with a money-back guarantee.",
+                "D. They have been manufactured domestically."
+            ]
+        },
+        "63": {
+            "image": "",
+            "question": "Look at the graphic. How much will the woman pay for her purchase?",
+            "options": [
+                "A. $79.99",
+                "B. $84.99",
+                "C. $109.99",
+                "D. $129.99"
+            ]
+        },
+        "64": {
+            "image": "",
+            "question": "What does the man encourage the woman to do?",
+            "options": [
+                "A. Take a survey",
+                "B. Use a gift-wrap service",
+                "C. Copy the receipt",
+                "D. Pick up a catalog"
+            ]
+        },
+        "65": {
+            "image": "",
+            "question": "What is the conversation mainly about?",
+            "options": [
+                "A. An art exhibition",
+                "B. An academic lecture",
+                "C. A rock concert",
+                "D. A comedy show"
+            ]
+        },
+        "66": {
+            "image": "",
+            "question": "Look at the graphic. When does the man plan to arrive at the venue?",
+            "options": [
+                "A. At 5:30 PM.",
+                "B. At 6:00 PM.",
+                "C. At 7:00 P.M.",
+                "D. At 7:30 P.M."
+            ]
+        },
+        "67": {
+            "image": "",
+            "question": "What does the man offer to do for the woman?",
+            "options": [
+                "A. Save her a seat",
+                "B. Purchase a ticket",
+                "C. Bring her a document",
+                "D. Record an event"
+            ]
+        },
+        "68": {
+            "image": "",
+            "question": "Look at the graphic. Which show is affected by the cancellation?",
+            "options": [
+                "A. Belgium Dance Troupe",
+                "B. Comedy Showcase",
+                "C. The McKenzie Brothers",
+                "D. Jazz Extravaganza"
+            ]
+        },
+        "69": {
+            "image": "",
+            "question": "Why will a show be canceled?",
+            "options": [
+                "A. A performer had a medical emergency.",
+                "B. Not enough tickets have been sold.",
+                "C. The venue was double-booked for that date.",
+                "D. Some essential equipment is malfunctioning."
+            ]
+        },
+        "70": {
+            "image": "",
+            "question": "What does the woman ask for?",
+            "options": [
+                "A. Some entertainers' names",
+                "B. A Web site address",
+                "C. Some login information",
+                "D. An area code"
+            ]
+        }
+    },
+    "part_4": {
+        "71": {
+            "image": "",
+            "question": "According to the speaker, what will happen at the business next month?",
+            "options": [
+                "A. The hours of operation will change.",
+                "B. A customer survey will be conducted.",
+                "C. The employees will start wearing uniforms.",
+                "D. A new manager will be hired for the store."
+            ]
+        },
+        "72": {
+            "image": "",
+            "question": "Why should the listeners talk to Mr. Burke?",
+            "options": [
+                "A. To express a preference",
+                "B. To request a work shift",
+                "C. To volunteer for a task",
+                "D. To get their questions answered"
+            ]
+        },
+        "73": {
+            "image": "",
+            "question": "What does the speaker invite the listeners to do?",
+            "options": [
+                "A. Take a group photo",
+                "B. Stop by her office",
+                "C. Make some suggestions",
+                "D. Look at some pictures"
+            ]
+        },
+        "74": {
+            "image": "",
+            "question": "What is scheduled to happen on Saturday?",
+            "options": [
+                "A. A music contest",
+                "B. A community parade",
+                "C. A food festival",
+                "D. A fireworks show"
+            ]
+        },
+        "75": {
+            "image": "",
+            "question": "According to the speaker, how is this year's event different from last year's?",
+            "options": [
+                "A. It will last for a longer period of time.",
+                "B. It will take place earlier in the day.",
+                "C. It will be held at a different location.",
+                "D. It will charge a higher admission fee."
+            ]
+        },
+        "76": {
+            "image": "",
+            "question": "What does the speaker recommend doing?",
+            "options": [
+                "A. Using a public parking lot",
+                "B. Arriving at a site early",
+                "C. Consulting a map online",
+                "D. Purchasing group tickets"
+            ]
+        },
+        "77": {
+            "image": "",
+            "question": "What is the speaker calling about?",
+            "options": [
+                "A. An address change",
+                "B. A promotional offer",
+                "C. A loss of service",
+                "D. A billing error"
+            ]
+        },
+        "78": {
+            "image": "",
+            "question": "What is the listener asked to do?",
+            "options": [
+                "A. Return a software package",
+                "B. Send a new document",
+                "C. Contact the listener's manager",
+                "D. E-mail an updated contract"
+            ]
+        },
+        "79": {
+            "image": "",
+            "question": "Why is the speaker unavailable this afternoon?",
+            "options": [
+                "A. He will attend a training session.",
+                "B. He will take a trip out of town.",
+                "C. He will visit an important client.",
+                "D. He will shop for some merchandise."
+            ]
+        },
+        "80": {
+            "image": "",
+            "question": "What is the speaker mainly discussing?",
+            "options": [
+                "A. A business relocation",
+                "B. Some property damage",
+                "C. A legal fee",
+                "D. Some regulation changes"
+            ]
+        },
+        "81": {
+            "image": "",
+            "question": "What problem is mentioned?",
+            "options": [
+                "A. A new employee is not qualified.",
+                "B. A computer system is not working.",
+                "C. A service is no longer available.",
+                "D. A contract's terms were rejected."
+            ]
+        },
+        "82": {
+            "image": "",
+            "question": "What does the speaker suggest doing?",
+            "options": [
+                "A. Holding another meeting",
+                "B. Voting on an issue",
+                "C. Hiring a professional consultant",
+                "D. Announcing a decision"
+            ]
+        },
+        "83": {
+            "image": "",
+            "question": "Who most likely are the listeners?",
+            "options": [
+                "A. Restaurant workers",
+                "B. Delivery personnel",
+                "C. Construction workers",
+                "D. Appliance salespeople"
+            ]
+        },
+        "84": {
+            "image": "",
+            "question": "What does the speaker suggest when he says, \"it only happened once\"?",
+            "options": [
+                "A. A class will take one day.",
+                "B. A course will not be repeated.",
+                "C. A problem has been resolved.",
+                "D. A test will be easy to pass."
+            ]
+        },
+        "85": {
+            "image": "",
+            "question": "What will the speaker do in fifteen minutes?",
+            "options": [
+                "A. Check attendance",
+                "B. Show a video",
+                "C. Answer some questions",
+                "D. Distribute a handout"
+            ]
+        },
+        "86": {
+            "image": "",
+            "question": "What topic will Dr. Clark discuss with the speaker?",
+            "options": [
+                "A. Technological advancements",
+                "B. Sleeping habits",
+                "C. New medicines",
+                "D. Learning languages"
+            ]
+        },
+        "87": {
+            "image": "",
+            "question": "What has Dr. Clark recently done?",
+            "options": [
+                "A. Opened an institute",
+                "B. Published his first book",
+                "C. Received an award",
+                "D. Returned from a trip abroad"
+            ]
+        },
+        "88": {
+            "image": "",
+            "question": "According to the speaker, what can listeners do on the Web site?",
+            "options": [
+                "A. Sign up for an upcoming research study",
+                "B. Submit questions for the guest",
+                "C. Browse the findings of a study",
+                "D. Download an interview schedule"
+            ]
+        },
+        "89": {
+            "image": "",
+            "question": "What is the purpose of the event?",
+            "options": [
+                "A. To observe a national holiday",
+                "B. To celebrate an anniversary",
+                "C. To welcome some visitors",
+                "D. To present some awards"
+            ]
+        },
+        "90": {
+            "image": "",
+            "question": "What does the speaker suggest when she says, \"It's not the first time you've heard it\"?",
+            "options": [
+                "A. Some well-known songs will be played for the listeners.",
+                "B. The listeners are familiar with the company's history.",
+                "C. Some items were accidentally repeated in the program.",
+                "D. The speaker thinks a discussion topic should not be covered again."
+            ]
+        },
+        "91": {
+            "image": "",
+            "question": "What does the speaker say she appreciates about the listeners?",
+            "options": [
+                "A. Their prompt response",
+                "B. Their creative ideas",
+                "C. Their hard work",
+                "D. Their teamwork skills"
+            ]
+        },
+        "92": {
+            "image": "",
+            "question": "What kind of event is the listener planning?",
+            "options": [
+                "A. A career fair",
+                "B. A training session",
+                "C. A product launch",
+                "D. A retirement party"
+            ]
+        },
+        "93": {
+            "image": "",
+            "question": "What does the speaker suggest when he says, \"we'll have at least eighty people\"?",
+            "options": [
+                "A. He is not accepting more volunteers.",
+                "B. More food will be needed.",
+                "C. He is pleased with the turnout.",
+                "D. A larger room should be reserved."
+            ]
+        },
+        "94": {
+            "image": "",
+            "question": "What problem does the speaker mention?",
+            "options": [
+                "A. A deadline has already passed.",
+                "B. An unexpected charge was imposed.",
+                "C. A business is closing soon.",
+                "D. A guest is missing an invitation."
+            ]
+        },
+        "95": {
+            "image": "",
+            "question": "What is the purpose of the talk?",
+            "options": [
+                "A. To show how to operate a device",
+                "B. To demonstrate a sales technique",
+                "C. To explain a store's discount prices",
+                "D. To gather feedback about a product"
+            ]
+        },
+        "96": {
+            "image": "",
+            "question": "Look at the graphic. Which model is the speaker talking about?",
+            "options": [
+                "A. B-300",
+                "B. B-450",
+                "C. L-600",
+                "D. L-780"
+            ]
+        },
+        "97": {
+            "image": "",
+            "question": "What will some of the listeners most likely do next?",
+            "options": [
+                "A. Watch a video",
+                "B. Sit down",
+                "C. Read a handout",
+                "D. Ask questions"
+            ]
+        },
+        "98": {
+            "image": "",
+            "question": "What is the purpose of the meeting?",
+            "options": [
+                "A. To introduce a new employee",
+                "B. To assign some projects",
+                "C. To explain a company policy",
+                "D. To adjust a product line"
+            ]
+        },
+        "99": {
+            "image": "",
+            "question": "Look at the graphic. Which item will be available in two sizes?",
+            "options": [
+                "A. All-Day Glow",
+                "B. Express Cleanser",
+                "C. Moisture Bomb",
+                "D. Night Repair"
+            ]
+        },
+        "100": {
+            "image": "",
+            "question": "What most likely is Ms. Fitzgerald's occupation?",
+            "options": [
+                "A. Researcher",
+                "B. Market analyst",
+                "C. Actress",
+                "D. Photographer"
+            ]
+        }
+    }
+}
