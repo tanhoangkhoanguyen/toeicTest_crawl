@@ -1,5 +1,5 @@
 from toeic_data.study4.authenticate import log_in
-from toeic_data.study4.url_store import url_dict
+from toeic_data.study4.url_store import url_list
 
 
 import os, time
@@ -7,43 +7,44 @@ import undetected_chromedriver as uc
 
 
 DIRECTORY = "toeic_data/study4"
+FOLDER_FORMAT = "_study4"
 
 
 def create_folder_url():
     # ==========  CREATE FOLDER, URL  ==========
-    for type in url_dict:
-        for key, _ in type["url"].items():
-            os.makedirs(f"{DIRECTORY}/listening/{key}/audio", exist_ok = True)
-            os.makedirs(f"{DIRECTORY}/listening/{key}/img", exist_ok = True)
-            os.makedirs(f"{DIRECTORY}/reading/{key}/img", exist_ok = True)
-            os.makedirs(f"{DIRECTORY}/raw_html/{key}", exist_ok = True)
+    for format in url_list:
+        for test_id, _ in format["url"].items():
+            os.makedirs(f"{DIRECTORY}/listening/L{test_id + FOLDER_FORMAT}/audio", exist_ok = True)
+            os.makedirs(f"{DIRECTORY}/listening/L{test_id + FOLDER_FORMAT}/img", exist_ok = True)
+            os.makedirs(f"{DIRECTORY}/reading/R{test_id + FOLDER_FORMAT}/img", exist_ok = True)
+            os.makedirs(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}", exist_ok = True)
 
     print ('=' * 10, f" FINISH CREATING FOLDER ", '=' * 10)
 
+def silent_del(self):
+    try:
+        self.quit()
+    except:
+        pass
 
 def crawl_html():
     create_folder_url()
+    return
     driver = log_in()
 
     # ==========  CRAWL  ==========
-    for type in url_dict:    
-        for key, value in type["url"].items():
-            driver.get(value[0])
+    for format in url_list:    
+        for test_id, link in format["url"].items():
+            driver.get(link[0])
             time.sleep(1)
             raw_html = driver.page_source
-            with open(f"{DIRECTORY}/raw_html/{key}/raw_test.html", "w", encoding = "utf-8") as f:
+            with open(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}/raw_test.html", "w", encoding = "utf-8") as f:
                 f.write(raw_html)
 
-            driver.get(value[1])
+            driver.get(link[1])
             time.sleep(1)
             raw_html = driver.page_source
-            with open(f"{DIRECTORY}/raw_html/{key}/raw_answer.html", "w", encoding = "utf-8") as f:
+            with open(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}_study4/raw_answer.html", "w", encoding = "utf-8") as f:
                 f.write(raw_html)
-
-
-    def silent_del(self):
-        try:
-            self.quit()
-        except:
-            pass
+            
     uc.Chrome.__del__ = silent_del

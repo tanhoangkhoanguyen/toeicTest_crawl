@@ -4,8 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-from dotenv import load_dotenv
-_ = load_dotenv()
 GOOGLE_EMAIL = os.getenv("GOOGLE_EMAIL")
 GOOGLE_PASSWORD = os.getenv("GOOGLE_PASSWORD")
 

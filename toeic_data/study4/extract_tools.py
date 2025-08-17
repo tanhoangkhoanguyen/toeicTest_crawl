@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 
 
 DIRECTORY = "toeic_data/study4"
+FOLDER_FORMAT = "_study4"
 scraper = cloudscraper.create_scraper()
 
 
@@ -12,7 +13,7 @@ def extract_audio(soup, key, folder):
     if file_url == None:
         return extract_audio(soup, "source", folder)
     file_name = os.path.basename(file_url)
-    save_file_path = f"{DIRECTORY}/listening/{folder}/audio/{file_name}"
+    save_file_path = f"{DIRECTORY}/listening/L{folder}/audio/{file_name}"
         
     try:
         file_data = scraper.get(file_url).content
@@ -25,18 +26,22 @@ def extract_audio(soup, key, folder):
     return save_file_path
 
 
-def extract_img(dir, soup, key, folder):
+def extract_img(dir, soup, trial_time = False):
     save_file_path = ""
     img_tag = soup if soup.name == "img" else soup.find("img")
 
     if img_tag:
-        file_url = img_tag.get(key)
-        if file_url == None:
-            if key != "data-src":
-                return extract_img(dir, soup, "data-src", folder)
-            return ""
+        try:
+            if trial_time == True:
+                img_tag["error"]
+            file_url = img_tag["src"]
+        except:
+            try:
+                file_url = img_tag["data-src"]
+            except:
+                return ""
         file_name = os.path.basename(file_url)
-        save_file_path = f"{dir}/{folder}/img/{file_name}"
+        save_file_path = f"{dir}/img/{file_name}"
         
         try:
             file_data = scraper.get(file_url).content
@@ -44,10 +49,9 @@ def extract_img(dir, soup, key, folder):
                 f.write(file_data)
             print(f"Downloaded {file_url} -> {save_file_path}")
         except Exception as e:
-            if key != "data-src":
-                return extract_img(dir, soup, "data-src", folder)
+            if trial_time == False:
+                return extract_img(dir, soup, True)
             print(f"Failed to download {file_url}: {e}")
-    
     return save_file_path
 
 
@@ -59,228 +63,294 @@ def clean_text(passage_tag):
     return passage
 
 # ==========  EXTRACT BY PART  ==========
-def extract_test_part1(soup, json_info, folder, id):
-    save_img_path = extract_img(f"{DIRECTORY}/listening", soup, "src", folder)
-    json_info['part_1'][str(id)] = {
-        "image": save_img_path,
-        "options": ["A.", "B.", "C.", "D."]
-    }
+def extract_test_part1(soup, json_info, folder, question_id):
+    save_img_path = extract_img(f"{DIRECTORY}/listening/{folder}", soup)
+    json_info['items'].append({
+        "part": 1, 
+        "question_range": f"{question_id}-{question_id}",
+        "part_image": [save_img_path],
+        "questions": [{
+            "question_id": question_id,
+            "content": "",
+            "options": ["A.", "B.", "C.", "D."]
+        }]
+    })
 
     return json_info
 
 
-def extract_test_part2(json_info, id):
-    json_info['part_2'][str(id)] = {
-        "options": ["A.", "B.", "C."]
-    }
+def extract_test_part2(json_info, question_id):
+    json_info['items'].append({
+        "part": 2, 
+        "question_range": f"{question_id}-{question_id}",
+        "part_image": [],
+        "questions": [{
+            "question_id": question_id,
+            "content": "",
+            "options": ["A.", "B.", "C."]
+        }]
+    })
 
     return json_info
 
 
-def extract_test_part345(soup, json_info, folder, id, part):
-    save_img_path = extract_img(f"{DIRECTORY}/listening", soup.find_previous("div", class_ = "context-wrapper"), "img", folder) if id % 3 > 1 and part < 5 else ""
+def extract_test_part34(soup, json_info, folder, question_id, question_part):
+    save_img_path = extract_img(f"{DIRECTORY}/listening/{folder}", soup.find_previous("div", class_ = "context-wrapper"))
+    questions = []
+    for i in range (3):
+        soup = soup.find_next("div", class_ = "question-text")
+        question = soup.text.strip()
+        options = []
+        for _ in range (4):
+            soup = soup.find_next("div", class_ = "form-check")
+            options.append(soup.text.strip())
+        
+        questions.append({
+            "question_id": question_id + i,
+            "content": question,
+            "options": options
+        })
+
+    json_info['items'].append({
+        "part": question_part, 
+        "question_range": f"{question_id}-{question_id + 2}",
+        "part_image": [save_img_path] if save_img_path != "" else [],
+        "questions": questions
+    })
+
+    return json_info
+
+
+def extract_test_part5(soup, json_info, question_id):
     question = soup.find_next("div", class_ = "question-text").text.strip()
     options = []
     for _ in range (4):
         soup = soup.find_next("div", class_ = "form-check")
         options.append(soup.text.strip())
 
-    json_info[f'part_{part}'][str(id)] = {
-        "image": save_img_path,
-        "question": question,
-        "options": options
-    } if part < 5 else {
-        "question": question,
-        "options": options
-    }
+    json_info['items'].append({
+        "part": 5, 
+        "question_range": f"{question_id}-{question_id}",
+        "part_image": [],
+        "part_table": [],
+        "context": "",
+        "questions": [{
+            "question_id": question_id,
+            "content": question,
+            "options": options
+        }]
+    })
 
     return json_info
 
 
-def extract_test_part6(soup, json_info, folder, id):
-    passage = ""
-    save_img_path = ""
-    if id % 4 > 2:
-        text = soup.find_previous("div", class_ = "context-wrapper")
-        save_img_path = extract_img(f"{DIRECTORY}/reading", text, 'src', folder)
-        for br in text.find_all("br"):
-            br.replace_with('\n')
-        passage = str(text.get_text().strip())
-        passage = re.sub(r'[ \t]+', ' ', passage)
-        passage = re.sub(r'\n\s+', '\n', passage)
+def extract_test_part6(soup, json_info, folder, question_id):
+    text = soup.find_previous("div", class_ = "context-wrapper")
+    save_img_path = extract_img(f"{DIRECTORY}/reading/{folder}", text)
+    for br in text.find_all("br"):
+        br.replace_with('\n')
+    context = clean_text(text)
     
-    options = []
-    for _ in range (4):
-        soup = soup.find_next("div", class_ = "form-check")
-        options.append(soup.text.strip())
+    questions = []
+    for i in range (4):
+        options = []
+        for _ in range (4):
+            soup = soup.find_next("div", class_ = "form-check")
+            options.append(soup.text.strip())
+        questions.append({
+            "question_id": question_id + i,
+            "content": "",
+            "options": options
+        })
     
-    json_info['part_6'][str(id)] = {
-        "passage": passage,
-        "img": save_img_path,
-        "options": options
-    }
-
+    json_info['items'].append({
+        "part": 6, 
+        "question_range": "131-146",
+        "part_image": [save_img_path],
+        "part_table": [],
+        "context": context,
+        "questions": questions
+    })
     return json_info
 
 
 def extract_test_part7(soup, json_info, folder):
-    table = {}
-    img = {}
-    nums = 0
+    part_img = []
+    part_table = []
 
     context_tag = soup.find("div", class_ = "context-wrapper")
-    for i, img_tag in enumerate(context_tag.find_all("img")):
-        img[str(i + 1)] = extract_img(f"{DIRECTORY}/reading", img_tag, 'src', folder)
+    for img_tag in context_tag.find_all("img"):
+        part_img.append(extract_img(f"{DIRECTORY}/reading/R{folder}", img_tag))
 
     for table_tag in context_tag.find_all("table"):
         rows = len(table_tag.find_all('tr'))
         if rows < 1: 
             continue
         cols = len(table_tag.find_all('td')) // rows
-            
-        nums += 1
-        table[str(nums)] = {}
-        table[str(nums)]["rows"] = rows
-        table[str(nums)]["cols"] = cols
+
+        sub_table = {}
         data = table_tag.find_all('td')
-        for i in range (1, rows + 1):
-            for j in range (1, cols + 1):
-                table[str(nums)][f"{i}_{j}"] = clean_text(data[cols * (i - 1) + j - 1])
+        for j in range (1, cols + 1):
+            key = clean_text(data[j - 1])
+            sub_table[key] = []
+            for i in range (1, rows + 1):
+                sub_table[key].append(clean_text(data[cols * (i - 1) + j - 1]))
 
+        part_table.append(sub_table)
         table_tag.extract()
-    
-    passage = clean_text(context_tag)
+    context = clean_text(context_tag)
 
-    num = 0
-    for question_tab in soup.find_all("div", class_ = "question-item-wrapper"):
-        num += 1
-
-        i = question_tab.find("div", class_ = "question-number").text.strip()
-        question = question_tab.find("div", class_ = "question-text").text.strip()
-
+    questions = []
+    question_tabs = soup.find_all("div", class_ = "question-item-wrapper")
+    start_question_id = 10000
+    end_question_id = -1
+    for question_tab in question_tabs:
+        question_id = int(question_tab.find("div", class_ = "question-number").text.strip())
+        start_question_id = min(question_id, start_question_id)
+        end_question_id   = max(question_id, end_question_id)
+        content = question_tab.find("div", class_ = "question-text").text.strip()
+        
         options = []
         for _ in range (4):
             soup = soup.find_next("div", class_ = "form-check")
             options.append(soup.text.strip())
 
-        json_info[str(i)] = {
-            "img": img if num == 1 else "",
-            "passage": passage if num == 1 else "",
-            "table": table if num == 1 else {},
-            "question": question,
-            "option": options
-        }
+        questions.append({
+                "question_id": question_id,
+                "content": content,
+                "options": options
+            })
+        
+    json_info.append({
+        "part": 7, 
+        "question_range": f"{start_question_id}-{end_question_id}",
+        "part_image": part_img,
+        "table": part_table,
+        "context": context,
+        "questions": questions
+    })
+    return len(question_tabs), json_info
 
-    return num, json_info
+
+def extract_answer(test_id, json_listening_info, json_reading_info):
+    with open(f"{DIRECTORY}/raw_html/{test_id}_study4/raw_answer.html", encoding = "utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    question_tabs = soup.find_all("div", class_ = "mt-2 text-success")
+    answers = []
+    for question_tab in question_tabs:
+        answer = question_tab.text.strip()
+        answers.append(answer[-1])
+
+    question_id = 1
+    for item in json_listening_info["items"]:
+        for question in item["questions"]:
+            question["answer"] = answers[question_id]
+            question_id += 1
+            
+    for item in json_reading_info["items"]:
+        for question in item["questions"]:
+            question["answer"] = answers[question_id]
+            question_id += 1
+    
+    json_store_path = f"{DIRECTORY}/listening/L{test_id + FOLDER_FORMAT}/parser_output.json"
+    with open(json_store_path, "w", encoding = "utf-8") as f:
+        print (json.dumps(json_listening_info, indent = 4), file = f)
+
+    json_store_path = f"{DIRECTORY}/reading/R{test_id + FOLDER_FORMAT}/parser_output.json"
+    with open(json_store_path, "w", encoding = "utf-8") as f:
+        print (json.dumps(json_reading_info, indent = 4), file = f)
 
 
 # ==========  EXTRACT BY TYPE  ==========
-def extract_test(parts_number, key):
-    with open(f"{DIRECTORY}/raw_html/{key}/raw_test.html", encoding = "utf-8") as f:
+def extract_test(tests_format, test_id):
+    with open(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}/raw_test.html", encoding = "utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
-    save_audio_path = extract_audio(soup, "audio", key)
+    save_audio_path = extract_audio(
+        soup, 
+        "audio", 
+        f"{test_id + FOLDER_FORMAT}"
+    )
     json_listening_info = {
+        "test_id": test_id,
         "audio": save_audio_path,
-        "part_1": {},
-        "part_2": {},
-        "part_3": {},
-        "part_4": {},
+        "items": []
     }
     json_reading_info = {
-        "part_5": {},
-        "part_6": {},
-        "part_7": {},
+        "test_id": test_id,
+        "items": []
     }
 
     question_tabs = soup.find_all("div", class_ = "question-item-wrapper")
-    i = 0
+    question_id = 0
+    first_question_id = -1
     for question_tab in question_tabs:
-        i += 1
-        if i <= parts_number[0]:
-            json_listening_info = extract_test_part1(question_tab, json_listening_info, key, i)
-        elif i <= parts_number[1]:
-            json_listening_info = extract_test_part2(json_listening_info, i)
-        elif i <= parts_number[2]:
-            json_listening_info = extract_test_part345(question_tab, json_listening_info, key, i, 3)
-        elif i <= parts_number[3]:
-            json_listening_info = extract_test_part345(question_tab, json_listening_info, key, i, 4)
-        elif i <= parts_number[4]:
-            json_reading_info = extract_test_part345(question_tab, json_reading_info, key, i, 5)
-        if i <= parts_number[5]:
-            json_reading_info = extract_test_part6(question_tab, json_reading_info, key, i)
+        question_id += 1
+        if question_id <= tests_format[0]:
+            json_listening_info = extract_test_part1(
+                question_tab, 
+                json_listening_info, 
+                f"L{test_id + FOLDER_FORMAT}", 
+                question_id
+            )
+        elif question_id <= tests_format[1]:
+            json_listening_info = extract_test_part2(
+                json_listening_info, 
+                question_id
+            )
+        elif question_id <= tests_format[2]:
+            if question_id == tests_format[1] + 1:
+                first_question_id = question_id % 3
+            if question_id % 3 == first_question_id:
+                json_listening_info = extract_test_part34(
+                    question_tab, 
+                    json_listening_info, 
+                    f"L{test_id + FOLDER_FORMAT}", 
+                    question_id, 
+                    3
+                )
+        elif question_id <= tests_format[3]:
+            if question_id == tests_format[2] + 1:
+                first_question_id = question_id % 3
+            if question_id % 3 == first_question_id:
+                json_listening_info = extract_test_part34(
+                    question_tab, 
+                    json_listening_info, 
+                    f"L{test_id + FOLDER_FORMAT}", 
+                    question_id, 
+                    4
+                )
+        elif question_id <= tests_format[4]:
+            json_reading_info = extract_test_part5(
+                question_tab, 
+                json_reading_info,
+                question_id
+            )
+        elif question_id <= tests_format[5]:
+            if question_id == tests_format[4] + 1:
+                first_question_id = question_id % 4
+            if question_id % 4 == first_question_id:
+                json_reading_info = extract_test_part6(
+                    question_tab, 
+                    json_reading_info, 
+                    f"R{test_id + FOLDER_FORMAT}", 
+                    question_id
+                )
         else:
             break
 
     question_tabs = soup.find_all("div", class_ = "question-group-wrapper")
-    json_part7 = {}
+    json_part7 = []
     for r in range(len(question_tabs) - 1, 0, -1):
         question_tab = question_tabs[r]
-        x, json_part7 = extract_test_part7(question_tab, json_part7, key)
-        i += x
-        if i == 201:
+        x, json_part7 = extract_test_part7(
+            question_tab, 
+            json_part7, 
+            f"{test_id + FOLDER_FORMAT}"
+        )
+        question_id += x
+        if question_id == 201:
             break
-    
-    i = parts_number[5] + 1
-    while True:
-        if i == 201:
-            break
-        json_reading_info["part_7"][str(i)] = json_part7[str(i)]
-        i += 1
-
-
-    json_store_path = f"{DIRECTORY}/listening/{key}/test_parser_output.json"
-    with open(json_store_path, "w", encoding = "utf-8") as f:
-        print (json.dumps(json_listening_info, indent = 4), file = f)
-    
-    json_store_path = f"{DIRECTORY}/reading/{key}/test_parser_output.json"
-    with open(json_store_path, "w", encoding = "utf-8") as f:
-        print (json.dumps(json_reading_info, indent = 4), file = f)
-        
-
-def extract_answer(parts_number, key):
-    with open(f"{DIRECTORY}/raw_html/{key}/raw_answer.html", encoding = "utf-8") as f:
-        soup = BeautifulSoup(f, "html.parser")
-
-    json_listening_info = {
-        "part_1": {},
-        "part_2": {},
-        "part_3": {},
-        "part_4": {},
-    }
-    json_reading_info = {
-        "part_5": {},
-        "part_6": {},
-        "part_7": {},
-    }
-    question_tabs = soup.find_all("div", class_ = "mt-2 text-success")
-    i = 0
-    j = 1
-    for question_tab in question_tabs:
-        i += 1
-        answer = question_tab.text.strip()
-        if i <= parts_number[3]:
-            json_listening_info[f"part_{j}"][str(i)] = answer[-1]
-        else:
-            json_reading_info[f"part_{j}"][str(i)] = answer[-1]
-
-        if i == parts_number[0]:
-            j += 1
-        elif i == parts_number[1]:
-            j += 1
-        elif i == parts_number[2]:
-            j += 1
-        elif i == parts_number[3]:
-            j += 1
-        elif i == parts_number[4]:
-            j += 1
-        elif i == parts_number[5]:
-            j += 1
-    
-    json_store_path = f"{DIRECTORY}/listening/{key}/answer_parser_output.json"
-    with open(json_store_path, "w", encoding = "utf-8") as f:
-        print (json.dumps(json_listening_info, indent = 4), file = f)
-
-    json_store_path = f"{DIRECTORY}/reading/{key}/answer_parser_output.json"
-    with open(json_store_path, "w", encoding = "utf-8") as f:
-        print (json.dumps(json_reading_info, indent = 4), file = f)
+    json_reading_info["items"] += json_part7
+    extract_answer(test_id, json_listening_info, json_reading_info)
