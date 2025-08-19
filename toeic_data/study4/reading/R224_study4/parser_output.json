@@ -1,0 +1,1729 @@
+{
+    "test_id": "224",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "When filling out the order form, please _____ your address clearly to prevent delays.",
+                    "options": [
+                        "A. fix",
+                        "B. write",
+                        "C. send",
+                        "D. direct"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Ms. Morgan recruited the individuals that the company _____ for the next three months.",
+                    "options": [
+                        "A. will employ",
+                        "B. to employ",
+                        "C. has been employed",
+                        "D. employ"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "The contractor had a fifteen-percent _____ in his business after advertising in the local newspaper.",
+                    "options": [
+                        "A. experience",
+                        "B. growth",
+                        "C. formula",
+                        "D. incentive"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "The free clinic was founded by a group of doctors to give _____ for various medical conditions.",
+                    "options": [
+                        "A. treatment",
+                        "B. treat",
+                        "C. treated",
+                        "D. treating"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "Participants in the walking tour should gather _____ 533 Bates Road on Saturday morning.",
+                    "options": [
+                        "A. with",
+                        "B. at",
+                        "C. like",
+                        "D. among"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "The artist sent _____ best pieces to the gallery to be reviewed by the owner.",
+                    "options": [
+                        "A. him",
+                        "B. himself",
+                        "C. his",
+                        "D. he"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "The figures that accompany the financial statement should be _____ to the spending category.",
+                    "options": [
+                        "A. relevance",
+                        "B. relevantly",
+                        "C. more relevantly",
+                        "D. relevant"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "The building owner purchased the property _____ three months ago, but she has already spent a great deal of money on renovations.",
+                    "options": [
+                        "A. yet",
+                        "B. just",
+                        "C. few",
+                        "D. still"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "We would like to discuss this problem honestly and _____ at the next staff meeting.",
+                    "options": [
+                        "A. rarely",
+                        "B. tiredly",
+                        "C. openly",
+                        "D. highly"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "The store's manager plans to put the new merchandise on display _____ to promote the line of fall fashions.",
+                    "options": [
+                        "A. soon",
+                        "B. very",
+                        "C. that",
+                        "D. still"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "During the peak season, it is _____ to hire additional workers for the weekend shifts.",
+                    "options": [
+                        "A. necessitate",
+                        "B. necessarily",
+                        "C. necessary",
+                        "D. necessity"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "_____ that the insulation has been replaced, the building is much more energy-efficient.",
+                    "options": [
+                        "A. Now",
+                        "B. For",
+                        "C. As",
+                        "D. Though"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "Mr. Sims needs a more _____ vehicle for commuting from his suburban home to his office downtown.",
+                    "options": [
+                        "A. expressive",
+                        "B. reliable",
+                        "C. partial",
+                        "D. extreme"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "The company _____ lowered its prices to outsell its competitors and attract more customers.",
+                    "options": [
+                        "A. strategy",
+                        "B. strategically",
+                        "C. strategies",
+                        "D. strategic"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "_____ Mr. Williams addressed the audience, he showed a brief video about the engine he had designed.",
+                    "options": [
+                        "A. Then",
+                        "B. So that",
+                        "C. Before",
+                        "D. Whereas"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "For optimal safety on the road, avoid _____ the view of the rear window and side-view mirrors.",
+                    "options": [
+                        "A. obstructs",
+                        "B. obstructed",
+                        "C. obstruction",
+                        "D. obstructing"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "Having proper ventilation throughout the building is _____ for protecting the health and well-being of the workers.",
+                    "options": [
+                        "A. cooperative",
+                        "B. visible",
+                        "C. essential",
+                        "D. alternative"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "_____ sales of junk food have been steadily declining indicates that consumers are becoming more health-conscious.",
+                    "options": [
+                        "A. In addition to",
+                        "B. The fact that",
+                        "C. As long as",
+                        "D. In keeping with"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "The sprinklers for the lawn's irrigation system are _____ controlled.",
+                    "options": [
+                        "A. mechanically",
+                        "B. mechanic",
+                        "C. mechanism",
+                        "D. mechanical"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "The library staff posted signs to _____ patrons of the upcoming closure for renovations.",
+                    "options": [
+                        "A. notify",
+                        "B. agree",
+                        "C. generate",
+                        "D. perform"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Mr. Ross, _____ is repainting the interior of the lobby, was recommended by a friend of the building manager.",
+                    "options": [
+                        "A. himself",
+                        "B. he",
+                        "C. who",
+                        "D. which"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "The guidelines for the monthly publication are _____ revised to adapt to the changing readers.",
+                    "options": [
+                        "A. courteously",
+                        "B. initially",
+                        "C. periodically",
+                        "D. physically"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "_____ an ankle injury, the baseball player participated in the last game of the season.",
+                    "options": [
+                        "A. In spite of",
+                        "B. Even if",
+                        "C. Whether",
+                        "D. Given that"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "The governmental department used to provide financial aid, but now it offers _____ services only.",
+                    "options": [
+                        "A. legal",
+                        "B. legalize",
+                        "C. legally",
+                        "D. legalizes"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "At the guest's_____, an extra set of towels and complimentary soaps were brought to the room.",
+                    "options": [
+                        "A. quote",
+                        "B. graduation",
+                        "C. request",
+                        "D. dispute"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "The upscale boutique Jane's Closet is known for selling the most stylish _____ for young professionals.",
+                    "options": [
+                        "A. accessorized",
+                        "B. accessorize",
+                        "C. accessorizes",
+                        "D. accessories"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "The company started recognize the increasing _____ of using resources responsibly.",
+                    "options": [
+                        "A. more important",
+                        "B. importantly",
+                        "C. importance",
+                        "D. important"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "_____ restructuring several departments within the company, the majority of the problems with miscommunication have disappeared.",
+                    "options": [
+                        "A. After",
+                        "B. Until",
+                        "C. Below",
+                        "D. Like"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "The riskiest _____ of the development of new medications are the trials with human subjects.",
+                    "options": [
+                        "A. proceeds",
+                        "B. perspectives",
+                        "C. installments",
+                        "D. stages"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "_____ seeking a position at Tulare Designs must submit a portfolio of previous work.",
+                    "options": [
+                        "A. Anyone",
+                        "B. Whenever",
+                        "C. Other",
+                        "D. Fewer"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "To\n: samsmith@digitalit.com\nFrom\n: sharronb@email.com\nDate\n: September 24\nSubject\n: Business Contract Dear Mr. Smith, I am Sharron Biggs, CEO and founder of BiggsGraphics. I recently came across your advertisement _____(131) the partnership of a graphic design company for a number of your projects. BiggsGraphics has _____(132) experience working with various small businesses and companies in designing advertising campaigns, logos, and websites. _____(133). Our website www.biggs-graphics.com also has some information about our company. I'm interested in working with your company on your projects and hope we can build a beneficial partnership. I look forward _____(134) your reply. Sincerely, Sharron Biggs CEO, BiggsGraphics",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "",
+                    "options": [
+                        "A. seek",
+                        "B. to seek",
+                        "C. seeking",
+                        "D. are seeking"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 132,
+                    "content": "",
+                    "options": [
+                        "A. extensive",
+                        "B. restricted",
+                        "C. generous",
+                        "D. limitless"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 133,
+                    "content": "",
+                    "options": [
+                        "A. I would really appreciate the opportunity to work with you.",
+                        "B. I heard that DigitalIT is a great company.",
+                        "C. In fact, our designs are often copied by other companies.",
+                        "D. I have attached a number of our past designs to illustrate what we specialize in."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 134,
+                    "content": "",
+                    "options": [
+                        "A. at",
+                        "B. to",
+                        "C. with",
+                        "D. from"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Thank you for shopping at Larson's China. Our products are known for their modern and unique patterns and color combinations, as well as _____(135) and strength. _____(136). Please note, however, that repeated drops and rough handling will _____(137) eventual breakage. We suggest you store them carefully and that you don't use harsh chemicals, steel sponges, or _____(138) scrubbing when cleaning them. Please visit our website at www.larsonchina.com for information about handling and care or call us at 555-1234 if you have any questions or concerns.",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "",
+                    "options": [
+                        "A. durable",
+                        "B. durability",
+                        "C. duration",
+                        "D. during"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 136,
+                    "content": "",
+                    "options": [
+                        "A. Larson's utensils and silverware go great with the dinnerware.",
+                        "B. Our most popular line, the Spring Flower China is sold out at most locations.",
+                        "C. Visit our store to check out our other beautiful products.",
+                        "D. They are dishwasher- and microwave-safe and we're confident that you'll be using them for years to come."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 137,
+                    "content": "",
+                    "options": [
+                        "A. result in",
+                        "B. occur to",
+                        "C. ending at",
+                        "D. stop with"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 138,
+                    "content": "",
+                    "options": [
+                        "A. ambitious",
+                        "B. combative",
+                        "C. aggressive",
+                        "D. complacent"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Position: Gold & Slide Accounting Firm\n \n We are looking for enthusiastic candidates with an educational background in finance or _____(139). All candidates should have some computer experience. Job experience is not _____(140) but preferred. Candidates with a bilingual language ability _____(141) favored. Positions include jobs in accounting, statistics, and general office assistant. If you are interested, please visit our website at www.G&Saccountingfirm.com/employment for more information. You can send your cover letters and resumes to Karen Hill at khill@G&S.com. We will begin interviewing candidates on Monday, November 5. _____(142).",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "",
+                    "options": [
+                        "A. account",
+                        "B. accountant",
+                        "C. accounting",
+                        "D. accounted"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 140,
+                    "content": "",
+                    "options": [
+                        "A. basic",
+                        "B. decisive",
+                        "C. additional",
+                        "D. necessary"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. is being",
+                        "B. will be",
+                        "C. has been",
+                        "D. were being"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. We sincerely thank you for your interest.",
+                        "B. The positions begin the following month.",
+                        "C. Please call us for more information.",
+                        "D. We apologize for any inconvenience."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "To\n: Kitchen staff, office employees\nFrom\n: Manager, Larry Park\nDate\n: March 23\nSubject\n: Renovations \nTo all kitchen staff and Harmon employees, \nFrom Sunday, March 23 to Thursday, March 27, the employee cafeteria kitchens will undergo renovations as new appliances and equipment _____(143) to replace the old ones. _____(144). Instead, the convenience shops will carry more sandwiches, prepared lunch boxes, and snacks for the employees during this time. The renovations will increase the number of sinks, ovens, and stove tops so that a larger volume of meals can be provided _____(145) the lunch and dinner rushes. We apologize for the inconvenience but we hope that the changes will _____(146) the services in the cafeteria.",
+            "questions": [
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. are bringing in",
+                        "B. have brought in",
+                        "C. bring in",
+                        "D. are brought in"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. This will take a lot of work.",
+                        "B. As a result, the convenience shops will be closed.",
+                        "C. Because of this, hot meals will not be available for the patrons.",
+                        "D. There will be noise and chaos as a result."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. before",
+                        "B. after",
+                        "C. during",
+                        "D. within"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. develop",
+                        "B. improve",
+                        "C. rectify",
+                        "D. recover"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [
+                {
+                    "Item": [
+                        "Item",
+                        "1. Personnel regularly wash hands and follow hygienic practices.",
+                        "2. Raw meats and vegetables are refrigerated at proper temperatures.",
+                        "3. All ingredients are properly stored and labeled.",
+                        "4. Dishes and utensils are cleaned and sterilized.",
+                        "5. Fire extinguishers are easily accessible.",
+                        "6. Fire exits are clearly marked.",
+                        "7. Floors are clean and dry."
+                    ],
+                    "Score": [
+                        "Score",
+                        "B",
+                        "A",
+                        "C",
+                        "A",
+                        "B",
+                        "C",
+                        "B"
+                    ]
+                },
+                {
+                    "Polito's": [
+                        "Polito's",
+                        "Rotate Food",
+                        "Mop Floors",
+                        "Uniforms",
+                        "Wash hands"
+                    ],
+                    "Sun": [
+                        "Sun",
+                        "K.P.",
+                        "K.P.",
+                        "K.P.",
+                        "K.P."
+                    ],
+                    "Mon": [
+                        "Mon",
+                        "K.P.",
+                        "K.P.",
+                        "K.P.",
+                        "K.P."
+                    ],
+                    "Tue": [
+                        "Tue",
+                        "K.P.",
+                        "K.P.",
+                        "K.P.",
+                        "K.P."
+                    ],
+                    "Wed": [
+                        "Wed",
+                        "K.P.",
+                        "K.P.",
+                        "K.P.",
+                        "K.P."
+                    ],
+                    "Thu": [
+                        "Thu",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "Fri": [
+                        "Fri",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "Sat": [
+                        "Sat",
+                        "K.P.",
+                        "K.P.",
+                        "K.P.",
+                        "K.P."
+                    ]
+                }
+            ],
+            "context": "Auburn City Restaurant Inspection\nRestaurant Name:\n \nPolito's Pizza\nLocation:\n \n43 Clark Street\nInspection Date:\n \nJanuary 22\nA: Comply completely with safety and health requirements with no violations\nB: Conform to most safety and health requirements with a few minor violations\nC: Not meet some safety and health requirements with some violations\nD: Not satisfy many safety and health requirements with serious violations that could result in harm or illness for a customer\n(Fines will be imposed for any C or D level violations related to food preparation and store.)\nTo avoid additional penalties, restaurants are warned to correct violations before their next inspection. \nRestaurant Owner:\n \nGreg Kluck\n \nInspector: \nM\nelissa Tenner\n-------------------------\nMEMO\nTo\n: All Employees (employees@politospizza.com)\nFrom\n: Greg Kluck (gregkluck@politospizza.com)\nSubject\n: Inspection Results\nDate\n: January 25\nDear employees,\nThe results from our recent inspection on January 22 indicate that there are a few problems that we need to address.\nFirst, it was brought to my attention that fire exit signs need to be installed again. The most serious violation concerned the improper storage and labeling of food. All ingredients stored for later use must be labeled with an exact date and detailed contents. If we do not label containers properly, spoiled food could accidently be served to customers. We received relatively low grades for employee hygiene and the cleanliness of our facilities. All employees are required to wear their uniform and hairnet at all times and wash their hands after every bathroom visit. We also need to mop floors more often and keep them dry.\nIn order to correct these poor situations, I will be posting a checklist that all employees will be required to complete every morning. It will include necessary preparations to ensure that we are not breaking any regulations. This measure will go into effect on January 29.\nIf you have any questions about these changes, please bring them up at the staff meeting tomorrow.\n-------------------------\nNOTICE TO ALL EMPLOYEES\nThe checklist below must be signed by every employee on every day that they have a shift at Polito's Pizza. Only sign the task once it has been completed or checked. Failure to fill out the checklist with the date, time, and signature will be treated as a violation of Polito's new health standards.\nPOLITO'S CHECKLIST",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "Why was the inspection conducted?",
+                    "options": [
+                        "A. To monitor compliance with food industry regulations",
+                        "B. To rate the taste and quality of the cuisine",
+                        "C. To inspect the structural safety of the building",
+                        "D. To evaluate the effectiveness of new policies"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 197,
+                    "content": "Why has Polito's Pizza been charged a fine?",
+                    "options": [
+                        "A. Because fire extinguishers were not in place.",
+                        "B. Because containers of food were not marked appropriately.",
+                        "C. Because raw meats and vegetables were handled incorrectly.",
+                        "D. Because the facilities were not cleaned according to standards."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 198,
+                    "content": "What does Mr. Kluck ask his employees to do?",
+                    "options": [
+                        "A. Apologize to customers",
+                        "B. Wear a name tag at all times",
+                        "C. File a complaint with Ms. Tenner",
+                        "D. Fill out a required form"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 199,
+                    "content": "What will happen if an employee fails to sign the work checklist?",
+                    "options": [
+                        "A. They will have a violation on their record.",
+                        "B. They will have to pay a fine.",
+                        "C. They will have to come in on the weekends.",
+                        "D. They will be fired."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 200,
+                    "content": "Based on Polito's Checklist, what can we infer about K.P.?",
+                    "options": [
+                        "A. He works at night.",
+                        "B. He did not work on Thursday and Friday.",
+                        "C. He will be fired for violations.",
+                        "D. He is slow at work."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [],
+            "context": "Important Notice\nDear Castelli customers,\nOur quality assurance team has revealed that five hundred jars of Castelli's Classic Spaghetti Sauce do not meet our high standards of product quality.\nThe defect has been caused by an improper seal on the lid of the jar and may have resulted in the contents spoiling due to contact with air. We are currently warning customers not to eat this product.\nWhat you should do\n: If you have already purchased a jar of Castelli's Classic Spaghetti Sauce, please send an e-mail to our Customer Service Department at cs@castellifood.com. One of our employees will provide you with a product replacement voucher. Please include your name, full address, phone number, and the product's serial number in the e-mail. Customers will receive a $12 voucher for each jar purchased. Please do not try to get a refund for this product at a retailer.\nPlease remember that no other Castelli food products are affected. We encourage you to continue purchasing our products.\n-------------------------\nTo\n: cs@castellifood.com\nFrom\n: Tony Hester (tonyhester21@webzit.com)\nDate\n: March 29\nSubject\n: Replacement Voucher\nTo whom it may concern,\nMy name is Tony Hester and I appreciate the precautionary step. Around two weeks ago I purchased two jars of Castelli's Classic Spaghetti Sauce from an Ace grocery store in Hermantown, Minnesota. A week later, I purchased one more jar of it at the same place.\nI have attached the image file of both receipts to this e-mail. I would like to receive a product replacement voucher for these defective products. My address is:\nTony Hester\n27 Bloom Street\nHermantown, MN 55811\nI look forward to receiving a reply soon.\nTony Hester\n-------------------------\nTo\n: Tony Hester (tonyhester21@webzit.com)\nFrom\n: cs@castellifood.com\nDate\n: March 30\nSubject\n: Voucher\nDear Mr. Hester,\nThank you very much for contacting Castelli Foods. We are committed to ensuring that our customers can continue to rely on the Castelli line of quality foods for all their dining needs. As such, we are happy to provide you with three vouchers for the cans of Classic Spaghetti Sauce you recently purchased. Please find the vouchers enclosed.\nIn addition to the vouchers for the Classic Spaghetti Sauce, we would like to offer you vouchers for our new line of linguini and spaghetti pasta, Pasta Prima. Please accept these as another way for us to say that we are sorry, and we hope that you continue to turn to us for delicious Italian flavors.\nSincerely,\nJan Olson\nCustomer Care Specialist",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "Where would the notice most likely be found?",
+                    "options": [
+                        "A. In a restaurant",
+                        "B. In a staff break room",
+                        "C. In a shipping agency",
+                        "D. In a grocery store"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 192,
+                    "content": "What is indicated about the jars?",
+                    "options": [
+                        "A. They were not closed tightly.",
+                        "B. They are currently out of stock.",
+                        "C. They were priced incorrectly.",
+                        "D. They were delivered to the wrong address."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 193,
+                    "content": "According to the notice, what is NOT mentioned as advice for customers?",
+                    "options": [
+                        "A. Avoiding consuming the product",
+                        "B. Reporting on the product",
+                        "C. Returning the product to a store",
+                        "D. Purchasing other Castelli products"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 194,
+                    "content": "In the e-mail to Mr. Hester, what additional gift does Castelli offer?",
+                    "options": [
+                        "A. Pasta sauce",
+                        "B. A recipe book",
+                        "C. Vouchers for produce",
+                        "D. Vouchers for new products"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 195,
+                    "content": "Castelli is sending the vouchers for a several reasons; what is NOT one of them?",
+                    "options": [
+                        "A. To keep customers loyal",
+                        "B. To say that they were sorry",
+                        "C. To be fair to their customers",
+                        "D. To gain new customers"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [
+                {
+                    "Package Option": [
+                        "Package Option",
+                        "Personal",
+                        "Small",
+                        "Medium",
+                        "Large"
+                    ],
+                    "Features": [
+                        "Features",
+                        "This package feeds approximately 2-3 people and contains fresh seasonal vegetables.",
+                        "This package is ideal for small businesses and includes fresh seasonal vegetables.",
+                        "This package is for medium-sized businesses needing a constant supply of fresh vegetables and meats.",
+                        "This package is our largest package and includes vegetables, meats, and dairy products."
+                    ],
+                    "Weight": [
+                        "Weight",
+                        "5 lb.",
+                        "50 lb.",
+                        "130 lb.",
+                        "250 lb."
+                    ],
+                    "Delivery Frequency": [
+                        "Delivery Frequency",
+                        "Once a week",
+                        "Once a week",
+                        "Twice a week",
+                        "Twice a week"
+                    ],
+                    "Price Per Delivery": [
+                        "Price Per Delivery",
+                        "$15",
+                        "$140",
+                        "$500",
+                        "$800"
+                    ]
+                }
+            ],
+            "context": "To\n: Bountiful Harvest (info@bountifulharvest.com)\nFrom\n: Emily Hall (emilyhall@zipline.com)\nDate\n: June 3\nSubject\n: Food Delivery\nTo whom it may concern,\nMy name is Emily Hall and I am the owner of a vegetarian restaurant located in downtown Huntsville. I am contacting you because I am interested in receiving regular shipments of fresh, organic vegetables to my restaurant weekly. My restaurant is just starting, so I do not need a large quantity of goods. After looking into different farms in the area, I chose to contact Bountiful Harvest because of your promise to deliver certified organic food. Therefore, I would like to receive a price estimate for the cost of having fresh vegetables delivered directly to our restaurant on a weekly basis.\nEmily Hall\n-------------------------\nTo\n: Emily Hall (emilyhall@zipline.com)\nFrom\n: Bountiful Harvest (info@bountifulharvest.com)\nDate\n: June 4\nSubject\n: RE: Food Delivery\nDear Ms. Hall,\nThanks for contacting our farm. At Bountiful Harvest, we offer fresh organic produce that can be delivered directly to a customer's location on a regular basis. Our vegetables are harvested from the field and delivered immediately, which means that you are getting wholesome, nutritious, organic produce to serve at your restaurant. We also offer additional items such as fresh meat, cheese, and milk. Below is a table detailing the various pricing options we offer.\nThe prices listed above do not include the delivery price. Customers who do not pick up their packages in person will have to pay an extra $6 per package to be delivered. However, for customers who sign up for an entire year's worth of deliveries, we will deliver your package for free. The purchase of additional items will also affect the final price of your package. Additional options are available on our website. Payments can be made via cash, credit card, check, or money order on the day of delivery.\nWe know that our customers especially care about the quality of the food. Therefore, we offer a mini package free of charge so you can assess our food. Please call Greg Lemons at 555-8141 to take advantage of this opportunity.\nIndira Singh\n-------------------------\nTo\n: Bountiful Harvest(info@bountifulharvest.com)\nFrom\n: Emily Hall (emilyhall@zipline.com)\nDate\n: June 5\nSubject\n: Harvest Schedule\nDear Ms. Singh,\nThank you for responding so promptly to my email. I appreciate the offer of the complimentary delivery, but I think I would like to just go ahead and set up regular deliveries. I may be interested in setting up a year's worth of deliveries, but I would first like to get a list of the range of produce that you will be offering through the different seasons. As I own a vegetarian restaurant, I will need to have an idea of the types of produce that will be delivered so I can prepare my menus accordingly. Thank you so much for your consideration, and I look forward to working with Bountiful Harvest!\nKind regards,\nEmily Hall",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "What is the purpose of the first e-mail?",
+                    "options": [
+                        "A. To request cost information",
+                        "B. To inquire about a policy change",
+                        "C. To postpone an order",
+                        "D. To report an incorrect invoice"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 187,
+                    "content": "What package option most likely fits Ms. Hall's needs best?",
+                    "options": [
+                        "A. Personal",
+                        "B. Small",
+                        "C. Medium",
+                        "D. Large"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What information is not needed for a final price?",
+                    "options": [
+                        "A. Length of contract",
+                        "B. Method of delivery",
+                        "C. Additional items",
+                        "D. Distance of shipping"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 189,
+                    "content": "What is indicated in Emily Hall's e-mail?",
+                    "options": [
+                        "A. She wants to try it for a month.",
+                        "B. She wants the free gift.",
+                        "C. She is interested in a long-term contract.",
+                        "D. She doesn't want winter produce."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 190,
+                    "content": "Why does Emily Hall want to know about the vegetables that will be available throughout the year?",
+                    "options": [
+                        "A. She loves vegetables.",
+                        "B. She is thinking about adding meat.",
+                        "C. She might hire another employee.",
+                        "D. She wants to plan her future menus."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [
+                {
+                    "Package": [
+                        "Package",
+                        "Diamond",
+                        "Emerald",
+                        "Ruby",
+                        "Sapphire"
+                    ],
+                    "Total Fee": [
+                        "Total Fee",
+                        "$5,500",
+                        "$4,300",
+                        "$3,000",
+                        "$1,750"
+                    ],
+                    "Location": [
+                        "Location",
+                        "Hardy Theater",
+                        "Zenith Park",
+                        "Country Springs Hotel",
+                        "Jubilee Garden"
+                    ],
+                    "Notes": [
+                        "Notes",
+                        "Everything from the Emerald package, plus a live string quartet",
+                        "Everything from the Ruby package, \nplus photo and video shoots",
+                        "Everything from the Sapphire package, \nplus decorated tables and beautiful flowers",
+                        "Buffet lunch and a variety of beverages"
+                    ]
+                }
+            ],
+            "context": "To\n: Sally Russell (srussell@ptmail.com)\nFrom\n: Kelly Bennett (kbennett@msplanning.com)\nDate\n: December 7\nSubject\n: Wedding Services\nAttachment\n: Packages\nDear Ms.Russel,\nWe received your e-mail on Tuesday, December 4, inquiring about our wedding planning and event services. We specialize in all kinds of weddings (small-or large-scale, indoor or outdoor, and various kinds of decors tailored to your dream wedding). We are sure to have a solution just right for you.\nYou wrote that you want a wedding package that is less than $5,000 and that will be held at a large venue close to a major highway because you expect many guests from all over the country. As I understand it, your other preferences are as follows:\n\u2022 an outdoor venue\n\u2022 a photographer and videographer available at all times for documentation\n\u2022 decorations including colorful flowers and elegant tablecloths\nI've attached a list of all our possible wedding packages that you might be interested in. They are all located within 15 minutes' drive of Highway 519. Please look through the provided information to decide which location fits your needs best. Once you have made a decision, please inform me via e-mail when you would like the wedding to be held. This will help me secure a reservation for you.\nThanks,\nKelly Bennett\nMS Planning",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What can be inferred about Ms. Russell?",
+                    "options": [
+                        "A. She is Ms. Bennett's co-worker.",
+                        "B. She is planning a honeymoon.",
+                        "C. She is currently engaged.",
+                        "D. She works for a catering company."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 182,
+                    "content": "Who most likely is Ms. Bennett?",
+                    "options": [
+                        "A. A professional musician",
+                        "B. A wedding photographer",
+                        "C. An interior designer",
+                        "D. An event planner"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 183,
+                    "content": "What is suggested about all the locations on the list?",
+                    "options": [
+                        "A. They are close to a main road.",
+                        "B. They are indoor venues.",
+                        "C. They are located in the same city.",
+                        "D. They require a down payment."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 184,
+                    "content": "What information is Ms. Russell asked to provide?",
+                    "options": [
+                        "A. A potential date",
+                        "B. A meal selection",
+                        "C. A list of guests",
+                        "D. A meeting location"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 185,
+                    "content": "What package would probably best suit Ms. Russell's needs?",
+                    "options": [
+                        "A. Diamond",
+                        "B. Emerald",
+                        "C. Ruby",
+                        "D. Sapphire"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-180",
+            "part_image": [],
+            "table": [],
+            "context": "Summer Lecture Series\nSponsored by the Department of City Planning at Wurnster University\nThe Department of City Planning is excited to announce a summer lecture series that will be focusing on budgeting issues that concern local residents and municipalities. Financial management is one of the most important duties of local government's operations. We hope to improve the status of budgeting at the local government level across the nation \nthrough \ncommunity involvement and participation. All lectures will be held in the Hayston Building on the Wurnster campus.\n> Monday, February 1, 6:00 P.M., Room 401\nSpeaker: Tim Powell, Professor of Policy Analysis at Wurnster University\nStrategic Planning\u2014Learn how to develop budgets in order to monitor progress toward community goals and successful outcomes.\n> Wednesday, February 3, 7:00 P.M., Room 305\nSpeaker: Melissa Simmons, Kennedy Institute for Policy Making\nFocusing on Our Children\u2014Studies show that building playgrounds and sports facilities for children helps make better communities.\n> Monday, February 8, 6:00 P.M., Room 202\nSpeaker: Hank Ross, Michigan Municipal League\nManaging Our County's Parks\u2014Learn how to preserve our local parks as a valuable community resource.\n> Wednesday, February 10, 5:30 P.M., Room 404\nSpeaker: Scott Watson, Executive Director, Local Government Academy\nEconomic Opportunities and Local Ecology\u2014Economic opportunity is often accompanied by potential risks to the surrounding ecosystem, and balancing the two can be difficult.\nPlease contact Patricia Flores at pflores@wurnster.edu for additional information.\nTo\n: Patricia Flores (pflores@wurnster.edu)\nFrom\n: Jake Patterson (jpatterson@wurnster.edu)\nSubject\n: Lecture Series\nDate\n: January 24\nDear Ms. Flores,\nI work for Facilities Management here at Wurnster University. It was recently brought to my attention that there is a scheduling conflict concerning one of your lecture dates. Room 305 has been reserved for every Wednesday this semester by the Wurnster Debate Club. Therefore, I'm sorry to inform you that you will need to move the location or the time of this talk. You can visit the facilities management website in order to check the availability of other room locations and reschedule the talk.\nJake Patterson",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "Who most likely is the lecture series intended for?",
+                    "options": [
+                        "A. Community members",
+                        "B. Building superintendents",
+                        "C. University professors",
+                        "D. Hospital patients"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 177,
+                    "content": "In the brochure, the word \"through\" is closest in meaning to",
+                    "options": [
+                        "A. over",
+                        "B. via",
+                        "C. across",
+                        "D. until"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 178,
+                    "content": "What most likely will be discussed at the lecture on February 10?",
+                    "options": [
+                        "A. How to balance yearly budgets",
+                        "B. How to meet infrastructure needs",
+                        "C. How to avoid environmental damage",
+                        "D. How to stimulate economic development"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 179,
+                    "content": "According to Mr. Patterson, whose lecture must be rescheduled?",
+                    "options": [
+                        "A. Mr. Watson's",
+                        "B. Mr. Ross's",
+                        "C. Ms. Simmons's",
+                        "D. Mr. Powell's"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 180,
+                    "content": "What is Ms. Flores instructed to do on a website?",
+                    "options": [
+                        "A. Download a document",
+                        "B. Change a room reservation",
+                        "C. Update personal information",
+                        "D. Facilitate a forum"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "172-175",
+            "part_image": [],
+            "table": [],
+            "context": "16 July, Newtown\u2014Health Shack is downtown Newtown's hottest new hangout for fitness buffs and corporate employees alike. \u2014[1]\u2014 Owners Jill and Barry Baker opened the shop last month to rave reviews and long lines. Getting a seat or table at Health Shack can take as long as 30 minutes on a good day and the place is always crowded no matter the time of day. Health Shack offers only six items on its menu; all are protein shakes including the best sellers, Apple Pie, Peanut Butter Cup, and Tuity Fruity. \u2014[2]\u2014 \"We were overwhelmed by the response,\" says Jill Baker. \"In fact, everything spread by word of mouth so we didn't even need to advertise.\" Fitness Instructor Julian Miles said, \"I love coming here for a quick lunch that won't wreck my fitness goals. I even recommend this place to all my patrons.\" \u2014[3]- \"I come here to get a healthy but satisfying meal during my short break with my co-workers,\" added businessman Tim Hammer. \"Without Health Shack, we'd be eating junk food.\" \u2014[4]\u2014 Health Shack is open from 7:00 A.M. to 8:00 P.M. from Mondays through Fridays, and from 9:00 A.M. to 7:00 P.M. on Saturdays. It closes on Sundays. The owners hope to add new flavors to the menu in the coming months.",
+            "questions": [
+                {
+                    "question_id": 172,
+                    "content": "What is suggested about the shop?",
+                    "options": [
+                        "A. It is very successful.",
+                        "B. It only offers take-out.",
+                        "C. It has been open for a long time.",
+                        "D. Only fitness experts patron the shop."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is suggested about Health Shack products?",
+                    "options": [
+                        "A. They are very delicious.",
+                        "B. They are healthy.",
+                        "C. They are cheap.",
+                        "D. They are easy to get."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 174,
+                    "content": "Why don't the owners advertise?",
+                    "options": [
+                        "A. They don't have enough money.",
+                        "B. They are too busy.",
+                        "C. Their customers recommend the place to others.",
+                        "D. They don't want to."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 175,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"Despite the limited number of products on the menu, customers can't get enough of the tasty but healthy shakes that are on offer.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-171",
+            "part_image": [],
+            "table": [],
+            "context": "Employee Winner of National Contest\nOne of our employees here at Arrow Design Laboratory, Jennifer Holt, has won first place in a web design contest hosted by the Association of Web Designers. Entrants were judged according to clarity of idea, quality of execution, and aesthetics. Ms. Holt was selected among over 300 different applicants. We applaud her achievement and are so happy to have her as an employee at Arrow Design Laboratory.\nThe Association of Web Designers (AWD) is an organization \nfounded \nin 2002 with the goal of emphasizing the importance of web design and protecting the rights of web designers. The AWD has members all over the world and is constantly gaining new members. The AWD hosts a variety of contests in order to promote web design as a professional field. The AWD believes that good design can enhance people's lives and build better communities.\nAs a recipient of the first place for the web design contest, Ms. Holt will receive a cash prize as well as free membership in the Association of Web Designers. In addition, she has been invited to give a speech at the Annual Web Designers' Conference to be held next month in Los Angeles, California. The AWD will be holding more contests in the future, and those interested should visit the website at www.awd.com/contests to find out more information.",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "Why most likely was the article written?",
+                    "options": [
+                        "A. To introduce a new employee",
+                        "B. To report on an award winner",
+                        "C. To announce an annual competition",
+                        "D. To describe a change in company policy"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 169,
+                    "content": "The word \"founded\" is closest in meaning to",
+                    "options": [
+                        "A. discovered",
+                        "B. learned",
+                        "C. established",
+                        "D. equipped"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 170,
+                    "content": "What is suggested about the Association of Web Designers?",
+                    "options": [
+                        "A. It holds a conference every year.",
+                        "B. It is based in Los Angeles.",
+                        "C. It currently offers free membership.",
+                        "D. It donates to community projects."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 171,
+                    "content": "According to the article, what can be found on the website?",
+                    "options": [
+                        "A. A transcript of a speech",
+                        "B. An application for an open position",
+                        "C. Details about upcoming contests",
+                        "D. A list of Ms. Holt's accomplishments"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-167",
+            "part_image": [],
+            "table": [],
+            "context": "Fulton Stainless Steel Products\nFulton Stainless Steel Products is a large-scale manufacturer making stainless steel industrial kitchen appliances in factories in Germany and France. The company's products are trusted by chefs and bakers around the world to be durable, long-lasting, and of superb quality. The company produces kitchen stoves, ovens, microwaves, refrigerators, food processors, electric kettles, coffee makers, and other products.\nAfter acquiring the Visor Home Products Company in a deal last month, the company expected its overall profits to increase 20% compared to the last fiscal year. As a result, to meet increased demand, the company will employ more than 300 full-time workers in our six factories and offer good pay with an excellent benefits package. The company considers all of its employees valuable members of the Fulton family. Additionally, the company continues to research and develop new products to satisfy its customers and compete with other companies.",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "Who is most likely to be a customer of Fulton Stainless Steel Products?",
+                    "options": [
+                        "A. A car manufacturer",
+                        "B. A restaurant",
+                        "C. A real estate agency",
+                        "D. A clothing store"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 166,
+                    "content": "What did Fulton Stainless Steel Products do last month?",
+                    "options": [
+                        "A. It held a press conference.",
+                        "B. It opened a new factory.",
+                        "C. It obtained a company.",
+                        "D. It laid off some workers."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 167,
+                    "content": "What is mentioned about Fulton Stainless Steel Products?",
+                    "options": [
+                        "A. It recently provided extra funding for research and development.",
+                        "B. It has released a budget proposal for next year.",
+                        "C. It offers a benefits package to its part-time employees.",
+                        "D. It plans to hire additional employees to work in factories."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-164",
+            "part_image": [],
+            "table": [],
+            "context": "Nickson, Harry \n10:10\nAny word yet from the distributors about the desks and office chairs we were supposed to get on Tuesday?\nJordan, Johnny \n10:11\nMonica is waiting to hear from them. Last I heard, there has been a bit of delay due to problems at the manufacturing site. Apparently one of the conveyor belts is down.\nNickson, Harry \n10:12\nHave you told this to our clients at P&R Industries?\nJordan, Johnny \n10:13\nNo, because I want to get a definitive answer from our manufacturers first before I relay any sort of a message about a delay. Hey Monica, have you gotten a response yet?\nStein, Monica \n10:14\nYes, I just spoke with them. Great news, it looks like we can get the job done on Friday as originally scheduled. The desks and chairs will arrive directly at P&R Industries from the assembly lines on Thursday.\nNickson, Harry\n 10:15\nThat's great to hear. Please inform Mr. Kline about this. We can get started on 5th-floor offices and work our way down once the furniture arrives.\nStein, Monica\n 10:15\nI'm on it.\nJordan, Johnny \n10:16\nAlright, and I'll get a large crew there so that the work can be finished by Friday as planned.\nNickson, Harry \n10:17\nYes, please make sure that the job is done not only efficiently but also well. They have a couple of other buildings that they may want our services for.\nJordan, Johnny \n10:18\nI'll keep that in mind.",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "What kind of business do the online speakers work at?",
+                    "options": [
+                        "A. A law firm",
+                        "B. An office supply company",
+                        "C. A furniture shop",
+                        "D. A moving company"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 162,
+                    "content": "When will the crew begin work?",
+                    "options": [
+                        "A. Tuesday",
+                        "B. Wednesday",
+                        "C. Thursday",
+                        "D. Friday"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 163,
+                    "content": "What will Johnny Jordan probably do next?",
+                    "options": [
+                        "A. Contact the distributors",
+                        "B. Organize a meeting",
+                        "C. Gather a large crew",
+                        "D. Call the client"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 164,
+                    "content": "What does Monica Stein mean by \"I'm on it\"?",
+                    "options": [
+                        "A. She'll organize the movers.",
+                        "B. She'll wait until she gets more information.",
+                        "C. She'll visit the manufacturers.",
+                        "D. She'll contact the client."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nStacey Johnson (sjohnson@toplineelec.com)\nFrom: \nJosh Fleck (jfleck@toplineelec.com)\nDate: \nOctober 22\nSubject: \nStrategic Planning\nDear Ms. Johnson,\nDistrict Management at Topline Electronics would like to inform you about a new development that will be affecting your store. Another competing consumer electronics store will be opening in the Crayville area on November 12.\nIn order to ensure that Topline Electronics does not lose business to this new store, District Management is advising you to run a special sale on our new line of curved UHD televisions. These televisions provide state-of-the-art features at moderate prices. By showing your customers that Topline Electronics offers the best deals in the area, you will be able to maintain customer loyalty. We will be shipping the new televisions to your store within the next week. We suggest you prepare a prominent display space in your store to feature them. You should also update your website to advertise the sale.\nSmooth communication between you and us is vital to effective operational practices. If you have any questions concerning the new televisions or the marketing campaign in general, please don't hesitate to contact District Management.\nSincerely,\nJosh Fleck\nDistrict Manager,\nTopline Electronics",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "Who most likely is Ms. Johnson?",
+                    "options": [
+                        "A. A store manager",
+                        "B. A customer",
+                        "C. A product developer",
+                        "D. A marketing specialist"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 159,
+                    "content": "What is indicated about Topline Electronics?",
+                    "options": [
+                        "A. It recently opened a new store location.",
+                        "B. It will be relocated to the Crayville area.",
+                        "C. It is concerned about market competition.",
+                        "D. It was nominated for an annual award."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 160,
+                    "content": "What is Ms. Johnson NOT instructed to do?",
+                    "options": [
+                        "A. Add new information to a website",
+                        "B. Hire additional staff",
+                        "C. Contact Management if necessary",
+                        "D. Arrange a sale display area"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [],
+            "table": [],
+            "context": "Community Victory\nAfter a months-long battle to stop the development of a new shopping mall on the location of the former Rivervalley Courthouse, residents, local businesses, and civic groups are cheering the decision to keep the 150-year-old building intact. \u2014[1]\u2014 \"We're dissappointed,\" added Branford Construction's CEO. \"We felt that the community would benefit and grow, but obviously, residents want to preserve their history and I respect that!\"\nInstead, efforts are being made to restore the old deserted courthouse to its former glory. -[2]- \"The community is getting together for this and we are collecting donations to have the building renovated,\" said local resident Enid Tran. \"We hope to make a public library or school out of the building.\"\n-[3]- \"It's been here for as long as I can remember. In fact, my grandfather worked as a clerk there,\" added a local business owner, Kevin Lamb, \"It's an iconic symbol of our community and we don't want it destroyed.\" The community has already raised over $100,000 through an online petition and donations keep pouring in. \u2014[4]\u2014 The community hopes that restoration of the building begins within the next couple of months.",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is indicated about the old courthouse?",
+                    "options": [
+                        "A. Branford Construction wants to renovate the building.",
+                        "B. The residents want to turn the building into a shopping mall.",
+                        "C. It may become a public library or school.",
+                        "D. It may be destroyed."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 156,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"Branford Construction, the development company that originally planned to build the shopping mall, is looking to build the mall outside of the Rivervalley Community.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 157,
+                    "content": "What is suggested about the fundraising efforts?",
+                    "options": [
+                        "A. The community made a lot of money from the land.",
+                        "B. It has been occuring online.",
+                        "C. The city government has been helping.",
+                        "D. They haven't raised enough money."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [
+                {
+                    "Item(s)": [
+                        "Item(s)",
+                        "Springform pans (5 @ $5.00 each)",
+                        "4 oz. cocoa butter",
+                        "Confectioner's glaze (3 @ $5.90 each)*",
+                        "Cupcake pans (2 @ $4.00 each)",
+                        "Merchandise Total",
+                        "Delivery",
+                        "Total",
+                        "Payment: Credit Card XXXX XXXX XXXX 4026"
+                    ],
+                    "Price": [
+                        "Price",
+                        "$25.00",
+                        "$10.99",
+                        "$17.70",
+                        "$8.00",
+                        "$61.69",
+                        "$8.99",
+                        "$70.68",
+                        ""
+                    ]
+                }
+            ],
+            "context": "Gilmore Good Buy\nOrder Confirmation\nName\n: Jenny Collins\nCustomer ID\n: F833J\nAddress\n: 808 Columbus Avenue, New York, NY 10025\nOrder date\n: August 22\n * Notes: Will be delivered at a quicker speed to prevent melting or damage",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "What kind of business are the items most likely intended for?",
+                    "options": [
+                        "A. A shopping mall",
+                        "B. A bakery",
+                        "C. An appliance store",
+                        "D. A convenience store"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 154,
+                    "content": "What is indicated about the order?",
+                    "options": [
+                        "A. It will be paid in installments.",
+                        "B. It will be sent separately.",
+                        "C. It has been discounted.",
+                        "D. It will be delivered at no charge."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "151-152",
+            "part_image": [],
+            "table": [],
+            "context": "Purchased by: \nTim Bailey\nTate Theater\nThe Kelly Cooper Concert\nTime: \n7:00 PM\nDate: \nFriday, May 20\nSection: \nGeneral Admission\nRow: \nF\nSeat: \n26\n\u2014 Guests seated in general admission should arrive at least 30 minutes before the concert begins.\n\u2014 For those coming by car, the location of the theater can be found on our website at www.tatetheater.com.\n\u2014 All ticket sales are non refundable.",
+            "questions": [
+                {
+                    "question_id": 151,
+                    "content": "What is Mr. Bailey advised to do?",
+                    "options": [
+                        "A. Contact the theater for a refund",
+                        "B. Select his preferred seat on a website",
+                        "C. Arrive at the venue in advance",
+                        "D. Post a review later"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 152,
+                    "content": "According to the ticket, what can be viewed on the theater's website?",
+                    "options": [
+                        "A. A list of past performances",
+                        "B. Driving directions",
+                        "C. Concert reviews",
+                        "D. Pictures of the theater"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "149-150",
+            "part_image": [],
+            "table": [],
+            "context": "Kyle \n2:42\nNancy, it's Kyle. I'm in conference room B setting up for the meeting at 5. The projector doesn't work. Can you search for another in the supply room?\nNancy\n 2:45\nHey. No problem, I'm headed there now.\nKyle\n 2:46\nThanks, I really appreciate it.\nNancy\n 2:57\nKyle, there are no projectors here. I've called the IT department and asked if they have any spare ones. I'll get back to you when I get a reply.\nKyle \n3:00\nThanks again. Oh and can you check for extra microphones?\nNancy \n3:08\nThere are two here. I'll take them both. Meanwhile, the IT department says they don't have extra projectors but they'll send a guy down now to check what's wrong. They say it worked fine at yesterday's presentation.\nKyle\n 3:09\nGreat! I'll see you soon then.",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "Where most likely is Nancy?",
+                    "options": [
+                        "A. At a conference room",
+                        "B. At the IT department",
+                        "C. In the supply room",
+                        "D. In her office"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 150,
+                    "content": "What did Nancy mean when she said \"I'm headed there now\"?",
+                    "options": [
+                        "A. She was going to the location.",
+                        "B. She would lead the presentation.",
+                        "C. She knew where the room was.",
+                        "D. She was going straight to meet him."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "147-148",
+            "part_image": [],
+            "table": [],
+            "context": "To\n: employees@simnetsolutions.com\nFrom\n: management@simnetsolutions.com\nSubject\n: Seminar Opportunity\nDate\n: February 5 \nDear Female Employees, \nOnly one week remains until registration will be closed for the Women's Leadership Seminar. This seminar is offered free of charge to all of our female employees at Simnet Solutions. To accommodate our female employees' busy schedules, identical seminars will be held on two different dates\u2014February 21 and February 23. In order to register for this specially designed seminar, you must e-mail James Taylor in human resources by 5:00 PM. on February 12. This seminar will teach our female employees about how to communicate with confidence and credibility in the workplace. The Simnet Solutions Management Team",
+            "questions": [
+                {
+                    "question_id": 147,
+                    "content": "What is indicated about the seminar?",
+                    "options": [
+                        "A. It will feature speaker James Taylor.",
+                        "B. It is held annually.",
+                        "C. Its fee is more expensive than the last one.",
+                        "D. It is designed for women."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 148,
+                    "content": "When will the free registration offer end?",
+                    "options": [
+                        "A. On February 5",
+                        "B. On February 12",
+                        "C. On February 21",
+                        "D. On February 23"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        }
+    ]
+}

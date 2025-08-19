@@ -242,7 +242,7 @@ def extract_answer(test_id, json_listening_info, json_reading_info):
         answer = question_tab.text.strip()
         answers.append(answer[-1])
 
-    question_id = 1
+    question_id = 0
     for item in json_listening_info["items"]:
         for question in item["questions"]:
             question["answer"] = answers[question_id]

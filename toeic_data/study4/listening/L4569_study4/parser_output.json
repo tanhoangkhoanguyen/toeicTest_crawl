@@ -1,0 +1,1481 @@
+{
+    "test_id": "4569",
+    "audio": "toeic_data/study4/listening/L4569_study4/audio/Test10_fixed.mp3",
+    "items": [
+        {
+            "part": 1,
+            "question_range": "1-1",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image96.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 1,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 1,
+            "question_range": "2-2",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image118.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 2,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 1,
+            "question_range": "3-3",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image253.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 3,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 1,
+            "question_range": "4-4",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image251.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 4,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 1,
+            "question_range": "5-5",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image41.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 5,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 1,
+            "question_range": "6-6",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image89.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 6,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C.",
+                        "D."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "7-7",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 7,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "8-8",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 8,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "9-9",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 9,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "10-10",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 10,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "11-11",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 11,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "12-12",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 12,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "13-13",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 13,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "14-14",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 14,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "15-15",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 15,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "16-16",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 16,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "17-17",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 17,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "18-18",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 18,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "19-19",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 19,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "20-20",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 20,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "21-21",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 21,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "22-22",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 22,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "23-23",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 23,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "24-24",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 24,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "25-25",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 25,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "26-26",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 26,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "27-27",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 27,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "28-28",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 28,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "29-29",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 29,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "30-30",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 30,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "question_range": "31-31",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 31,
+                    "content": "",
+                    "options": [
+                        "A.",
+                        "B.",
+                        "C."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "32-34",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 32,
+                    "content": "What does the man encourage the woman to do?",
+                    "options": [
+                        "A. Visit a new department",
+                        "B. Complete a customer survey",
+                        "C. Try a sample of a product",
+                        "D. Enroll in a rewards problem"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 33,
+                    "content": "Why does the woman reject the man's suggestion?",
+                    "options": [
+                        "A. She cannot find what she needs.",
+                        "B. She is on a tight budget.",
+                        "C. She does not have much time.",
+                        "D. She has sensitive skin."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 34,
+                    "content": "What does the man give to the woman?",
+                    "options": [
+                        "A. A product brochure",
+                        "B. A sales receipt",
+                        "C. A membership card",
+                        "D. A discount voucher"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "35-37",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 35,
+                    "content": "What does the woman say she likes?",
+                    "options": [
+                        "A. The artwork on display",
+                        "B. The caf\u00e9's design",
+                        "C. The background music",
+                        "D. The business's staff"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 36,
+                    "content": "Who is Maria Martinez?",
+                    "options": [
+                        "A. A local performer",
+                        "B. A business owner",
+                        "C. A talent agent",
+                        "D. A caf\u00e9 manager"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 37,
+                    "content": "What does the man say he will do?",
+                    "options": [
+                        "A. Bring the woman a menu",
+                        "B. Play a live video",
+                        "C. Check on an order",
+                        "D. Give the woman a schedule"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "38-40",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 38,
+                    "content": "What does the man want to find out?",
+                    "options": [
+                        "A. Who will lead a session",
+                        "B. When an event starts",
+                        "C. How to find a file",
+                        "D. Where a coworker is"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 39,
+                    "content": "What problem does the man mention?",
+                    "options": [
+                        "A. He is not feeling well.",
+                        "B. He is late for a meeting.",
+                        "C. He cannot set up some equipment.",
+                        "D. He will miss a project deadline."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 40,
+                    "content": "What does the woman say she will do?",
+                    "options": [
+                        "A. Cover the man's shift",
+                        "B. Prepare a conference room",
+                        "C. Make a call to Samantha",
+                        "D. Send a contact number"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "41-43",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 41,
+                    "content": "What is the purpose of the man's call?",
+                    "options": [
+                        "A. To trade shifts with the woman",
+                        "B. To check a work schedule",
+                        "C. To request a day off",
+                        "D. To report a late arrival"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 42,
+                    "content": "According to the woman, why is the store busier than usual?",
+                    "options": [
+                        "A. A new product has been launched.",
+                        "B. Another employee is absent.",
+                        "C. A promotional sale has begun.",
+                        "D. A holiday is coming soon."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 43,
+                    "content": "What does the man suggest?",
+                    "options": [
+                        "A. Hiring some temporary workers",
+                        "B. Assigning a coworker to a different task",
+                        "C. Offering more training to a colleague",
+                        "D. Working after a shift is finished"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "44-46",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 44,
+                    "content": "What does the man mention about the exhibit?",
+                    "options": [
+                        "A. It will be closing soon.",
+                        "B. Its ticket price has increased.",
+                        "C. Its venue has changed.",
+                        "D. It is very popular."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 45,
+                    "content": "Why did the woman visit Chicago?",
+                    "options": [
+                        "A. To go to a conference",
+                        "B. To attend a business meeting",
+                        "C. To participate in a competition",
+                        "D. To visit some relatives"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 46,
+                    "content": "What advice does the man give?",
+                    "options": [
+                        "A. Touring the building",
+                        "B. Visiting the waterfront",
+                        "C. Attending a concert",
+                        "D. Making a reservation"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "47-49",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 47,
+                    "content": "What is the purpose of the call?",
+                    "options": [
+                        "A. To promote a service",
+                        "B. To inquire about a preference",
+                        "C. To arrange a delivery",
+                        "D. To confirm an address"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 48,
+                    "content": "What does the man mean when he says, \"Nearly three times that\"?",
+                    "options": [
+                        "A. Some items are too heavy to move.",
+                        "B. A project will take a long time.",
+                        "C. Some room measurements were incorrect.",
+                        "D. A price was much higher than expected."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 49,
+                    "content": "What does the man offer to do?",
+                    "options": [
+                        "A. Store some materials",
+                        "B. Call the woman later",
+                        "C. Place a rush order",
+                        "D. Visit the woman's office"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "50-52",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 50,
+                    "content": "What is the conversation mainly about?",
+                    "options": [
+                        "A. A training session",
+                        "B. A supply order",
+                        "C. A job interview",
+                        "D. A software problem"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 51,
+                    "content": "What did the man do yesterday?",
+                    "options": [
+                        "A. Contacted a manufacturer",
+                        "B. Summarized a manual",
+                        "C. Issued a bill",
+                        "D. Set up some equipment"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 52,
+                    "content": "What does the woman mention about the business?",
+                    "options": [
+                        "A. Its workforce has recently expanded.",
+                        "B. It invests heavily in new technology.",
+                        "C. It will relocate to another place.",
+                        "D. It currently has several job openings."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "53-55",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 53,
+                    "content": "What is the conversation mainly about?",
+                    "options": [
+                        "A. A vacation schedule",
+                        "B. Employee evaluations",
+                        "C. Company policies",
+                        "D. A machine's performance"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 54,
+                    "content": "What does the woman mean when she says, \"It's a bit full\"?",
+                    "options": [
+                        "A. She cannot accept any new clients.",
+                        "B. She does not have time to meet the man.",
+                        "C. She has too many e-mails in her inbox.",
+                        "D. She thinks some files should be removed."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 55,
+                    "content": "What does the woman plan to do?",
+                    "options": [
+                        "A. Give the man some training",
+                        "B. Transfer some employees",
+                        "C. Form a new department",
+                        "D. Speak to some supervisors"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "56-58",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 56,
+                    "content": "Why do the men congratulate the woman?",
+                    "options": [
+                        "A. She was given an award.",
+                        "B. She received a promotion.",
+                        "C. She met a sales goal.",
+                        "D. She found a new client."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 57,
+                    "content": "What does the woman suggest about her office?",
+                    "options": [
+                        "A. It is spacious.",
+                        "B. It has a good view.",
+                        "C. It is noisy.",
+                        "D. It needs some repairs."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 58,
+                    "content": "What does Ken offer to do?",
+                    "options": [
+                        "A. Print out some files",
+                        "B. Look up some information",
+                        "C. Place a supply order",
+                        "D. Check a storage area"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "59-61",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 59,
+                    "content": "Where most likely is the conversation taking place?",
+                    "options": [
+                        "A. At a job interview",
+                        "B. At an industry event",
+                        "C. At the man's office",
+                        "D. At a career fair"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 60,
+                    "content": "What advantage of her new job is the woman especially pleased about?",
+                    "options": [
+                        "A. The short commute",
+                        "B. The flexible hours",
+                        "C. The increased salary",
+                        "D. The friendly staff"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 61,
+                    "content": "What does the woman suggest?",
+                    "options": [
+                        "A. Having a meal together",
+                        "B. Picking up an afternoon schedule",
+                        "C. Finding a seat near the front",
+                        "D. Arranging a branch visit"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "62-64",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image213.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 62,
+                    "content": "Why does the man thank the woman?",
+                    "options": [
+                        "A. She placed a rush order for him.",
+                        "B. She checked a storage area for an item.",
+                        "C. She explained some product features.",
+                        "D. She gave him a discount coupon."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 63,
+                    "content": "Look at the graphic. What is the man buying?",
+                    "options": [
+                        "A. A tent",
+                        "B. A backpack",
+                        "C. A sleeping bag",
+                        "D. A flashlight"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 64,
+                    "content": "What does the man ask about?",
+                    "options": [
+                        "A. An instruction manual",
+                        "B. A return policy",
+                        "C. A delivery option",
+                        "D. A closing time"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "65-67",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image279.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 65,
+                    "content": "What did the man do earlier?",
+                    "options": [
+                        "A. He gave a presentation.",
+                        "B. He purchased some items.",
+                        "C. He toured a building.",
+                        "D. He attended an interview."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 66,
+                    "content": "What benefit does the man mention?",
+                    "options": [
+                        "A. Meeting other business owners",
+                        "B. Living close to his workplace",
+                        "C. Reducing advertising expenses",
+                        "D. Attracting qualified employees"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 67,
+                    "content": "Look at the graphic. Where do the speakers want to put their business?",
+                    "options": [
+                        "A. 101",
+                        "B. 103",
+                        "C. 104",
+                        "D. 105"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "question_range": "68-70",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image146.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 68,
+                    "content": "Why does the woman need a new shirt?",
+                    "options": [
+                        "A. For a conference presentation",
+                        "B. For a job interview",
+                        "C. For an award ceremony",
+                        "D. For her regular work shift"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 69,
+                    "content": "Look at the graphic. What problem does the woman have with the shirt?",
+                    "options": [
+                        "A. Its fabric type",
+                        "B. Its size",
+                        "C. Its care instructions",
+                        "D. Its origin"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 70,
+                    "content": "What does the man recommend doing?",
+                    "options": [
+                        "A. Browsing some other items",
+                        "B. Placing an online order",
+                        "C. Returning some merchandise",
+                        "D. Waiting at the checkout aisle"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "71-73",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 71,
+                    "content": "Why did the listeners visit the site?",
+                    "options": [
+                        "A. To attend a workshop",
+                        "B. To go on a hike",
+                        "C. To clean up a park",
+                        "D. To repair a path"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 72,
+                    "content": "What has the speaker given to the listeners?",
+                    "options": [
+                        "A. A list of supplies",
+                        "B. An entrance ticket",
+                        "C. A map of a site",
+                        "D. A business card"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 73,
+                    "content": "What does the speaker remind the listeners to do?",
+                    "options": [
+                        "A. Drink plenty of water",
+                        "B. Take regular breaks",
+                        "C. Pack their items carefully",
+                        "D. Wear sun protection"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "74-76",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 74,
+                    "content": "What is the main topic of the broadcast?",
+                    "options": [
+                        "A. A community picnic",
+                        "B. A sporting event",
+                        "C. A music competition",
+                        "D. A local election"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 75,
+                    "content": "What does the speaker inform listeners about?",
+                    "options": [
+                        "A. A street closure",
+                        "B. A registration process",
+                        "C. An event sponsor",
+                        "D. A public speech"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 76,
+                    "content": "According to the speaker, how can people get more information?",
+                    "options": [
+                        "A. By visiting a community center",
+                        "B. By reading a newspaper article",
+                        "C. By visiting a Web site",
+                        "D. By listening to a radio show"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "77-79",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 77,
+                    "content": "Who most likely are the listeners?",
+                    "options": [
+                        "A. Electronics technicians",
+                        "B. Corporate trainers",
+                        "C. Call center workers",
+                        "D. Retail salespeople"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 78,
+                    "content": "According to the speaker, what should the listeners focus on first?",
+                    "options": [
+                        "A. Promoting new products",
+                        "B. Expressing their concern",
+                        "C. Identifying the problem",
+                        "D. Keeping costs down"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 79,
+                    "content": "What does the speaker plan to do next?",
+                    "options": [
+                        "A. Introduce a colleague",
+                        "B. Distribute handouts",
+                        "C. Assign groups",
+                        "D. Show a video"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "80-82",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 80,
+                    "content": "Who most likely is Ms. Chavez?",
+                    "options": [
+                        "A. A city council member",
+                        "B. A local journalist",
+                        "C. A history expert",
+                        "D. A museum director"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 81,
+                    "content": "What does the speaker imply when he says, \"It's five stories high\"?",
+                    "options": [
+                        "A. A structure is tall for the area.",
+                        "B. The building has a great view.",
+                        "C. Spare rooms will be rented out.",
+                        "D. There is a lot of space to fill."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 82,
+                    "content": "What are local residents asked to do?",
+                    "options": [
+                        "A. Donate items to a museum",
+                        "B. Share opinions about an exhibit",
+                        "C. Attend a fund-raising event",
+                        "D. Come to a grand opening"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "83-85",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 83,
+                    "content": "Where most likely is the speech taking place?",
+                    "options": [
+                        "A. At a grand opening",
+                        "B. At a retirement banquet",
+                        "C. At a groundbreaking ceremony",
+                        "D. At an employee orientation"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 84,
+                    "content": "Why does the speaker say. \"It took everything we had\"?",
+                    "options": [
+                        "A. He is upset with the outcome of an event.",
+                        "B. He wants to make an excuse for an error.",
+                        "C. He thinks completing a task was difficult.",
+                        "D. He is worried that the company lacks resources."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 85,
+                    "content": "What does the speaker ask the listeners to do?",
+                    "options": [
+                        "A. Share some comments",
+                        "B. Watch a video",
+                        "C. Come up on stage",
+                        "D. Show their appreciation"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "86-88",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 86,
+                    "content": "What is the advertisement mainly about?",
+                    "options": [
+                        "A. An art institute",
+                        "B. A fitness facility",
+                        "C. A business center",
+                        "D. A medical clinic"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 87,
+                    "content": "What is a benefit of the business mentioned by the speaker?",
+                    "options": [
+                        "A. Its facilities have recently been renovated.",
+                        "B. Its hours of operation are convenient.",
+                        "C. Its services are helpful to the environment.",
+                        "D. Its staff members are very friendly."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 88,
+                    "content": "According to the speaker, what can Web site visitors do in April only?",
+                    "options": [
+                        "A. Enter a prize drawing",
+                        "B. Download a brochure",
+                        "C. View photos of a site",
+                        "D. Obtain a free pass"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "89-91",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 89,
+                    "content": "Why did the speaker call Ms. Swenson?",
+                    "options": [
+                        "A. To give her a schedule update",
+                        "B. To inquire about a preference",
+                        "C. To invite her on a tour",
+                        "D. To confirm some flight details"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 90,
+                    "content": "What does the speaker say about the Ramsey Theater?",
+                    "options": [
+                        "A. It hosts live shows every evening.",
+                        "B. It is a popular destination for tourists.",
+                        "C. It offers discounts to its members.",
+                        "D. It is near the listener's accommodations."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 91,
+                    "content": "What does the speaker say he will do?",
+                    "options": [
+                        "A. Send some information",
+                        "B. Call Ms. Swenson again",
+                        "C. Reserve some tickets",
+                        "D. Print a brochure"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "92-94",
+            "part_image": [],
+            "questions": [
+                {
+                    "question_id": 92,
+                    "content": "According to the speaker, what will happen over the weekend?",
+                    "options": [
+                        "A. A construction project will begin.",
+                        "B. The business will move to another location.",
+                        "C. New office furniture will be delivered.",
+                        "D. Some rooms will be professionally painted."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 93,
+                    "content": "Why does the speaker say, \"There's not much we can do\"?",
+                    "options": [
+                        "A. To explain a change",
+                        "B. To give a warning",
+                        "C. To show disappointment",
+                        "D. To apologize for an error"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 94,
+                    "content": "What does the speaker remind the listeners to do?",
+                    "options": [
+                        "A. Take their belongings home",
+                        "B. Report broken items to her",
+                        "C. Arrive early on Monday",
+                        "D. Express a product preference"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "95-97",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image107.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 95,
+                    "content": "When did the speaker conduct a survey?",
+                    "options": [
+                        "A. In March",
+                        "B. In April",
+                        "C. In May",
+                        "D. In June"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 96,
+                    "content": "Look at the graphic. Which topic will be addressed first?",
+                    "options": [
+                        "A. Produce freshness",
+                        "B. Prices",
+                        "C. Variety of goods",
+                        "D. Staff friendliness"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 97,
+                    "content": "What should the listeners do next?",
+                    "options": [
+                        "A. Take some notes",
+                        "B. Read an advertisement",
+                        "C. Watch a video",
+                        "D. Review some figures"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 4,
+            "question_range": "98-100",
+            "part_image": [
+                "toeic_data/study4/listening/L4569_study4/img/image35.png"
+            ],
+            "questions": [
+                {
+                    "question_id": 98,
+                    "content": "Why does the speaker want to change an order?",
+                    "options": [
+                        "A. She forgot to count one of the tables.",
+                        "B. The budget for supplies has been reduced.",
+                        "C. She has decided to adjust the party's theme.",
+                        "D. More guests will attend than originally expected."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 99,
+                    "content": "Look at the graphic. Which quantity does the speaker want to change?",
+                    "options": [
+                        "A. 3",
+                        "B. 5",
+                        "C. 25",
+                        "D. 30"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 100,
+                    "content": "What does the speaker tell the listener about?",
+                    "options": [
+                        "A. What to bring for identification",
+                        "B. How to access a building",
+                        "C. Where to send an invoice",
+                        "D. When to make a delivery"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        }
+    ]
+}

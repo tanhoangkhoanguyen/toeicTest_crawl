@@ -1,0 +1,1567 @@
+{
+    "test_id": "226",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "Not far _____ the train station lies Starlight Park, which is a popular destination for tourists and locals alike.",
+                    "options": [
+                        "A. from",
+                        "B. with",
+                        "C. next",
+                        "D. until"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "The sales director will give a brief talk _____ the keynote speaker is introduced.",
+                    "options": [
+                        "A. before",
+                        "B. opposite",
+                        "C. about",
+                        "D. between"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "The charity's new reading program is _____ to increase literacy rates in developing countries over the next ten years.",
+                    "options": [
+                        "A. project",
+                        "B. projecting",
+                        "C. projected",
+                        "D. projects"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "Engaging in social _____, Ms. Mason quickly expanded her network after moving to a new city.",
+                    "options": [
+                        "A. active",
+                        "B. activities",
+                        "C. activates",
+                        "D. activated"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "Artists wanting to participate in the contest should submit their work by the _____ of June",
+                    "options": [
+                        "A. admission",
+                        "B. possibility",
+                        "C. deadline",
+                        "D. output"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Drake Pharmaceuticals is _____ to have world-renowned chemist Jonas Lund as its senior lab technician.",
+                    "options": [
+                        "A. absent",
+                        "B. fortunate",
+                        "C. approximate",
+                        "D. respective"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "The Zans Corporation _____ manufacturing all of its luxury wallets and footwear domestically next year.",
+                    "options": [
+                        "A. was starting",
+                        "B. started",
+                        "C. will start",
+                        "D. has started"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "Some voters have a clear _____ for candidates who have practiced law.",
+                    "options": [
+                        "A. selection",
+                        "B. reflection",
+                        "C. component",
+                        "D. preference"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "The clerk said that _____ fifteen customers had been waiting outside the store for it to open.",
+                    "options": [
+                        "A. rougher",
+                        "B. roughly",
+                        "C. rough",
+                        "D. roughness"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "The leaky faucet has been repaired, so visitors may _____ use the first-floor restroom.",
+                    "options": [
+                        "A. however",
+                        "B. once",
+                        "C. now",
+                        "D. quite"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "The _____ of the disease can be significantly slowed by taking the medicine developed by Dr. Toft's team.",
+                    "options": [
+                        "A. progressed",
+                        "B. progression",
+                        "C. progressive",
+                        "D. progressively"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "Unfortunately, when the hurricane hit the area, residents as well as public officials were _____ unprepared.",
+                    "options": [
+                        "A. subsequently",
+                        "B. totally",
+                        "C. beneficially",
+                        "D. currently"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "The company plans on _____ the salespeople for the expenses they incurred while attending the conference.",
+                    "options": [
+                        "A. reimbursement",
+                        "B. reimbursed",
+                        "C. reimburse",
+                        "D. reimbursing"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "Ms. Carlton felt comfortable crossing the road because there were no vehicles coming in her _____.",
+                    "options": [
+                        "A. directly",
+                        "B. direction",
+                        "C. direct",
+                        "D. directs"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "_____ the television coverage of the general election, a number of high-profile candidates were interviewed live on air.",
+                    "options": [
+                        "A. During",
+                        "B. About",
+                        "C. While",
+                        "D. Since"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "Mr. Hicks _____ seating near the stage in the concert hall for important clients.",
+                    "options": [
+                        "A. cooperated",
+                        "B. entertained",
+                        "C. loosened",
+                        "D. reserved"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "Fritz Center, the venue _____ hosts the film industry's awards banquet, is undergoing an ambitious expansion project.",
+                    "options": [
+                        "A. that",
+                        "B. where",
+                        "C. what",
+                        "D. even"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "The monthly staff dinners give employees from different departments the chance to interact with _____ on a personal level.",
+                    "options": [
+                        "A. other",
+                        "B. neither",
+                        "C. every",
+                        "D. each other"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "Landlords are required to _____ with the regulations set by the Regional Department of Safe Housing.",
+                    "options": [
+                        "A. reinforce",
+                        "B. comply",
+                        "C. fulfill",
+                        "D. interfere"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "A sturdy support beam was added to the first story of the building for _____ reasons.",
+                    "options": [
+                        "A. structures",
+                        "B. structurally",
+                        "C. structure",
+                        "D. structural"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Eco Unite is a non-profit organization _____ to educating the public about environmental issues.",
+                    "options": [
+                        "A. proposed",
+                        "B. deferred",
+                        "C. dedicated",
+                        "D. observed"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "It is essential that the logo for Prime Vitamins be integrated _____ all of its catalogs and mailings.",
+                    "options": [
+                        "A. into",
+                        "B. of",
+                        "C. as",
+                        "D. than"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "Despite receiving rejections from several major publishers, Ian Wright _____ to become a world-famous novelist.",
+                    "options": [
+                        "A. gave up",
+                        "B. figured out",
+                        "C. brought down",
+                        "D. went on"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "Mr. Burrows was praised for creating _____ user manuals which can be easily understood.",
+                    "options": [
+                        "A. inform",
+                        "B. informant",
+                        "C. informs",
+                        "D. informative"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "Even though Ms. Garcia had a small account at the financial institution, the employee treated her _____ she were a major investor.",
+                    "options": [
+                        "A. rather than",
+                        "B. in spite of",
+                        "C. as if",
+                        "D. provided that"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "When you return an item by mail, be sure the receipt is _____ to the request form to expedite processing.",
+                    "options": [
+                        "A. attachment",
+                        "B. attached",
+                        "C. attaching",
+                        "D. attach"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "The witness saw only a _____ figure standing near the lamp post shortly before the crime was committed.",
+                    "options": [
+                        "A. solitary",
+                        "B. spare",
+                        "C. previous",
+                        "D. random"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "Ben Sanders _____ designed the suitcase to fold up easily for compact storage.",
+                    "options": [
+                        "A. innovatively",
+                        "B. innovate",
+                        "C. innovative",
+                        "D. innovation"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "Because the weather was warmer than usual this summer, the crops _____ a few weeks early.",
+                    "options": [
+                        "A. have been harvesting",
+                        "B. will have harvested",
+                        "C. are harvesting",
+                        "D. will be harvested"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "_____ auditing the financial records of Rockford Consulting, the accountant will submit an official report.",
+                    "options": [
+                        "A. In addition",
+                        "B. Given",
+                        "C. For example",
+                        "D. Upon"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Urgent! Journeyman Plumber Needed\nAce Plumbing is looking for an experienced plumber to join our _____(131) business here in Columbia. _____(132). We have always been a family-owned-and-run business, but with the _____(133) increase in Columbia's population over the last three years, we have an opportunity to welcome in a new journeyman plumber. The candidate should have experience with all _____(134) of plumbing, both commercial and residential. Please send your resume to aceplumbing@gmail.com and we will schedule an interview.",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "",
+                    "options": [
+                        "A. expanding",
+                        "B. expecting",
+                        "C. contracting",
+                        "D. controlling"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 132,
+                    "content": "",
+                    "options": [
+                        "A. Ace Plumbing has been servicing the Columbia area since 1954.",
+                        "B. We have little connection to the community.",
+                        "C. We have been struggling to pay our bills.",
+                        "D. Ace Plumbing is in financial trouble."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 133,
+                    "content": "",
+                    "options": [
+                        "A. monstrous",
+                        "B. dramatic",
+                        "C. impossible",
+                        "D. insane"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 134,
+                    "content": "",
+                    "options": [
+                        "A. pieces",
+                        "B. flows",
+                        "C. installations",
+                        "D. types"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Learn social media marketing tactics only at Genius Marketing's Power Conference\nAre you ready to take your social media marketing to the next level? Then _____(135) Genius Marketing's Power Conference and learn cutting-edge social media marketing tactics. _____(136). This could be the most educational two days of your year.\nGenius Marketing will give you real-world tactics to boost your paid and organic social media marketing efforts. _____(137) you buy social media advertising or focus on organic social media engagement, Genius Marketing's Power Conference is the conference you need to attend this year. You'll be inspired by experts, meet others with your challenges, and get actionable tactics to drive traffic, increase sales and _____(138) customer satisfaction.\nTo apply, just click the link below.\nAPPLICATION",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "",
+                    "options": [
+                        "A. attend",
+                        "B. attends",
+                        "C. attended",
+                        "D. attending"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 136,
+                    "content": "",
+                    "options": [
+                        "A. Guide people in the industry to greatness by joining today.",
+                        "B. The conference will be in Houston on May 3 and 4.",
+                        "C. Registration for this two-week course will be on November 20.",
+                        "D. Classes will be held throughout the month of March."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 137,
+                    "content": "",
+                    "options": [
+                        "A. Either",
+                        "B. Whether",
+                        "C. Rather",
+                        "D. Not only"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 138,
+                    "content": "",
+                    "options": [
+                        "A. divide",
+                        "B. improve",
+                        "C. devalue",
+                        "D. endure"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "To: \nNancy Craft\nFrom:\n Omar Patel\nDate: \nJanuary 16\nSubject:\n Pre-shipping Procedures\nAt the manufacturing team meeting, _____(139) was raised that inventory wasn't always being properly stored before being shipped. _____(140) that concern, the team decided to review the written procedure to determine if additional steps should be added. _____(141). Please try to arrange the schedules of the team in the packaging and storage wing so a majority of the managers can attend this meeting.\nI am confident that the packaging and storage team management _____(142) that the written procedure leaves no room for any inventory to accidentally be improperly stored. Any suggestions made by the packaging and storage team will only enhance a superior checklist.",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "",
+                    "options": [
+                        "A. understanding",
+                        "B. concern",
+                        "C. challenges",
+                        "D. patience"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 140,
+                    "content": "",
+                    "options": [
+                        "A. Because",
+                        "B. Due to",
+                        "C. Regardless of",
+                        "D. Provided"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. A meeting of the packaging and storage team has been set for Tuesday, January 23.",
+                        "B. All employees should be asked to review the procedure before starting work on Tuesday.",
+                        "C. The meeting will investigate the possibility of redundancies in the packaging process.",
+                        "D. Additional training sessions are planned to be added sometime at the end of December."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. is discovering",
+                        "B. have been discovered",
+                        "C. will discover",
+                        "D. has discovered"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "June 3, 2016\nYui Minakuchi\n143 Dean St. Apt. 3\nBrooklyn, NY 10787\nDear Ms. Minakuchi,\nIt is my pleasure to inform you that Hannover Design would like _____(143) you to interview for our summer intern program. We are only interviewing fifteen candidates this year for the six positions we have available. You will be pleased to know that you were selected out of a group of over 200 people _____(144) applied for an interview.\nWe will be holding interviews on March 6 and 7 from 1:00 to 6:00 P.M. We would like for you to come on the 6th at 1:30 P.M. if you are able to. If not, we can _____(145) for you to come on the 7th. _____(146). If you have any questions, feel free to call our office (212-347-9919) and the human resources department will be able to assist you. We look forward to hearing from you soon.\nSincerely,\nMax Wright\nOffice Manager\nHannover Design\n212-326-1268\nM.Wright@hannoverdesign.com",
+            "questions": [
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. to invite",
+                        "B. will invite",
+                        "C. has invited",
+                        "D. will be inviting"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. whom",
+                        "B. that",
+                        "C. whose",
+                        "D. which"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. order",
+                        "B. arrange",
+                        "C. oblige",
+                        "D. attend"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. You will need to bring a completed application and some type of identification card.",
+                        "B. Please let us know as soon as possible if you will be able to attend.",
+                        "C. We wish we were able to accept your offer, but we must decline it.",
+                        "D. Please RSVP and indicate if you plan on bringing a guest."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nJake Baldwin (baldwinj@technet.com)\nFrom:\n Dream Oasis Hotel (booking@dreamoasishotel.com)\nDate:\n September 22\nSubject:\n Your Reservation\nAttachment\n: invoice.html\nDear Mr. Baldwin,\nThank you for reserving a room at the Dream Oasis Hotel. You have booked a room with a double bed for the nights of October 13 and 14. Your reservation number is 5259.\nI am writing to inform you that you must pay your balance by September 29 in order to confirm your reservation. Your total room fee is $165.25 for both nights. Payment can be made via credit card by visiting our website at www.dreamoasishotel.com and entering your reservation number. You may also call us and complete your payment over the phone. If payment is not received by September 29, your reservation will be canceled automatically. Please see the attached invoice for related details.\nWhen you arrive at the airport, the easiest way to travel to our hotel is by subway. We are located next to exit 3 at City Hall Station. If you have trouble finding us, please don't hesitate to call us at 555-2134. A staff member is available 24 hours a day to assist you.\nThank you again for choosing our hotel,\nAmy Lee\nCustomer Service Manager\nDream Oasis Hotel\n-------------------------\nTo:\n Dream Oasis Hotel (booking@dreamoasishotel.com)\nFrom: \nJake Baldwin (baldwinj@technet.com)\nDate:\n September 23\nSubject:\n RE: Your Reservation\nDear Ms. Lee,\nI am writing in regard to my reservation at the Dream Oasis Hotel for October 13 and 14. I received your e-mail about the payment for my upcoming stay at the hotel. However, I would like to inquire about extending my stay for an extra night. I recently heard that there will be a local food festival held on October 16 and I would like to attend it. Therefore, I would like to stay at your hotel until October 15. Please let me know a revised room fee so that I can make the correct payment as soon as possible.\nJake Baldwin\n-------------------------\nTo:\n Jake Baldwin (baldwinj@technet.com)\nFrom:\n Amy Lee (alee@dreamoasishotel.com)\nDate:\n September 24\nSubject: \nThe 15th\nDear Mr. Baldwin,\nYou are right to be excited about the food festival that will be held on the October 16th. Unfortunately, this event has become so popular that the city fills up for that weekend. I regret to inform you that there is no vacancy at the Dream Oasis Hotel for the night of the 15th. I went ahead and looked into some of our partner hotels in the area, but those properties also are at full occupancy. I do hope you are able to find someplace to stay in the city so you can enjoy the festival while you are in town; I just wish it could have been with us. You could try the Executive Inn in Fairview; it is a large hotel and they do have vacancies.\nSincere apologies,\nAmy Lee\nCustomer Service Manager\nDream Oasis Hotel",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "What is the purpose of the first e-mail?",
+                    "options": [
+                        "A. To explain a cancellation policy",
+                        "B. To request a payment",
+                        "C. To schedule a reservation",
+                        "D. To offer a special service"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 197,
+                    "content": "What is Mr. Baldwin asked to provide when making a payment online?",
+                    "options": [
+                        "A. His telephone number",
+                        "B. His e-mail address",
+                        "C. His room number",
+                        "D. His reservation number"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 198,
+                    "content": "What information is NOT included in Ms. Lee's e-mail?",
+                    "options": [
+                        "A. The cost of the stay",
+                        "B. The travel insurance",
+                        "C. The location of the hotel",
+                        "D. Staff contact information"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 199,
+                    "content": "Why can't Mr. Baldwin stay at the Dream Oasis Hotel on the night of the 15th?",
+                    "options": [
+                        "A. The hotel is full because of the food festival.",
+                        "B. The hotel is full because it is very popular.",
+                        "C. The hotel is full because there is a convention in town.",
+                        "D. The hotel is full because the food at the hotel is very good."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 200,
+                    "content": "What does Amy Lee recommend?",
+                    "options": [
+                        "A. That Mr. Baldwin try another hotel in town",
+                        "B. That Mr. Baldwin try a hotel in Fairview",
+                        "C. That Mr. Baldwin try to attend the food festival next year",
+                        "D. That Mr. Baldwin ask again on the 14th, in case there is a cancellation"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [],
+            "context": "Colonial Heights Nursing Home\nColonial Heights is proud to have served the elderly population of Houston, Texas, for over 30 years. Our nursing home is equipped with state-of-the-art facilities. Our five-story building allows each floor to offer individualized levels of care for our residents. Our building houses a rehabilitation gym and we also provide psychological counseling services for residents.\nWe currently have openings for several positions, we are looking to hire a nursing home administrator who has at least three years of experience and a valid license. There is also an opening for an admissions coordinator. Those applying for the admissions coordinator job must have a bachelor's degree and at least two years of related experience. We are also looking for hospice workers who can provide personal care to residents in a compassionate and caring manner. Previous experience is not necessary, so everyone interested is welcome to apply for this position.\nYou can see this job listing and submit an application online by visiting our website at www.chnh.com.\n-------------------------\nTo:\n Tommy Jenkins (tommyjenkins7@zeusnet.com)\nFrom: \nGreg Parker (g_parker@chnh.com)\nSubject: \nHiring Procedure\nDate:\n September 14\nDear Mr. Jenkins,\nCongratulations! You have made it through the first round of the application process for the position of admissions coordinator. We require that all applicants visit Colonial Heights Nursing Home in order to attend an in-person interview. I would appreciate it if you let me know about a convenient time for your interview by September 17.\nI look forward to meeting you.\nSincerely,\nGreg Parker\nHuman Resources Manager\nColonial Heights Nursing Home\n-------------------------\nTo:\n Greg Parker (g_parker@chnh.com)\nFrom:\n Tommy Jenkins (tommyjenkins7@zeusnet.com)\nDate:\n September 15\nSubject:\n Hiring Procedure\nDear Mr. Parker,\nThank you so much for giving me the opportunity to interview for the position of admissions coordinator. You requested that I inform you about my availability for September 17. I have another interview at 10:00 A.M., but I will be able to be at Colonial Heights Nursing Home by 1:00 P.M. I hope this is convenient for you. Shady Pines Nursing Home, as you know, is a competing facility located on the other side of town, and the hours they offer are very attractive. I would prefer to work in a modern facility such as Colonial Heights.\nI look forward to interviewing with you and touring your facilities.\nSincerely,\nTommy Jenkins",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "What is mentioned about Colonial Heights Nursing Home?",
+                    "options": [
+                        "A. It has five locations in Texas.",
+                        "B. It has operated for over half a century.",
+                        "C. It provides art classes.",
+                        "D. It offers mental health services."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 192,
+                    "content": "According to the notice, which position does not require experience?",
+                    "options": [
+                        "A. Nursing home administrator",
+                        "B. Hospice worker",
+                        "C. Admissions coordinator",
+                        "D. Front desk receptionist"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 193,
+                    "content": "What is indicated about Colonial Heights Nursing Home?",
+                    "options": [
+                        "A. It plans to expand its facilities.",
+                        "B. It accepts applications through its website.",
+                        "C. It offers the highest wages in the state.",
+                        "D. It recently renewed its operating certificate."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 194,
+                    "content": "Why might Tommy Jenkins decide not to work for Colonial Heights Nursing Home?",
+                    "options": [
+                        "A. They do not have physical fitness centers.",
+                        "B. Their facilities are not modern.",
+                        "C. The job is too far away.",
+                        "D. Shady Pines Nursing Home can give him a better schedule."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 195,
+                    "content": "When can Tommy Jenkins be at the interview at Colonial Heights?",
+                    "options": [
+                        "A. 10:00 A.M.",
+                        "B. Before 1:00 P.M.",
+                        "C. After 1:00 P.M.",
+                        "D. After 4:00 P.M."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [],
+            "context": "May 12\nDear Mr. Gray,\nYou are a long-time member of the Georgian Society of Architects (GSA). We would like to inform you that we are adding some changes to the services provided to members this year. Specifically, we will be adding a new Gold Class level membership that will give privileged members access to more resources than ever before. We are excited to tell you that you meet all of the qualifications for this special membership offer and may sign up immediately. You should be receiving a brochure in the mail soon that will provide more information. We hope that you decide to join this amazing Gold Class membership.\nAs you know, the GSA's annual members' conference will be held on June 14 at the Stargate Conference Center in Atlanta, Georgia. We noticed you have already registered your attendance. We can't wait to see you there. If you need any further assistance making arrangements, don't hesitate to call our offices at (124) 555-5251.\nYours truly,\nJoan Ross\nGeorgian Society of Architects\n-------------------------\nGeorgian Society of Architects\nGOLD CLASS MEMBERSHIP\nIn order to qualify for this special membership, applicants must have at least 20 years of experience in the field as well as hold a degree in architecture from an accredited university.\nGold Class members will also be eligible to apply for professional liability insurance coverage offered exclusively to our Gold Class members.\nTo apply, simply fill out the form attached to this brochure and mail it to our headquarters. The $40.00 application fee can either be paid by check or credit card by calling our accountant at (124) 555-5253.\n-------------------------\nSTARGATE CONVENTION CENTER SCHEDULE OF EVENTS\nJUNE 14\nGEORGIAN SOCIETY OF ARCHITECTS\n9:00 A.M.-9:45 A.M.\n Sign in at the desk in the lobby\n10:00 A.M.-11:45 A.M. \nGuest Speaker Jerry Jenkins Jr. in Conference Room A\n12:00 P.M.-1:30 P.M.\n Lunch in the Diamond Room\n2:00 P.M.-4:OO P.M.\n Regional Presentations in Conference Room A\n6:00 P.M.-9:OO P.M. \nDinner and cocktails in the Sapphire Lounge\nPlease remember to bring your Society ID to ensure a smooth registration for the day's events!",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "What is the purpose of the letter?",
+                    "options": [
+                        "A. To publicize a conference",
+                        "B. To advertise a new membership",
+                        "C. To confirm an appointment",
+                        "D. To attract a new member"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 187,
+                    "content": "What is Mr. Gray encouraged to do?",
+                    "options": [
+                        "A. Register for a conference",
+                        "B. Reschedule an appointment",
+                        "C. Upgrade his service",
+                        "D. Pay by credit card"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What is indicated about Mr. Gray?",
+                    "options": [
+                        "A. He has worked as an architect for over two decades.",
+                        "B. He spoke at last year's GSA members' conference.",
+                        "C. He contributes to an architecture journal.",
+                        "D. He forgot to pay his membership fee in April."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 189,
+                    "content": "What time should Mr. Gray sign in on the day of the conference?",
+                    "options": [
+                        "A. 8:45 A.M.-10:OO A.M.",
+                        "B. 9:00 A.M. exactly",
+                        "C. Anytime",
+                        "D. 9:00 A.M.-9:45 A.M."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 190,
+                    "content": "How many meals are included in the event?",
+                    "options": [
+                        "A. Breakfast, lunch, and dinner",
+                        "B. Brunch and dinner",
+                        "C. Dinner and cocktails",
+                        "D. Lunch and dinner"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [
+                {
+                    "First Name:": [
+                        "First Name:",
+                        "Last Name:",
+                        "Membership Number:"
+                    ],
+                    "Charles": [
+                        "Charles",
+                        "Bell",
+                        "14245FDA"
+                    ]
+                }
+            ],
+            "context": "From:\n Carrie Cook (carriecook@freshfarmsgrocery.com)\nTo: \nCharles Bell (charlesbe11434@globalnet.com)\nSubject:\n Membership Card\nDate: \nMay 4\nDear Mr. Bell,\nYour Silver Star Membership Card at Fresh Farms Grocery will expire on the 28th of this month. Your membership card entitles you to special sale prices as well as special points on most Fresh Farms Grocery purchases. Once you accumulate enough points, they can be redeemed for a discount on your next purchase. Without a valid Silver Star Membership Card, you will lose the ability to accumulate these frequent shopper points.\nPlease do not attempt to renew your membership over the phone. In order to do that, please stop by the customer service desk at one of our store locations. If you have any other questions, please call us at 204-555-2648.\nCarrie Cook\nCustomer Service Representative\nFresh Farms Grocery \nFresh Farms Grocery\nMembership Card Form\n\u2610 Create my membership card\n\u2611 Renew my membership card\n\u2610 Cancel my membership card\nMembership card categories and fees:\nGold Star:\n Premium membership, $90 a year\nSilver Star: \nBusiness membership, $70 a year\nBronze Star:\n Household membership, $50 a year\nShooting Star:\n Short-term membership, $10 a month\nPlease note:\nPremium membership is reserved for those who hold shares in the Fresh Farms Grocery company.\nFood vendors and restaurant owners are eligible to apply for the Silver Star Membership Card.",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What is the purpose of the e-mail?",
+                    "options": [
+                        "A. To announce seasonal discounts",
+                        "B. To notify Mr. Bell of an outstanding fee",
+                        "C. To remind Mr. Bell to renew a membership",
+                        "D. To offer a free upgrade to Mr. Bell"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 182,
+                    "content": "What does the membership card allow Mr. Bell to do?",
+                    "options": [
+                        "A. Benefit from frequent shopping",
+                        "B. Park in designated spaces",
+                        "C. Receive expedited shipping",
+                        "D. Purchase new products in advance"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 183,
+                    "content": "What is Mr. Bell asked to do?",
+                    "options": [
+                        "A. Call the customer service desk",
+                        "B. Visit the store in person",
+                        "C. Write a customer review",
+                        "D. Attend a regular event"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 184,
+                    "content": "How much does Mr. Bell currently pay a year?",
+                    "options": [
+                        "A. $50",
+                        "B. $70",
+                        "C. $90",
+                        "D. $120"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 185,
+                    "content": "What is indicated about Mr. Bell?",
+                    "options": [
+                        "A. He is a celebrated chef.",
+                        "B. He runs a food-selling business.",
+                        "C. He is a shareholder of Fresh Farms Grocery.",
+                        "D. He applied for his membership this year."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-180",
+            "part_image": [],
+            "table": [],
+            "context": "http://www.instituteofruralservice.com\nRural Community Outreach Program\nAs part of its ongoing commitment to enhance the standard of living in rural communities across the state: the Institute of Rural Service provides annual grants for rural communities. The goal of this program is to support local efforts to sustain a convenient and satisfying life in the countryside. The grants available this year are as follows:\nBusiness Development Grant: $250,000\nCommunity Development Grant: $150,000\nCommunications Development Grant: $200,000\nEducational Development Grant: $100,000\nThe institute will give priority to proposals that reflect a comprehensive approach to community development, promote community engagement, and make rural communities a better place to live and work. The grants will allow rural communities to take the first step toward a project or plan that can help improve the lives of rural community members. For the past decades, the grants have been used for a variety of purposes such as state-of-the-art farming equipment, road maintenance, communications infrastructure, educational facilities, and investments for young rural entrepreneurs.\nDownload this \napplication\n to apply for a grant. The deadline for submission is February 28. \nVillage of Cranton Wins Funding\nCRANTON, March 22-The Institute of Rural Service announced today that the village of Cranton is this year's recipient of the Educational Development Grant. The grant will be used to fund the construction of a large playground that will provide recreational activities for children under 12. Since the opening of the new electronics factory last year, the number of families in the area has risen dramatically. As a result, children have been left with less and less space to play in. The new playground will allow children to play and enjoy themselves when they are not at school.\nCranton is proud to be the recipient of this grant and plans to apply for more grants in the future to improve the living conditions of the town and attract more residents.",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "What is the purpose of the web page?",
+                    "options": [
+                        "A. To report that a project has been completed",
+                        "B. To encourage applications for a grant",
+                        "C. To announce a recipient of a grant",
+                        "D. To introduce local entrepreneurs"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 177,
+                    "content": "According to the web page, what is NOT mentioned as a purpose of an Institute of Rural Service grant?",
+                    "options": [
+                        "A. Providing funds for local business people",
+                        "B. Building the basic systems for communications",
+                        "C. Organizing community health check-ups",
+                        "D. Purchasing farming equipment"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 178,
+                    "content": "How much funding did Cranton receive?",
+                    "options": [
+                        "A. $100,000",
+                        "B. $150,000",
+                        "C. $200,000",
+                        "D. $250,000"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 179,
+                    "content": "According to the article, what will the grant enable Cranton to do?",
+                    "options": [
+                        "A. Improve local farming conditions",
+                        "B. Renovate an elementary school",
+                        "C. Hire more qualified teachers",
+                        "D. Provide a play area for children"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 180,
+                    "content": "What is indicated about Cranton?",
+                    "options": [
+                        "A. It has received grants in the past.",
+                        "B. It plans to open a new factory.",
+                        "C. Its population has increased.",
+                        "D. It will hold a community festival."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "172-175",
+            "part_image": [],
+            "table": [],
+            "context": "MEMO\nTo: \nAll Employees\nFrom: \nVeronica Jackman, Executive Manager\nDate:\n October 10\nSubject:\n Staffing\n-[1]- Sheila Roberts, our marketing director will be away on a business trip to Singapore from October 21 to November 5. In her absence, Michael Lee will temporarily take over some of her responsibilities at Goldman's Department Store. However, for those of you who have projects near completion with Ms. Roberts, we ask that you make final arrangements with her before October 15. -[2]- Some of the urgent projects have already been discussed with Michael. If your project can wait for Sheila's return, we ask that you inform both Sheila and Michael so that other projects can go forward.\n-[3]- I realize this may seem like an inconvenience, especially so close to the holiday season, but I have great confidence that Michael will be able to handle the responsibilities in Sheila's absence. Michael has worked closely with Sheila and will deal with the newer projects handed to him. -[4]-\nIf you have further questions or concerns about this, please contact Sheila before October 20 or me at any time.",
+            "questions": [
+                {
+                    "question_id": 172,
+                    "content": "Where do the recipients of the e-mail work?",
+                    "options": [
+                        "A. At a marketing firm",
+                        "B. At a law office",
+                        "C. At a department store",
+                        "D. At a travel agency"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is indicated about Sheila Roberts?",
+                    "options": [
+                        "A. She is getting a new job.",
+                        "B. She has been promoted.",
+                        "C. She is going on vacation.",
+                        "D. She is going on a business trip."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 174,
+                    "content": "When should employees with nearly completed projects contact Sheila by?",
+                    "options": [
+                        "A. October 15",
+                        "B. October 20",
+                        "C. October 21",
+                        "D. November 5"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 175,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"Michael will arrange separate meetings with different departments during Sheila's absence to ensure a smooth transition and communication during his temporary tenure.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-171",
+            "part_image": [],
+            "table": [],
+            "context": "Attention Members of Super Fit Gym\nOne workout plan doesn't work for everyone. That is why here at Super Fit Gym we offer the largest variety of fitness programs in the area. You are sure to find something fun and exciting that helps you meet your fitness goals. Now we are excited to bring you a new dance fitness program. The class will run this summer from June 12 to August 23. Dance is an interesting and interactive way to exercise. It is also appropriate for those individuals who are not able to engage in strenuous physical activity.\nThose who wish to sign up for this dance class are encouraged to sign up in pairs. If you don't have someone to sign up with, you will team up with another individual on the first day of a class. Registration will be available from May 10 to June 1. You can register on our website by filling out a registration form. A class fee must be paid at the time of registration by credit card.\nIn accordance with our rules and regulations, those who wish to receive a class fee refund must withdraw from a class a week or more before the scheduled start date. No refund will be given to those who withdraw from a class after that deadline.\nFor more details concerning class content, schedules, and fees, contact our manager, Scott Peterson, at (231) 555-2523.\nSincerely,\nSuper Fit Gym Staff",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "What is the purpose of the notice?",
+                    "options": [
+                        "A. To postpone an opening ceremony",
+                        "B. To hire new instructors",
+                        "C. To explain payment options",
+                        "D. To announce a new class"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 169,
+                    "content": "What most likely will happen on June 12?",
+                    "options": [
+                        "A. Some instructors will be absent.",
+                        "B. Some members will be assigned partners.",
+                        "C. Some refunds will be given.",
+                        "D. Some certificates of completion will be issued."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 170,
+                    "content": "According to the notice, what is the latest date that participants can receive a refund for the class?",
+                    "options": [
+                        "A. May 10",
+                        "B. June 5",
+                        "C. June 12",
+                        "D. August 23"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 171,
+                    "content": "What is mentioned as a reason to contact Mr. Peterson?",
+                    "options": [
+                        "A. To schedule an appointment",
+                        "B. To inquire about a class",
+                        "C. To update personal contact details",
+                        "D. To withdraw from a class"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-167",
+            "part_image": [],
+            "table": [],
+            "context": "To:\n Samantha Russell (srussell@speednet.com)\nFrom: \nSam Rerger (sberger@highlandshotel.com)\nSubject:\n Reservation\nDate: \nJuly 1\nAttachment:\n receipt\nDear Ms. Russell,\nThank you for choosing Highlands Hotel as the location for your upcoming celebration. We are contacting you to confirm the details of your reservation for rooms on the nights of July 12 and 13. You have reserved all 12 rooms on the fourth floor of our hotel. Additionally, you will have unrestricted access to the main conference room for exclusive use on both of those days. You mentioned that family members from all around the country will be gathering for this event. We will provide you with any assistance you need during your stay.\nOur hotel supplies free Wi-Fi as well as access to our Internet caf\u00e9, where guests can use our computers for free when they want to surf the Internet or send e-mail. This caf\u00e9 will be available from 5:00 AM. to 12:00 PM. Also, guests are encouraged to eat at our awarding-winning restaurant, which is open from 7:00 AM. to 10:00 PM. This e-mail also contains a receipt for your $100 deposit paid by credit card on June 30. If you would like to view the layout and seating for our conference room, you can visit our website at www.highlandshotel.com.\nSincerely,\nSam Berger\nHighlands Hotel",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "What kind of event is being held on July 12 and 13?",
+                    "options": [
+                        "A. A family reunion",
+                        "B. A business conference",
+                        "C. A shareholders' meeting",
+                        "D. A job fair"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 166,
+                    "content": "What is NOT mentioned as a benefit of the reservation?",
+                    "options": [
+                        "A. Exclusive use of an entire floor",
+                        "B. Complimentary meals",
+                        "C. Access to a conference room",
+                        "D. Free Internet access"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 167,
+                    "content": "According to the e-mail, what can Ms. Russell find on the Highlands Hotel's website?",
+                    "options": [
+                        "A. A reservation number",
+                        "B. A hotel restaurant menu",
+                        "C. A seating plan",
+                        "D. A discount coupon"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-164",
+            "part_image": [],
+            "table": [],
+            "context": "J&R International Group Discussion\n9:15 Patricia Noble (moderator): \nGood morning everyone. I've posted some ideas for the upcoming Leadership Workshop in June.\n9:16 Patricia Noble (moderator): \nPlease share some of your ideas. We would like some input.\n9:20 Jared Davis: \nIt looks very standard. Can we add some activities such as camping expeditions or something?\n9:21 Lawrence O'Donnell: \nI don't know if I'll be able to attend this time. My group is finishing up a major project. Camping sounds great though.\n9:22 Patricia Noble (moderator): \nCamping is a good idea but it'll take more time to plan. We'll definitely keep this in mind for the next workshop.\n9:24 Jimmy Rhee: \nI don't think videos are very effective. How about getting more speakers to present? I'd rather interact with someone.\n9:27 Monica Choi: \nI'm looking forward to the camping idea. But for this workshop, I agree with Jimmy. Videos can be quite boring.\n9:30 Jared Davis: \nI noticed that John Olive is not presenting this time. What happened? He was very popular. I'd like to attend his workshop.\n9:41 Patricia Noble (moderator): \nJohn hasn't confirmed with us yet because he may have conflicting schedules. He's trying to work around his schedule.\n9:52 Isabella Price: \nI'd like to attend John's workshop as well. I noticed that there are still a couple of empty slots. Would anyone be interested in hearing Ge Xi? I'd love to get a different cultural aspect.\n9:58 Jared Davis: \nGreat idea! Ge Xi has had a lot of experience as a supervisor in China and she always has some interesting stories.\n10:01 Jimmy Rhee: \nI second that. I would certainly like to hear what Ge Xi presents. And speaking of cultural perspectives, Adam has had experience managing employees in a number of countries. He'd be interesting I think.\n10:09 Isabella Price: \nYes, let's get Adam to present in the workshop.\n10:15 Adam Cruz: \nWow, I'm flattered by your vote of confidence. I certainly wouldn't mind participating in the workshop. I'm free in the afternoons.\n10:19 Patricia Noble (moderator): \nThank you Adam. I'll put you down for the 3:00-4:00 P.M. slot if that's OK with you.\n10:30 Adam Cruz: \nThat sounds great. And could you send me a guideline if you have one?",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "Who are most likely participating in this group discussion?",
+                    "options": [
+                        "A. The general public",
+                        "B. All employees of the company",
+                        "C. Employees from different countries",
+                        "D. Managers and other group leaders of the company"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 162,
+                    "content": "What's being discussed?",
+                    "options": [
+                        "A. The best presentations from the meeting",
+                        "B. The best speakers at the company",
+                        "C. The schedule for the workshop",
+                        "D. International co-workers"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 163,
+                    "content": "At 10:15, what does Adam Cruz mean when he writes \"I'm flattered by your vote of confidence\"?",
+                    "options": [
+                        "A. He's thankful that people want him to be manager.",
+                        "B. He's grateful that people see him as a good leader.",
+                        "C. He's happy he has been selected by his co-workers for the job.",
+                        "D. He's honored that his international experience has been recognized."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 164,
+                    "content": "What will Patricia Noble probably do next?",
+                    "options": [
+                        "A. Email some information to a co-worker",
+                        "B. Set up a meeting for employees",
+                        "C. Meet with international workers",
+                        "D. Call co-workers about the changes"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [],
+            "table": [],
+            "context": "Attention Shoppers\nWe regret to inform you that there has been a general recall on all Kent brand ladders manufactured between March 30 and July 30 this year.\n\u2022 \nThe ladders do not comply with mandatory safety standards and could be unstable.\n\u2022 The ladders could move while standing on them and could contribute to dangerous falls.\n\u2022 Do not use the ladders for any reason. Contact the Kent Company to receive a refund or a replacement product. Customers will receive a full refund even without proof of purchase as long as they return the ladders.\nThe Kent Company can be reached by calling 1-800-555-2493. Press 8 in order to be transferred to a representative who deals exclusively with product recalls. We sincerely apologize for this inconvenience.",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "Where most likely could this notice be found?",
+                    "options": [
+                        "A. At a real estate office",
+                        "B. At a hardware store",
+                        "C. At a movie theater",
+                        "D. At a grocery store"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 159,
+                    "content": "What are customers warned about?",
+                    "options": [
+                        "A. Using a defective product",
+                        "B. Renewing a warranty",
+                        "C. Submitting an order form",
+                        "D. Filing a complaint"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 160,
+                    "content": "According to the notice, how can more information be obtained?",
+                    "options": [
+                        "A. By filling out a form",
+                        "B. By consulting an instruction manual",
+                        "C. By contacting a company",
+                        "D. By watching a video tutorial"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [],
+            "table": [],
+            "context": "Grandview Business News\nThe Burnelle's launched their meal delivery service for busy families just six months ago, and the business is flourishing, exceeding expectations. -[1]- Their small shop Farm-to-Table, located in Central Grandview Heights, has been forced to increase staff by 120% to keep up with demand. The whole premise of the idea came up after Rachel and Robert Burnelle had their first child. Both working parents had constantly turned to fastfood for their meals and realized that many of their friends did as well. They wanted healthier options which most fast-food franchises don't provide. -[2]- The business is so popular that they have been getting orders from outside the city. \"The response has been overwhelming,\" says Rachel. \"Our customers especially appreciate the freshness and quality of our meals.\" Janet, a customer from the start added, \"Not only is the food healthy, it's not that much more expensive than fast-food meals, but it's much better for you.\" -[3]-\nThe Burnelles say they are planning to expand their delivery routes and open three Farm-to-Table grocery shops with ready-made meals around the city of Grandview within the next year. -[4]-",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is the article about?",
+                    "options": [
+                        "A. The changing role of fast food companies",
+                        "B. The importance of healthy eating",
+                        "C. The expansion of farmland at Grandview",
+                        "D. The success and growth of a small business"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 156,
+                    "content": "What is the main selling point of Farm-to-Table meals according to the article?",
+                    "options": [
+                        "A. It is delivered very quickly.",
+                        "B. It is very inexpensive.",
+                        "C. It is healthy.",
+                        "D. It is delicious."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 157,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"That is when the Burnelles decided to quit their office jobs and start their own healthy food delivery service for working people.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [],
+            "context": "Shopping Local\nSeattle Business District Association\nDid you know?\n\u2022 Shopping local puts twice as much revenue into the economy than using chain retailers.\n\u2022 Shopping local supports the city of Seattle through local taxes.\n\u2022 Shopping local helps the environment. It saves gas and causes less air pollution.\n\u2022 Shopping local creates more jobs in Seattle and improves living standards in the community.\nWe would like to encourage all residents of Seattle to support their local communities by shopping at traditional local stores and markets.\nTo find out more and learn about all the great shops and services available to local residents, visit the website of the Seattle Business District Association at www.sbda.org.",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "What is the purpose of the flyer?",
+                    "options": [
+                        "A. To promote sustainable living",
+                        "B. To notify shoppers about a sale",
+                        "C. To announce a new business opening",
+                        "D. To influence shopping patterns"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 154,
+                    "content": "What is NOT mentioned as a benefit of shopping local?",
+                    "options": [
+                        "A. It facilitates a job market.",
+                        "B. It is environmentally friendly.",
+                        "C. It supports the local economy.",
+                        "D. It encourages foreign investments."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "151-152",
+            "part_image": [],
+            "table": [],
+            "context": "January 19\nDear Mr. Peterson,\nThe results have come back from the blood test you had done. Please call us at your earliest convenience to reserve a time when you can meet with Dr. Herman.\nWe would like to remind you that due to changes in laws pertaining to health insurance, all patients are encouraged to make sure that their contact and insurance information is current and accurate. This can be done either by calling our customer service line at 555-6842 or stopping by the front desk on your next visit.\nSincerely,\nLaura Linkerton\nSuperior Health Clinic",
+            "questions": [
+                {
+                    "question_id": 151,
+                    "content": "What most likely will Mr. Peterson do in the near future?",
+                    "options": [
+                        "A. Renew an insurance policy",
+                        "B. Schedule a doctor's appointment",
+                        "C. Apply for a clerical position",
+                        "D. Run a blood test"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 152,
+                    "content": "What is Mr. Peterson asked to do?",
+                    "options": [
+                        "A. Submit an insurance form",
+                        "B. Reply to the letter",
+                        "C. Verify personal information",
+                        "D. Fill out a survey"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "149-150",
+            "part_image": [],
+            "table": [],
+            "context": "Judy Lynch 10:12\nWill we be able to charge this dinner gathering to the company credit card?\nNathan Lee 10:13\nUnfortunately, no. The company policy changed just last month. Only meetings conducted with clients during lunch or dinner can be covered as company expenses.\nJudy Lynch 10:14\nThat's too bad. I guess we'll just have to split the bill this time.\nNathan Lee 10:14\nYes, but at least you can go to any restaurant you want.\nJudy Lynch 10:15\nTrue. I\u2019ll let everyone know. Thanks!",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "Why does Judy contact Nathan?",
+                    "options": [
+                        "A. To get him to pay for the dinner",
+                        "B. To get information about company expenses",
+                        "C. To ask if he wanted to join the dinner",
+                        "D. To get recommendations for a good restaurant"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 150,
+                    "content": "At 10:14, what does Judy mean when she writes \"we'll have to split the bill\"?",
+                    "options": [
+                        "A. They will charge the company.",
+                        "B. They will ask the accounting department.",
+                        "C. They will have to choose who will pay.",
+                        "D. They will each have to pay a portion of the cost."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "147-148",
+            "part_image": [],
+            "table": [],
+            "context": "MEMO\nTo:\n All Employees\nFrom:\n David Koch\nSubject:\n Important Information\nDate: \nMay 22\nWe will be holding our annual meeting for shareholders on June 3. I will be giving a short presentation during the opening ceremony, and I hope everyone can attend. Below is a basic schedule of the meeting.\nOpening ceremony\n 1:00 PM.\nAnnual report\n 2:00 PM.\nDiscussion\n 4:00 PM.\nDinner\n 6.00 PM.",
+            "questions": [
+                {
+                    "question_id": 147,
+                    "content": "What is the purpose of the memo?",
+                    "options": [
+                        "A. To remind employees of a project deadline",
+                        "B. To suggest revisions to an annual report",
+                        "C. To provide a schedule for an event",
+                        "D. To report to shareholders on annual profits"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 148,
+                    "content": "At what time will David Koch speak?",
+                    "options": [
+                        "A. 1:00 P.M.",
+                        "B. 2.00 P.M.",
+                        "C. 4.00 P.M.",
+                        "D. 6.00 P.M."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        }
+    ]
+}

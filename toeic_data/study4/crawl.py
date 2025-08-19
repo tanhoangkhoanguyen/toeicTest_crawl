@@ -29,7 +29,6 @@ def silent_del(self):
 
 def crawl_html():
     create_folder_url()
-    return
     driver = log_in()
 
     # ==========  CRAWL  ==========
@@ -44,7 +43,7 @@ def crawl_html():
             driver.get(link[1])
             time.sleep(1)
             raw_html = driver.page_source
-            with open(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}_study4/raw_answer.html", "w", encoding = "utf-8") as f:
+            with open(f"{DIRECTORY}/raw_html/{test_id + FOLDER_FORMAT}/raw_answer.html", "w", encoding = "utf-8") as f:
                 f.write(raw_html)
             
     uc.Chrome.__del__ = silent_del

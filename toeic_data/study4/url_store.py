@@ -118,7 +118,7 @@ url_list = [
                 "https://study4.com/tests/4578/start/",
                 "https://study4.com/tests/4578/y2-toeic-test-9/solutions/"
             ],
-            "4579": [
+            "+": [
                 "https://study4.com/tests/4579/start/",
                 "https://study4.com/tests/4579/y2-toeic-test-10/solutions/"
             ],

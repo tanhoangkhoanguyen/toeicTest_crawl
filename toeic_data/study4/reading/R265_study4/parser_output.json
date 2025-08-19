@@ -1,0 +1,1657 @@
+{
+    "test_id": "265",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "Ms. Harriet contributed greatly towards helping the institute attract funding, increase productivity _____ improve community relations.",
+                    "options": [
+                        "A. but",
+                        "B. and",
+                        "C. nor",
+                        "D. also"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Wire transfer is still the most preferred _____ of payment in many Korean online retailers because of the increasing concern for credit card fraud.",
+                    "options": [
+                        "A. item",
+                        "B. display",
+                        "C. sample",
+                        "D. method"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Dr. Maria Chilton told her patient to spend a minimum of thirty minutes _____ every day.",
+                    "options": [
+                        "A. exerciser",
+                        "B. exercise",
+                        "C. exercising",
+                        "D. exercised"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "The response to our new employee seminar was very encouraging _____ the management decided to offer another session next week.",
+                    "options": [
+                        "A. that",
+                        "B. so",
+                        "C. in case",
+                        "D. or"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "The company management has announced its plan to _____ the store's main base of operation from Seoul to Daejun in December.",
+                    "options": [
+                        "A. transmit",
+                        "B. deliver",
+                        "C. refer",
+                        "D. relocate"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Even though we tried to get in touch with the branch manager, _____ remained out of contact for days, raising doubts about his sincerity.",
+                    "options": [
+                        "A. him",
+                        "B. he",
+                        "C. himself",
+                        "D. his"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "HB Research Center's extraordinary ideas and _____ achievements provided us with interesting topics for further discussions.",
+                    "options": [
+                        "A. remark",
+                        "B. remarks",
+                        "C. remarkable",
+                        "D. remarkably"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "Mr. Connelly will serve _____ the project's new coordinator for the next three months before taking charge of the entire department.",
+                    "options": [
+                        "A. on",
+                        "B. as",
+                        "C. of",
+                        "D. in"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "The Budget Travel Guide for thrifty student travels focuses _____ on ways to save money while enjoying exotic locations around the country.",
+                    "options": [
+                        "A. exclusively",
+                        "B. exclude",
+                        "C. excluding",
+                        "D. exclusive"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "Although working from home allows people spend more time with their family, it can be difficult unless time is effectively _____",
+                    "options": [
+                        "A. manage",
+                        "B. manageable",
+                        "C. manager",
+                        "D. managed"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "Although the crime rate in the city of Tulsa has risen recently, it still remains very low by national _____",
+                    "options": [
+                        "A. lengths",
+                        "B. degrees",
+                        "C. standards",
+                        "D. means"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "According to a recent survey, many people who applied for the driver's license in the state of Massachusetts found the long waiting time at the Registry _____",
+                    "options": [
+                        "A. exhausted",
+                        "B. exhaustion",
+                        "C. exhausting",
+                        "D. exhaustingly"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "_____ Endo Pharmaceutical's many achievements is the invention of a breakthrough medicine called Vivamax.",
+                    "options": [
+                        "A. Except",
+                        "B. By",
+                        "C. Among",
+                        "D. Over"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "Many workers are taking advantage of the language study program which has been designed _____ employees.",
+                    "options": [
+                        "A. specify",
+                        "B. specific",
+                        "C. specification",
+                        "D. specifically"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "Radiologists are well aware that repeated or _____ exposure to x-rays can be harmful to one's health.",
+                    "options": [
+                        "A. damaged",
+                        "B. stretched",
+                        "C. opened",
+                        "D. prolonged"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "In such a fast-changing global market, products once considered as highly advanced can easily become _____",
+                    "options": [
+                        "A. existent",
+                        "B. realistic",
+                        "C. purposeful",
+                        "D. outdated"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "_____ the laboratory technicians all used sophisticated instruments to evaluate the samples, they could not reach the same opinion.",
+                    "options": [
+                        "A. Regarding",
+                        "B. Despite",
+                        "C. Although",
+                        "D. In spite"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "When the employees were informed about the _____ imposed on their work schedules, they showed strong signs of disapproval.",
+                    "options": [
+                        "A. restrictions",
+                        "B. confirmations",
+                        "C. manners",
+                        "D. findings"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "Employees can expect all travel expenses to be covered by the company but entertainment expenses must first be approved by _____ immediate supervisions.",
+                    "options": [
+                        "A. their",
+                        "B. theirs",
+                        "C. they",
+                        "D. them"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "The company plans to purchase back-up generators to prevent the loss of information in case of a power _____",
+                    "options": [
+                        "A. fails",
+                        "B. failure",
+                        "C. to fail",
+                        "D. failed"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Many dignitaries and government officials were invited to the eagerly _____ opening of the new center for homeless people.",
+                    "options": [
+                        "A. awaited",
+                        "B. supposed",
+                        "C. informed",
+                        "D. instructed"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "Before the summary was issued, Ms. Townsend _____ responsibilities for any errors found in it.",
+                    "options": [
+                        "A. claiming",
+                        "B. claim",
+                        "C. will claim",
+                        "D. claimed"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "The 5 acres of land _____ which the city plans to build the new shopping complex were purchased.",
+                    "options": [
+                        "A. for",
+                        "B. from",
+                        "C. to",
+                        "D. on"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "Mr. Montague will contact our office _____ the brochure needs important changes or corrections.",
+                    "options": [
+                        "A. prevented from",
+                        "B. only if",
+                        "C. asking for",
+                        "D. all about"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "Originally intended for notebook computers, this flash memory card is now widely used in many cellular phones and smart cards because of its _____ to climate changes.",
+                    "options": [
+                        "A. resisted",
+                        "B. resistant",
+                        "C. resisting",
+                        "D. resistance"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "Qualified candidates may apply for the vacant position _____ their religion, sexual orientation, ethnicity or country of origin.",
+                    "options": [
+                        "A. regards",
+                        "B. without regard",
+                        "C. regarding",
+                        "D. regardless of"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "We at Morgan and Associates strive to meet your needs by helping _____ your problems within 48 hours.",
+                    "options": [
+                        "A. resolve",
+                        "B. resume",
+                        "C. remain",
+                        "D. retain"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "_____ some of the oil drilled in the state of Oklahoma is exported to the Far East, most of it is consumed within the country.",
+                    "options": [
+                        "A. Because of",
+                        "B. Both",
+                        "C. While",
+                        "D. Yet"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "Department store managers should always keep in mind that the way _____ insignificant details are handled will influence the customer's purchasing decisions.",
+                    "options": [
+                        "A. seems",
+                        "B. seem",
+                        "C. seemed",
+                        "D. seemingly"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "If the revised text _____ by now, the printers could have distributed the meeting agenda by regular mail.",
+                    "options": [
+                        "A. had arrived",
+                        "B. would arrive",
+                        "C. had been arriving",
+                        "D. arrived"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "131-131",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "The lawmakers passed a new resolution that requires all car manufacturers to _____ their vehicles to tougher safety tests.",
+                    "options": [
+                        "A. prohibit",
+                        "B. discard",
+                        "C. support",
+                        "D. subject"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "132-132",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 132,
+                    "content": "_____ after resigning as vice president of the Southwest division, Ms. Harriet decided to start her own business with her former colleagues.",
+                    "options": [
+                        "A. Soon",
+                        "B. Late",
+                        "C. Nearly",
+                        "D. Almost"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "133-133",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 133,
+                    "content": "Even well-established publishing firms frequently experience an unexpected _____ in publication especially during the busy holiday seasons.",
+                    "options": [
+                        "A. delays",
+                        "B. delayed",
+                        "C. delaying",
+                        "D. delay"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "134-134",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 134,
+                    "content": "In order to respond _____ to customer complaints, the company management decided to set up a new team that exclusively deals with complaints over the phone and via email.",
+                    "options": [
+                        "A. overtly",
+                        "B. intensely",
+                        "C. severely",
+                        "D. promptly"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "135-135",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "Having _____ the rest of the chapters, Prof. Bovon invited his students to contribute their ideas for further discussion.",
+                    "options": [
+                        "A. covers",
+                        "B. cover",
+                        "C. covering",
+                        "D. covered"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "136-136",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 136,
+                    "content": "_____ technical difficulties may occur when installing the new software, in which case you can use our support hotline for assistance.",
+                    "options": [
+                        "A. Much",
+                        "B. Most of",
+                        "C. A few",
+                        "D. A little"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "137-137",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 137,
+                    "content": "The demand for new passenger vehicles is often _____ of the overall consumer sentiment.",
+                    "options": [
+                        "A. thoughtful",
+                        "B. manageable",
+                        "C. reflective",
+                        "D. possible"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "138-138",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 138,
+                    "content": "Proposals for the building _____ include a new staff lounge, a fitness facility and a state-of-the-art daycare center for single mothers.",
+                    "options": [
+                        "A. expands",
+                        "B. expansive",
+                        "C. expanding",
+                        "D. expansion"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "139-139",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "This article compares the originally proposed timetable _____ the actual progress made thus far.",
+                    "options": [
+                        "A. which",
+                        "B. so",
+                        "C. with",
+                        "D. where"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "140-140",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 140,
+                    "content": "_____ domestic sales to increase in the foreseeable future, the central government should come up with a comprehensive plan to boost the economy.",
+                    "options": [
+                        "A. Which",
+                        "B. For",
+                        "C. When",
+                        "D. In addition"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Texas INSTRUMENTS, due to rapid expansion, is seeking an experienced _____(141) with demonstrated analytical instrument sales and management ability to be responsible for the organization and administration of a regional sales office.\nTexas Instruments is a _____(142) manufacturer of industrial and laboratory instruments.\nThe REGIONAL SALES MANAGER'S responsibilities will include the hiring and supervision of sales, service, and clerical personnel, monitoring of revenues and expenses and budgeting forecasts.\nDemonstrated ability to manage a sales office, 3 years\u2019 experience in direct sales of scientific, analytical instrumentation, and a college degree in Chemistry _____(143)",
+            "questions": [
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. individual",
+                        "B. individually",
+                        "C. individualism",
+                        "D. individualist"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. prevalent",
+                        "B. leading",
+                        "C. foremost",
+                        "D. habitual"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. be requiring",
+                        "B. are required",
+                        "C. has required",
+                        "D. to require"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. attention",
+                        "B. highlight",
+                        "C. response",
+                        "D. focus"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. Previous",
+                        "B. Early",
+                        "C. Precise",
+                        "D. Timely"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. involve",
+                        "B. involves",
+                        "C. involving",
+                        "D. involvement"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 147,
+                    "content": "",
+                    "options": [
+                        "A. which",
+                        "B. whose",
+                        "C. what",
+                        "D. of which"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 148,
+                    "content": "",
+                    "options": [
+                        "A. to receive",
+                        "B. been receiving",
+                        "C. been received",
+                        "D. receiving"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "",
+                    "options": [
+                        "A. for",
+                        "B. as",
+                        "C. on",
+                        "D. in"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 150,
+                    "content": "",
+                    "options": [
+                        "A. deliberate",
+                        "B. evident",
+                        "C. intermittent",
+                        "D. prospective"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 151,
+                    "content": "",
+                    "options": [
+                        "A. established",
+                        "B. remodeled",
+                        "C. revised",
+                        "D. borrowed"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 152,
+                    "content": "",
+                    "options": [
+                        "A. densely",
+                        "B. entirely",
+                        "C. strongly",
+                        "D. frequently"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [],
+            "context": "Wise Conference Center\nPO. Box 98212\nTroy, CA 92232\nSeptember 10. 2006\nMr. Joel Passon\nDiscovery Corporation\n132 Caller Avenue\nTroy, CA 92232\nDear Mr Passon:\nWe are pleased to confirm with you the arrangements for your conference at Wise Conference Center during November 24-26, 2006.\nFrom the information you have provided to us, you are expecting between 100 and 150 people for a three days long conference. We will reserve a room that can be closed off or opened up to match the final number of people. We have all the audio-visual systems available for you to use, so just please let us know if you need anything.\nWe wanted to confirm with you that you will not need any catering. However, if you end up changing your mind, please let us know before November 15, so that we can call and make an arrangement with a catering company.\nI have included the total estimated price for your three days long conference. Please call me for any questions or concerns. Again, I appreciate you choosing Wise Conference Center. I am excited to see how the service we will offer you will aid you in all your activities and seminars during the three days.\nSincerely,\nAlicia Rosas\nEvents Manager\nWise Conference Center\nMs. Alicia Rosas\nWise Conference Center\n15677 Nation SI\nMonterey, CA 93940\nDear Ms. Rosas,\nI thank you for your cooperation, it will truly help us to have a great and successful conference this coming November. However, there are several questions that I wanted to ask you. I was wondering if the Wise Conference Center has any fitness room, swimming pool, or spa etc. , for us to enjoy, how big the cafeteria is, how many people are sharing one room, and if there are any nice parks for families to enjoy. Also. I have a few disabled people that will be coming to our conference, and I was wondering if your conference center has adequate facilities for those people so that they are as comfortable as possible. Thank you for your attention to this matter.\nJoel Passon\nDiscovery Corporation\nConference & Seminar Manager\nPass@discover. com",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "What is the first letter about?",
+                    "options": [
+                        "A. Ms. Alicia is trying to make an arrangement to hold a conference.",
+                        "B. Ms. Alicia is informing a client about their arrangement for a conference.",
+                        "C. Ms. Alicia is asking her client details about the conference.",
+                        "D. Ms. Alicia is booking the date for her customer's conference"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 197,
+                    "content": "What is NOT true about the conference?",
+                    "options": [
+                        "A. The conference is only three days long",
+                        "B. The conference center is expecting from 100 to 150 people.",
+                        "C. The conference will be held in LA, CA.",
+                        "D. The conference center can provide all the audio and visual equipment."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 198,
+                    "content": "What should Mr. Passon do in order to get catering?",
+                    "options": [
+                        "A. He must call the catering company and make arrangements before Nov. 15.",
+                        "B. He must let Ms. Alicia know 4 days before the conference.",
+                        "C. He must bring his own cooks to cook.",
+                        "D. He must ask Wise Conference Center staff for it before Nov. 15."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 199,
+                    "content": "What is NOT one of Mr. Passon's questions?",
+                    "options": [
+                        "A. The capacity of cafeteria",
+                        "B. Whether it has facilities his people can enjoy",
+                        "C. Room arrangements for people",
+                        "D. Entertainments like movies for families"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 200,
+                    "content": "What is Mr. Passon's big concern?",
+                    "options": [
+                        "A. He has a son who will need assistance in attending the conference.",
+                        "B. He wants the disabled people to have their own rooms.",
+                        "C. He wants the handicapped people to enjoy the conference.",
+                        "D. He wants the handicapped people to be able to use all their facilities"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [
+                {
+                    "Name": [
+                        "Name",
+                        "Address",
+                        "City/State/Zip",
+                        "Email"
+                    ],
+                    "William Lee": [
+                        "William Lee",
+                        "5468 Roxbury Street",
+                        "Calgary, Alberta, Canada, 08401",
+                        "gamefan@yahoomail.com"
+                    ]
+                }
+            ],
+            "context": "BUSINESS REPLY MAIL\nFIRST-CLASS MAIL PERMIT NO. 1159 BOONE 1A\nGAMEPRO\nTHE WORLD'S LARGEST MULTIPLATFORM GAMING MAGAZINE\nSUBSCRIPTION DEPARTMENT\nPO BOX 37579\nBOONE IA 50037-2579\nGamePro EX gives you everything!\nYES! Sign me up for GamePro EX - only $29.97 for one year (12 issues)! I know every issue will have gaming extras like a disc, poster, strategy guide, and other great GamcPro stuff!\nSend an additional $20 for Canadian orders and S40 for foreign orders prepaid in U. S. dollars.\nTo: \nJohn\nFrom:\n Will\nDate: \nNovember 30th, 2006\nSubject: \nGAMEPRO!\nDear John,\nI finally subscribed to GamePro! Thank you so much for recommending the magazine. I've received two issues so far and I think they're really great. You still subscribe to the magazine, right? I was wondering if you wanted to subscribe to Electronic Gaming Monthly with me. I saw an ad for it in GamePro. The reason I'm asking you to subscribe to it together is because the subscription fee is quite high, and I thought it might be better to share the subscription with you, since we are both fans of gaming. Write back ASAP!\nThanks",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "What is GamePro?",
+                    "options": [
+                        "A. A computer game",
+                        "B. A card game",
+                        "C. A game disc",
+                        "D. A gaming magazine"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 192,
+                    "content": "What is NOT included in the list of extra products that come along with each issue?",
+                    "options": [
+                        "A. CD",
+                        "B. Membership card",
+                        "C. Poster",
+                        "D. Strategy manual"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 193,
+                    "content": "What information is NOT included in the first postcard?",
+                    "options": [
+                        "A. The address of the subscription department",
+                        "B. The email address of the subscription department",
+                        "C. The address of the subscriber",
+                        "D. The email address of the subscriber"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 194,
+                    "content": "What does William propose in his email to John?",
+                    "options": [
+                        "A. To read GamePro together",
+                        "B. To lend him two issues of Electronic Gaming Monthly",
+                        "C. To subscribe to a magazine together",
+                        "D. To recommend a gaming magazine"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 195,
+                    "content": "What can be inferred from the passages?",
+                    "options": [
+                        "A. GamePro is a successful magazine",
+                        "B. William Lee did not pay his bill on time.",
+                        "C. William Lee paid $49. 97.",
+                        "D. John is paying for William's subscription"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [],
+            "context": "Bad News for Our Economy\nExperts Forecast a Rapid Recession during Second Half of the Year\nApril 6th, 2006\nMany forecasting experts have announced that they have determined a recession in progress, with its cycle peak estimated to be in October 2006. The recession could be set in motion by a decline in consumer purchasing, since consumers are becoming more sensible about what they buy. A more likely cause would be failure of economic growth. However, these are causes speculated by the public. Andrew Bushee, an expert at Anderson Center at the University of California, outlines three main reasons for the recession visible on the horizon. He lists the recent power crisis, inflation concerns, and significant global trade imbalances. At a press conference last week, he announced that a tight financial budget for the next year will be required to overcome the recession. Top on the list of government priorities, according to this budget plan, should be allocating more time and effort to sectors of the economy which will be most effective in stimulating economic growth and development. According to the econometric model used by certain forecasters, the probability of a looming recession is as high as 90%. So far, a dwindling GDP, hiking unemployment, reduced investment, and job cuts have been predicted.\nJOB CUT ANNOUNCEMENT\nDue to the recent recession in economy, we are announcing a cut of an additional 500 jobs over the next two years. The job cut will just be a part of our restructuring plan. Losing more than 10 percent or our work force will be an aspect of the plan that is essential in order to reduce costs and become more efficient in our operating margin.\nIn addition to cutting a number of employees, we ask remaining employees to take salary cuts and trim expenses \nto the bone\n. Because the economy is in poor shape now, and our company is suffering as a result, we need more than ever to be in decent financial shape.\nThank you.",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "When do the experts predict the peak of the recession will be?",
+                    "options": [
+                        "A. This October",
+                        "B. In two years",
+                        "C. Next October",
+                        "D. It has already passed."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 187,
+                    "content": "What is NOT a cause of the predicted recession?",
+                    "options": [
+                        "A. The energy crisis",
+                        "B. Major companies' restructuring",
+                        "C. A general increase in the level of prices",
+                        "D. Trade imbalances"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What is NOT a predicted outcome of the recession?",
+                    "options": [
+                        "A. Unemployment",
+                        "B. Reduced investment",
+                        "C. Job cuts",
+                        "D. Bankruptcy of banks"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 189,
+                    "content": "Why is the company making job cuts?",
+                    "options": [
+                        "A. As a result of unsatisfactory work on the part of the employees",
+                        "B. To make sure the remaining employees receive adequate attention",
+                        "C. In order to employ new workers",
+                        "D. As a result of a decline in the economy"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 190,
+                    "content": "The phrase \"to the bone\" in paragraph 2 is closest in meaning to",
+                    "options": [
+                        "A. As much as possible",
+                        "B. Violently",
+                        "C. In a stingy manner",
+                        "D. Painfully"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nAll Members of the Board\nFrom: \nJames Ratner\nDate: \nNovember 28th, 2006\nSubject:\n Meeting to discuss shortage of automobile parts\nI am calling a meeting at 3 p.m. tomorrow to discuss the shortage of automobile parts for the upcoming holiday season. Some of you have already mentioned that various components are hard to obtain from the usual sources. We have looked into the matter, and it turns out the main reason we are experiencing difficulty with our usual sources is because our competitor, Fenway Automobiles, has recently offered them a much more lucrative contract. It is important that we obtain the needed items soon, through finding new suppliers. Unless we do so, we may not be able to meet our holiday deadline. As you all know, the demand for new automobiles goes up at the end of the year, and we want to make sure we meet the demand for cars on time.\nIt is no secret that Fenway Automobiles has been giving us a good run for our money. I believe that this holiday season is our chance to rise above the competition and find a firm, unshakable foothold in the industry.\nTherefore, it is crucial that everyone attend this meeting. Also, I would appreciate it if you came with any ideas concerning useful strategies against Fenway Automobiles. If you have any additional questions or suggestions, be sure to contact me or my secretary.\nTo: \nJames Rotner\nFrom: \nRachel Cooper\nDate:\n November 29th. 2006\nSubject:\n [RE]: Meeting to discuss shortage of automobile parts\nI am sorry but I don't think I will be able to attend the meeting you called this afternoon because I have a doctor's appointment at 2:30. However, I know someone who may be able to get into contact with new suppliers if we should need them. Although these suppliers seem to want a higher price, it will probably be hard to find other suppliers willing to work together so late in the year. I will get back to you after collecting more information.",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What is the purpose of the memorandum?",
+                    "options": [
+                        "A. To cancel a meeting",
+                        "B. To call a meeting",
+                        "C. To inform the employees about the holiday season",
+                        "D. To remind the employees to get in touch with the suppliers"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 182,
+                    "content": "Which holiday season is James Ratner referring to?",
+                    "options": [
+                        "A. Independence Day",
+                        "B. Memorial Day",
+                        "C. Christmas",
+                        "D. Valentine's Day"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 183,
+                    "content": "What will be the main subject of the meeting?",
+                    "options": [
+                        "A. Deciding on a deadline",
+                        "B. Deciding on a new marketing strategy",
+                        "C. Finding a new secretary",
+                        "D. Discussing new suppliers and the company's competition"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 184,
+                    "content": "Why will Rachel Cooper not be able to attend the meeting?",
+                    "options": [
+                        "A. She has to go pick up her child.",
+                        "B. She has to go see the doctor.",
+                        "C. She has to go meet a friend.",
+                        "D. She has to collect information on a new supplier"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 185,
+                    "content": "Why does Rachel Cooper think it will be hard to find other suppliers?",
+                    "options": [
+                        "A. There are none who meet the requirements.",
+                        "B. Other suppliers are too expensive.",
+                        "C. The holiday season is too close.",
+                        "D. Fenway Automobiles has already gotten into contact with all of them."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "179-180",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nAll Department Heads\nFrom: \nChris Fontaine, CEO\nA reception for new managerial staff will be held from noon to 1:30 p.m. on Wednesday, January 10, in the boardroom. Snacks will be available at 12:10 and lunch will be brought in at 12:30.\nEvery department head should attend. This gathering will provide an opportunity for experienced and newly appointed managers to meet each other at the start of new year.",
+            "questions": [
+                {
+                    "question_id": 179,
+                    "content": "What is being announced?",
+                    "options": [
+                        "A. A training course for team leaders",
+                        "B. A gathering for managerial employees",
+                        "C. A reception for workers' families",
+                        "D. A meeting for the board of directors"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 180,
+                    "content": "When will food be served?",
+                    "options": [
+                        "A. At 12:00",
+                        "B. At 12:10",
+                        "C. At 1:00",
+                        "D. At 1:30"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-178",
+            "part_image": [],
+            "table": [],
+            "context": "We appreciate your purchase of the Gogo pogo stick. Though our pogo sticks can offer your child years of bouncing enjoyment if cared for properly, we offer a three-month unconditional warranty on our product. If for any reason the pogo stick breaks, or if you are unsatisfied with the product, just return it to the retailer for a full refund.\nTo help ensure enjoyment for a long time to come, we offer the following care tips: It's important to oil the piston and spring of the pogo stick every month or so depending on how often it is used. It should not get wet in any way, as this may cause rust. We also do not recommend that people who weigh more than 70 kilograms use the pogo stick, it is designed for children after all.\nAttached to this warranty you will find a customer feedback form, please fill it out so we may improve our products. You may also submit this information on our website www.gogopogo.com.",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "What kind of notice is this?",
+                    "options": [
+                        "A. An official business memo",
+                        "B. A customer complaint form",
+                        "C. A warranty",
+                        "D. A product assembly manual"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 177,
+                    "content": "What's the writer warning the customers to avoid?",
+                    "options": [
+                        "A. Letting the product rust",
+                        "B. Oiling the stick",
+                        "C. Allowing children for play",
+                        "D. Reselling it to others"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 178,
+                    "content": "What kind of document is attached to this notice?",
+                    "options": [
+                        "A. An online form",
+                        "B. A feedback survey",
+                        "C. A warranty",
+                        "D. A care guide"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "173-175",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nAll Employees\nFrom:\n Human Resources\nRe:\n The New Vacation Regulations\nAs was announced last week, there has been an increase in the amount of vacation time that will be granted to employees who have been will1 the company for one year or more. As promised, here are the details relating to the additional vacation time:\nAn additional 3 days will be granted per year to employees who have been with us for 2 to 5 years.\nAn additional week (5 working days) will be granted to employees who have been with the company for 6 to 10 years.\nEight additional days of vacation will be allowed to people employed here for 11 or more years.\nThese days are in addition to the two weeks (or 10 working days) that all employees now receive. Please note that this does not apply to employees who are currently in probationary status, they will continue to receive only 10 days of vacation a year.",
+            "questions": [
+                {
+                    "question_id": 173,
+                    "content": "What kind of additional benefit are employees to be given?",
+                    "options": [
+                        "A. More vacation time",
+                        "B. More sick days",
+                        "C. More comprehensive health benefits",
+                        "D. More chances for a salary increase"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 174,
+                    "content": "How many vacation days will an employee of 12 years receive?",
+                    "options": [
+                        "A. 12 days",
+                        "B. 14 days",
+                        "C. 16 days",
+                        "D. 18 days"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 175,
+                    "content": "Who will NOT immediately benefit from this increase?",
+                    "options": [
+                        "A. New employees",
+                        "B. Employees currently on vacation",
+                        "C. Long-time employees",
+                        "D. Employees in good standing"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "171-172",
+            "part_image": [],
+            "table": [],
+            "context": "Atmel to Present at the Schwab Soundview Capital Markets Semiconductor Conference\nTuesday August 10, 9:00 am ET\nSAN JOSE, Calif. , Aug. 10/PRNewswire-FirstCall/- Atmel Corporation (Nasdaq: ATML - News), a worldwide leader in the development, fabrication and sale of advanced semiconductors, announced that Fran Barton. Atmel's Chief Financial Officer, will present at the Schwab Soundview Capital Markets Semiconductor Conference on Thursday. August 12, 2004. The presentation will begin at 11:30 am Pacific Time.\nA real-time audio webcast of the meeting will be available on the Company's investor relations page at http://www.atmel.com/ir. A replay of the webcast can be accessed shortly after the conclusion of the meeting and will remain available for 30 days.\nForward-looking statements and other material information may be discussed during these events.",
+            "questions": [
+                {
+                    "question_id": 171,
+                    "content": "When will the interested parties be able to listen to the presentation?",
+                    "options": [
+                        "A. August 10, 9 am ET",
+                        "B. 31 days after the presentation",
+                        "C. Before August 12, 11:30 PT",
+                        "D. Immediately following the presentation"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 172,
+                    "content": "Who will give the presentation?",
+                    "options": [
+                        "A. Atmel's investor relations director",
+                        "B. A semiconductor market analyst",
+                        "C. Schwab Conference organizers",
+                        "D. The CFO of the Atmel Corporation"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "169-170",
+            "part_image": [],
+            "table": [],
+            "context": "Welcome to the new Tripoli's restaurants\nWith the coming of the spring, we are pleased to invite you to our newly remodeled locations! Over the past winter months, we've been remodeling our restaurants throughout the area and now they have all been reopened and are ready for you and your family to enjoy.\nAlthough their exterior may not look different, the inside is completely new with a new look, a new menu, and an all new atmosphere. However, some things did not change at all - like the quality of our famous appetizers and mouth-watering authentic Italian cuisines. And we still believe in keeping our prices low!",
+            "questions": [
+                {
+                    "question_id": 169,
+                    "content": "What change is announced in the advertisement?",
+                    "options": [
+                        "A. The restaurants have been relocated.",
+                        "B. Food prices in the restaurants have been reduced.",
+                        "C. The restaurant buildings have been remodeled.",
+                        "D. Some new restaurants have been opened."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 170,
+                    "content": "What is NOT promoted in this advertisement?",
+                    "options": [
+                        "A. The new menu",
+                        "B. The prices of the food",
+                        "C. The efficient service",
+                        "D. The interior design"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "167-168",
+            "part_image": [],
+            "table": [],
+            "context": "A & S Piano School 6250 Plaza de Augutus\n265-970 Rome-Italy\nNovember 25\nMr. George Smith\nManager, Client Relations\nSmith and Andersen Pianos Inc.\n530 Via Theela 255-860 Rome, Italy\nDear Mr. Smith:\nIn today's fast-paced world, it is common to overlook the performance of a skilled employee. This being the case, I am writing to inform you that one of your sales associates, Mr. Frank Jones, has provided me with a superb service. When I visited your storeroom last month to purchase a new piano, Mr. Jones was there to answer all of my questions and fulfill every need I have. He is certainly a credit to his profession and you should feel privileged to have such an excellent employee.\nKindly let Mr. Jones know that we at A & S Piano greatly appreciate his skill, service and knowledge of piano. He made shopping at your store a real pleasure for us.\nSincerely,\nJohn Giovanni\nJohn Giovanni\nPresident",
+            "questions": [
+                {
+                    "question_id": 167,
+                    "content": "What is the purpose of this letter?",
+                    "options": [
+                        "A. To comment on the quality of their pianos",
+                        "B. To apply for a sales position",
+                        "C. To request the delivery of a piano",
+                        "D. To praise a certain employee"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 168,
+                    "content": "What does Frank Jones do for Smith and Andersen Company?",
+                    "options": [
+                        "A. He plays the piano.",
+                        "B. He keeps pianos in storage.",
+                        "C. He sells pianos.",
+                        "D. He delivers pianos."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-166",
+            "part_image": [],
+            "table": [],
+            "context": "Speedenix Corporation\n \nwww.Speedenix.com\n78 Center Street\nAtlanta, GA 83528\nNovember 17, 2004\nDBX Studio, Inc.\n445 Mass Ave.\nBoston, MA 02143\nDear DBX Studio:\nI wanted to thank you for your passionate commitment to web design and superior customer service. I develop customer relationship management strategies on a daily basis for my clients and I am NEVER easily impressed with customer service in any industry. In fact, my motto had been that customer service is mediocre at best. I am glad to say that DBX Studio proved me wrong and my web site is clear proof of that!\nWhen I first talked to Douglas, one of your associates, on the phone, I knew he was the right web designer for me even though we had never met or spoken before. I was impressed most with Douglas' commitment to my work and his willingness to educate me about the web design process.\nThroughout my experience with DBX Studio I was always very satisfied with prompt and reliable service. Douglas told me that I could reach him at almost anytime. Now this is unheard of, and it is a great example of the kind of personal customer service today's businesses should strive for. I remember times when Douglas told me he would be working until 1 am or so on my web site to meet our deadlines. And sure enough, I would receive emails the next morning that were received anywhere from 1 to 3 am.\nThank you so much for all of your help - the web site looks terrific! I look forward to referring many of my clients to you.\nSincerely,\nScott Hatheaway\nPresident of Speedenix",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "What is the purpose of this letter?",
+                    "options": [
+                        "A. To complain about poor customer service",
+                        "B. To request changes in the plan",
+                        "C. To refer new clients to the company",
+                        "D. To praise an employee for his dedication"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 166,
+                    "content": "What did Douglas NOT do for Mr. Hatheaway?",
+                    "options": [
+                        "A. Introduced him to a new client",
+                        "B. Educated him about web design",
+                        "C. Worked late hours to meet the deadlines",
+                        "D. Proved his motto to be wrong"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "163-164",
+            "part_image": [],
+            "table": [],
+            "context": "How to get your subscription to the Evening Sun\nIn Person: \nVisit our offices on 321 Back Street and fill out a subscription form. Payment by check or credit card will be accepted at that time.\nOnline:\n Visit www.eveningsun.com and fill out our subscription form online. You will be asked for your credit card at that time.\nBy Telephone: \nCall us at 555-9876 anytime from 9 am to 8 pm on weekdays. Please have your credit card ready.\nBy Fax:\n Fax the attached subscription form to 555-9765 anytime, and be sure to include your credit card information.\nPayment must be received in full before the first issue will be delivered to your door. In the event of cancellation, a refund equal to 90% of the value of issues that have not yet been received will be granted.",
+            "questions": [
+                {
+                    "question_id": 163,
+                    "content": "What method of subscribing will allow people to pay by check?",
+                    "options": [
+                        "A. In person",
+                        "B. By telephone",
+                        "C. By fax",
+                        "D. Online"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 164,
+                    "content": "How much will be refunded in the event of a cancellation?",
+                    "options": [
+                        "A. 90% of the amount paid for the subscription",
+                        "B. 50% of the total amount paid",
+                        "C. 90% of the value of undelivered issues",
+                        "D. It depends on the payment method."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-162",
+            "part_image": [],
+            "table": [],
+            "context": "Looking for a good place today?\nFinding the right accommodation for you in Seoul can sometimes be difficult. Negotiating a favorable rate can be even more of a challenge. But with twenty years of experience in the Korean tourist industry Delta Travel has forged strong relationships with some of the best hotels in the region, and is ready to pass the benefits on to you.\nDelta Travel, More Than an Agency-- It's Your Travel Companion\nTEL : (02) 2648-0509\nFAX : (02) 2656-0509\nKeumYoung Building, 44-1Jongrogu, Seoul",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "What is being advertised?",
+                    "options": [
+                        "A. A flight to Seoul",
+                        "B. A job opening",
+                        "C. A consulting service",
+                        "D. A travel agency"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 162,
+                    "content": "What advantage does Delta offer?",
+                    "options": [
+                        "A. Extended warranty",
+                        "B. Free translation service",
+                        "C. Useful business contacts",
+                        "D. Highly trained tour guides"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [],
+            "table": [],
+            "context": "To: \nThe Staff\nFrom:\n Eddie Bauer, President\nSubject: \nOffice Supplies\nDate: \nJune 30\nAs you know, the recent recession has forced us to cut costs in many areas. One area where people have not been fully cooperating is in regard to office supplies. For this reason the following guidelines are being put in place:\nDave Smith has been designated as in charge of all supplies. All supplies must be checked through him with your Signature and his before they are removed from the storeroom.\nThere are monthly limits to how much of each item can be borrowed each month. Anything exceeding these amounts must be approved by your manager and Dave Smith, and the justification must be given in writing.\nAlong with these guidelines,\nHere are some additional suggestions with regard to conservation of these materials:\nHang on to your pens! We go through far too many pens in this office. This can only be because people are carelessly losing them.\nPeople should always print on both sides of office paper before recycling. Unless this is for official business correspondence.\nFolders and binders can be used again once old projects are completed. The cost of these items adds up!\nI appreciate your cooperation, and I hope these measures will lead to an improvement in this area soon.",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "Why has Mr. Bauer written this memo?",
+                    "options": [
+                        "A. To ensure people are happy with their new office supplies",
+                        "B. To advise of new regulations that will save the company money",
+                        "C. To break the news that cuts will be made in many areas",
+                        "D. To thank people for saving the company so much money"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 159,
+                    "content": "How do people borrow supplies from now on?",
+                    "options": [
+                        "A. By clearing them with Dave Smith",
+                        "B. By getting a written order from their manager",
+                        "C. By signing them out with their own pens",
+                        "D. By special permission from Mr. Bauer"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 160,
+                    "content": "What is the exception to the rule that says people must print on both sides of office paper?",
+                    "options": [
+                        "A. For rough drafts of proposals",
+                        "B. For personal correspondence",
+                        "C. For official business correspondence",
+                        "D. For copies of this memo"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [],
+            "table": [],
+            "context": "Busta Movers is one of the nation's largest moving companies. We have been providing moving services to individual homes and businesses of all sizes for the last 25 years.\nWe are seeking new employees to fill many types of positions to make our planned expansion possible. We intend to double the number of Busta Movers offices and trucks over the next 2 years, and we need highly motivated people on our team to make that possible. We need new managers, drivers, and administrative staff. For more details about the requirements for each position, please consult our website at www.move-it-dont-bust-it.com. People wishing to contact us to apply or to ask questions can do so via email through contact information to be found on the website.\nWe offer a complete benefits package that includes dental, life, medical and disability insurance, as well as 2 weeks paid vacation and sick leave. Salaries vary depending upon the position applied for and experience. Please contact us without delay, we will begin the interviewing process as soon as possible.",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What job positions are opening up at Busta Movers?",
+                    "options": [
+                        "A. Managers",
+                        "B. Drivers",
+                        "C. Administrative staff",
+                        "D. All of the above"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 156,
+                    "content": "What experience is required?",
+                    "options": [
+                        "A. Driving experience",
+                        "B. Moving experience",
+                        "C. Management experience",
+                        "D. It depends on the position applied for."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 157,
+                    "content": "How should people apply for these positions?",
+                    "options": [
+                        "A. In person",
+                        "B. By telephone",
+                        "C. Via the Internet",
+                        "D. By mail"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [],
+            "context": "Videoconferences are the way of the future. A meeting will be held among top managers here at the head office to discuss how to implement this new technology to improve interoffice communications.\nAll vice presidents and general managers are asked to meet next Thursday at 10 AM to begin discussion on how this can positively affect our business. After a 45-minute lunch at noon, we will begin to plan implementation procedures and discuss how the costs will be distributed among departments.\nBecause this is a very important discussion about how we will conduct meetings among other branches in the future, I want all of you who are attending the meeting to contact their employees from other branches to discuss any special needs or ideas they may have prior to the meeting. Please come prepared to briefly discuss what you feel are the merits and potential obstacles to swiftly prepare this new way of doing things. Thank you.",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "Who will have been asked to attend the meeting?",
+                    "options": [
+                        "A. Janitorial staff",
+                        "B. Videoconference technicians",
+                        "C. Vice presidents and general managers",
+                        "D. The President"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 154,
+                    "content": "Who must attendees contact prior to the meeting?",
+                    "options": [
+                        "A. Their in-house employees",
+                        "B. Their fellow management staff",
+                        "C. Their staff at other offices",
+                        "D. Clients they wish to confer with"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        }
+    ]
+}

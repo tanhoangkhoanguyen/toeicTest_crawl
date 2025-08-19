@@ -1,0 +1,1648 @@
+{
+    "test_id": "229",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "Two years ago, some of the athletes _____ school to pursue a professional career or the Olympics.",
+                    "options": [
+                        "A. leave",
+                        "B. left",
+                        "C. will leave",
+                        "D. was left"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "A road collapse has _____ traffic delays on the main route between Mildura and Merbein.",
+                    "options": [
+                        "A. caused",
+                        "B. departed",
+                        "C. directed",
+                        "D. operated"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Ms. Kim asks that the marketing team e-mail the final draft to _____ before 5 p.m.",
+                    "options": [
+                        "A. her",
+                        "B. she",
+                        "C. hers",
+                        "D. herself"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "_____ her vacation, Janet traveled to Hong Kong, Taipei, and Shanghai.",
+                    "options": [
+                        "A. Behind",
+                        "B. From",
+                        "C. Between",
+                        "D. During"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "Travel expenses should be _____ no later than 30 calendar days after returning from a business trip.",
+                    "options": [
+                        "A. submit",
+                        "B. submits",
+                        "C. submitted",
+                        "D. submissions"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Customers must contact the _____ directly for all warranty and repair issues.",
+                    "options": [
+                        "A. manufacturer",
+                        "B. manufacturing",
+                        "C. manufactures",
+                        "D. manufactured"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "Before you can enter the building, you must show _____ your passport and your airline ticket, so have them ready.",
+                    "options": [
+                        "A. both",
+                        "B. either",
+                        "C. as",
+                        "D. if"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "Our employee _____ program can boost employee morale and decrease employee turnover.",
+                    "options": [
+                        "A. motivation",
+                        "B. reality",
+                        "C. prevention",
+                        "D. consequence"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "California employers should familiarize _____ with significant labor and employment laws passed by the Legislature in",
+                    "options": [
+                        "A. they",
+                        "B. themselves",
+                        "C. theirs",
+                        "D. their"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "Companies _____ send out their free samples with discount coupons to encourage consumers to buy their products.",
+                    "options": [
+                        "A. nearly",
+                        "B. often",
+                        "C. highly",
+                        "D. ever"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "It is common practice for a firm to seek a _____ advantage in order to maintain its position in the marketplace.",
+                    "options": [
+                        "A. compete",
+                        "B. competition",
+                        "C. competitive",
+                        "D. competitively"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "Since no more information has been released, the game will probably not come out this year _____ even next year.",
+                    "options": [
+                        "A. whether",
+                        "B. then",
+                        "C. through",
+                        "D. or"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "The bids must be reviewed by the engineers to make sure all engineering _____ for the project are met.",
+                    "options": [
+                        "A. specific",
+                        "B. to specify",
+                        "C. specifically",
+                        "D. specifications"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "Library users must remove all _____ belongings when they leave the library for more than a half hour.",
+                    "options": [
+                        "A. unlimited",
+                        "B. personal",
+                        "C. accurate",
+                        "D. believable"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "The new management recognized the importance of this business decision and _____ reorganized operational procedures.",
+                    "options": [
+                        "A. prompt",
+                        "B. promptness",
+                        "C. promptly",
+                        "D. prompter"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "Please complete all the questions contained on the claim form and provide a _____ where requested.",
+                    "options": [
+                        "A. signature",
+                        "B. delivery",
+                        "C. termination",
+                        "D. completion"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "The _____ has always been on ensuring a consistently high level of quality and outstanding service.",
+                    "options": [
+                        "A. emphasized",
+                        "B. emphatic",
+                        "C. emphasis",
+                        "D. emphasize"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "_____ presenting a valid parking permit, employees cannot park their cars on company property.",
+                    "options": [
+                        "A. On",
+                        "B. Among",
+                        "C. Without",
+                        "D. Over"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "Visible from _____ in the city, the tower stands in the very center of the Turpis territory.",
+                    "options": [
+                        "A. absolutely",
+                        "B. around",
+                        "C. entirely",
+                        "D. anywhere"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "At the current speed of production, Supreme Tech is not able to manufacture _____ products to meet the demands of our purchase orders.",
+                    "options": [
+                        "A. full",
+                        "B. quick",
+                        "C. enough",
+                        "D. overall"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "People in NY are healthier because they walk a few blocks every day since the roads are _____ crowded with cars and taxis.",
+                    "options": [
+                        "A. cleanly",
+                        "B. finely",
+                        "C. usually",
+                        "D. exactly"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "Any questions _____ our products or services may be addressed to Ms. Davis.",
+                    "options": [
+                        "A. related to",
+                        "B. through",
+                        "C. up on",
+                        "D. according to"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "At this point, Northeast suggests that we _____ the start of our road work until gas prices settle down.",
+                    "options": [
+                        "A. wait",
+                        "B. remain",
+                        "C. expire",
+                        "D. delay"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "Marc Ecko is rumored to be _____ to signing a deal with the licensing firm, Iconix.",
+                    "options": [
+                        "A. closeness",
+                        "B. closing",
+                        "C. closely",
+                        "D. close"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "One of the duties of library assistants is to shelve books returned _____ borrowers or used by readers within the library.",
+                    "options": [
+                        "A. by",
+                        "B. about",
+                        "C. at",
+                        "D. before"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "Bananas imported from the Philippines are dominating supermarket shelves _____ due to their attractive appearance.",
+                    "options": [
+                        "A. reported",
+                        "B. reportedly",
+                        "C. reporting",
+                        "D. reports"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "Mr. Brown gave a bleak view of the Christmas retail sales picture before _____ sales figures a week ago.",
+                    "options": [
+                        "A. proving",
+                        "B. announcing",
+                        "C. cooperating",
+                        "D. designing"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "Public and private investments are moving ahead rapidly as the country has shown a great _____ to stability and low inflation.",
+                    "options": [
+                        "A. assurance",
+                        "B. commitment",
+                        "C. collaboration",
+                        "D. assignment"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "One _____ outcome of the current economic recession is that the growth of merger activity will slow down.",
+                    "options": [
+                        "A. possibly",
+                        "B. possibility",
+                        "C. possibilities",
+                        "D. possible"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "Most of the companies surveyed _____ their growth to marketing and sales strategies.",
+                    "options": [
+                        "A. attributes",
+                        "B. attributed",
+                        "C. attributing",
+                        "D. attribution"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "131-131",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "We haven't heard from them yet _____ we sent an email for a quote of their product prices.",
+                    "options": [
+                        "A. until",
+                        "B. only if",
+                        "C. nevertheless",
+                        "D. even though"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "132-132",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 132,
+                    "content": "They can print more quality prints than most _____ printing stores, not to mention faster and better.",
+                    "options": [
+                        "A. other",
+                        "B. added",
+                        "C. further",
+                        "D. extra"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "133-133",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 133,
+                    "content": "We are pleased to announce that the _____ anticipated tablet computer brochure has now been launched on our website.",
+                    "options": [
+                        "A. most eager",
+                        "B. eagerness",
+                        "C. eagerly",
+                        "D. eager"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "134-134",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 134,
+                    "content": "Visitors to the central area are invited to visit Central Ottage, one of the few historic spots in the _____ modern town of Joplin.",
+                    "options": [
+                        "A. however",
+                        "B. instead",
+                        "C. separately",
+                        "D. otherwise"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "135-135",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "Pay Per Click advertising makes _____ easy to track how your advertising and marketing efforts are going.",
+                    "options": [
+                        "A. they",
+                        "B. one",
+                        "C. what",
+                        "D. it"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "136-136",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 136,
+                    "content": "The contributions made by Dr. Victor Hettigoda to the product development research were _____ by her boss.",
+                    "options": [
+                        "A. ensured",
+                        "B. realized",
+                        "C. commended",
+                        "D. incorporated"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "137-137",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 137,
+                    "content": "The design of the proposed project is one of the criteria the committee will evaluate _____ determining the recipient of the state grant.",
+                    "options": [
+                        "A. in",
+                        "B. and",
+                        "C. yet",
+                        "D. which"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "138-138",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 138,
+                    "content": "The company will _____ all its products from retailers' shelves because of allergy concerns.",
+                    "options": [
+                        "A. undo",
+                        "B. redeem",
+                        "C. recall",
+                        "D. unveil"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "139-139",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "By the time Mr. Greenfield returns from his business trip, the company's new policy _____",
+                    "options": [
+                        "A. was decided",
+                        "B. will be deciding",
+                        "C. had decided",
+                        "D. will have been decided"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "140-140",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 140,
+                    "content": "There has been so much _____ in the demand for high-priced luxury cars that a few companies are introducing a wide range of price options.",
+                    "options": [
+                        "A. invitation",
+                        "B. irrelevance",
+                        "C. fluctuation",
+                        "D. repayment"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "PRICING AND ORDERING\nAny of our designs can be _____(141) to your specific needs and tastes and will always incorporate the timeless and skillful design capabilities of our team. \nMichael Sean offers a _____(142) of highly customizable options which are unmatched in the furniture industry today. \nOur mission is to provide you with choice: design, size, materials, finish and delivery method. \nWe can provide such _____(143) because each piece is individually handcrafted on a made-to-order basis. \nOnce the piece of furniture is approved, it usually takes approximately three to five weeks to build it. \nFor information on a custom order or to get a quote with your specifications, please contact our toll-free number for assistance or sketch your idea on the \"Design Request Form\" below and fax it back to us. It's that simple!",
+            "questions": [
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. presented",
+                        "B. provided",
+                        "C. specialized",
+                        "D. customized"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. various",
+                        "B. variety",
+                        "C. varied",
+                        "D. vary"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. creativity",
+                        "B. productivity",
+                        "C. flexibility",
+                        "D. punctuality"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. to teach",
+                        "B. teaches",
+                        "C. taught",
+                        "D. will be taught"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. consecutive",
+                        "B. collective",
+                        "C. repeated",
+                        "D. following"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. along",
+                        "B. ahead",
+                        "C. alike",
+                        "D. around"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 147,
+                    "content": "",
+                    "options": [
+                        "A. considerate",
+                        "B. considerable",
+                        "C. consideration",
+                        "D. considering"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 148,
+                    "content": "",
+                    "options": [
+                        "A. sanitary",
+                        "B. preventive",
+                        "C. continuous",
+                        "D. prevailing"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "",
+                    "options": [
+                        "A. were held",
+                        "B. have been held",
+                        "C. to hold",
+                        "D. will be held"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 150,
+                    "content": "",
+                    "options": [
+                        "A. dedicated",
+                        "B. used",
+                        "C. subject",
+                        "D. liable"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 151,
+                    "content": "",
+                    "options": [
+                        "A. expect",
+                        "B. intend",
+                        "C. create",
+                        "D. meet"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 152,
+                    "content": "",
+                    "options": [
+                        "A. competent",
+                        "B. competitive",
+                        "C. compatible",
+                        "D. commensurate"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [],
+            "context": "Academia Scholastic \nA young, growing business services/training company seeks a sales manager. Primary responsibility is overseeing a sales team of more than 10 people to increase productivity, efficiency, and overall sales. We have classes all over the country and the sales manager will need to make sure that those classes get filled among other things. \nQualifications:\n- 2-3 years' experience as a sales manager a MINIMUM \n- Existing contracts in the construction and utility and energy efficiency industries would be ideal \n- Sales force or other sales experience required (Those without this experience need not apply) \n- Experience in working in a stressful, fast-paced environment \nResponsibilities:\n- Creating sales materials for use by sales staff \n- Managing a sales team \n- Reporting to senior management \n- Training new employees \n- Hiring new salespeople \n- Building and managing an outside sales force \nTo\n: Aaron Plabo\nFrom\n: Ashley Park\nSubject\n: Sales Manager \nHello Aaron: \nI hope things are good with you and my former boss. I am now a human resources recruiter at Intel Learning. My work at Intel Learning is interesting. The company culture is a lot like the culture at Academia Scholastic. \nI noticed your ad for a sales manager at classifiedjobs.com. We have a young intern here named Brie Claudia who will be completing her internship with us at the end of next month. I would love to be able to hire her full time, but Intel Learning currently has no openings due to budget cuts. Ms. Claudia has taken on increasing responsibilities since hare arrival at Intel Learning, and she has become a reliable and trustworthy manager. I'd really like to see her find work at a company that utilizes her diverse skills. \nI truly believe Ms. Claudia meets all the qualifications for the position you advertised. Let me know if you are interested in interviewing her and I will have her forward her resume. \nBest regards, \nAshley Park",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "What is indicated about the position advertised?",
+                    "options": [
+                        "A. It is an opportunity for part-time employment.",
+                        "B. It is advertised on the company's website.",
+                        "C. It is in a highly competitive field.",
+                        "D. It is posted on a job listing website."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 197,
+                    "content": "What is the purpose of the e-mail?",
+                    "options": [
+                        "A. To recommend a qualified candidate",
+                        "B. To apply for the listed job",
+                        "C. To request an updated resume",
+                        "D. To ask for more information pertaining to the job"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 198,
+                    "content": "According to the e-mail, where did Mr. Plabo and Ms. Park work together?",
+                    "options": [
+                        "A. Intel Learning",
+                        "B. Academia Scholastic",
+                        "C. Classifiedjobs. com",
+                        "D. In a classroom setting"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 199,
+                    "content": "What is true about Ms. Claudia?",
+                    "options": [
+                        "A. She has had her responsibilities increased at Academia Scholastic.",
+                        "B. She has contacted Asheley Park.",
+                        "C. She is dissatisfied with her current job.",
+                        "D. She has more than two to three years of experience as a sales manager."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 200,
+                    "content": "Why will Inter Learning NOT offer Ms. Claudia a job?",
+                    "options": [
+                        "A. Ms. Claudia does not meet all the required qualifications.",
+                        "B. Intel Learning has recently experienced budget restrictions.",
+                        "C. Ms. Claudia is unable to work as an intern.",
+                        "D. Intel Learning rarely promotes from outside the company."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [
+                {
+                    "DATE": [
+                        "DATE",
+                        "May 10",
+                        "May 11",
+                        "May 12",
+                        "May 14-16",
+                        "May 18-20",
+                        "May 23",
+                        "May 25"
+                    ],
+                    "EVENT": [
+                        "EVENT",
+                        "Leave New York for scheduled meetings",
+                        "Meeting with representatives of Medic Pharmaceuticals to evaluate the satisfaction of Pharmax's new high blood pressure medication",
+                        "Meet with representatives of the French department of health to complete deal for triglycine distribution in France",
+                        "Pharmax Executive Conference Topic: Toward Greater health Care in Germany",
+                        "Pharmax Executive Conference Topic: Biotechnology Advancements in the 21st Century",
+                        "Presentation meeting with executives of Astrazinc about recent changes in Pharmax's diabetes treatment and care",
+                        "Return to New York"
+                    ],
+                    "LOCATION": [
+                        "LOCATION",
+                        "",
+                        "Paris, France",
+                        "Paris, France",
+                        "Berlin, Germany",
+                        "LA, USA",
+                        "Miami, USA",
+                        ""
+                    ]
+                }
+            ],
+            "context": "Schedule for Stanley Erwin, VP of Pharmax Group\nTo\n: Stanley Erwin\nFrom\n: Prestige Hotel\nDate\n: April 3\nSubject\n: Hotel confirmation \nDear Mr. Erwin, \nThank you for your inquiry at our hotel. This e-mail is to confirm your stay at the Prestige Hotel, from May 17 through May 21. Your confirmation number is 2742. You can check in from 4:00 p.m. on the day of your arrival, with the checkout time being noon on the day of your departure. However, a late checkout is available upon request. \nWhen checking in, you will receive a room key card and a guest pass to the exercise facilities including our expansive indoor pool. Your room includes wireless Internet, fax, and printer, as per your request. \nI've also included two printable coupons. The first is for a complimentary breakfast at any of our fine restaurants; the second is for a discount for our in-house daily car rentals. \nWe look forward to having you as our guest. \nThank you. \nPrestige Hotel management",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "In what industry does Mr. Erwin probably work?",
+                    "options": [
+                        "A. Hospital management",
+                        "B. Technology",
+                        "C. Pharmaceuticals",
+                        "D. Diabetes research"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 192,
+                    "content": "What will Mr. Erwin do in Paris?",
+                    "options": [
+                        "A. Assess the effectiveness of new products",
+                        "B. Meet with new clients",
+                        "C. Observe a symposium on new drugs",
+                        "D. Develop a new diabetes treatment"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 193,
+                    "content": "Where is the Prestige hotel located?",
+                    "options": [
+                        "A. In Paris",
+                        "B. In Berlin",
+                        "C. In New York",
+                        "D. In Los Angeles"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 194,
+                    "content": "What is NOT mentioned as a feature of the Prestige Hotel?",
+                    "options": [
+                        "A. Car rental service",
+                        "B. Exercise facilities",
+                        "C. Indoor pool",
+                        "D. Conference room"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 195,
+                    "content": "In the e-mail, the word 'in-house' in paragraph 3 is closest meaning to",
+                    "options": [
+                        "A. home",
+                        "B. cheap",
+                        "C. internal",
+                        "D. outside"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: Terry Vargas (tvargas@ums.edu)\nTo\n: Allan Risi (arisi@ums.edu)\nDate\n: March 18\nSubject\n: Faculty Institute \nDear\n \nProfessor Risi, \nYou are cordially invited to attend this year's Faculty Institute, to be held on Thursday, May 18 at the University College facilities on the University of Maryland at Auburn campus. Last year's Faculty Institute opened by considering a number of quality \"elements\" for teaching with technology. We broadly surveyed examples of how faculty, educational services, and technology support staff are addressing each of these standards, in addition to methods of surveying students to receive feedback. This year we will add to these elements to expand the scope of our faculty members. \nUniversity College will provide travel support for faculty attending the 2011 Faculty Institute as part of our commitment to assure quality distance education. If you will be traveling from UMPI, UMFK, or UMM, this includes hotel accommodation for the evening of May 17 in addition to the mileage reimbursement provided for faculty from all UMS campuses. As always, we encourage carpooling. Please RSVP along with any guests you plan to bring by April 2. \nI hope you will be able to join us! \nTerry \nFrom\n: Allan Risi(arisi@ums.edu)\nTo\n: Terry Vargas(tvargas@ums.edu)\nDate\n: March 19\nSubject\n: RE: Faculty Institute \nDear Professor Vargas, \nThank you for your personal invitation. I couldn't have had a more enjoyable time at last year's Faculty Institute which you and your staff organized. I especially enjoyed the lectures on promoting a supportive learning environment and instituting authentic and meaningful learning activities via the Internet. My wife claimed the decorations to the Grand Hall were marvelous, the food superb, and the company second to none. \nWe look forward to this year's event as well. \nAllan",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "Why was the first e-mail written?",
+                    "options": [
+                        "A. To request information about a school program",
+                        "B. To describe the details of a charitable dinner",
+                        "C. To extend an invitation to a faculty event",
+                        "D. To thank someone for an official invitation"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 187,
+                    "content": "What is suggested about Mr. Vargas?",
+                    "options": [
+                        "A. He often gives lectures to professors.",
+                        "B. He works at the Auburn campus.",
+                        "C. He is a close friend of Mr. Risi.",
+                        "D. He is one of the event organizers."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What does Mr. Vargas expect Mr. Risi to do?",
+                    "options": [
+                        "A. Indicate whether he will attend the event",
+                        "B. Confirm the number of guests",
+                        "C. Be one of the speakers at the dinner",
+                        "D. Lead a carpool"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 189,
+                    "content": "What does Mr. Risi communicate to Mr. Vargas?",
+                    "options": [
+                        "A. Notification that the Grand Hall can be reserved for private functions",
+                        "B. Congratulations on winning an important contract",
+                        "C. Notification that he will be attending with one additional guest",
+                        "D. Congratulations on last year's victory"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 190,
+                    "content": "What aspect of last year's Faculty Institute does Ms. Risi NOT mention in his e-mail",
+                    "options": [
+                        "A. Appreciation of Mr. Vargas's invitation",
+                        "B. Ways of encouraging learning activiities using the Internet",
+                        "C. Methods of receiving feedback from students",
+                        "D. How to promote a supportive learning environment"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [],
+            "context": "Virgo America Names new VP of Marketing \nVirgo America has named Portia Gales as its new vice president of marketing. In her new role, Gales will be in charge of shaping the Virgo America brand as it launches into new markets nationwide. The startup airline, which was launched in August in Chicago, is working to serve up to 10 cities through 2011, including New York, Washington, and Los Angeles. It plans to increase its service to 30 cities over the next five years, the company said. \nGales has worked in the public relations department since Virgo's launch. She takes over the VP position in January, the company said. She replaces Spence Kramdon, who left the post last year, a company spokesperson said. \nThe low-fare carrier uses a host of amenities designed to distinguish itself from other airlines. It offers mood-lit cabins, an in-flight entertainment system with movies, TV and online chat rooms in a First Class section with massage chairs. \nTo:\n Portia Gales\nFrom\n: Adam Levitt\nDate\n: January 10\nSubject\n: Congratulations \nDear Portia, \nCongratulations again on your promotion. You are very deserving of this opportunity and I know you will be an invaluable asset to Virgo America. Since you left, Mr. Raleigh has asked me to join the marketing team. I have not given him an answer yet, but I have every intention of accepting the position. I have wanted to be a member of the marketing team ever since I joined this firm 3 years ago as your assistant. Now that you are the new VP of marketing, my mind is set. Thank you very much for your glowing recommendation. \nI look forward to working with you in the near future. \nSincerely, \nAdam Levitt",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "Why was the article written?",
+                    "options": [
+                        "A. To announce the hiring of a new executive",
+                        "B. To publicize the results of a company expansion",
+                        "C. To announce the retirement of a company executive",
+                        "D. To inform readers of an up and coming airline"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 182,
+                    "content": "Where are the offices of Virgo America located?",
+                    "options": [
+                        "A. Chicago",
+                        "B. New York",
+                        "C. Washington",
+                        "D. Los Angeles"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 183,
+                    "content": "In the article, the word 'post' in paragraph 2 is the closet in meaning to",
+                    "options": [
+                        "A. company",
+                        "B. airline",
+                        "C. position",
+                        "D. chair"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 184,
+                    "content": "What did Ms. Gales do for Mr. Levitt?",
+                    "options": [
+                        "A. Gave him professional advice",
+                        "B. Taught him about marketing",
+                        "C. Inspired him to join the marketing team",
+                        "D. Gave him an excellent reference"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 185,
+                    "content": "What is implied about Mr. Levitt?",
+                    "options": [
+                        "A. He is not good at his job.",
+                        "B. He currently resides in Chicago.",
+                        "C. He previously worked in the public relations department.",
+                        "D. He has always wanted to work under Ms. Gales."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "177-180",
+            "part_image": [],
+            "table": [],
+            "context": "If you're looking to treat someone - or yourself - with natural and organic body care products, look no farther than Ranch Bernard. \nLocated in the Bernardo Winery village shops, Natures Perfect Scents offers products that relax you while awakening the senses with aromatherapy-based lotions, soaps, oils, bath products and more. \nEverything in the store is natural, with no plastics, dyes or artificial ingredients - ideal for those with allergies or those inclined to use chemical-free products. In addition, the store also features post- and prenatal products, including naturally made children's toys. \n\"It's for anybody who's looking for natural and organic products, \" said Bianca Smith, a Ranch Bernard resident and Mt. Bernardo High School alumnus who opened the store last December. \"A lot of people are leaning toward good quality natural and organic products. \" \nNearly all products are from small businesses across California, Ms. Smith added. There's an organic line of lotions, body oils and scrubs from the Napa Valley company VN Organics. In addition to personal care products, the store features products for babies and their mothers, in line with Ms. Smith's business Pregnatique, a baby health and wellness boutique. Ms. Smith, who also assists new mothers as a birth and Post-birth counselor, offers products for babies and infants by companies such as B\u00e9b\u00e9 and Moby Wrap.",
+            "questions": [
+                {
+                    "question_id": 177,
+                    "content": "What is indicated about Natures Perfect Scents?",
+                    "options": [
+                        "A. It only carrries baby products.",
+                        "B. It only makes organic personal care products intended for babies.",
+                        "C. Its products are available only through the website.",
+                        "D. It carries organic products in addition to baby products."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 178,
+                    "content": "The word 'inclined' in paragraph 3, is closest in meaning to",
+                    "options": [
+                        "A. leaning",
+                        "B. tilted",
+                        "C. unlikely",
+                        "D. willing"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 179,
+                    "content": "What is suggested about Natures Perfect Scents products?",
+                    "options": [
+                        "A. They are very popular with men.",
+                        "B. They are mostly made outside the country.",
+                        "C. They are only made with natural ingredients.",
+                        "D. They are cheaper than most non-organic products."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 180,
+                    "content": "What is NOT stated about Bianca Smith?",
+                    "options": [
+                        "A. She attended a nearby high school.",
+                        "B. She has lived in Ranch Bernard all her life.",
+                        "C. She opened her store last year.",
+                        "D. She also sells naturally made toys for children."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "173-176",
+            "part_image": [],
+            "table": [],
+            "context": "Accent Property Management \nPlease read this notice carefully, as it contains very important information about road work that is scheduled to be performed in your community, which may result in vehicles being towed or damaged if left in restricted areas during scheduled work periods. Any improperly parked vehicles will be towed at your expense. \nSan Jose Hills is excited to announce the scheduling of the asphalt repair and seal coating project for the community, which consists of the following locations: \nAlison Creek Road \nGlenfield Circle \nManor Hill Road\nOn Tuesday and Wednesday, April 20 & 21, 2011, we will be repairing streets in various locations throughout the community. Please refer to the map included with this notice, asphalt repair areas are the orange highlighted circles. United Paving will be lacing barricades beginning at 6:30 a.m. and work will begin at 7:00 a.m. and continue throughout the day. The barricades will remain in place until the weather allows for adequate curing of the material, which may take up to 24 hours. \nThank you for your cooperation in this matter. We understand this is an inconvenience for everyone; however it is necessary. Once completed, the new street surface will greatly enhance the appearance of the community and extend the life of the asphalt streets. Should you have any questions regarding the work to be performed, please contact Accent Property Management. \nSincerely, \nChris Wages \nFacilities Manager \n905-581-4796 Ext 202 or chris@accentpm.com",
+            "questions": [
+                {
+                    "question_id": 173,
+                    "content": "For whom is the letter most likely intended?",
+                    "options": [
+                        "A. Residents of San Jose Hills",
+                        "B. Workers at Accent Property Management",
+                        "C. Drivers on Manor Hill Road",
+                        "D. The road construction crew"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 174,
+                    "content": "By what date is the work expected to finish?",
+                    "options": [
+                        "A. April 24",
+                        "B. March 26",
+                        "C. April 21",
+                        "D. April 20"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 175,
+                    "content": "What is indicated on the letter?",
+                    "options": [
+                        "A. San Jose Hills is being remodeled.",
+                        "B. Construction Crews will work overnight.",
+                        "C. Glenfield Circle will be expanded.",
+                        "D. The second day is reserved for curing."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 176,
+                    "content": "Which is NOT stated as a possible penalty for improperly parked vehicles?",
+                    "options": [
+                        "A. The owner will be fined.",
+                        "B. The car may be towed.",
+                        "C. The car may be damaged from the construction.",
+                        "D. The owner will have to pay for any towing charges."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "170-172",
+            "part_image": [],
+            "table": [],
+            "context": "To:\n All employees of TWDB\nFrom: \nJoseph Green\nRe:\n Survey Results\nDate:\n April 19 \nCustomer Survey \nIn an initiative to determine the effectiveness of TWDB's programs and services, our agency regularly conducts surveys to measure customer satisfaction and rate TWDB's performance in service delivery. \nYou can make a difference by taking the time to complete a survey online. Results are analyzed, especially the comments section, to identify possible process improvements or areas in the agency which need increased education or marketing efforts. Program areas use the information to review and implement any necessary program/process changes that will benefit customers or save money. Previous survey results have led to significant improvements to TWDB's programs. \nThe Tennessee Water Development board intends to use this information to improve its products and service delivery and to increase customer education and awareness regarding agency products and services. \nSurvey Results: 2010 Customer Survey \nThe most frequently cited suggestions for improvement included: \n- Increasing personal contact with customers \n- Increasing interdepartmental and interagency cooperation \n- Further improving the agency's websites \n- Improving the scope and accuracy of information provided \n- Increasing funding opportunities. \nResult\n: In summary, customers rated TWDB highly, with 94. 8% of all respondents giving the agency an excellent (52. 8%) or good (42.0%) rating. Furthermore, the specific departments evaluated consistently received satisfaction ratings of at least 96%. A detailed report of the results will be posted on the company website in two weeks.",
+            "questions": [
+                {
+                    "question_id": 170,
+                    "content": "What is the main purpose of the survey?",
+                    "options": [
+                        "A. To help an organization decide which agencies to use",
+                        "B. To improve service efficiency",
+                        "C. To assess how many new clients the agency gained last year",
+                        "D. To determine client satisfaction and agency performance"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 171,
+                    "content": "What is likely to happen next month at TWDB?",
+                    "options": [
+                        "A. TWDB will make a presentation on the state of the department.",
+                        "B. Employees can see more survey results.",
+                        "C. Suggestions for changes will be implemented.",
+                        "D. Additional employees will be hired to improve customer satisfaction."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 172,
+                    "content": "Which of the following is NOT a suggestion made by customers?",
+                    "options": [
+                        "A. Increasing personal communication with customers",
+                        "B. Increasing cooperation with other agencies",
+                        "C. Making the company webpage better",
+                        "D. Quicker responses to client emails"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-169",
+            "part_image": [],
+            "table": [],
+            "context": "Apex PC Inc. \n12 Garter's Way \nErving, TX 75782 \nTo Whom It May Concern, \nI am writing today to thank you for an excellent customer service experience. I recently started a new job as the administrative director for a nonprofit agency that, like most organizations and businesses, cannot function without a computer. This morning when I arrived at work, my Apex Dimension 5000 would not boot up properly. After \nexhausting \nmy own fairly extensive knowledge about how to get a misbehaving computer to work properly, and consulting my agency's tech department in vain, I called Apex PC Technical Support. \nGary, the tech support professional who answered my call, spent two hours on the phone with me, walking me through processes ranging from diagnostics to rebooting in various command prompt modes. Gary was wonderful to work with. I was delighted to be on the phone with someone whose knowledge, respect, and sense of humor (particularly important, in my opinion, when dealing with potential computer disasters) made this ordeal much less challenging. \nAlthough your automated answering system is frustrating-I got many \"I'm sorry, I don't understand\" responses although I speak quite clear and articulate English, and I got cut off at one point - I very much appreciate the excellent customer service your human staff members give. As a result of the help I got today, I elected to extend our Gold Service Contract so that if I have such a problem again, I will have access to your staff. \nAgain, thank you. \nSincerely, \nMark Matthews",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "What is the main purpose of this letter?",
+                    "options": [
+                        "A. To offer an award to an Apex employee",
+                        "B. To praise an employee of the company",
+                        "C. To report a problem related to a purchased product",
+                        "D. To order an item that is backordered"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 166,
+                    "content": "Why was Mr. Matthews having a problem?",
+                    "options": [
+                        "A. He could not get in contact with an Apex employee.",
+                        "B. He could not understand what the automated system was saying.",
+                        "C. He could not extend the Gold Service Contract plan.",
+                        "D. He could not get his computer to start properly."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 167,
+                    "content": "What did Mr. Matthews do before calling Apex?",
+                    "options": [
+                        "A. He tried to change his computer.",
+                        "B. He contacted his supervisor about the problem.",
+                        "C. He asked his company's computer division for help.",
+                        "D. He contacted someone in his office about the company service plan."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 168,
+                    "content": "What action was NOT taken by Gary?",
+                    "options": [
+                        "A. He solved the problem through the automated system first.",
+                        "B. He ran diagnostics step by step with Mr. Matthews.",
+                        "C. He rebooted the computer in different modes.",
+                        "D. He used humor so the long call is not boring."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 169,
+                    "content": "The word 'exhausting' in paragraph 1 is closest in meaning to",
+                    "options": [
+                        "A. tiring",
+                        "B. failing",
+                        "C. making use of",
+                        "D. fatiguing"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "162-164",
+            "part_image": [],
+            "table": [],
+            "context": "The Cooper Museum \nMembers enjoy unlimited free entry all year long to the Cooper Museum's exciting special exhibition, which opens on June 19, and the world-renowned permanent collection galleries. Other benefits include preview receptions, gallery talks and tours, family programs, and hands-on art workshops for adults and children. For more information on Membership levels and benefits, including discounts for older adults, educators, and artists, or to purchase a membership by phone, call the Membership Department at (718)501-6326 or e-mail membership@coopermuseum. org. \nView a printable version of the Member Events Chart for 2010-2011.\nIndividuals: $55 (fully tax-deductible) \nEnjoy preview receptions, discounts, and much more! \nFamily and Friends: $85 (fully tax-deductible) \nReceived discounts on educational offerings for adults and children! \nContributors: $150 ($135 tax-deductible) \nReceive reciprocal privileges to 31 art museums and free tickets to \nArt Facts and Meet the Museum.",
+            "questions": [
+                {
+                    "question_id": 162,
+                    "content": "What will happen as of June 19?",
+                    "options": [
+                        "A. The cost of admission to the museum will increase.",
+                        "B. The museum will hold weekly gallery talks.",
+                        "C. A new membership discount program will be introduced.",
+                        "D. A new attraction will open."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 163,
+                    "content": "What is NOT mentioned as a reason to call the Membership Department?",
+                    "options": [
+                        "A. Get membership level information",
+                        "B. Purchase family programs",
+                        "C. Purchase memberships",
+                        "D. Price reductions for seniors"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 164,
+                    "content": "Which privilege is extended to Friends and Family members of the museum?",
+                    "options": [
+                        "A. Discounts on educational family events",
+                        "B. Preview receptions and discounts",
+                        "C. Discounts at the museum restaurant",
+                        "D. Free tickets to Art Facts"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "159-161",
+            "part_image": [],
+            "table": [],
+            "context": "Following up its successful Sushi Workshop in July, the Japan-America Society of Greater Long Island presents sushi chef Maksui from Kenichi for an advanced sushi workshop on Sunday, October 25th at the Tri-fold Clubhouse (410 Guadalupe St. ) from 1:30 p.m. to 3:30 p.m. This workshop will allow attendees of the previous workshop to build on their sushi-making skills. \nThis is not a free event. The cost for current JGA members is $35. If you're a non-member, the cost is $40 (Please bring exact change in cash). Although the cost includes all the ingredients necessary to make sushi, you will need to bring your own knife and a towel or cloth of some sort. \nPlease note that registration is required in order to attend this class. Space is limited. Send a registration request to jga-events@jga. org by Thursday, October 22. 48 hours' notice is required in order to cancel.",
+            "questions": [
+                {
+                    "question_id": 159,
+                    "content": "What is the main purpose of the notice?",
+                    "options": [
+                        "A. To inform readers of a useful website",
+                        "B. To describe the Japan-America Society of Greater Long Island",
+                        "C. To teach people how to write poetry",
+                        "D. To announce an upcoming workshop"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 160,
+                    "content": "What information is NOT given in the notice?",
+                    "options": [
+                        "A. The workshop instructor's name",
+                        "B. Late registration instructions",
+                        "C. Cancellation instructions",
+                        "D. Things to bring to the workshop"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 161,
+                    "content": "According to the notice, who is the workshop tailored to?",
+                    "options": [
+                        "A. Intermediate sushi chefs",
+                        "B. Beginner sushi chefs",
+                        "C. New JGA members",
+                        "D. All JGA members"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "157-158",
+            "part_image": [],
+            "table": [],
+            "context": "Jersey Weekly\nMarch 28\nRobert Schwartz, director of Parking and Transportation Services, has announced his decision to retire from Hudson University. His last day will be June 13, 2011. \nUnder Mr. Schwartz's leadership, the university's parking and transportation operations have improved significantly over the past 10 years. Mr. Schwartz was instrumental in the introduction of the New Terrytown Shuttle to help reduce the number of cars on the New Terrytown/ Piscataway campuses and in the university's preparations for the Route 18 construction and road widening projects. Mr. Schwartz previously served as the assistant director for parking and transportation and worked in various capacities in the housing division. \nMr. Schwartz has done a great job establishing positive working relationships with students, cleans, administrators, staff, and local communities. His leadership, loyalty to Hudson University, and tireless energy will be missed.",
+            "questions": [
+                {
+                    "question_id": 157,
+                    "content": "What is the purpose of the article?",
+                    "options": [
+                        "A. To promote a new company",
+                        "B. To announce a retirement",
+                        "C. To advertise a job opening",
+                        "D. To discuss a newly hired employee"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 158,
+                    "content": "What was Mr. Schwartz's prior position?",
+                    "options": [
+                        "A. University spolesperson",
+                        "B. Chief executive officer",
+                        "C. Director",
+                        "D. Assistant director"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-156",
+            "part_image": [],
+            "table": [],
+            "context": "A trio of bands to treat fans at Shamrocks show \nFrontman, Mike Furie, says the musicians in his band \"Loud Furie\" and fellow Syracuse rock bands \"The Fergi Project\" and \"Little Secret\" want to help make things right for their fans who bought tickets to see them open for Brian Michaels last week at the Regional Market Block Party. \nThat show - and shows scheduled on subsequent Thursday nights by \"Asia\" and \"Loverboy\" - have been canceled. \nThe opening bands were given tickets to sell to their fans, Furie explains. So \"Loud Furie\", \"The Fergi Project\" and \"Little Secret\" have scheduled a show together at 4 p.m. Sunday at Shamrocks, 1459 Taft Road, Syracuse. Admission is free for anybody who holds a ticket to the canceled Michaels show, or $10 for everybody else. \nA nice touch: The band will donate the door money to Michaels' favorite charity, the American Diabetes Association. The musicians are calling it the Antidote Show. \nAlso, for fans of \"Asia\", western New York promoter Billy Pilo has his own show planned. \"Asia\" plays at 7 p.m. on Saturday at the Main Street Armory, 78 Main St. , Rochester. Admission is free to the show as long as you bring a canned or dry food donation for Rochester food banks.",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What event is described in the article?",
+                    "options": [
+                        "A. A makeup concert for a canceled show",
+                        "B. A program at a recital",
+                        "C. A show by a band called Asia",
+                        "D. A charity drive to support sick children"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 156,
+                    "content": "According to the article, what do the two shows share in common?",
+                    "options": [
+                        "A. Performers will be invited from around the world.",
+                        "B. Proceeds will be used to support a good cause.",
+                        "C. Participants will be asked to donate food.",
+                        "D. They will give out prizes to raffle winners."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [],
+            "context": "Carlo's Pizzeria \nFounded in 1983, Carlo's Pizzeria, Restaurant & Caterers is a family operated establishment serving gourmet pizzas, salads, sandwiches, dinners and catered foods in New York and the surrounding areas. With nearly 25 years of satisfying customers in and around the New York area, Carlos, Sal, Sally, Maria, Estel and the entire Carlo's staff pride themselves in serving only the finest selection of Italian cuisine. \nOcean Avenue Branch \n1247 Ocean Avenue \nBrooklyn, NY 11230\n(718)578-1878/ (718)578-4798 \nHours of operation: \nMonday - Thursday: 11AM - 10PM\nFriday: 11AM - 11PM\nSaturday: 11AM - Midnight\nSunday: CLOSED \nVisit our website for our lunch and dinner menus!",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "On what day does the business stay open longer than usual?",
+                    "options": [
+                        "A. Monday",
+                        "B. Thursday",
+                        "C. Saturday",
+                        "D. Sunday"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 154,
+                    "content": "What is indicated about the menu?",
+                    "options": [
+                        "A. Menu items are different according to day of the week.",
+                        "B. Prices are higher on Saturdays.",
+                        "C. Discounts are available upon reuest.",
+                        "D. Menu items vary according to the time of day."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        }
+    ]
+}

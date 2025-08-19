@@ -1,0 +1,1592 @@
+{
+    "test_id": "1212",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "The projector borrowed by Ms. Reid is ------- back to the IT department by five o'clock.",
+                    "options": [
+                        "A. due",
+                        "B. set",
+                        "C. paid",
+                        "D. prompt"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Now that the annual conference is finished, the planning committee will hold meetings ------- often.",
+                    "options": [
+                        "A. below",
+                        "B. less",
+                        "C. decreased",
+                        "D. lower"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Before you distribute the report, ask Ms. Burns to check that ------- has all the necessary information.",
+                    "options": [
+                        "A. them",
+                        "B. our",
+                        "C. her",
+                        "D. it"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "According to consumers, using the new Web site is no ------- than calling the help center directly.",
+                    "options": [
+                        "A. easily",
+                        "B. easy",
+                        "C. easiest",
+                        "D. easier"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "Anyone who participates ------- the city's Annual Baking Competition will receive a coupon from Fresh Supermarket.",
+                    "options": [
+                        "A. to",
+                        "B. beside",
+                        "C. in",
+                        "D. among"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "City officials are still debating Irving Enterprises' request ------- the outdated building.",
+                    "options": [
+                        "A. demolishes",
+                        "B. have demolished",
+                        "C. to demolish",
+                        "D. demolished"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "Heron Glassworks ------- student groups of all ages for weekday tours of its warehouse and production floor.",
+                    "options": [
+                        "A. conveys",
+                        "B. preserves",
+                        "C. encloses",
+                        "D. welcomes"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "To combat mental illness, the clinic will take a more comprehensive ------- than it did in the past.",
+                    "options": [
+                        "A. approachably",
+                        "B. approached",
+                        "C. approach",
+                        "D. approachable"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "Brandy can make withdrawals from any Salis Bank branch, but she usually visits the ------- one.",
+                    "options": [
+                        "A. closing",
+                        "B. closely",
+                        "C. closure",
+                        "D. closest"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "As a ------ - for making contracts with a lot of new clients, Mr. Skinner was given additional vacation days.",
+                    "options": [
+                        "A. reward",
+                        "B. progress",
+                        "C. solution",
+                        "D. routine"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "Please be seated according to the ------- name cards that have been placed on each table.",
+                    "options": [
+                        "A. personalizes",
+                        "B. personalizing",
+                        "C. personalize",
+                        "D. personalized"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "The memo sent by Mr. Lee addressed a few ------- that were discovered during the quarterly inspection.",
+                    "options": [
+                        "A. issuing",
+                        "B. issue",
+                        "C. issues",
+                        "D. issued"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "Many voters in this city are uninterested, and only about 15% of them are ------- active.",
+                    "options": [
+                        "A. politically",
+                        "B. political",
+                        "C. politics",
+                        "D. politician"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "This year's award winner, Cheryl Garner, taught basic first aid skills to students and adults ------- the region.",
+                    "options": [
+                        "A. between",
+                        "B. throughout",
+                        "C. during",
+                        "D. toward"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "-------, the cabin will be rented out for the entire month, but the owner would agree to four weekly rentals instead.",
+                    "options": [
+                        "A. Reluctantly",
+                        "B. Absolutely",
+                        "C. Ideally",
+                        "D. Mutually"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "The non-profit organization released to the press several documents ------- the largest donors and how much they contributed.",
+                    "options": [
+                        "A. detailed",
+                        "B. detail",
+                        "C. details",
+                        "D. detailing"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "No passengers are allowed on board -------. the aircraft's door has been closed.",
+                    "options": [
+                        "A. that",
+                        "B. despite",
+                        "C. once",
+                        "D. rather"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "A government ------- will visit the site to talk with protesters directly and seek a resolution.",
+                    "options": [
+                        "A. representative",
+                        "B. representation",
+                        "C. represent",
+                        "D. represented"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "An extensive ------- conducted by lvanex Communications revealed that Internet speed was one of the most important factors to customers.",
+                    "options": [
+                        "A. inventory",
+                        "B. strategy",
+                        "C. coverage",
+                        "D. survey"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "Mr. Denson wanted to purchase a special edition gold-plated watch from Utica Watches, but there were ------- left.",
+                    "options": [
+                        "A. none",
+                        "B. nothing",
+                        "C. something",
+                        "D. some"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Ms. May reminded us that the agreement was only ------- because it had not been approved yet.",
+                    "options": [
+                        "A. perishable",
+                        "B. imperative",
+                        "C. accustomed",
+                        "D. tentative"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "Following the restoration project, the lobby of the historical Kirkwood Hotel looked ------- like its original state.",
+                    "options": [
+                        "A. remarkably",
+                        "B. remarking",
+                        "C. remark",
+                        "D. remarked"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "------- the right environmental conditions, this tree will yield fresh fruit for most of the year.",
+                    "options": [
+                        "A. With",
+                        "B. About",
+                        "C. On",
+                        "D. As"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "One of the interns ------- that the logo on the second page of the sales report was upside down.",
+                    "options": [
+                        "A. looked after",
+                        "B. accounted for",
+                        "C. pointed out",
+                        "D. came across"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "------- the parking lot is closed, both employees and customers will have to make use of street parking.",
+                    "options": [
+                        "A. As if",
+                        "B. Until",
+                        "C. So that",
+                        "D. While"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "If the new athletic shoes do well in the smaller test markets, their nationwide launch could be -------.",
+                    "options": [
+                        "A. convined",
+                        "B. accelerated",
+                        "C. directed",
+                        "D. circulated"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "The city hosted a display of------- fireworks to celebrate the 100th anniversary of its founding.",
+                    "options": [
+                        "A. impressive",
+                        "B. impress",
+                        "C. impression",
+                        "D. impressively"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "After investing heavily in Internet marketing campaigns, Bailey Coffee increased its annual profits ------- fifteen percent.",
+                    "options": [
+                        "A. by",
+                        "B. among",
+                        "C. between",
+                        "D. on"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "The receptionists change the artwork in the clinic's waiting room ------- and rearrange the layout of the furniture.",
+                    "options": [
+                        "A. periodically",
+                        "B. relatively",
+                        "C. tightly",
+                        "D. narrowly"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "The policy that requires businesses to provide medical insurance applies only to those ------- more than twenty-five people.",
+                    "options": [
+                        "A. employs",
+                        "B. employ",
+                        "C. employed",
+                        "D. employing"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/b969e92644854431af0aceec5021da511dd0ab42.jpg"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "",
+                    "options": [
+                        "A. Our boutique is the leader in trendy fashions.",
+                        "B. Hurry before the promotion ends.",
+                        "C. Candidates need to be friendly and able to communicate with customers in all kinds of situations.",
+                        "D. Come visit our store to see what our business is about."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 132,
+                    "content": "",
+                    "options": [
+                        "A. comfortable",
+                        "B. appropriate",
+                        "C. neglected",
+                        "D. convenient"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 133,
+                    "content": "",
+                    "options": [
+                        "A. influence",
+                        "B. incentives",
+                        "C. insistence",
+                        "D. consideration"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 134,
+                    "content": "",
+                    "options": [
+                        "A. be interesting",
+                        "B. were interesting",
+                        "C. interest",
+                        "D. are interested"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/ffc613df760ceda9f5e6c9124353590b5d2209a5.jpg"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "",
+                    "options": [
+                        "A. provide",
+                        "B. provides",
+                        "C. provided",
+                        "D. providing"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 136,
+                    "content": "",
+                    "options": [
+                        "A. unusual",
+                        "B. peculiar",
+                        "C. best",
+                        "D. exceptional"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 137,
+                    "content": "",
+                    "options": [
+                        "A. In addition",
+                        "B. Because",
+                        "C. On the other hand",
+                        "D. As a result"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 138,
+                    "content": "",
+                    "options": [
+                        "A. We make sure that your pets and children don't go near the chemicals.",
+                        "B. In fact we aim to make the home and business a safe and clean place without the use of harsh chemicals.",
+                        "C. The all natural cleaning agents may not be as affective, but they are safe.",
+                        "D. Pets and children will be asked to leave the premises during cleaning."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/76fd9d73708fa3c8d6fb3d6ff94bf37f2cbd1c81.jpg"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "",
+                    "options": [
+                        "A. provided",
+                        "B. supply",
+                        "C. request",
+                        "D. requested"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 140,
+                    "content": "",
+                    "options": [
+                        "A. won't be",
+                        "B. would be",
+                        "C. must be",
+                        "D. couldn't be"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. Received applications can take up to 5 weeks to process.",
+                        "B. Applications are never approved before the season is over.",
+                        "C. Sometimes applications get lost.",
+                        "D. Never make an application in person."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. enclose",
+                        "B. enclosing",
+                        "C. inclose",
+                        "D. enclosed"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/8734974f49cbfd6800d728ff915b48c1e9a5118a.jpg"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. distances",
+                        "B. place",
+                        "C. event",
+                        "D. time"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. making",
+                        "B. to be made",
+                        "C. makes",
+                        "D. been made"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. Only Fonitna Rental should be used to book cars in the future.",
+                        "B. But, as of tomorrow, no one will be reimbursed.",
+                        "C. He will redesign the form by the beginning of next week.",
+                        "D. Everyone is required to turn in their cards as soon as possible."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. overreaching",
+                        "B. gracious",
+                        "C. benevolent",
+                        "D. harsh"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/ddf32d3935cce25762b619ea9c42555f086fa48c.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/43ae1c30039660492432e1aff1aa22fb3d9b0422.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/d6369e8534e9d02d986f34e7d0b1c61be3617873.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "Who most likely is Jason Roberts?",
+                    "options": [
+                        "A. A chef",
+                        "B. The owner",
+                        "C. A Banquet Captain",
+                        "D. The receptionist"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 197,
+                    "content": "Who is Leroy Jenkins worrying about impressing?",
+                    "options": [
+                        "A. His boss",
+                        "B. His brother",
+                        "C. His sister's husband's family",
+                        "D. His parents"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 198,
+                    "content": "According to the information provided, what does Jason Roberts recommend that Leroy Jenkins include for his event?",
+                    "options": [
+                        "A. An extra chef",
+                        "B. A Banquet Captain",
+                        "C. A vegetarian option",
+                        "D. Extra waiters"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 199,
+                    "content": "What is indicated about Leroy Jenkins' budget?",
+                    "options": [
+                        "A. He cannot afford Robert's Parties.",
+                        "B. He needs to choose a very small menu.",
+                        "C. He can hire everything that Robert's Parties recommends.",
+                        "D. He will have to cut out the appetizers."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 200,
+                    "content": "How many people will reunion?",
+                    "options": [
+                        "A. His sister's in-laws",
+                        "B. 25",
+                        "C. The members that live in town",
+                        "D. Every member will be there."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/8a409106cbdaa8d0ff705ab4d7dadd3e99495edc.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/1f0b7877e217c5fc2d652982096300da5f1fe9e1.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/f3c6f81748fcdf63162f65baa4d28a2fd0372a09.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "Why did Jose Ramos write to Star Products?",
+                    "options": [
+                        "A. To exchange hosing",
+                        "B. To order new hosing",
+                        "C. To report a malfunction of hosing",
+                        "D. To compliment the hosing"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 192,
+                    "content": "What is indicated about the hosing that Jose Ramos ordered?",
+                    "options": [
+                        "A. It was not rated for the right PSI for his use.",
+                        "B. It was defective.",
+                        "C. It was installed incorrectly.",
+                        "D. They were delivered to the wrong address."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 193,
+                    "content": "According to the purchase order form, how much XP100 hosing is Jose Ramos returning?",
+                    "options": [
+                        "A. 1,000 yards",
+                        "B. 2,000 yards",
+                        "C. 2,500 yards",
+                        "D. 5,000 yards"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 194,
+                    "content": "What is indicated in the letter from Star Products?",
+                    "options": [
+                        "A. Star Products does not value Jose Ramos' business.",
+                        "B. Star Products appreciates Jose Ramos' patronage .",
+                        "C. Star Products doesn't need any more business .",
+                        "D. Star Products wants to expand their business ."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 195,
+                    "content": "What job does Raquel Jenkins likely have?",
+                    "options": [
+                        "A. CEO",
+                        "B. CFO",
+                        "C. Customer Service",
+                        "D. Sales"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/68afe8febf1642b414e8382516a7cb8d4082e289.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/8c274b96419ba9bfcb8f3e808d78d38e682ce76b.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/82f84984baa720757086095a0e1d16d4760d20d7.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "Why is Jason Hostrum anxious about the party?",
+                    "options": [
+                        "A. His family will be there.",
+                        "B. It is the first time the boss will join them.",
+                        "C. This is the first party he has had to plan for the company.",
+                        "D. There is too much food for him to prepare."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 187,
+                    "content": "In the third e-mail, what is indicated about Jason Hostrum?",
+                    "options": [
+                        "A. He visited atasteofclass.com.",
+                        "B. He created his own theme.",
+                        "C. He wants to cancel the party.",
+                        "D. He wants to add more food and guests."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 188,
+                    "content": "According to the e-mails, what kind of food will be served?",
+                    "options": [
+                        "A. All meats",
+                        "B. A mixture of meat and vegetarian",
+                        "C. Only vegetarian",
+                        "D. Only appetizers"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 189,
+                    "content": "In the first e-mail, what was a big concern about the food?",
+                    "options": [
+                        "A. The flavor",
+                        "B. The type of sides",
+                        "C. The dietary restrictions of some of the employees",
+                        "D. Where the buffet will be located"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 190,
+                    "content": "What is indicated about A Taste of Class?",
+                    "options": [
+                        "A. They are busy this holiday season.",
+                        "B. They have lots of free teams for the 20th.",
+                        "C. They would prefer to cater on another date.",
+                        "D. They are too busy to work Johnson home Furnishing's party."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/6bb0603825ab353e1747635a6e9051e65ca1d350.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/091843901a5ed0a53c69d78085e40839fbd883d6.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "According to the notice, what are Clinton Bus Lines passengers encouraged to do on the Web site?",
+                    "options": [
+                        "A. Reserve a ticket in advance",
+                        "B. Check bus schedules",
+                        "C. Apply for membership",
+                        "D. Request a discount coupon"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 182,
+                    "content": "What is indicated about Mr. Gregory's previous meeting with Mr. Hanson?",
+                    "options": [
+                        "A. It took place in Texas.",
+                        "B. It lasted an entire week.",
+                        "C. It commenced in the afternoon.",
+                        "D. It was canceled due to bad weather."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 183,
+                    "content": "In the e-mail, the word \"transit\" in paragraph 2, line 3, is closest in meaning to",
+                    "options": [
+                        "A. participation",
+                        "B. transportation",
+                        "C. navigation",
+                        "D. collaboration"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 184,
+                    "content": "Where does Mr. Gregory most likely live?",
+                    "options": [
+                        "A. In Santa Fe",
+                        "B. In Austin",
+                        "C.  In Dallas",
+                        "D. In Denver"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 185,
+                    "content": "When is the meeting scheduled to take place?",
+                    "options": [
+                        "A. Before April 24",
+                        "B. Between April 24 and April 30",
+                        "C. Between May 1 and May 7",
+                        "D. After May 7"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-180",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/1278553600f09a0e754fa27ea9789022ea60d2e7.jpg",
+                "toeic_data/study4/reading/R1212_study4/img/e412bd5bc0e8f68b11b4425da8af24d4f15b547f.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "What does Maple Outdoor mention about Ms. Sandberg's order?",
+                    "options": [
+                        "A. It will be delayed for up to a month.",
+                        "B. They have expedited it for free.",
+                        "C. It may not be returned if it is damaged by misuse.",
+                        "D. They have included a complementary item with it."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 177,
+                    "content": "How much does an Avalanche fuel canister cost?",
+                    "options": [
+                        "A. $58.79",
+                        "B. $9.98",
+                        "C. $19.96",
+                        "D. $12.85"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 178,
+                    "content": "Why did Ms. Sandberg write the email?",
+                    "options": [
+                        "A. To compliment the service she received",
+                        "B. To request a monthly news letter",
+                        "C. To ask if she can return an item",
+                        "D. To complain of a missing item"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 179,
+                    "content": "What requested information did Ms. Sandberg forget to include?",
+                    "options": [
+                        "A. Her name",
+                        "B. Her mailing address",
+                        "C. Her order number",
+                        "D. Her credit card number"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 180,
+                    "content": "What is true about Ms. Sandberg?",
+                    "options": [
+                        "A. She has shopped at Maple Outdoor before.",
+                        "B. She frequently goes camping.",
+                        "C. She didn't receive her hiking boots.",
+                        "D. She will be visiting the Maple Outdoor store soon."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "172-175",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/a2c43f1033a5967a5b520186602068da2c83da7a.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 172,
+                    "content": "What is implied about Mr. Hernandez?",
+                    "options": [
+                        "A. He is the CEO of Trout & Lee.",
+                        "B. He is receiving a promotion.",
+                        "C. He is transferring to a new department.",
+                        "D. He is retiring from the company."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is indicated about Trout & Lee?",
+                    "options": [
+                        "A. It is an international company.",
+                        "B. It is a real estate company.",
+                        "C. It has manufacturing plants in the U.S.",
+                        "D. It has existed for many decades."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 174,
+                    "content": "What is NOT mentioned about Mr. Hernandez?",
+                    "options": [
+                        "A. When he started working for the company",
+                        "B. The type of employee he was",
+                        "C. The type of industry he worked in",
+                        "D. His position in the company"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 175,
+                    "content": "In which of the marked positions [1], [2], [3], or [4] does this sentence best belong? \"I feel it a great honor to be asked to speak about him here today.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-171",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/f171b01be3527943eecad894778ba8a8d786258f.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "Why did Mr. Dixon send the e-mail?",
+                    "options": [
+                        "A. To give a quote for a project",
+                        "B. To explain a new policy",
+                        "C. To persuade a client to agree on a deal",
+                        "D. To confirm a reservation"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 169,
+                    "content": "What does Mr. Mason want to do?",
+                    "options": [
+                        "A. Purchase a set of shirts",
+                        "B. Apply for a position",
+                        "C. Devise a new printing technique",
+                        "D. Expand business internationally"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 170,
+                    "content": "What is mentioned about lnsta Printing?",
+                    "options": [
+                        "A. It opened a second branch yesterday.",
+                        "B. It offers various production options.",
+                        "C. It only produces athletic wear.",
+                        "D. It sponsors a local soccer team."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 171,
+                    "content": "The word \"further\" in paragraph 4, line 1, is closest in meaning to",
+                    "options": [
+                        "A. urgently",
+                        "B. officially",
+                        "C. additionally",
+                        "D. carefully"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-167",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/56f308bedb5938f7866820301a41d36c9c433aab.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "What is mentioned about Helping Hands?",
+                    "options": [
+                        "A. It offers community service for senior citizens.",
+                        "B. It is committed to nature conservation.",
+                        "C. It is sponsored by the government.",
+                        "D. It is supplying homes to a disadvantaged group."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 166,
+                    "content": "Where is the successful candidate required to work?",
+                    "options": [
+                        "A. In Santa Clara",
+                        "B. In Austin",
+                        "C. In Dallas",
+                        "D. In Houston"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 167,
+                    "content": "What is NOT suggested about the position?",
+                    "options": [
+                        "A. It includes supervision of the local staff.",
+                        "B. It requires an academic degree.",
+                        "C. It needs official documents.",
+                        "D. It is limited to only California residents."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-164",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/028b97e23e6b93da1d495efbf0bcbb2218d73392.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "What will take place on Saturday and Sunday?",
+                    "options": [
+                        "A. An office party",
+                        "B. A meeting with clients",
+                        "C. A renovation",
+                        "D. Cleaning services"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 162,
+                    "content": "Who most likely is Ginger Lin?",
+                    "options": [
+                        "A. The secretary",
+                        "B. The manager",
+                        "C. The technician",
+                        "D. The security guard"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 163,
+                    "content": "At 5:04, what does Lance Sibley mean by to be on the safe side?",
+                    "options": [
+                        "A. The offices may not be safe.",
+                        "B. The client may need help.",
+                        "C. Just as a precaution.",
+                        "D. He's given a warning."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 164,
+                    "content": "What will Janet Leigh most likely do next?",
+                    "options": [
+                        "A. Check her email",
+                        "B. Contact the Finance Department",
+                        "C. Call some employees",
+                        "D. Print out some reports"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/44342858d5a447b1c5726dab87958d6ac3e30a84.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "What is the focus of the booklet?",
+                    "options": [
+                        "A. Food",
+                        "B. Transportation",
+                        "C. Environment",
+                        "D. Traveling"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 159,
+                    "content": "Where in the booklet would the pictures most likely be found?",
+                    "options": [
+                        "A. On page 9",
+                        "B. On page 19",
+                        "C. On page 26",
+                        "D. On page 30"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 160,
+                    "content": "According to the table of contents, who talks about using less money?",
+                    "options": [
+                        "A. Ms. Green",
+                        "B. Mr. Carroll",
+                        "C. Mr. Eason",
+                        "D. Mr. Boyd"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/4fc8414bda45c54fd6b889d1a2e50a7c0ab45d6b.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is indicated about the Re-Fit brand?",
+                    "options": [
+                        "A. Its popularity has dropped dramatically.",
+                        "B. It specializes in sports gear.",
+                        "C. The CEO is renaming the company.",
+                        "D. The brand has a 100 year history."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 156,
+                    "content": "The phrase \"lost sight of\" in the second paragraph is closest in meaning to:",
+                    "options": [
+                        "A. Restricted",
+                        "B. Were not blinded by",
+                        "C. Ignored",
+                        "D. Selected"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 157,
+                    "content": "In which pos itions marked [1], [2], [3] and [4] does the following sentence best belong? \"The clothing store, best known for its affordable but trendy sportswear was very popular in the 90's and early 2000's.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/972fff49f1ccb811bb0a484691a48d8b38042ddd.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "What is expected to happen by next week?",
+                    "options": [
+                        "A. A new department will be formed.",
+                        "B. Job postings will be announced.",
+                        "C. An interview will be conducted.",
+                        "D. A training session will take place."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 154,
+                    "content": "Who is leaving the company?",
+                    "options": [
+                        "A. Bob Denkle",
+                        "B. Mike Garcia",
+                        "C. Rick Campbell",
+                        "D. Benjamin Palmer"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "151-152",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/43cb99b9175170caccd8b00aa7fba90d7fd9354b.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 151,
+                    "content": "When will the new equipment most likely arrive at the warehouse?",
+                    "options": [
+                        "A. On Monday",
+                        "B. On Tuesday",
+                        "C. On Wednesday",
+                        "D. On Thursday"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 152,
+                    "content": "What should be included in the report?",
+                    "options": [
+                        "A. Workers' contact information",
+                        "B. Workers' assignments",
+                        "C. Workers' resumes",
+                        "D. Workers' suggestions"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "149-150",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/dcbfa769c32431f186c9ac4905621af40b9f41b3.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "Why does James most likely say, \"hope you closed the deal!\"",
+                    "options": [
+                        "A. He thinks there will be a bonus.",
+                        "B. He has been waiting a long time.",
+                        "C. He loves the Red Lounge.",
+                        "D. There are too many deals open."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 150,
+                    "content": "What can be inferred by the length of time between James' messages and Robert's responses?",
+                    "options": [
+                        "A. He isn't interested in James.",
+                        "B. He wants time to himself.",
+                        "C. His phone has died.",
+                        "D. He cannot check his phone all the time."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "147-148",
+            "part_image": [
+                "toeic_data/study4/reading/R1212_study4/img/5d56bad5648c60a7efde2f4888a7ddc5b966b724.jpg"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 147,
+                    "content": "What is the purpose of the flyer?",
+                    "options": [
+                        "A. To announce the opening of a store",
+                        "B. To advertise a sale on furniture",
+                        "C. To introduce new products",
+                        "D. To inform customers of a business relocation"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 148,
+                    "content": "When will the store be closed?",
+                    "options": [
+                        "A. On November 28",
+                        "B. On November 29",
+                        "C. On November 30",
+                        "D. On December 9"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        }
+    ]
+}

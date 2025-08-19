@@ -1,0 +1,1662 @@
+{
+    "test_id": "231",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "Russell Jewels is opening a new _____ in Rowland this Saturday.",
+                    "options": [
+                        "A. accessory",
+                        "B. design",
+                        "C. store",
+                        "D. notice"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Ms. Rosebush must _____ her application form to Beal City University by September",
+                    "options": [
+                        "A. is sending",
+                        "B. sending",
+                        "C. sent",
+                        "D. send"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Mr. Cline requested his boss to authorize _____ to organize the event.",
+                    "options": [
+                        "A. himself",
+                        "B. his",
+                        "C. him",
+                        "D. he"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "Some of the administrative staff _____ on a business trip to conclude a contract with a business partner.",
+                    "options": [
+                        "A. went",
+                        "B. prepared",
+                        "C. began",
+                        "D. started"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "To receive the full _____ of this coupon, please register the serial number at our shop's official website.",
+                    "options": [
+                        "A. beneficiary",
+                        "B. benefits",
+                        "C. beneficial",
+                        "D. beneficially"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Judy Arnold volunteered to _____ on a new research project in cooperation with senior researcher Fred Ferguson.",
+                    "options": [
+                        "A. form",
+                        "B. tell",
+                        "C. create",
+                        "D. take"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "As an _____ teacher, Mr. Grant gave a speech on the importance of fostering the habit of reading.",
+                    "options": [
+                        "A. experiencing",
+                        "B. experience",
+                        "C. experienced",
+                        "D. experiences"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "Cellist Irene Hudson is arranging an accompanied performance _____ the Toronto Philharmonic Orchestra.",
+                    "options": [
+                        "A. off",
+                        "B. with",
+                        "C. among",
+                        "D. through"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "All workers must be equipped with safety devices such as helmets _____ entering the construction site.",
+                    "options": [
+                        "A. about",
+                        "B. during",
+                        "C. from",
+                        "D. before"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "Guests must show the invitation _____ received at the entrance to be escorted to their seats.",
+                    "options": [
+                        "A. their",
+                        "B. them",
+                        "C. they",
+                        "D. theirs"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "The Caldwell Bridge was around _____ 128 years before it was demolished due to safety concerns.",
+                    "options": [
+                        "A. nearly",
+                        "B. probably",
+                        "C. clearly",
+                        "D. finely"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "Wagner Computer is looking for _____ ideas from employees that could contribute to the development of some new software.",
+                    "options": [
+                        "A. create",
+                        "B. creative",
+                        "C. creating",
+                        "D. creativity"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "A doubled remittance charge is placed _____ international money transfers compared to domestic ones.",
+                    "options": [
+                        "A. in",
+                        "B. above",
+                        "C. from",
+                        "D. on"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "Winn Furniture _____ has been in business for more than 150 years strives to provide our customers with functional and durable furniture.",
+                    "options": [
+                        "A. what",
+                        "B. which",
+                        "C. where",
+                        "D. whom"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "Navarro Paper Company devised a new manufacturing system _____ due to technological difficulties it has not yet been implemented.",
+                    "options": [
+                        "A. later",
+                        "B. like",
+                        "C. but",
+                        "D. for"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "According to a public opinion survey carried out by the Dushville Gazette, there is a _____ preference for a new mayor rather than the incumbent one.",
+                    "options": [
+                        "A. clarify",
+                        "B. clearly",
+                        "C. clear",
+                        "D. clarity"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "Letson University's Floyd Medical School is a _____ academic institute which has produced many capable doctors.",
+                    "options": [
+                        "A. deliberate",
+                        "B. practical",
+                        "C. durable",
+                        "D. leading"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "Senior researchers at the Russell Botanic Institute are currently _____ new medicine consisting only of natural ingredients.",
+                    "options": [
+                        "A. develop",
+                        "B. developing",
+                        "C. developed",
+                        "D. develops"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "_____ firms must abide by the laws of the respective state they belong to when conducting an audit.",
+                    "options": [
+                        "A. Accounting",
+                        "B. Accounted",
+                        "C. Accountable",
+                        "D. Accountant"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "You cannot make additional orders for office supplies as the budget has _____ been finalized.",
+                    "options": [
+                        "A. eventually",
+                        "B. soon",
+                        "C. around",
+                        "D. already"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "To improve the athletic performance of the football team, the team's coach has _____ a new exercise routine.",
+                    "options": [
+                        "A. collected",
+                        "B. implemented",
+                        "C. competed",
+                        "D. diverted"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "To complete the transfer process, transfer students should send transcripts _____ from their previous school's administrative office.",
+                    "options": [
+                        "A. directed",
+                        "B. director",
+                        "C. direct",
+                        "D. directly"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "Volunteers must _____ identification cards to flood victims before carrying out any kind of assistance.",
+                    "options": [
+                        "A. present",
+                        "B. announce",
+                        "C. dispose",
+                        "D. place"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "Magneta Computing Company has to _____ recall the Fosno-042 laptops when they turned out to have defects in their hardware.",
+                    "options": [
+                        "A. extremely",
+                        "B. immediately",
+                        "C. numerously",
+                        "D. clearly"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "The final draft of the prototype for our newly developed product must be _____ so it can be displayed at the board of trustees' meeting.",
+                    "options": [
+                        "A. preparation",
+                        "B. prepare",
+                        "C. prepared",
+                        "D. prepares"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "Applicants for the vacant job position must have the _____ to categorize different types of documents, prepare presentation materials, and carry out administrative work.",
+                    "options": [
+                        "A. range",
+                        "B. ability",
+                        "C. amount",
+                        "D. array"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "To ensure a safe trip, Wiota Railway Services _____ conducts technical examinations on all its tracks and trains.",
+                    "options": [
+                        "A. period",
+                        "B. periodic",
+                        "C. periodical",
+                        "D. periodically"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "You can upgrade the size of the pizza you order _____ three free beverages for no extra charge when you order through the Internet.",
+                    "options": [
+                        "A. on",
+                        "B. while",
+                        "C. plus",
+                        "D. in addition"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "If you need a translator at the conference, please check your language _____ on the registration form.",
+                    "options": [
+                        "A. preference",
+                        "B. advantage",
+                        "C. recognition",
+                        "D. remittance"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "The quarterly revenue of Delci Hair Products increased by 10 percent _____ the new marketing strategy employed.",
+                    "options": [
+                        "A. besides",
+                        "B. according to",
+                        "C. otherwise",
+                        "D. due to"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "131-131",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "Students are required to summarize what they _____ for their graduation thesis.",
+                    "options": [
+                        "A. have been researched",
+                        "B. have researched",
+                        "C. researching",
+                        "D. will be researched"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "132-132",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 132,
+                    "content": "_____ the outbreak of an unidentified disease, the sales volume of personal hygiene items has reached an all-time record.",
+                    "options": [
+                        "A. Even",
+                        "B. Besides",
+                        "C. Among",
+                        "D. Since"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "133-133",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 133,
+                    "content": "Civilians in the southern part of New Zealand are putting every effort into extinguishing bushfires _____ local firefighters.",
+                    "options": [
+                        "A. cooperation",
+                        "B. alongside",
+                        "C. besides",
+                        "D. despite"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "134-134",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 134,
+                    "content": "Because Philip Dalton was absent due to an injury from last game, a _____ player was put into the semifinals.",
+                    "options": [
+                        "A. shortage",
+                        "B. financial",
+                        "C. substitute",
+                        "D. decision"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "135-135",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "Ferry service at Leaton Island charges 20 percent more on weekends _____ on weekdays.",
+                    "options": [
+                        "A. onto",
+                        "B. above",
+                        "C. than",
+                        "D. within"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "136-136",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 136,
+                    "content": "The movie is quite popular because of its _____ scenes and solid plot, both of which have been praised by movie critics.",
+                    "options": [
+                        "A. picturesque",
+                        "B. monetary",
+                        "C. horrible",
+                        "D. singular"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "137-137",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 137,
+                    "content": "Business _____ must be accurately recorded and confirmed by the heads of each respective department before they are delivered to the company's accountant.",
+                    "options": [
+                        "A. practices",
+                        "B. transactions",
+                        "C. absences",
+                        "D. registrations"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "138-138",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 138,
+                    "content": "Remsell Industries is implementing an incentive program for employees _____ heightened productivity.",
+                    "options": [
+                        "A. facilitated",
+                        "B. facilitate",
+                        "C. to facilitate",
+                        "D. facilitation"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "139-139",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "President Bruce Dixon of Dewitt Advertising has been promoting a _____ partnership with local businesses.",
+                    "options": [
+                        "A. punctual",
+                        "B. rhetoric",
+                        "C. contented",
+                        "D. strategic"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "140-140",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 140,
+                    "content": "Personnel changes within the marketing department _____ no surprise, as it completely failed on the most recent project.",
+                    "options": [
+                        "A. made of",
+                        "B. came as",
+                        "C. spoke of",
+                        "D. came across"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "To\n: All KSI Bank Employees\nFrom\n: Kevin Webster, Vice President\nSubject\n: KSI Bank Man To Man Care Program\nI would like to announce that we are going to adopt a new customer service program for our most valued customers and it's called the Man To Man Care Program (MTMCP).\nIn order to implement this new program successfully, it is necessary that managers at each KSI bank branch attend a _____(141) session to be held on August 9th.\nAfterwards, we will also hold a short discussion in order to hear _____(142) from each manager.\nThrough this meeting, we also hope to have an opportunity _____(143) re-energize and bring a new future to the bank.\nIf you have any questions or concerns, please feel free to contact me.",
+            "questions": [
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. pragmatic",
+                        "B. reassuring",
+                        "C. training",
+                        "D. revising"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. suggestions",
+                        "B. suggested",
+                        "C. suggesting",
+                        "D. suggestive"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. by",
+                        "B. to",
+                        "C. of",
+                        "D. being"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. more than",
+                        "B. for",
+                        "C. within",
+                        "D. since"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. a decision",
+                        "B. a right",
+                        "C. a responsibility",
+                        "D. an option"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. notify",
+                        "B. notification",
+                        "C. notable",
+                        "D. noted"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 147,
+                    "content": "",
+                    "options": [
+                        "A. mascot",
+                        "B. chance",
+                        "C. issue",
+                        "D. plot"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 148,
+                    "content": "",
+                    "options": [
+                        "A. would like",
+                        "B. have",
+                        "C. think",
+                        "D. might like"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "",
+                    "options": [
+                        "A. talk to",
+                        "B. give",
+                        "C. provide",
+                        "D. explain"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 150,
+                    "content": "",
+                    "options": [
+                        "A. However",
+                        "B. Moreover",
+                        "C. Despite",
+                        "D. Although"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 151,
+                    "content": "",
+                    "options": [
+                        "A. will withdraw",
+                        "B. could have withdraw",
+                        "C. might have withdraw",
+                        "D. have withdraw"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 152,
+                    "content": "",
+                    "options": [
+                        "A. sincerely",
+                        "B. sincere",
+                        "C. serenity",
+                        "D. more sincere"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: mgomez@langco.com\nTo\n: drajoul@langco.com\nDate\n: March 7\nSubject\n: Worker recommendation for marketing team\nDear Mr. Rajoul,\nI have received your urgent request of a potential marketing team member and found the right employee for the task.\nI believe that Mike McCain would be a suitable candidate for your department.\nAlthough he has only worked for three years in our finance department, he has demonstrated strong communication skills and expertise in marketing.\nIn fact, it was his suggestion that convinced marketing managers to advertise our revenue in TV commercials.\nHe also started his master's degree in marketing two years ago.\nHe is completing his degree this coming May, equipping him with perfect knowledge and skills to get into a marketing career.\nIf you have more questions, I will be happy to assist you.\nMary Gomez\nFinance Department\nFrom\n: drajoul@langco.com\nTo\n: mgomez@langco.com\nDate\n: March 10\nSubject\n: Re: Worker recommendation for marketing team\nDear Ms. Gomez,\nThank you so much for recommending Mr. McCain.\nActually, I was also thinking about Mr. McCain for my marketing team given his excellent accomplishments with his last project.\nIf possible, I'd like to get his resume as soon as possible and interview him next week with the other candidates.\nInterviews will be held on March 13th from 10:00 a.m. to 11:00 a.m.\nI will contact Mr. McCain regarding the interview.\nAlso, I'd like to ask you a favor.\nI am currently organizing a team for a three-month project for internal consulting.\nThis task will require two of your finance department employees.\nAgain, I will need some recommendations from you.\nSuitable candidates will have strong communication skills, a strong finance background, and previous project experience.\nI appreciate for your cooperation.\nDerek Rajoul\nMarketing Department",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "What is the purpose of Ms. Gomez's e-mail?",
+                    "options": [
+                        "A. To argue with Mr. Rajoul about an employee",
+                        "B. To inform Mr. Rajoul of a suitable candidate",
+                        "C. To notify Mr. Rajoul of Mr. McCain's absence",
+                        "D. To refuse Mr. Rajoul's request"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 197,
+                    "content": "What are NOT the qualifications Mr. Rajoul consider necessary for project team members?",
+                    "options": [
+                        "A. Educational backgrounds",
+                        "B. Communication skills",
+                        "C. Professional experience",
+                        "D. Expertise"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 198,
+                    "content": "What is NOT a reason for choosing Mr. McCain as a candidate?",
+                    "options": [
+                        "A. He will soon have a master's degree in marketing",
+                        "B. He excelled in his work responsibilities.",
+                        "C. He just got promoted.",
+                        "D. He has marketing experience."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 199,
+                    "content": "What does Mr. Rajoul ask Ms. Gomez to do?",
+                    "options": [
+                        "A. Search for a project team member",
+                        "B. Write a recommendation letter for Mr. McCain",
+                        "C. Stop complaining about continuous employee recruitment",
+                        "D. Organize a team for employee education"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 200,
+                    "content": "What is NOT indicated in the e-mail?",
+                    "options": [
+                        "A. Mr. Rajoul is in charge of an internal consulting project.",
+                        "B. Ms. Gomez is willing to help Mr. Rajoul.",
+                        "C. Mr. McCain has a good reputation from Ms. Gomez.",
+                        "D. Mr. Rajoul has met Mr. McCain in person before."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [
+                {
+                    "": [
+                        "",
+                        "North",
+                        "South",
+                        "West",
+                        "East"
+                    ],
+                    "Fitch": [
+                        "Fitch",
+                        "20%",
+                        "10%",
+                        "30%",
+                        "40%"
+                    ],
+                    "Rock Republic": [
+                        "Rock Republic",
+                        "17%",
+                        "13%",
+                        "50%",
+                        "20%"
+                    ],
+                    "BC for Men": [
+                        "BC for Men",
+                        "18%",
+                        "42%",
+                        "15%",
+                        "25%"
+                    ],
+                    "John & Deer's": [
+                        "John & Deer's",
+                        "45%",
+                        "35%",
+                        "5%",
+                        "15%"
+                    ]
+                }
+            ],
+            "context": "This report is produced by professors at Bridge Johnson University an August 25\nThe survey was conducted to research each region's preference over certain men's clothes and to use the results as a future marketing strategy.\nThe research was conducted between July 20 and August 20 in major malls throughout Brazil.\nThe results show which brands are favored over other brands.\nFitch and Rock Republic each represent luxury and affordable casual clothes brands, respectively, while BC for Men and John & Deer's each represent expensive and reasonable priced business clothes brands, respectively.\nFindings\nCasual clothes brands were popular in the western and eastern regions of the country, while business clothes brands dominated the northern and southern regions.\nFor example, sales of Fitch in eastern regions were two times higher than in northern areas.\nThis result demonstrates that there are customer preferences over certain brands by regions.\nAlthough there are more business clothes brand sales in northern and southern regions, it must be taken into account that these preferences might change by seasons also.\nTo accommodate these changes, additional research will be conducted on December 10.\nIt seems that consumers in the north and south of the country spent more on business clothes due to geographic characteristics.\nThe majority of Fortune 500 companies are located in these regions, implying that workers will have to wear more formal clothing to the workplace.\nUnlike the north and south, the west and east are known for their highly developed entertainment areas.\nSALES PERCENTAGE FOR DIFFERENT BRANDS BY REGIONS",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "When will the next research be conducted?",
+                    "options": [
+                        "A. July 20",
+                        "B. August 20",
+                        "C. August 25",
+                        "D. December 10"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 192,
+                    "content": "Which product is most popular in the north?",
+                    "options": [
+                        "A. BC for Men",
+                        "B. John & Deer's",
+                        "C. Fitch",
+                        "D. Rock Republic"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 193,
+                    "content": "Why are the survey conducted?",
+                    "options": [
+                        "A. To benefit from government funding",
+                        "B. To criticize an existing report",
+                        "C. To analyze customers' preferences",
+                        "D. To help increase sales"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 194,
+                    "content": "What is NOT true about the report and table?",
+                    "options": [
+                        "A. BC for Men is an expensive clothes brand.",
+                        "B. Rock Republic is most popular in the west.",
+                        "C. The survey took a month to be carried out",
+                        "D. Seasonal factors were considered in the report."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 195,
+                    "content": "What is a factor for people wearing more formal clothing in certain areas?",
+                    "options": [
+                        "A. Presence of big companies",
+                        "B. Prices",
+                        "C. TV commercials",
+                        "D. Promotions"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [],
+            "context": "To\n: Customer Service Center Manager\nFrom\n: Josh Ralph\nDate\n: Friday April 10\nSubject\n: Questions regarding the shipping\nTo Whom It May Concern,\nLast Monday, I ordered a king-sized bed (item number 217) and a small-sized cabinet (item number 345) from your website.\nOn the website, it stated that delivery will take up 1 week, and consequently I expected to receive my shipment by Monday.\nHowever, it's Friday, and I still haven't got one of my orders yet.\nI chose the products because it seemed to be of outstanding quality and durability and at an affordable cost.\nI also assumed that your company would be able to deliver them quickly.\nI am rather disappointed at this point.\nI believe I should have gotten a notice beforehand if there were a problem with the delivery.\nI hope I get may shipment as soon as possible.\nJosh Ralph\nTo\n: Josh Ralph\nFrom\n: Customer Service Center Manager\nDate\n: Saturday April 11\nSubject\n: Re: Questions regarding the shipping\nDear Mr. Ralph,\nI apologize for the delay in delivery.\nI have checked your order and found that item number 217 was out of tock until this Wednesday and the item number 345 was on back order but it was properly delivered.\nIt is our fault for not listing the appropriate status of items on our website.\nI sent the bed along with two complimentary pillows on Wednesday afternoon via express delivery service.\nYou should get them next Monday.\nAs a result of this experience, I have talked to the customer service team.\nI have also enclosed a coupon for your next purchase, giving you a 20% discount and free shipping on your next purchase.\nOnce again, I apologize for the inconvenience.\nIf you need further assistance, please don't hesitate to contact us at mastercs@abchomesupplies.com or at 655-239-0006.\nI will be more than pleased to help you.\nThank you, and we hope you continue to shop with us in the future.\nChristine Kim\nCustomer Service Center Manager",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "What is the purpose of the first e-mail?",
+                    "options": [
+                        "A. To confirm an order",
+                        "B. To send a defective product back",
+                        "C. To notify about late shipment",
+                        "D. To recommend educating workers at the Customer Service Center"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 187,
+                    "content": "Which of the following is true about the order?",
+                    "options": [
+                        "A. It was placed on the phone",
+                        "B. The webpage has descriptions about delivery time.",
+                        "C. The bed was delivered in time.",
+                        "D. The cabinet was out of order."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What is the purpose of the second e-mail?",
+                    "options": [
+                        "A. To argue about a defective product",
+                        "B. To assist with a problem",
+                        "C. To request proof of payment",
+                        "D. To change an order"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 189,
+                    "content": "According to Mr. Ralph, what is NOT a reason he chose the products?",
+                    "options": [
+                        "A. Distinguished quality",
+                        "B. Reasonable cost",
+                        "C. Long-lasting feature",
+                        "D. Popularity"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 190,
+                    "content": "What is NOT an offered item for Mr. Ralph's inconvenience?",
+                    "options": [
+                        "A. A free education program",
+                        "B. Two free pillows",
+                        "C. An expedited delivery",
+                        "D. A discount on a future purchase"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [],
+            "context": "Temporary Service Outage\nDue to recent hurricane damage, Thomas Electricity suffered a power outage and a loss of cable lines.\nAlthough our engineers and technicians are working hard to recover from the damage and secure the cable lines, we can't guarantee an exact date for full service in the near future because of severe weather disturbances.\nIf you reside in an affected region, you may file a damage compensation form and return it to us.\nDamage compensation forms should include the person's full name, current address, and bank account number.\nPlease include an e-mail address and telephone number as well so that we can contact you immediately.\nOur address is Thomas Electricity, 26th Street, Dallas, TX 80001.\nNote that the damage claim process will take more than two weeks to proceed due to the high volume of forms.\nThank you in advance for your patience.\nTo\n: Julia Madison\nFrom\n: Allen Peterson\nDate\n: September 11\nSubject\n: Compensation program process\nDear Ms. Madison,\nThank you for sending your compensation form to Thomas Electricity.\nWe're sorry for any inconvenience the natural disaster has caused.\nWe checked your form entirely, but we found a few missing parts that need to be filled out before we proceed any further.\nWe would like to assist you to fill out the missing parts by phone so that you will get your compensation in a timely manner.\nAccording to our work schedule, our assistant is available to call you this coming Tuesday between 1:00 and 2:00 or on Thursday between 2:00 and 3:00.\nIf those times are not suitable for you, we can arrange a new time next week.\nPlease let us know of your availability.\nOnce everything is settled, we will proceed with your claim as soon as possible.\nSincerely,\nAllen Peterson, Associate Manager\nThomas Electricity",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What is implied about Thomas Electricity?",
+                    "options": [
+                        "A. It doesn't provide compensation.",
+                        "B. It is the cause of the natural disaster.",
+                        "C. It failed to provide adequate service.",
+                        "D. It complied with government regulations."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 182,
+                    "content": "What is the purpose of the notice?",
+                    "options": [
+                        "A. To install additional cable lines",
+                        "B. To argue against customers",
+                        "C. To inform compensation plan",
+                        "D. To advertise new products"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 183,
+                    "content": "In the notice, the word \"reside\" in paragraph 1 is closest in meaning to",
+                    "options": [
+                        "A. work",
+                        "B. visit",
+                        "C. live",
+                        "D. register"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 184,
+                    "content": "What is indicated about Ms. Madison's compensation form?",
+                    "options": [
+                        "A. A few parts still need to be filled out.",
+                        "B. It is complete but was refused by Mr. Peterson.",
+                        "C. Compensation will be made on",
+                        "D. There is a delay in processing due to a high volume of paperwork"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 185,
+                    "content": "When is the earliest that Ms. Madison can be compensated?",
+                    "options": [
+                        "A. Early September",
+                        "B. Late September",
+                        "C. Late this week",
+                        "D. Early next week"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "177-180",
+            "part_image": [],
+            "table": [],
+            "context": "A new trend in agriculture: organic goods\nAs North America and Europe grew through the Industrial Revolution, their agriculture sector has completely transformed small-sized farms to commercialized, large-scale ones that cultivate massive amounts of crops.\nSmall farmers across the world can rarely compete against industrialized farms.\nSuch commercialization instigated mega-sized agribusinesses to employ reckless means, such as using excessive amount of pesticides, to expand their business.\nIn the 1980s, just over 150 agribusinesses produced crops that feed the whole North American and European population.\nHowever, small-sized farms are coming back because of the increased concern modern society has about industrialized crop production.\nAs more and more people look for organic farm produce, local farmers are taking their proximity to consumers as an advantage in selling organic crops.\nThese farmers have started to maximize their profit by creating networks among themselves and using them to create small stores within a community.\nBy marketing the stores' proximity and healthiness, they are able to rake in a lucrative profit.\nLarge agribusinesses were able to supply their products to almost every supermarket they could find.\nBut because small organic stores have limited space, their capacity to carry a variety of food products or supply them to other grocery stores is difficult.\nThis is why many organic stores are opening websites for online shopping.\nOnce an order is registered online, farmers can prepare the product right at their farms and deliver it to customers instead of doing so at their small, crowded stores.\nThis service has proved to be popular, as working moms are able to shop for healthy food products conveniently at home.\nRegarding the cost of not using pesticides, most organic farmers are relying on traditional methods that work well.\nFurthermore, most of the traditional methods are recognized by environmental organizations as safe for the environment.\nMany governments, understanding the advantages of small, organic farming, are publicly supporting it by building relevant institutions, sending out experts and campaigning.",
+            "questions": [
+                {
+                    "question_id": 177,
+                    "content": "What can be inferred about the agricultural structure of the West in the 1980s?",
+                    "options": [
+                        "A. Small-sized farms were wide spread.",
+                        "B. Organic farming became popular.",
+                        "C. Rice became a major crop production.",
+                        "D. Industrialization of agriculture was prevalent."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 178,
+                    "content": "According to the article, what is implied about organic farming?",
+                    "options": [
+                        "A. It was created in the 1980s",
+                        "B. It has been industrialized.",
+                        "C. It is not profitable.",
+                        "D. It has tried to provide convenience."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 179,
+                    "content": "What is NOT listed as a government-supported project?",
+                    "options": [
+                        "A. Setting up relevant institutions.",
+                        "B. Dispatching experts",
+                        "C. Distributing superior seedlings",
+                        "D. Working on campaigns"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 180,
+                    "content": "Why have online sites become popular among organic farmers?",
+                    "options": [
+                        "A. They make up for the limited capacity in stores.",
+                        "B. They look modern.",
+                        "C. They allow them to apply for subsidies",
+                        "D. They enhance marketing strategies."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "174-176",
+            "part_image": [],
+            "table": [],
+            "context": "Renforth Community Library is dedicated to fostering a healthy reading environment.\nThe lecture program hosted by the library this fall has been sponsored by local businesses to widen the knowledge of our community members.\nThe library's book club members will be able to meet with esteemed authors to listen to their lectures and discuss various reading-related topics, from parenting methods to new trends in fiction writing.\nFor those who do not have a book club membership, tickets can be purchased for $2, with all funds being donated to the library fund.\nWednesday September 5\nJoseph Bennett\nThe author of Reading Habits Build a Dream\nPresident of the Good Parenting Committee\nMr. Bennett has studied various reading habits for more than twenty years and incorporated them into parenting methods. He will lecture about approaching parenting issues with reading materials for building healthy parent-child relationships.\nWednesday October 18\nDebra Richardson\nPlaywright and poet\nMrs. Richardson is widely recognized for her contributions to technical development in modern play scripts. She was given with the Crescent Playwright's Award for her latest work, The Witches, and she will discuss the history of modern theater in her talk.\nWednesday November 2\nDr. Frank Lewis\nProfessor of English Literature, Browncoast University\nThe author of Literature and Popular culture in Modern Society\nDr. Lewis has taught English Literature for over 20 years at Browncoast University. He is interested in literature as popular culture. He will be examining the latest trends of fiction writing in modern society. At the end of this lecture, Dr. Lewis will hand out certificates to all participants.",
+            "questions": [
+                {
+                    "question_id": 174,
+                    "content": "What is the primary purpose for hosting the lecture program?",
+                    "options": [
+                        "A. To strengthen the community bond",
+                        "B. To raise funds for local businesses",
+                        "C. To promote academic discussion",
+                        "D. To enhance the knowledge of community members"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 175,
+                    "content": "Who will be handing out certificates?",
+                    "options": [
+                        "A. Frank Lewis",
+                        "B. Debra Richardson",
+                        "C. Joseph Bennett",
+                        "D. Renforth Community Library"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 176,
+                    "content": "Which topic will NOT be discussed in the program?",
+                    "options": [
+                        "A. Relating parenting methods with reading",
+                        "B. Writing romance novels",
+                        "C. History of modern theater",
+                        "D. New trends in fiction writing"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "171-173",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: Barnes Online Cookshop\nTo\n: Heather Bailey\nSubject\n: Change in shipping method\nUnfortunately, this message is to inform you that some of the goods you purchased on July 14 may be delivered a week later than usual.\nThe set of cookie cutters you ordered were shipped normally on Monday as scheduled to your home.\nThey should arrive at your home within a couple of days.\nHowever, the Indian spices you ordered are on backorder so we had to ask the wholesale agent in India to ship them by air.\nTherefore, the delivery of these goods has been postponed 4 to 5 days.\nWe are sorry for this inconvenience.\nPlease visit www.barnesonline.com/order/shipping_info and type in your order confirmation number to check the shipment status and estimated delivery date.\nYou can also leave shipment-related questions at the real time Q&A board.\nThis service answers your questions immediately through text messages.\nService representatives are also available for you at our customer service center, Monday through Friday, from 9:00 AM to 5:00 PM.\nPlease call us at (904) 729-3058.\nTo acknowledge this mistake, we have enclosed a 10% discount coupon for your next online purchase.\nThank you for shopping with us.",
+            "questions": [
+                {
+                    "question_id": 171,
+                    "content": "Why is the delay in delivery expected?",
+                    "options": [
+                        "A. Some goods have been shipped right from the wholesale agent.",
+                        "B. The order was misplaced.",
+                        "C. There was a natural disaster.",
+                        "D. The shipping company went on strike"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 172,
+                    "content": "What is enclosed with the message?",
+                    "options": [
+                        "A. An order confirmation number",
+                        "B. A discount coupon",
+                        "C. A promotional leaflet",
+                        "D. A gift certificate"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is true about the e-mail?",
+                    "options": [
+                        "A. The whereabouts of the goods cannot be verified online.",
+                        "B. Sales representatives are not available on weekends.",
+                        "C. The delivery of the spices will take 4 to 5 days.",
+                        "D. The company does not deal in food ingredients"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-170",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: Samantha Jackson (sam-J135@toysandme.com)\nTo\n: Staff members at Toysandme Inc. Fredawood\nSubject\n: Yoga program for pregnant employees\nI'm sure you've already received company newsletters about the upcoming fitness for pregnant employees.\nThe company has implemented this program not only to boost our brand image as family-friendly toy producers, but also to support the recent government program for pregnant employees.\nThe personnel director, Justin Tremblay, has entrusted me with the responsibility to gather a group of pregnant employees at Toysandme Fredawood to be included in the program.\nThe yoga program will be named \"Yoga for Mamas. \"\nIt will be held on Mondays and Wednesdays, one hour before each shift, at 2:00 P. M and at 9:00 p.m. A yoga instructor specialized in pregnancy care has been dispatched by the Ministry of Gender Equality to lead this exercise program.\nThe company urges employees to register for Yoga for Mamas to receive a 50% government subsidy on postpartum services, including a postnatal depression test, infant vaccine shots and more.\nWe believe that Yoga for Mamas is an excellent program for expectant mothers to stay healthy and ease work pressure.\nTo enroll for a membership, please contact me via e-mail or at 562-9024.",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "Who requested Samantha Jackson to form a group of pregnant employees?",
+                    "options": [
+                        "A. The Minister of Gender Equality",
+                        "B. The Toysandme Fredawood president",
+                        "C. Justin Tremblay",
+                        "D. A government official"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 169,
+                    "content": "What benefit will \"Yoga for Mamas\" members receive?",
+                    "options": [
+                        "A. They will be offered a 50% discount on higher level classes.",
+                        "B. They will receive free yoga suits.",
+                        "C. They will be given longer maternity leaves.",
+                        "D. They will save money on postpartum services."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 170,
+                    "content": "What is true about the e-mail?",
+                    "options": [
+                        "A. The yoga program will be held three times a week.",
+                        "B. Some employees start working at 2 p.m.",
+                        "C. A yoga instructor is from the local government.",
+                        "D. The yoga class finishes at 9 p.m."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "166-167",
+            "part_image": [],
+            "table": [],
+            "context": "Braham Translation Services\nWith over 50 years of precise translation service provided to countless individuals, we translate:\n1. general texts\n2. legal documents\n3. academic dissertations\n4. literary texts\n5. resumes\n6. business contracts\n7. letters\n8. news articles, magazines\nto and from:\n1. Korean\n2. English\n3. Chinese\n4. Arabic\n5. French\n6. Russian\nOne of our editors is always available in case our customers require book designs for their publishing needs at an extra charge.\nPrices start at $10. 00/page and increase with the specialty required.\nLocated in the heart of the downtown business district:\nGramton Building\n119 West Bruxa Rd\n109) 678-5425\nMonday-Friday: 9:00 AM-8:00 PM.\nSaturday: 10:00 AM-2:00 PM\ne-mail: brahamtrans@forte.com\nIf ordering online, visit: www.brahamtrans.com",
+            "questions": [
+                {
+                    "question_id": 166,
+                    "content": "What would be the lowest price of a service at Braham Translation Services?",
+                    "options": [
+                        "A. $9",
+                        "B. $10",
+                        "C. $11",
+                        "D. $12"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 167,
+                    "content": "Which service is NOT offered by Braham Translation Services?",
+                    "options": [
+                        "A. A novel translation from English to Korean",
+                        "B. Assistance for sending a resume to Russia",
+                        "C. Design for a book cover",
+                        "D. Translation related to an international legal dispute"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "163-165",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: maria_07@kofers.com\nTo\n: Jones82@kofers.com\nSubject\n: Product defect\nDate\n: March 10\nThe executive committee has decided to make some major changes in the production line after over a thousand calls have come in over our latest product, the TH-A310.\nA mold which shapes the coupling part of the robotic arm seems to have had a technical problem since last week.\nThe products manufactured during this period have all been reported as defective, and the company had to make immense refunds for the faulty goods.\nIt is imperative that the production line be corrected in the shortest time possible to regain credit and reinforce brand image.\nThe executive committee requests that you clarify and report the cause of the failure and devise a way to overcome the present issue.\nThe committee has also authorized you to build a temporary production line to offset the losses of last week if necessary.\nPlease have those tasks finished before this Thursday.\nMaria Rodrigues, Personnel Director\nTH Computers. Inc.",
+            "questions": [
+                {
+                    "question_id": 163,
+                    "content": "For whom is this e-mail probably intended?",
+                    "options": [
+                        "A. A production supervisor",
+                        "B. A marketing director",
+                        "C. An accountant",
+                        "D. A customer service representative"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 164,
+                    "content": "What problem has the company encountered?",
+                    "options": [
+                        "A. Deficiency of employees",
+                        "B. Labor and management dispute",
+                        "C. Malfunctioning product",
+                        "D. Lack of product advertisement"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 165,
+                    "content": "What did the executive committee request?",
+                    "options": [
+                        "A. Constructing another factory",
+                        "B. Devising an improved production system",
+                        "C. Formulating a new marketing strategy",
+                        "D. Recruiting specialized workers"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "160-162",
+            "part_image": [],
+            "table": [],
+            "context": "Miterminator - A mite vacuum cleaner\nThe Miterminator instantly vacuums away parasitic mites, reducing itchiness, and skin rash during the humid and hot summer days.\nThe Miterminator consists of a rotating brush that helps the vacuuming process and an antifungal filter cartridge which effectively catches both mites and their eggs.\nRegular change of the filter is necessary for hygienic use.\nNormally, filter cartridges should be replaced after six months of use and for the convenience of our customers, five extra filter cartridges are included.\nThe filter cartridges will turn blue to indicate an appropriate time for a change.\nThe brush should also be washed after every use with a special liquid cleaner that comes with the product.\nThe Miterminator is also equipped with a UV switch that, once turned on, emits UV rays to completely exterminate not only mites but also microbes.\nA feature that has been added to the previous version of the Miterminator, it makes certain that no mite is left on blankets and couches to ensure a pleasant, itch-free summer.",
+            "questions": [
+                {
+                    "question_id": 160,
+                    "content": "What is the main subject of the information?",
+                    "options": [
+                        "A. How to distinguish between different kinds of mites",
+                        "B. How to report an outbreak of a contagious disease",
+                        "C. How to get a refund",
+                        "D. How to use a household article effectively"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 161,
+                    "content": "What is included with the product?",
+                    "options": [
+                        "A. Blue cartridges",
+                        "B. Six additional filter cartridges",
+                        "C. A Miterminator",
+                        "D. A liquid cleaner"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 162,
+                    "content": "What does the UV function do?",
+                    "options": [
+                        "A. It takes X-ray photographs",
+                        "B. It sucks in the mites",
+                        "C. It gives off UV rays",
+                        "D. It detects UV rays"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "157-159",
+            "part_image": [],
+            "table": [],
+            "context": "From\n: Kate Sutherland, marketing director\nTo\n: Promotion team staff\nDate\n: October 14th\nRe\n: The launch of new air fresheners\nI would like to express my sincere gratitude to everyone for their hard work during the last week's promotional program, which began on October 3 and ended on October 10.\nThe promotional program distributed complimentary cans of air fresheners and 10% discount coupons for our products, valid until November 14th, to potential consumers in exchange for their participation in our survey.\nThe survey consisted of 15 feedback questions for each of our new scents: Luscious Lilac, Fresh Freesia, and Sweet Sensation.\nThe following points summarize typical consumer opinions:\n1. Most of the customers evaluated Fresh Freesia as too weak.\nThey felt that the fragrance evaporated within an hour and recommended that we add more durability to the scent.\n2. Many customers rated the product designs as attractive.\n3. The most popular scent was Sweet Sensation and the least was Luscious Lilac.\nWe will be holding a meeting to talk over the survey results, more specifically on improving the Fresh Freesia.\nThe specific time and place for the meeting will be made known by my secretary soon.",
+            "questions": [
+                {
+                    "question_id": 157,
+                    "content": "Why was this memo written?",
+                    "options": [
+                        "A. To recommend a new product design",
+                        "B. To analyze the results of a scientific study",
+                        "C. To describe the results of a survey",
+                        "D. To talk about adjustments in a schedule"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 158,
+                    "content": "Which scent was voted the second most popular?",
+                    "options": [
+                        "A. Sweet Sensation",
+                        "B. Luscious Lilac",
+                        "C. Tangy Mango",
+                        "D. Fresh Freesia"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 159,
+                    "content": "What did customers find problematic about the products?",
+                    "options": [
+                        "A. The product designs are too plain.",
+                        "B. The scent did not last enough.",
+                        "C. The price is too expensive.",
+                        "D. The size of the product is too small."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-156",
+            "part_image": [],
+            "table": [],
+            "context": "A Memorable Wedding\nIf you are fed up with dull and plain weddings, call right away for Wonder Wedding!\nWonder Wedding listens to your personal orders for wedding details and realizes them with precision and elegance.\nWhether it is a luxurious beachside wedding or an exciting skydiving wedding, anything you dream of will be ready at your command.\nWith three wedding planners, one religious counselor, and five staff members, Wonder Wedding works to provide you with memorable wedding that is planned out from the bridal shower\n \nto the reception and the honeymoon.\nYou can choose from hundreds venues, stylists, designers, and concepts we have prepared in advance or make personal requests for a unique wedding. Pictures of previous clients are available on our website for your reference at www.wonderwed.com.\nPlease contact one of our wedding planners who can help you create a memorable wedding from over a hundred venues and styles.",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is the advertisement about?",
+                    "options": [
+                        "A. Personalized cards",
+                        "B. Customized weddings",
+                        "C. Catering service",
+                        "D. Community event"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 156,
+                    "content": "According to the advertisement, what can be found on the website?",
+                    "options": [
+                        "A. Information about wedded couples",
+                        "B. Venues currently available",
+                        "C. Names of famous beaches",
+                        "D. Estimated prices of weddings"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [],
+            "context": "You are invited to visit\nThe 12th European Art Exhibition\nSt. Augustine Exhibition Hall, Birmingham, England\nDecember 23-29\n\"Paintings Representative of the European Impressionist Style\"\nOver the seven days of the exhibition, visitors will have a chance to appreciate a diverse range of Impressionist paintings collected by Dr. Whittington, including a series by Edouard Manet.\nHalf of the exhibits are dedicated to this year's focus, the self-portraits of Impressionist artists who initiated the artistic movement.",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "For how long will the event be held?",
+                    "options": [
+                        "A. 4 days",
+                        "B. 5 days",
+                        "C. 7 days",
+                        "D. 9 days"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 154,
+                    "content": "What does this year's exhibit highlight?",
+                    "options": [
+                        "A. Still-lifes",
+                        "B. Landscapes",
+                        "C. Self-portraits",
+                        "D. Post-Impressionist paintings"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1592 @@
+{
+    "test_id": "4575",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "Won-Joon will handle receptionist duties______a more urgent matter requires his attention.",
+                    "options": [
+                        "A. along",
+                        "B. unless",
+                        "C. after",
+                        "D. beyond"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Bexcan Ltd.'s consulting programs are tailored to meet the needs of______clients.",
+                    "options": [
+                        "A. individualization",
+                        "B. individual",
+                        "C. individuality",
+                        "D. individually"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Upon completion, nonfiction manuscripts are carefully______ for publication by an expertteam of editors.",
+                    "options": [
+                        "A. preparing",
+                        "B. preparation",
+                        "C. prepared",
+                        "D. prepare"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "North-Metro Transit Authority ticket machines sell regular______special bus passes.",
+                    "options": [
+                        "A. and",
+                        "B. off",
+                        "C. both",
+                        "D. across"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "The______ to join the poetry workshop will be handled in the order that they arrive.",
+                    "options": [
+                        "A. applies",
+                        "B. apply",
+                        "C. application",
+                        "D. applications"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Users of this software appreciate having their travel expenses______ recorded in thedatabase.",
+                    "options": [
+                        "A. systematic",
+                        "B. systematize",
+                        "C. systematizes",
+                        "D. systematically"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "Participants are issued a swift refund in the event that a course is cancelled without advance ______",
+                    "options": [
+                        "A. contribution",
+                        "B. interruption",
+                        "C. notification",
+                        "D. distribution"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "The merger with Walo Fashions is expected ______our operating profit by ten million dollars this year.",
+                    "options": [
+                        "A. boosts",
+                        "B. boosting",
+                        "C. to boost",
+                        "D. will boost"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "Each potential client is given a______ of the gym's personal training programs.",
+                    "options": [
+                        "A. descriptive",
+                        "B. describable",
+                        "C. description",
+                        "D. described"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "______ more fully understand the market, Panaski Products has undertaken a consumer survey.",
+                    "options": [
+                        "A. Based on",
+                        "B. In case",
+                        "C. In order to",
+                        "D. Except for"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "______ mistakes can result in serious consequences, legal documents are quite difficult to translate.",
+                    "options": [
+                        "A. Rather",
+                        "B. Just",
+                        "C. Because",
+                        "D. Any"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "Mr. Bang's nomination is a well-deserved______of his strong commitment to the NyerFoundation's mission.",
+                    "options": [
+                        "A. inspiration",
+                        "B. acknowledgment",
+                        "C. allowance",
+                        "D. depiction"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "Lori Retton knows Mr. Vargas personally and so will remove______from the hiring committee.",
+                    "options": [
+                        "A. she",
+                        "B. her",
+                        "C. hers",
+                        "D. herself"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "The data show that Frosta Lite is______the top soft drink among teenagers.",
+                    "options": [
+                        "A. now",
+                        "B. more",
+                        "C. early",
+                        "D. long"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "The can's label should direct users to spray the paint______ to prevent small paint bubbles from forming.",
+                    "options": [
+                        "A. lightens",
+                        "B. lighten",
+                        "C. lightly",
+                        "D. lightest"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "A former television star, Mr. Noah explained that he chose to act in the play because of______ multicultural themes.",
+                    "options": [
+                        "A. it",
+                        "B. which",
+                        "C. something",
+                        "D. its"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "On Saturday, the first group of visitors toured around the city's______opened historical park.",
+                    "options": [
+                        "A. densely",
+                        "B. newly",
+                        "C. generally",
+                        "D. solely"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "Critchley Distributing price quotes expire one month______the date they are issued.",
+                    "options": [
+                        "A. when",
+                        "B. from",
+                        "C. onto",
+                        "D. despite"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "To make the best impression in the job interview, candidates should bring______ of their artistic skills in the form of a portfolio.",
+                    "options": [
+                        "A. reduction",
+                        "B. cover",
+                        "C. reply",
+                        "D. evidence"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "The interns were asked to______the list of reports into sections by research topic.",
+                    "options": [
+                        "A. discuss",
+                        "B. demand",
+                        "C. delete",
+                        "D. divide"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Thanks to the city's generous spending on infrastructure, all types of public transportation are readily______ in central Melwood City.",
+                    "options": [
+                        "A. availability",
+                        "B. availabilities",
+                        "C. availably",
+                        "D. available"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "At yesterday's meeting, the board of directors decided to______our contract with Egbele Consulting.",
+                    "options": [
+                        "A. insist",
+                        "B. exceed",
+                        "C. terminate",
+                        "D. agree"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "All of the hotel's deluxe suites are______ with separate kitchens and work areas.",
+                    "options": [
+                        "A. subscribed",
+                        "B. equipped",
+                        "C. accelerated",
+                        "D. conducted"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "The courier delivered the urgent package directly to Ms. Uhm, so the standard sign-in protocol______",
+                    "options": [
+                        "A. disregards",
+                        "B. disregarding",
+                        "C. was disregarded",
+                        "D. is disregarding"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "The need to renovate some of the older store locations has been______ among our management's concerns.",
+                    "options": [
+                        "A. attentive",
+                        "B. maximum",
+                        "C. executive",
+                        "D. foremost"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "The increase in Goshu Jam's brand recognition is likely due to the television______it has received.",
+                    "options": [
+                        "A. expose",
+                        "B. exposes",
+                        "C. exposed",
+                        "D. exposure"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "Through the demonstration, Diravi hopes to stimulate a multimillion-dollar______in the company's mobile platform.",
+                    "options": [
+                        "A. objective",
+                        "B. investment",
+                        "C. affiliation",
+                        "D. statement"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "______you indicate your region, the Web site will personalize the contents of your news feed.",
+                    "options": [
+                        "A. Whether",
+                        "B. Later",
+                        "C. Mostly",
+                        "D. Once"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "The museum is attempting to collect portable CD players and other______products before they disappear entirely.",
+                    "options": [
+                        "A. reversible",
+                        "B. anonymous",
+                        "C. tentative",
+                        "D. obsolete"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "Economists have noted that the region's unusually plentiful orange harvest this season will______ lower prices for the fruit at supermarkets.",
+                    "options": [
+                        "A. inquire into",
+                        "B. complain about",
+                        "C. correspond to",
+                        "D. participate in"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image191.png"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "",
+                    "options": [
+                        "A. be canceling",
+                        "B. was being canceled",
+                        "C. have canceled",
+                        "D. would have been canceled"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 132,
+                    "content": "",
+                    "options": [
+                        "A. replaces",
+                        "B. replaceability",
+                        "C. replace",
+                        "D. replacement"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 133,
+                    "content": "",
+                    "options": [
+                        "A. share",
+                        "B. extend",
+                        "C. acquire",
+                        "D. qualify"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 134,
+                    "content": "",
+                    "options": [
+                        "A. It has a much lower monthly interest rate.",
+                        "B. For security reasons, we recommend destroying it.",
+                        "C. Reward points must now be spent by the end of the year.",
+                        "D. All that will change is your credit card number."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image110.png"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "",
+                    "options": [
+                        "A. Even",
+                        "B. Besides",
+                        "C. In spite of",
+                        "D. As soon as"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 136,
+                    "content": "",
+                    "options": [
+                        "A. Greetings may be up to one minute long.",
+                        "B. Next, press \"Clock\" to set the display time.",
+                        "C. Voice prompts are given in English or Spanish.",
+                        "D. This will cause damage to your microphone."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 137,
+                    "content": "",
+                    "options": [
+                        "A. only",
+                        "B. most",
+                        "C. still",
+                        "D. enough"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 138,
+                    "content": "",
+                    "options": [
+                        "A. is playing",
+                        "B. played",
+                        "C. will play",
+                        "D. was playing"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image24.png"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "",
+                    "options": [
+                        "A. modifying",
+                        "B. gathering",
+                        "C. treating",
+                        "D. assisting"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 140,
+                    "content": "",
+                    "options": [
+                        "A. While",
+                        "B. Until",
+                        "C. As",
+                        "D. Therefore"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. We will perform comprehensive exams during your visit.",
+                        "B. This step is required when applying for open positions.",
+                        "C. It will take about ten minutes of your time to complete.",
+                        "D. Please schedule appointments two weeks in advance."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. to be rewarded",
+                        "B. will be rewarded",
+                        "C. have been rewarded",
+                        "D. having rewarded"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image284.png"
+            ],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. that utilized",
+                        "B. utilization",
+                        "C. utilizable",
+                        "D. could utilize"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. technique",
+                        "B. recipient",
+                        "C. behavior",
+                        "D. profession"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. The company will pay for transportation for the whole team.",
+                        "B. In my experience, Repko events are enormously popular.",
+                        "C. Likewise, it can be difficult to find well- trained instructors.",
+                        "D. Final reports should then be uploaded to a shared folder."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. Accordingly",
+                        "B. However",
+                        "C. Instead",
+                        "D. Specifically"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image375.png",
+                "toeic_data/study4/reading/R4575_study4/img/image188.png",
+                "toeic_data/study4/reading/R4575_study4/img/image104.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "According to the notice, what has Goffney recently done?",
+                    "options": [
+                        "A. Purchased a new set of equipment",
+                        "B. Directed its technicians to carry out inspections",
+                        "C. Opened its second manufacturing plant",
+                        "D. Made a deal with a new client"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 197,
+                    "content": "What is NOT implied about a cutting machine?",
+                    "options": [
+                        "A. It is used to manufacture appliances.",
+                        "B. It is in the Darlington factory.",
+                        "C. It was expensive.",
+                        "D. It was issued a \"U\" grade."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 198,
+                    "content": "What is suggested about Ms. Culley?",
+                    "options": [
+                        "A. She is supervised by Mr. Fonseca.",
+                        "B. She was asked to relay a message.",
+                        "C. She is concerned about an overtime plan.",
+                        "D. She has postponed a shipment."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 199,
+                    "content": "Why most likely will Mr. Chun send Line 1 employees to a break area?",
+                    "options": [
+                        "A. To allow time for repairs",
+                        "B. To view an updated schedule",
+                        "C. To hear about safety regulations",
+                        "D. To await a delivery of raw materials"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 200,
+                    "content": "In the e-mail, the expression \"report to\" in line 5 is closest in meaning to",
+                    "options": [
+                        "A. collect",
+                        "B. inform",
+                        "C. object to",
+                        "D. appear at"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image227.png",
+                "toeic_data/study4/reading/R4575_study4/img/image306.png",
+                "toeic_data/study4/reading/R4575_study4/img/image195.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "What does Ms. Nesbit write that she intends to do?",
+                    "options": [
+                        "A. Attract a new group of viewers to the show",
+                        "B. Recruit talented creative staff from other shows",
+                        "C. Make changes gradually to avoid disruption",
+                        "D. Seek ways to reduce production expenses"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 192,
+                    "content": "What is implied about the changes to the show?",
+                    "options": [
+                        "A. They received mostly positive responses.",
+                        "B. They took place later than planned.",
+                        "C. They resulted in longer episodes.",
+                        "D. They are being imitated by other shows."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 193,
+                    "content": "In the review, the word \"mixed\" in paragraph 1, line 1 is closest in meaning to",
+                    "options": [
+                        "A. united",
+                        "B. repetitive",
+                        "C. conflicting",
+                        "D. false"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 194,
+                    "content": "Which broadcast does Mr. Frosch compare Comedy Nightly News to?",
+                    "options": [
+                        "A. A Fresh Look",
+                        "B. On Melvin Street",
+                        "C. The Franklin Family",
+                        "D. Space Net"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 195,
+                    "content": "What does Mr. Frosch mention about Comedy Nightly News?",
+                    "options": [
+                        "A. Its cast seems more energetic.",
+                        "B. Its humor has become less sophisticated.",
+                        "C. Its new set backdrop is unappealing.",
+                        "D. Its host has been replaced."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image167.png",
+                "toeic_data/study4/reading/R4575_study4/img/image314.png",
+                "toeic_data/study4/reading/R4575_study4/img/image317.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "According to the article, what did Ms. Speck say may be necessary?",
+                    "options": [
+                        "A. An increase in a tax obligation",
+                        "B. A pay raise for library staff",
+                        "C. The sale of county property",
+                        "D. The formation of a task force"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 187,
+                    "content": "How did Vosting Associates employees conduct the survey?",
+                    "options": [
+                        "A. They mailed questionnaires.",
+                        "B. They called participants.",
+                        "C. They went to Chomsley residences.",
+                        "D. They interviewed people in county libraries."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What is implied about the library branch in Rudliss?",
+                    "options": [
+                        "A. It has the smallest number of regular patrons.",
+                        "B. It is ten miles from Chomsley city limits.",
+                        "C. It was the sixth county library that was built.",
+                        "D. It has shut down its automated borrowing terminals."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 189,
+                    "content": "Which figure in the chart does Ms. Speck indicate is unexpected?",
+                    "options": [
+                        "A. 92%",
+                        "B. 85%",
+                        "C. 74%",
+                        "D. 70%"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 190,
+                    "content": "In her e-mail, what does Ms. Speck suggest the commission do?",
+                    "options": [
+                        "A. Dismiss a relatively unpopular option",
+                        "B. Delay a discussion until after a public event",
+                        "C. Ask Vosting Associates for more information",
+                        "D. Prepare simplified visual aids for a handout"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image236.png",
+                "toeic_data/study4/reading/R4575_study4/img/image270.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What is indicated about GRUIS?",
+                    "options": [
+                        "A. It was written by a student association.",
+                        "B. It is a revision of an earlier publication.",
+                        "C. It will also be distributed in digital form.",
+                        "D. It is being published in multiple languages."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 182,
+                    "content": "What is NOT listed as covered in GRUIS?",
+                    "options": [
+                        "A. Housing",
+                        "B. Mobile phone service",
+                        "C. Public transportation",
+                        "D. Employment"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 183,
+                    "content": "Who is Mr. Weimer?",
+                    "options": [
+                        "A. A university club leader",
+                        "B. A university official",
+                        "C. An international student",
+                        "D. A professor of tourism studies"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 184,
+                    "content": "What is implied about the launch party?",
+                    "options": [
+                        "A. There were not enough copies of GRUIS for all attendees.",
+                        "B. A presentation had some technical difficulties.",
+                        "C. It was moved to a larger building.",
+                        "D. An administrator was not present."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 185,
+                    "content": "What does Mr. Weimer say he will do?",
+                    "options": [
+                        "A. Introduce Ms. Stein to some acquaintances",
+                        "B. Assist Ms. Stein with some research",
+                        "C. Advise other people to read GRUIS",
+                        "D. Suggest topics for a future edition of GRUIS"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-180",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image57.png",
+                "toeic_data/study4/reading/R4575_study4/img/image69.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "What is suggested about Cierra's on the Lake?",
+                    "options": [
+                        "A. It is a family-owned business.",
+                        "B. It does not cater formal functions.",
+                        "C. It recently entered the catering industry.",
+                        "D. It does not furnish guest seating."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 177,
+                    "content": "What does Cierra's on the Lake do to guarantee the quality of its food?",
+                    "options": [
+                        "A. It cooks with organic ingredients.",
+                        "B. It buys from local vendors.",
+                        "C. It undergoes frequent inspections.",
+                        "D. It employs a special refrigeration system."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 178,
+                    "content": "In the Web page, the word \"fashion\" in paragraph 2, line 2, is closest in meaning to",
+                    "options": [
+                        "A. trend",
+                        "B. mold",
+                        "C. manner",
+                        "D. category"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 179,
+                    "content": "What will caterers most likely do at Ms. Kaminski's event?",
+                    "options": [
+                        "A. Set out plates of chicken",
+                        "B. Stay for only two hours",
+                        "C. Use a power source",
+                        "D. Park indoors"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 180,
+                    "content": "According to the order form, what is probably true about Ms. Kaminski's guests?",
+                    "options": [
+                        "A. They have been invited to a wedding.",
+                        "B. They have special dietary requirements.",
+                        "C. They will leave their tables to serve themselves.",
+                        "D. They will come into contact with Mr. O'Brien."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "172-175",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image286.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 172,
+                    "content": "According to the Web page, what can readers ask Mr. Zito to do?",
+                    "options": [
+                        "A. Organize an on-site seminar",
+                        "B. List the company's full range of offerings",
+                        "C. Provide details about a certain seminar",
+                        "D. Resolve a technical issue with the Web page"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is mentioned as part of the Teamwork Basics seminar?",
+                    "options": [
+                        "A. Taking a personality quiz",
+                        "B. Writing a peer evaluation",
+                        "C. Setting group goals",
+                        "D. Engaging in role plays"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 174,
+                    "content": "What is implied about computer skills seminars?",
+                    "options": [
+                        "A. None of them are appropriate for beginner software users.",
+                        "B. They may be shortened according to client preference.",
+                        "C. Beezley Education does not supply software for them.",
+                        "D. Their contents are also available through personal tutoring."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 175,
+                    "content": "In which of the positions marked [1], [2], [3]. and [4] does the following sentence best belong?--\"Each one has years of experience in the subject in question.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-171",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image283.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "Which is one of the services promoted?",
+                    "options": [
+                        "A. Cafeteria operation",
+                        "B. Groundskeeping",
+                        "C. Building security",
+                        "D. Personal transport"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 169,
+                    "content": "What is emphasized about Kingston Walcott Services?",
+                    "options": [
+                        "A. It has expanded over a large region.",
+                        "B. Its headquarters are relocating.",
+                        "C. It gives real-time updates.",
+                        "D. Its employees are well-trained."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 170,
+                    "content": "According to the e-mail, what is Mr. Jarrett eligible to do?",
+                    "options": [
+                        "A. Obtain a discount for existing customers",
+                        "B. Request an exclusive account manager",
+                        "C. Enjoy a free month of services",
+                        "D. Join a tour of a facility"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 171,
+                    "content": "What will happen on November 5?",
+                    "options": [
+                        "A. A company will be officially launched.",
+                        "B. A financial cycle will start anew.",
+                        "C. A demonstration will be given.",
+                        "D. A trial period will begin."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "164-167",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image103.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 164,
+                    "content": "At 10:20 A.M., what does Ms. Min most likely mean when she writes, \"I've got one\"?",
+                    "options": [
+                        "A. She has an idea that has not been considered yet.",
+                        "B. She knows how to fix an item.",
+                        "C. She can lend Ms. Wray an item.",
+                        "D. She is having the same problem as Ms. Wray."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 165,
+                    "content": "Who most likely is Felix?",
+                    "options": [
+                        "A. The moderator of a videoconference",
+                        "B. A member of Ms. Wray's team",
+                        "C. A visiting technology consultant",
+                        "D. The president of Ms. Wray's company"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 166,
+                    "content": "What caused a delay in some preparations?",
+                    "options": [
+                        "A. An assistant went to the wrong place.",
+                        "B. Some equipment was in a storeroom.",
+                        "C. A room was being used for a seminar.",
+                        "D. Some furniture had to be moved."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 167,
+                    "content": "What does Mr. Sadovych indicate that he would like to do?",
+                    "options": [
+                        "A. Send out a companywide e-mail",
+                        "B. Upload a file to a social media page",
+                        "C. Read some feedback",
+                        "D. View some videos"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-163",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image187.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "What is indicated about the rise in guest nights?",
+                    "options": [
+                        "A. It offset a decline in restaurant spending.",
+                        "B. It was driven by international travelers.",
+                        "C. It occurred during the month of June.",
+                        "D. It resulted in additional revenues of \u20ac4.7 million."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 162,
+                    "content": "What type of lodging did NOT enjoy a rise in its share of guest nights?",
+                    "options": [
+                        "A. Hotels",
+                        "B. Guesthouses",
+                        "C. Youth hostels",
+                        "D. Campgrounds"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 163,
+                    "content": "According to the article, how can readers obtain further information on this subject?",
+                    "options": [
+                        "A. By visiting a Web site",
+                        "B. By ordering a printed report",
+                        "C. By watching a television show",
+                        "D. By attending a lecture"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image109.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "What is the purpose of the notice?",
+                    "options": [
+                        "A. To warn residents of an inconvenience",
+                        "B. To notify residents of an upcoming meeting",
+                        "C. To welcome a new member of the board of directors",
+                        "D. To advocate for a conservation campaign"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 159,
+                    "content": "What is mentioned about the housing complex?",
+                    "options": [
+                        "A. A statue will be installed on its grounds.",
+                        "B. One of its entrances will be closed temporarily.",
+                        "C. It has hired extra maintenance staff.",
+                        "D. Its water pipes have been damaged."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 160,
+                    "content": "What are some residents encouraged to do before March 26?",
+                    "options": [
+                        "A. Develop a proposal",
+                        "B. Sign a consent form",
+                        "C. Visit a complex representative",
+                        "D. Remove items from a common area"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image35.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is indicated about medical leave?",
+                    "options": [
+                        "A. It is not available to all types of employees.",
+                        "B. It does not require a doctor's note.",
+                        "C. Employees do not take it frequently.",
+                        "D. Employees are not compensated for it."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 156,
+                    "content": "According to the memo, what might employees need to do?",
+                    "options": [
+                        "A. Submit some documents to Ms. Do",
+                        "B. Rearrange their vacation schedules",
+                        "C. Receive advance approval for some expenses",
+                        "D. Attend a yearly training session on company policies"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 157,
+                    "content": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?--\"It should have been placed in your inbox this morning.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image235.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "What did Ms. Erwin do before sending the first message?",
+                    "options": [
+                        "A. Responded to a homeowner",
+                        "B. Calculated a potential cost",
+                        "C. Met with some painters",
+                        "D. Picked up some supplies"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 154,
+                    "content": "At 1:23 P.M., what does Mr. Salzman most likely mean when he writes, \"Good idea\"?",
+                    "options": [
+                        "A. He wants to give a customer some choices.",
+                        "B. He likes the vendor that Ms. Erwin suggested.",
+                        "C. He will postpone the start of a project.",
+                        "D. He will check a calendar for Ms. Erwin."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "151-152",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image244.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 151,
+                    "content": "Why was the notice posted?",
+                    "options": [
+                        "A. To give a reminder",
+                        "B. To ask for suggestions",
+                        "C. To recommend a brand",
+                        "D. To publicize a service"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 152,
+                    "content": "What is suggested about some of the members of Adamston Fitness?",
+                    "options": [
+                        "A. They are expected to bring additional security devices.",
+                        "B. They pay an extra fee for access to lockers.",
+                        "C. They have complained about the size of the lockers.",
+                        "D. They have attempted to use lockers for long-term storage."
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "149-150",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image26.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "What is the purpose of the Web page?",
+                    "options": [
+                        "A. To attract festival sponsors",
+                        "B. To compare venue amenities",
+                        "C. To describe ticket promotions",
+                        "D. To explain a booking system"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 150,
+                    "content": "What is suggested about sponsorships?",
+                    "options": [
+                        "A. They are separated into levels.",
+                        "B. They may be purchased online.",
+                        "C. They are only offered to corporations.",
+                        "D. They require a certain minimum contribution."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "147-148",
+            "part_image": [
+                "toeic_data/study4/reading/R4575_study4/img/image282.png"
+            ],
+            "table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 147,
+                    "content": "What did Ms. Kuznetzov do on June 30?",
+                    "options": [
+                        "A. Provided investment advice",
+                        "B. Converted the language of a text",
+                        "C. Made travel arrangements for Mr. Wilcox",
+                        "D. Printed some presentation documents"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 148,
+                    "content": "Why was a surcharge added to the invoice?",
+                    "options": [
+                        "A. For international shipping",
+                        "B. For an undersized order",
+                        "C. For an overdue payment",
+                        "D. For expedited service"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        }
+    ]
+}

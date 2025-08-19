@@ -1,0 +1,1573 @@
+{
+    "test_id": "227",
+    "items": [
+        {
+            "part": 5,
+            "question_range": "101-101",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 101,
+                    "content": "All of the trees on the property were damaged in the storm _____ the one near the rear entrance.",
+                    "options": [
+                        "A. except",
+                        "B. considering",
+                        "C. still",
+                        "D. along"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "102-102",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 102,
+                    "content": "Mr. Hotei had to undergo several medical tests before receiving _____ diagnosis from the physician.",
+                    "options": [
+                        "A. he",
+                        "B. him",
+                        "C. himself",
+                        "D. his"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "103-103",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 103,
+                    "content": "Entrepreneur James Mosby is featured in the most _____ issue of the magazine.",
+                    "options": [
+                        "A. final",
+                        "B. former",
+                        "C. recent",
+                        "D. later"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "104-104",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 104,
+                    "content": "The official decision made by the judge must be based _____ on the evidence presented.",
+                    "options": [
+                        "A. cooperatively",
+                        "B. strictly",
+                        "C. tensely",
+                        "D. remarkably"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "105-105",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 105,
+                    "content": "Due to his decades of experience, Mr. Finley was responsible for the training of the _____ for the new gym.",
+                    "options": [
+                        "A. instructors",
+                        "B. instructive",
+                        "C. instructively",
+                        "D. instructed"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "106-106",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 106,
+                    "content": "Customers at Blaze Restaurant may use the valet parking service or park the vehicles _____.",
+                    "options": [
+                        "A. their",
+                        "B. themselves",
+                        "C. they",
+                        "D. theirs"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "107-107",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 107,
+                    "content": "Last year, the young chemists contributed _____ to the development of a new adhesive.",
+                    "options": [
+                        "A. construction",
+                        "B. constructively",
+                        "C. constructive",
+                        "D. constructed"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "108-108",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 108,
+                    "content": "The experts at Prime Carpentry can handle any piece of wooden furniture, restoring it _____ its original condition.",
+                    "options": [
+                        "A. to",
+                        "B. by",
+                        "C. at",
+                        "D. with"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "109-109",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 109,
+                    "content": "The library has requested funding for _____ doors for the convenience of patrons.",
+                    "options": [
+                        "A. underway",
+                        "B. automatic",
+                        "C. frequent",
+                        "D. energetic"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "110-110",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 110,
+                    "content": "After noticing the wardrobe's _____ condition, the owner of the antique shop lowered its price.",
+                    "options": [
+                        "A. deteriorates",
+                        "B. deteriorating",
+                        "C. deterioration",
+                        "D. deteriorate"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "111-111",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 111,
+                    "content": "For the past decade, Henley Vivian _____ to be a talented and motivated journalist.",
+                    "options": [
+                        "A. is proving",
+                        "B. proving",
+                        "C. prove",
+                        "D. has proven"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "112-112",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 112,
+                    "content": "_____ who suffers from sleep problems could benefit from drinking this herbal tea.",
+                    "options": [
+                        "A. Ourselves",
+                        "B. Whichever",
+                        "C. Anyone",
+                        "D. Others"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "113-113",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 113,
+                    "content": "An additional route was added to the rail line to reduce travel times in the southern _____.",
+                    "options": [
+                        "A. accent",
+                        "B. function",
+                        "C. distance",
+                        "D. region"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "114-114",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 114,
+                    "content": "During the holiday season, Schwartz Department Store will _____ special make-up gift sets.",
+                    "options": [
+                        "A. solve",
+                        "B. carry",
+                        "C. impress",
+                        "D. occupy"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "115-115",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 115,
+                    "content": "Buying a home for the first time can be complicated and even _____ without help from a licensed real estate agent.",
+                    "options": [
+                        "A. nervous",
+                        "B. risky",
+                        "C. decreased",
+                        "D. initial"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "116-116",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 116,
+                    "content": "The Brownsville Homeless Shelter has helped thousands of people since its _____ last year.",
+                    "options": [
+                        "A. creative",
+                        "B. created",
+                        "C. create",
+                        "D. creation"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "117-117",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 117,
+                    "content": "The semi-finalists for the community art contest will be _____ by a panel of judges tomorrow.",
+                    "options": [
+                        "A. selected",
+                        "B. ignored",
+                        "C. prevented",
+                        "D. complemented"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "118-118",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 118,
+                    "content": "The penalties for canceling the cell phone contract early were _____ stated in the agreement.",
+                    "options": [
+                        "A. express",
+                        "B. expression",
+                        "C. expressly",
+                        "D. expressed"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "119-119",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 119,
+                    "content": "_____ the researcher's report, eating fresh fruits and vegetables more often is a better health goal than avoiding fast food.",
+                    "options": [
+                        "A. Even though",
+                        "B. Rather than",
+                        "C. According to",
+                        "D. Because of"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "120-120",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 120,
+                    "content": "To make the tour accessible to Spanish speakers, the language _____ plans to provide translation services.",
+                    "options": [
+                        "A. interpreted",
+                        "B. to interpret",
+                        "C. interpreting",
+                        "D. interpreter"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "121-121",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 121,
+                    "content": "Joggers are asked to keep to the right side of the path, as _____ cyclists will need space to pass on the left.",
+                    "options": [
+                        "A. many",
+                        "B. each",
+                        "C. much",
+                        "D. either"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "122-122",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 122,
+                    "content": "Prior to a viewing by potential buyers, the real estate agent makes sure the home is _____.",
+                    "options": [
+                        "A. presentation",
+                        "B. presenting",
+                        "C. presentable",
+                        "D. present"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "123-123",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 123,
+                    "content": "For the payment _____ last week, the necessary state and federal taxes must be paid by the recipient.",
+                    "options": [
+                        "A. was remitted",
+                        "B. remitted",
+                        "C. remitting",
+                        "D. to remit"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "124-124",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 124,
+                    "content": "Everyone is in favor of shortening working hours, but _____ the president approves the change, nothing will happen.",
+                    "options": [
+                        "A. without",
+                        "B. until",
+                        "C. yet",
+                        "D. because"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "125-125",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 125,
+                    "content": "The manufacturing company's recent _____ to reduce on-site accidents was appreciated by the staff.",
+                    "options": [
+                        "A. attempt",
+                        "B. industry",
+                        "C. value",
+                        "D. faculty"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "126-126",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 126,
+                    "content": "The dining room furniture was left _____ in the house because the new owner bought it.",
+                    "options": [
+                        "A. intended",
+                        "B. intention",
+                        "C. intentional",
+                        "D. intentionally"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "127-127",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 127,
+                    "content": "The Garrison Theater will _____ allow student groups to view rehearsals during the day.",
+                    "options": [
+                        "A. vaguely",
+                        "B. substantially",
+                        "C. occasionally",
+                        "D. previously"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "128-128",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 128,
+                    "content": "Pro Sports magazine made a name for itself _____ the publication of a series of exclusive interviews with top athletes.",
+                    "options": [
+                        "A. like",
+                        "B. both",
+                        "C. solve",
+                        "D. with"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "129-129",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 129,
+                    "content": "Only _____ delegates wearing their ID badges will be allowed into the conference venue.",
+                    "options": [
+                        "A. those",
+                        "B. who",
+                        "C. each",
+                        "D. that"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 5,
+            "question_range": "130-130",
+            "part_image": [],
+            "part_table": [],
+            "context": "",
+            "questions": [
+                {
+                    "question_id": 130,
+                    "content": "_____ the candidate's official announcement that he will run for office, he met privately with his advisors.",
+                    "options": [
+                        "A. In advance of",
+                        "B. As long as",
+                        "C. On behalf of",
+                        "D. So as to"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Employee Workshop\nT&R Group strives to help employees reach their potential by offering leadership retreats, employee training, and various workshops. This month, we _____(131) workshops for those interested in _____(132) their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app. We have a couple of other slots that are currently _____(133) and will accept suggestions from employees. _____(134). Please email Jonas at jsmith@TRgroup.com if you are interested in attending any of the workshops. We hope you take advantage of the programs offered.",
+            "questions": [
+                {
+                    "question_id": 131,
+                    "content": "",
+                    "options": [
+                        "A. offers",
+                        "B. were offering",
+                        "C. are offering",
+                        "D. have offered"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 132,
+                    "content": "",
+                    "options": [
+                        "A. correcting",
+                        "B. diminishing",
+                        "C. elaborating",
+                        "D. improving"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 133,
+                    "content": "",
+                    "options": [
+                        "A. dependent",
+                        "B. independent",
+                        "C. free",
+                        "D. obtainable"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 134,
+                    "content": "",
+                    "options": [
+                        "A. Suggestions related to gaming and entertainment will not be accepted.",
+                        "B. The most popular requests will be considered for the workshops.",
+                        "C. We ask all managers to make a suggestion.",
+                        "D. We hope the workshop is a success and wish you the very best."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Citrusine: Total Flu for Night-time\nGet ready for cold and flu season with Citrusine. Citrusine is a _____(135) medicated night-time tea that can treat symptoms of the flu including fever, aches and pains, nasal congestion, cough, and sore throat. Wake up feeling _____(136) and ready to conquer another day. Citrusine should not be taken if you're planning to operate machinery or drive a vehicle. Keep out of the reach of children. _____(137).\nCitrusine is the number-one-selling medication _____(138) the flu and is guaranteed to provide results if taken as directed. Visit our website for more information.\nwww.citrusine.com",
+            "questions": [
+                {
+                    "question_id": 135,
+                    "content": "",
+                    "options": [
+                        "A. easing",
+                        "B. stimulating",
+                        "C. soothing",
+                        "D. consoling"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 136,
+                    "content": "",
+                    "options": [
+                        "A. refreshing",
+                        "B. refreshed",
+                        "C. refreshes",
+                        "D. refresh"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 137,
+                    "content": "",
+                    "options": [
+                        "A. The medication may cause serious side effects if not taken properly.",
+                        "B. Children should take Citrusine for Kids instead.",
+                        "C. The packets look like candy and may pose problems.",
+                        "D. And if symptoms persist for more than ten days, consult a physician."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 138,
+                    "content": "",
+                    "options": [
+                        "A. for",
+                        "B. during",
+                        "C. with",
+                        "D. after"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "To: \nJanet Doe\nFrom:\n Greenscape\nDate: \nJune 28\nSubject: \nInquiry\nMs. Doe,\nWe thank you for your inquiry. Greenscape has been the leading landscaper for businesses in the greater downtown area for over 10 years. _____(139) we specialize in gardens and Japanese-style landscape art, we also maintain lawns and fields. But to answer your question, yes, we even clear away thick shrubbery and trees. We can send a person to _____(140) the amount of time it will take and the approximate costs. Furthermore, if you _____(141) to replace the dense shrubs with a lawn or garden, you can work with one of our designers to come up with a landscape you can be happy with.\n_____(142). We are more than happy to serve you.",
+            "questions": [
+                {
+                    "question_id": 139,
+                    "content": "",
+                    "options": [
+                        "A. Although",
+                        "B. Because",
+                        "C. Therefore",
+                        "D. However"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 140,
+                    "content": "",
+                    "options": [
+                        "A. conclude",
+                        "B. calculate",
+                        "C. estimate",
+                        "D. guess"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 141,
+                    "content": "",
+                    "options": [
+                        "A. wishing",
+                        "B. wish",
+                        "C. wished",
+                        "D. wishes"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 142,
+                    "content": "",
+                    "options": [
+                        "A. We welcome any business opportunity with you.",
+                        "B. Please don't hesitate to email any questions you have.",
+                        "C. Please call us at 555-1245 if you are interested in a consultation.",
+                        "D. Visit our website for more information."
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 6,
+            "question_range": "131-146",
+            "part_image": [
+                ""
+            ],
+            "part_table": [],
+            "context": "Black Hill Beans\nBlack Hill Beans is a Louisianan coffee company and the pioneer of the Louisiana coffee fruit. We oversee a vertically _____(143) supply chain that starts with the highest quality coffee and coffee fruit from Black Hill, Louisiana. We _____(144) three award-winning beans, Summer Harvest, Dark Southern, and Black Earth. All can be shipped to you _____(145) 24 hours anywhere in the continental U.S. Black Hill Beans' coffee is also sold at every Launders Superstore in the U.S.\nWhether you're looking for excellent coffee or a bit of southern comfort, Black Hill Beans is the right choice for your coffee. _____(146). It's nice to feel patriotic while you drink. Visit us online today to hear more about our story.\nwww.blackhillbeans.com",
+            "questions": [
+                {
+                    "question_id": 143,
+                    "content": "",
+                    "options": [
+                        "A. integrates",
+                        "B. to integrate",
+                        "C. integrated",
+                        "D. integration"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 144,
+                    "content": "",
+                    "options": [
+                        "A. locate",
+                        "B. select",
+                        "C. evaluate",
+                        "D. produce"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 145,
+                    "content": "",
+                    "options": [
+                        "A. within",
+                        "B. by",
+                        "C. until",
+                        "D. at"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 146,
+                    "content": "",
+                    "options": [
+                        "A. Try the best-selling frozen beverage around.",
+                        "B. It's American-made and organic.",
+                        "C. Let us help you find the right supplier.",
+                        "D. This discount is only available through October 1."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "196-200",
+            "part_image": [],
+            "table": [],
+            "context": "To:\n Kevin Scott (kevinscott@startrealty.com)\nFrom:\n Steven Mason (smason@turnerelectronics.com)\nDate: \nFebruary 2\nSubject: \nA warehouse\nDear Mr. Scott,\nMy name is Steven Mason and I work for the consumer electronics company Turner Electronics. I am currently scouting for a warehouse in the Pittsburg area. As you know, having an effective distribution strategy is critical for every company in today's fast-paced business world.\nTherefore, I am looking for a warehouse located in the outskirts of Pittsburg. The warehouse needs to be located close to the highway. We are shipping a high volume of products, so we would prefer a dedicated warehouse to be used exclusively for Turner Electronics operations. A warehouse with a spacious loading bay for large trucks is necessary. Additionally, a warehouse that also has office space would be ideal. Because of the valuable nature of our products, we would like a warehouse that provides precautions against theft and damage.\nI look forward to hearing your response soon.\nSteven Mason\nTurner Electronics\n-------------------------\nTo: \nSteven Mason (smason@turnerelectronics.com)\nFrom:\n Kevin Scott (kevinscott@startrealty.com)\nDate:\n February 3\nSubject:\n Re: A warehouse\nDear Mr. Mason,\nIt seems that as your company expands, you would like to improve the operations of your distribution network and deliver products to sellers more quickly. We have a variety of warehouse options, and I trust one of them will fit your company's needs. All locations have a state-of-the-art security system as well as experienced staff.\nLocation 1-$3,499 per month for a 10,000-square-foot warehouse space shared by multiple businesses. Because this location is a shared operations site, we offer it at a discounted price.\nLocation 2-$5,500 per month for an older warehouse located in downtown Pittsburg. This warehouse is currently empty, and therefore can be used by your company exclusively. It also features a walk-in freezer.\nLocation 3-$6,500 per month for a very spacious warehouse located a few miles outside of Pittsburg. Although currently used by two other businesses as a storage space, it can be converted into a warehouse only for your company.\nLocation 4-$2,600 per month for a medium-size warehouse. This warehouse is provided at a discounted price because it has no area for trucks to unload cargo conveniently. It is best for smaller-sized operations.\nThese are the locations currently available for use. If you have any questions or would like to visit a location in person, please contact me.\nKevin Scott\n-------------------------\nTo: \nKevin Scott (kevinscott@startrealty.com)\nFrom: \nSteven Mason (smason@turnerelectronics.com)\nDate: \nFebruary 3\nSubject:\n Location 3\nDear Mr. Scott,\nThank you so much for responding to my inquiry so quickly. Although none of the warehouses is exactly what I was looking for, I think the best option for our business will be Location 3. This, of course, is contingent on the other two businesses moving their storage into another warehouse. Our operations, as I noted in my first e-mail, are expanding, and I want to make sure that we have ample room to grow. I am delighted that there is security at your warehouses as well.\nI have some time early next week if it would be possible to take a walk through Location 3. I think once I get a feel for the space, I will be able to make a firm decision. Please contact me by phone at your convenience so we can set up a time.\nYou can reach me at (351) 546-9899.\nAll the best,\nSteve Mason\nTurner Electronics",
+            "questions": [
+                {
+                    "question_id": 196,
+                    "content": "What is the purpose of the first e-mail?",
+                    "options": [
+                        "A. To look for a rental space",
+                        "B. To finalize a business proposal",
+                        "C. To ensure the arrival of a shipment",
+                        "D. To advertise a property for sale"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 197,
+                    "content": "Who most likely is Mr. Mason?",
+                    "options": [
+                        "A. A warehouse manager",
+                        "B. A truck driver",
+                        "C. A security guard",
+                        "D. A distribution manager"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 198,
+                    "content": "According to Mr. Scott, what does Turner Electronics intend to do?",
+                    "options": [
+                        "A. Hire more experienced truck drivers",
+                        "B. Enhance supply chain efficiency",
+                        "C. Improve overall product quality",
+                        "D. Expand into the Asian market"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 199,
+                    "content": "According to the third e-mail, what has to happen for Turner Electronics to move into Location 3?",
+                    "options": [
+                        "A. The rent must be reduced.",
+                        "B. Two businesses must find other places to store their belongings.",
+                        "C. The space must be converted to include an office.",
+                        "D. There must be a security added to the building."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 200,
+                    "content": "In the third e-mail, what is the most likely day that Mr. Mason will be available for a walkthrough of Location 3?",
+                    "options": [
+                        "A. Monday",
+                        "B. Thursday",
+                        "C. Friday",
+                        "D. Saturday"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "191-195",
+            "part_image": [],
+            "table": [],
+            "context": "Mr. John Morris\n1423 Bernard Avenue\nMillville, CA 90117\nDear Mr. Morris,\n24/7 Fitness is the most successful workout facility in the United States. With over 3 million members nationwide, our franchise has become known as a reputable and trustworthy brand. Our success is a result of great relationships between us the franchiser and our franchisees.\nYou are receiving this mailing because you expressed interest in partnering with 24/7 Fitness in order to open a new location in your town. According to our preliminary research, your town has a large population of young, single people working in the professional field. This is our target demographic, and it means the business outlook for your 24/7 Fitness location is positive in your town. If you would like more information about the specific terms and regulations when partnering with 24/7 Fitness, please don't hesitate to call me at 347-555-3363. Additionally, if you would like to talk to another franchise owner, that information can be supplied by one of our associates.\nSincerely,\nLori Swanson\nChief Operating Officer\n-------------------------\nTo: \nZack Carter (zcarter@zenmail.com)\nFrom: \nJohn Morris (jmorris@cbnet.com)\nSubject: \n24/7 Fitness\nDate:\n March 6\nDear Mr. Carter,\nMy name is John Morris and I am a small business owner living in the Millville area. I am currently in negotiations with 24/7 Fitness to open my own location here in Millville. As someone who works with 24/7 Fitness, you would help me a lot by sharing your opinions.\nI am interested in how you assess 24/7 Fitness as a franchiser. I operated several franchises in the past, and I always found that trust and honesty are the most important factors in a successful relationship. More importantly, I was also wondering what kind of support is provided by the parent company. Before opening your location, did you receive adequate training to allow you to smoothly begin operating your business? Any advice you can give me would be much appreciated.\nSincerely,\nJohn Morris\n-------------------------\nTo:\n John Morris (jmorris@cbnet.com)\nFrom: \nZack Carter (zcarter@zenmail.com)\nSubject:\n 24/7 Fitness\nDate: \nMarch 7\nDear Mr. Morris,\nI am happy to provide some insight into the operation of a 24/7 Fitness franchise. I have been working with 24/7 Fitness as a franchise owner for 10 years now. I actually run three different branches now. I completely agree with you that trust and honesty are the two most important aspects of any business relationship. On that count, I believe the fact that I own three franchises is testament to my faith in the franchiser.\nLet me put your mind at ease. First off, 24/7 Fitness has a very specific way that they want their brand to develop no matter who owns the branch. The parent company will not only provide training, but they insist on controlling the actual layout of the facilities from the locker rooms to the free weights. They want any of their 3 million members to be able to walk into any one of their gyms and feel at home. Until you have been operating for one full year, you must make monthly reports to corporate headquarters detailing all aspects of sales, membership, and a flow chart describing the usage of the facilities. It really is hands on until they have confidence you can represent the brand. I hope this helps you decide to join the 24/7 Fitness team!\nAll the best,\nZack Carter",
+            "questions": [
+                {
+                    "question_id": 191,
+                    "content": "According to the letter, what is the key to 24/7 Fitness' success?",
+                    "options": [
+                        "A. Effective communication with regional owners",
+                        "B. Rapid nationwide expansion",
+                        "C. A team of experienced researchers",
+                        "D. Comprehensive training of employees"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 192,
+                    "content": "Where did Mr. Morris most likely get Mr. Carter's contact information?",
+                    "options": [
+                        "A. From a 24/7 Fitness representative",
+                        "B. From 24/7 Fitness's website",
+                        "C. From Mr. Carter's blog",
+                        "D. From Mr. Carter's employee"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 193,
+                    "content": "What concerns Mr. Morris most about 24/7 Fitness?",
+                    "options": [
+                        "A. The reputation of its band",
+                        "B. The financial status",
+                        "C. The types of assistance",
+                        "D. The mandatory regulations"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 194,
+                    "content": "What is the purpose of Zack Carter's e-mail?",
+                    "options": [
+                        "A. To ask for information about a franchise",
+                        "B. To tell John Morris about 24/7 Fitness and the training they provide",
+                        "C. To persuade John Morris to avoid becoming an owner of a 24/7 Fitness franchise",
+                        "D. To remind 24/7 Fitness of their responsibility to their franchisees"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 195,
+                    "content": "In Zack Carter's e-mail, what is indicated about 24/7 Fitness?",
+                    "options": [
+                        "A. They want all of their fitness centers to be nearly identical.",
+                        "B. They would like their franchisees to personalize their locations.",
+                        "C. They would like to sell more supplements and memberships next year.",
+                        "D. They require their franchisees to send quarterly reports about usage."
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "186-190",
+            "part_image": [],
+            "table": [],
+            "context": "April 5\u2014Clearwater Hospital in downtown Scranton has launched a new pen pal letter-writing program between terminally ill hospital patients and adult volunteers. Hospital Director Zack Chambers, who was recently presented with an Outstanding Leader Award from the National Health Care Alliance, started the program to create stronger connections between the hospital and the community. Mr. Chambers encourages adults of all types and occupations to apply even if they don't feel completely qualified. Simply visit the Clearwater Hospital website and become a member of the hospital free of charge.\n\"I hope through this program, volunteers can form close relationships with patients to help them get through these difficult times in their lives,\" said Mr. Chambers. He also hopes that the program will lead to more people visiting terminally ill patients in person.\nClearwater Hospital\n-------------------------\nMay 4\nMonica Greene\n4100 Washington Road\nScranton, Wisconsin 54481\nDear Ms. Greene,\nI was delighted to receive your letter. I am very excited to have been paired with you as pen pals. I hope we can learn a lot from each other and build a lasting friendship.\nAs you know, I live in California, which is a long way from Wisconsin. I hope that in the coming months I can find some time off work and visit you. Please let me know when the most convenient time would be for me to meet you.\nI look forward to hearing from you,\nJessica Wright\n-------------------------\nDear Jessica,\nYou don't know how much I appreciate your kind words. Although the staff at Clearwater are very kind, I feel the need to connect with people who are not part of the staff. My surviving family also live a great distance away, in Florida, and so most of the time I am just communicating with the paid staff or the other patients. I would welcome a visit, if you truly wanted to come, and the best time would be for our meeting is the Thanksgiving holiday party here at the center I suppose. My own family might be here as well. If it is too much for you, or if you can't get the time off of work, don't worry about it too much. I do hope that we can continue to communicate through our letters.\nAll the best,\nMonica Greene",
+            "questions": [
+                {
+                    "question_id": 186,
+                    "content": "What is the article about?",
+                    "options": [
+                        "A. A volunteer program",
+                        "B. A doctor's retirement",
+                        "C. A new software company",
+                        "D. A writing competition"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 187,
+                    "content": "What is mentioned about Mr. Chambers?",
+                    "options": [
+                        "A. He is a patient at Clearwater Hospital.",
+                        "B. He teaches writing skills to adults.",
+                        "C. He is the head of a health care organization.",
+                        "D. He was honored for his leadership."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 188,
+                    "content": "What does Mr. Chambers invite people to do?",
+                    "options": [
+                        "A. Sign up for a newsletter",
+                        "B. Schedule regular health check-ups",
+                        "C. Visit patients in critical condition",
+                        "D. Write a letter of recommendation"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 189,
+                    "content": "Who does Monica Greene spend most of her time with?",
+                    "options": [
+                        "A. Clearwater's staff",
+                        "B. Her family",
+                        "C. Jessica Wright",
+                        "D. Her friends"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 190,
+                    "content": "When does Monica Greene want Jessica to visit?",
+                    "options": [
+                        "A. Christmas",
+                        "B. New Year's Eve",
+                        "C. The 4th of July",
+                        "D. Thanksgiving"
+                    ],
+                    "answer": "C"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "181-185",
+            "part_image": [],
+            "table": [],
+            "context": "To:\n Sam Berry (sberry@princetheater.com)\nFrom: \nBessie Wagner (bessiewagner@linsuniversity.edu)\nDate: \nJuly 4\nSubject: \nOpenings\nDear Mr. Berry,\nMy name is Bessie Wagner and I am currently a student in the theater department at Lins University. I have almost finished my degree, and I am starting to look into possible career opportunities for my future. A professor of mine recommended that I contact you at the Prince Theater to ask about possible positions at your company.\nAt Lins University, I specialized in the production elements of theater. Through both academic and practical experiences, I learned the useful skills necessary for stage management. As of September, I will be available to work either part-time or full-time and apply myself fully to whatever task is assigned to me.\nI would really appreciate it if you let me know if there are any available positions starting this fall.\nBessie Wagner \nPrince Theater\nJob Openings\n\u2022 Artistic Intern\nUnpaid internship in the artistic department in all aspects of administration and production. This person will perform assistant duties for the artistic director.\n\u2022 Assistant Technical Director\nPart-time position responsible for production management and stage machinery. Applicants should have related experience in stage management.\n\u2022 Director of Ticket Operations\nFull-time position responsible for overall management of ticket operations for all events taking place at the theater. Responsibilities include box office operations as well as planning and implementing all ticket sales processes, and supervision of the ticketing staff.\n\u2022 Marketing Director\nFull-time position responsible for marketing concerning all of the productions put on by the theater. Oversee the preparation of high-quality promotional materials to attract theatergoers to our plays, musicals, and concerts.\n- All full-time employees of Prince Theater are eligible for complimentary access to all productions.\n- All of the positions will be open starting this October.\n- For more information or to apply, contact Sam Berry by e-mail at sberry@princetheater.com.",
+            "questions": [
+                {
+                    "question_id": 181,
+                    "content": "What is indicated about Ms. Wagner?",
+                    "options": [
+                        "A. She is a stage actress.",
+                        "B. She teaches classes on stage design.",
+                        "C. She will graduate soon.",
+                        "D. She is Mr. Berry's co-worker."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 182,
+                    "content": "Why did Ms. Wagner write to Mr. Berry?",
+                    "options": [
+                        "A. To seek a job opportunity",
+                        "B. To schedule an interview",
+                        "C. To express her gratitude",
+                        "D. To register for a training course"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 183,
+                    "content": "What is NOT suggested about the Director of Ticket Operations?",
+                    "options": [
+                        "A. He or she has to manage various types of events.",
+                        "B. He or she must direct the work of other employees.",
+                        "C. He or she can watch any shows free of charge.",
+                        "D. He or she must plan promotional events."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 184,
+                    "content": "What do all of the advertised jobs have in common?",
+                    "options": [
+                        "A. They need musical talent.",
+                        "B. They will be available in the fourth quarter.",
+                        "C. They are part-time positions.",
+                        "D. They require a degree in theater."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 185,
+                    "content": "What job is most suitable for Ms. Wagner?",
+                    "options": [
+                        "A. Artistic Intern",
+                        "B. Assistant Technical Director",
+                        "C. Director of Ticket Operations",
+                        "D. Marketing Director"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "176-180",
+            "part_image": [],
+            "table": [],
+            "context": "Kenneth Global Journalism Internship\nThe Kenneth Global Journalism Internship will provide you with great opportunities to train with the world's most renowned international multimedia news agency, work with professional reporters and editors, and gain valuable experiences in fast-paced newsrooms in big cities such as London, Berlin, and Paris. It will offer talented college graduates an opportunity to learn and develop their journalistic skills and first-hand knowledge.\nThis is a paid internship that offers free lodging as well as lunch and dinner. Interns will receive several weeks of formal training focused on writing skills, journalism ethics, and basic workplace knowledge. They are also able to take advantage of other regularly scheduled training opportunities during the internship free of charge. The internship will last 4 months, beginning on August 1.\nApplications for the internship can be found on our website at www.kennethglobal.com and must be submitted by June 20. Applicants who advance past this stage will be asked to interview at our headquarters on June 27. Any questions can be directed toward Ruby Hart at rubyhart@kennethglobal.com or asked in person at our headquarters in Austin.\n---------------------------\nFrom:\n Kyle Lane (kylelane12@mpnet.com)\nTo: \nRuby Hart (rubyhart@kennethglobal.com)\nSubject:\n Internship\nDate: \nJune 28\nDear Ms. Hart,\nI am extremely grateful to have advanced past the first round of the Kenneth Global Journalism Internship's selection process. Applicants are supposed to interview in person on the specified date, but unfortunately I am scheduled to attend an important conference in Dallas with my professor. However, because I live in the same city as your headquarters, it would not be difficult to arrange an alternative time for me to interview.\nThanks again for considering me for this position. I look forward to hearing back from you concerning a possible interview date. In the meantime, I will do my best to prepare myself.\nRegards,\nKyle Lane",
+            "questions": [
+                {
+                    "question_id": 176,
+                    "content": "What is indicated about internship applicants?",
+                    "options": [
+                        "A. They must have prior work experience.",
+                        "B. They must attend an upcoming conference.",
+                        "C. They must submit a letter of recommendation.",
+                        "D. They must hold a bachelor's degree."
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 177,
+                    "content": "What is true about the internship?",
+                    "options": [
+                        "A. It includes meals and accommodations.",
+                        "B. It is for professional journalists only.",
+                        "C. It will end in August.",
+                        "D. It is an unpaid position."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 178,
+                    "content": "What other benefit is offered to interns?",
+                    "options": [
+                        "A. Health insurance",
+                        "B. Additional training",
+                        "C. Employee discounts",
+                        "D. Paid vacation"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 179,
+                    "content": "When is Mr. Lane supposed to attend an interview?",
+                    "options": [
+                        "A. On June 20",
+                        "B. On June 27",
+                        "C. On June 28",
+                        "D. On August 1"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 180,
+                    "content": "Where does Mr. Lane live?",
+                    "options": [
+                        "A. In Dallas",
+                        "B. In Austin",
+                        "C. In Berlin",
+                        "D. In London"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "172-175",
+            "part_image": [],
+            "table": [],
+            "context": "Wrightman Towers\n1234 Broadway Street\nNew York, NY 49858\n-[1]- Located in the financial district of the city, Wrightman Towers offers spectacular views of the city landscape and offers office spaces that are ideal for any company that wishes to operate within the heart of New York. Just one block from the subway station and located within walking distance of public buses and taxis, Wrightman Towers is conveniently located. -[2]- The first-floor lobby offers security as employees and residents must scan their way through the security gates to the elevators behind. At the same time the spacious lobby is welcoming with its luxurious interior designs and friendly staff of attendants. -[3]-\nThe third and fourth floors are available for rent to businesses and corporations. High ceilings and tall glass windows offer open space and beautiful natural lighting. Hurry and send in your requests today. -[4]- Only serious inquiries will be taken and interviews must be conducted in person. Please visit our website at www.wrightmantowers.com/rent for more information. You can take a virtual tour of the premises. Or you can call our offices at 555-1234.",
+            "questions": [
+                {
+                    "question_id": 172,
+                    "content": "What is indicated about the rental space?",
+                    "options": [
+                        "A. It is only for private residents.",
+                        "B. It is only for businesses.",
+                        "C. It is available to the public.",
+                        "D. It is very expensive."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 173,
+                    "content": "What is indicated about the location of Wrightman Towers?",
+                    "options": [
+                        "A. It is near public transportation.",
+                        "B. It has heavy traffic around the building.",
+                        "C. There are no parking spaces.",
+                        "D. It is just outside the city."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 174,
+                    "content": "What is featured on the website?",
+                    "options": [
+                        "A. A listing of all occupied spaces",
+                        "B. An exclusive discount promo code",
+                        "C. A virtual tour of the rental space",
+                        "D. A history of the building"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 175,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"These spaces are in high demand.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "D"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "168-171",
+            "part_image": [],
+            "table": [],
+            "context": "Movies in the Park\nThis fall Glenwood Springs Park will host a weekly Movies in the Park night for residents of Glenwood Springs. In cooperation with various local business sponsors including Paxton Inc. and GS Mall, family-friendly movies will be shown every Friday night at the center of the park. Tickets are not necessary for these events because they are free to the public.\nRunning from September through November, Movies in the Park promises a wonderful line-up of fun and touching movies for the whole family. You are encouraged to bring blankets and chairs as well as picnic snacks. Movie starting times depend on sunset times, so it is advised to come early to secure your spot beforehand. Please visit our website at www.glenwoodsprings.org/movies to see a schedule of upcoming films and a list of our local sponsors.\nIn the event of heavy rain, low temperatures, or strong winds, the film screening may be canceled. If this occurs, the announcement for the film cancelation will be made both on our website and on the local radio. You can also ask about event cancellations by calling the Glenwood Springs Department of Parks and Recreation at 715-555-5358.",
+            "questions": [
+                {
+                    "question_id": 168,
+                    "content": "What is the purpose of the flyer?",
+                    "options": [
+                        "A. To announce park renovation plans",
+                        "B. To publicize a community event",
+                        "C. To solicit donations",
+                        "D. To promote a new film"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 169,
+                    "content": "Who will provide funding for Movies in the Park?",
+                    "options": [
+                        "A. A local radio station",
+                        "B. The residents in Glenwood Springs",
+                        "C. The Department of Parks and Recreation",
+                        "D. The businesses in Glenwood Springs"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 170,
+                    "content": "What is NOT mentioned as a recommendation for participants?",
+                    "options": [
+                        "A. Bringing food",
+                        "B. Purchasing tickets in advance",
+                        "C. Consulting a schedule",
+                        "D. Arriving early"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 171,
+                    "content": "According to the flyer, why would the phone number be used?",
+                    "options": [
+                        "A. To make a reservation",
+                        "B. To inquire about a schedule change",
+                        "C. To ask for driving directions",
+                        "D. To cancel an appointment"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "165-167",
+            "part_image": [],
+            "table": [],
+            "context": "Duluth City\n5th Annual Summer Fun Festival\nSunday, July 23\n10:00 A.M. to 6:00 P.M.\n \nLocal Nature Art Competition\nDuluth artists will be displaying their paintings of local nature and wildlife in the Duluth Community Center. Visitors are asked to cast their vote for their favorite painting. The winner will be announced at the start of the singing competition.\n11:00 A.M. to 12:00 P.M. \nMagic Show\nPlease join us for an astonishing magic show. Magician Mick Turner is famous for his creative and entertaining magic tricks.\n12:00 P.M. to 2:00 P.M.\n \nLive Jazz Concert\nEnjoy live jazz in the park performed by New-York-based jazz band The Holloway Band. They will be playing a variety of jazz standards. They will also have their most recent record for sale.\n10:00 A.M. to 7:00 P.M.\n \nRenewable Energy Expo\nLocal company Sunshine Energy will be displaying some of its newest renewable energy projects, including solar panels and portable cell phone chargers.\n7:00 P.M. to 9:00 P.M.\n \nSinging Competition\nLocal residents are encouraged to take part in this year's singing competition. Those who would like to participate can register by visiting our website at www.duluthcitysff.com and filling out the necessary form.\nFor more information, please call us at 555-0157.",
+            "questions": [
+                {
+                    "question_id": 165,
+                    "content": "When will the winner of the art competition be announced?",
+                    "options": [
+                        "A. 2:00 P.M.",
+                        "B. 6:00 P.M.",
+                        "C. 7:00 P.M.",
+                        "D. 9:00 P.M."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 166,
+                    "content": "According to the schedule, what will be available for purchase?",
+                    "options": [
+                        "A. A work of art",
+                        "B. A musical album",
+                        "C. A cell phone accessory",
+                        "D. A solar panel"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 167,
+                    "content": "How can participants sign up for the singing competition?",
+                    "options": [
+                        "A. By visiting an information booth",
+                        "B. By contacting the community center",
+                        "C. By visiting a website",
+                        "D. By sending an e-mail"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "161-164",
+            "part_image": [],
+            "table": [],
+            "context": "Bill Flake\n (9:41)\nHello, I'd like to get an update on the progress of the drapes that the Manillo Family ordered.\nLucy Mitt \n(9:41)\nWe're still waiting for the lace silks from Hand-Made Lace but we received most of the other fabrics yesterday. Our seamstresses will get to work on those today.\nBill Flake \n(9:42)\nThen do you think the project will be completed by this Friday as the Manillo's wanted?\nLucy Mitt\n (9:43)\nI'm not sure. It'll depend on when the lace arrives. Our group can start sewing some of the pieces together, but we need the lace to complete the intricate designs.\nBill Flake\n (9:44)\nCan you contact Hand-Made Lace and find out when the shipment arrives?\nLucy Mitt \n(9:45)\nActually, Richard is taking care of that. Any word from them, Richard?\nRichard Choi \n(9:45)\nYes, I just got off the phone with them. There was a bit of a delay because the lace artisans used the wrong silks. They had to re-work the lace. We'll receive them this afternoon. They sent a rush delivery to us.\nBill Flake\n (9:46)\nExcellent. Then can the drapes be finished at the end of this week?\nLucy Mitt\n (9:47)\nNo problem. We'll work around the clock to get them finished on time.\nBill Flake\n (9:48)\nI'm glad to hear that. They are long-time customers and they needed the drapes for their new condo this weekend.",
+            "questions": [
+                {
+                    "question_id": 161,
+                    "content": "What kind of business do the participants in the online chat probably work at?",
+                    "options": [
+                        "A. A clothing company",
+                        "B. A bridal shop",
+                        "C. A custom drapery shop",
+                        "D. A fabric warehouse"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 162,
+                    "content": "When will the shipment of lace arrive?",
+                    "options": [
+                        "A. In the morning",
+                        "B. In the afternoon",
+                        "C. The next day",
+                        "D. At the end of the week"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 163,
+                    "content": "At 9:47, what does Lucy Mitt mean when she says, \"We'll work around the clock\"?",
+                    "options": [
+                        "A. Her team will watch the time carefully.",
+                        "B. Her team will work as quickly as possible.",
+                        "C. Her team will take as much time as they need.",
+                        "D. Her team will work all day and night if they have to."
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 164,
+                    "content": "What will Bill Flake probably do next?",
+                    "options": [
+                        "A. Call the client",
+                        "B. Cancel the order",
+                        "C. Request a shipment of lace",
+                        "D. Organize a meeting"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "158-160",
+            "part_image": [],
+            "table": [],
+            "context": "Relax and unwind at New Wave Spa!\nTake a break from your hectic day with professional spa treatments from New Wave Spa, located at 458 Worley Avenue. Whether you stay for an hour or a full day, you'll leave feeling refreshed and energized. Check out our regular packages below:\nClassic Getaway ($120)\n-Try this basic package that's perfect for those on the go.\n30-minute back and neck massage / cucumber facial treatment / lilac body wrap\nRose Garden ($155)\n-Let the scent of roses revive your senses.\n45-minute full-body massage / rose water skin treatment / manicure\nOcean Experience ($180)\n-Take advantage of the ocean's healing powers in our most popular package.\n60-minute full-body massage / head-to-toe sea salt scrub / hot stone treatment / seaweed facial treatment\nComplete Rejuvenation ($210)\n-Indulge yourself in the luxury of a full day of treatments.\n90-minute full-body massage / relaxation scalp massage / mud mask facial treatment / rosemary purifying scrub / manicure / pedicure\nBook in advance to secure your spot by calling 555-2940. Groups of four or more people will receive a free lunch of sandwiches, steamed vegetables, and freshly-squeezed juices. All patrons will be given a free New Wave lounging robe on their third visit to our facility.",
+            "questions": [
+                {
+                    "question_id": 158,
+                    "content": "What is the advertisement mainly about?",
+                    "options": [
+                        "A. The expansion of a health facility",
+                        "B. A discount on luxury services",
+                        "C. The relocation of a spa",
+                        "D. A business's standard options"
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 159,
+                    "content": "Which package includes a heat treatment?",
+                    "options": [
+                        "A. Classic Getaway",
+                        "B. Rose Garden",
+                        "C. Ocean Experience",
+                        "D. Complete Rejuvenation"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 160,
+                    "content": "What will groups of four or more people be given?",
+                    "options": [
+                        "A. A free robe",
+                        "B. A reduced rate",
+                        "C. A complimentary meal",
+                        "D. A private room"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "155-157",
+            "part_image": [],
+            "table": [],
+            "context": "It's Raining Cats and Dogs\nBrentwood (May 2) - -[1]- Brentwood City finally has its very own cat caf\u00e9 called Catastrophe and dog caf\u00e9 called Hotdogs, both opened by owners Kevin and Ginger Blake. Both cafes opened last month to fanfare and a great deal of press coverage. -[2]- \"Business has been booming,\" says Kevin Blake. \"We knew we'd be successful; we just didn't think we'd be this successful.\" Not only are customers enthusiastically flocking to both cafes to hang out with the animals while drinking coffee and tea, many of them are adopting the animals and giving them forever homes. -[3]- \"We thought it would be a good idea to take in some of the animals because of the overcrowding in many of the shelters,\" explained Ginger Blake. \"And customers have a chance to interact with the animals, which is the best form of advertisement for the shelters.\" Since the cafes' opening, more than 10 dogs and 15 cats have been adopted. \"I don't yet own a dog, but I've always wanted one,\" says Laurie Jordan, a regular customer. \"I come here to play with them. Maybe one day I'll find a dog that I really want.\" -[4]-\nBecause of the success, the Blakes are considering expanding by purchasing the adjacent shops. \"We need more space to fit all our customers and the animals,\" explained Kevin. \"It can get very crowded at times.\" The Blakes are looking to renovate the dog caf\u00e9 next month and the cat caf\u00e9 during the fall.",
+            "questions": [
+                {
+                    "question_id": 155,
+                    "content": "What is indicated about the cafes?",
+                    "options": [
+                        "A. They serve an assortment of snacks.",
+                        "B. They sell puppies and kittens.",
+                        "C. They serve coffees and teas.",
+                        "D. They offer pet products."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 156,
+                    "content": "What is reported about the cats and dogs?",
+                    "options": [
+                        "A. Several have been adopted.",
+                        "B. They are permanent residents of the cafes.",
+                        "C. They are friendly towards the customers.",
+                        "D. They are trained to entertain."
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 157,
+                    "content": "In which of the positions marked [1], [2], [3] and [4] does the following sentence belong? \"But the hype hasn't slowed down.\"",
+                    "options": [
+                        "A. [1]",
+                        "B. [2]",
+                        "C. [3]",
+                        "D. [4]"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "153-154",
+            "part_image": [],
+            "table": [
+                {
+                    "First name": [
+                        "First name",
+                        "Surname",
+                        "Shipping address",
+                        "Authorization code",
+                        "E-mail address",
+                        "Comments:"
+                    ],
+                    "": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "context": "http://www.jannisar.com\nHome | Products | Contact | About Us | Account\nCongratulations! Because of your high level of regular activity on our site, you have been selected to become a Premium Gold Member. Please fill out the following form to complete the process:\nCheck the boxes for the merchandise categories that are of interest to you.\n(You may check more than one.)\nElectronics \u2610 Music \u2610 Books \u2610 Furniture \u2610 Computer Games \u2610\nPlease note that as a Premium Gold Member, you will receive e-mail notifications four times a year on special offers for the categories selected. Your account details will be verified by e-mail within the next 24 hours. An e-mail confirmation will be sent. Follow the instructions in that e-mail to confirm your membership.",
+            "questions": [
+                {
+                    "question_id": 153,
+                    "content": "Who most likely is the web page aimed at?",
+                    "options": [
+                        "A. A new customer for an auction website",
+                        "B. An online marketing agency representative",
+                        "C. A supplier to a retail outlet",
+                        "D. A long-term customer of an online retailer"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question_id": 154,
+                    "content": "What is the reader asked to do?",
+                    "options": [
+                        "A. Indicate product preferences",
+                        "B. Supply payment details",
+                        "C. Print and sign the form",
+                        "D. Report shipping delays"
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "151-152",
+            "part_image": [],
+            "table": [],
+            "context": "To:\n Patricia Mueller (patmueller@fine-mail.net)\nFrom: \nMark Hutchings (mhutchings@grosvenoronline.com)\nDate: \nJune 4\nSubject:\n Re: Hotline\nDear Ms. Mueller,\nThank you for your feedback on our technical service hotline. We had not realized that calls were taking so long to connect to an operator, and we have managed to resolve the problem, which was caused by a glitch in the telephone switchboard software. As a gesture of goodwill, I would like to issue you a coupon for our online store for the value of $25. To redeem it, simply sign in to your store account at www.grosvenoronline.com and enter the coupon code H58K55 into the box on the main page.\nYours sincerely,\nMark Hutchings\nCustomer Service Representative, \nGrosvenor Online",
+            "questions": [
+                {
+                    "question_id": 151,
+                    "content": "Why did Mr. Hutchings send the e-mail?",
+                    "options": [
+                        "A. To promote a special seasonal offer",
+                        "B. To confirm an address for an order",
+                        "C. To show appreciation for a comment",
+                        "D. To request further information about a problem"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question_id": 152,
+                    "content": "What will Ms. Mueller most likely do on her next visit to Grosvenor Online?",
+                    "options": [
+                        "A. Sign up for a membership program",
+                        "B. Claim the value of a coupon",
+                        "C. Use the customer feedback form",
+                        "D. Update her billing information"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "149-150",
+            "part_image": [],
+            "table": [],
+            "context": "Linda Bates\n (6:55): I'm late. I woke up late.\nMelinda Cruz\n (6:56): can I expect you?\nLinda Bates\n (6:57): I'll be there in an hour.\nMelinda Cruz (\n6:58): Should I leave without you?\nLinda Bates\n (7:02): No, just make sure the van is loaded when I get there.\nMelinda Cruz\n (7:02): Will do.\nLinda Bates (\n7:03): Thanks.\nMelinda Cruz\n (7:08): I'll see you soon. Drive carefully.\nLinda Bates\n (7:10): Yep. I am.",
+            "questions": [
+                {
+                    "question_id": 149,
+                    "content": "What is suggested about Ms. Bates?",
+                    "options": [
+                        "A. She works for Ms. Cruz.",
+                        "B. She is being held up by traffic.",
+                        "C. She is currently operating an automobile.",
+                        "D. She is frequently late."
+                    ],
+                    "answer": "D"
+                },
+                {
+                    "question_id": 150,
+                    "content": "At 7:02, what does Ms. Cruz mean when she writes, \"Will do\"?",
+                    "options": [
+                        "A. She will be waiting for Ms. Cruz.",
+                        "B. She plans to load the vehicle.",
+                        "C. She is frustrated by Ms. Bate's tardiness.",
+                        "D. She has finished parking the van."
+                    ],
+                    "answer": "B"
+                }
+            ]
+        },
+        {
+            "part": 7,
+            "question_range": "147-148",
+            "part_image": [],
+            "table": [],
+            "context": "Notice\nCrawford Apparel has refurbished dressing rooms where you can try on clothes before you make a purchase.\n- Please take only an item or two into a dressing room at a time.\n- You may leave your personal belongings such as a wallet or a purse with one of our clerks for safekeeping.\n- Any personal items left behind in a dressing room will be kept in the lost-and-found room near the entrance.",
+            "questions": [
+                {
+                    "question_id": 147,
+                    "content": "For whom is the notice most likely intended?",
+                    "options": [
+                        "A. Storekeepers",
+                        "B. Customers",
+                        "C. Designers",
+                        "D. Clerks"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question_id": 148,
+                    "content": "According to the notice, where can missing items be found?",
+                    "options": [
+                        "A. In a police station",
+                        "B. In an information center",
+                        "C. In a storage area",
+                        "D. Behind a counter"
+                    ],
+                    "answer": "A"
+                }
+            ]
+        }
+    ]
+}

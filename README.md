@@ -2,5 +2,5 @@
 ```bash
 python -m venv venv
 venv\Scripts\activate
-python main.py
+python toeic_data.study4.main.py
 ```
